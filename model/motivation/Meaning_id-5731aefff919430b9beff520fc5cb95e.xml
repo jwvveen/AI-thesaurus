@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NER"
+    id="id-5731aefff919430b9beff520fc5cb95e"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Identificeren van namen, locaties en concepten in tekst."/>
+  <properties
+      key="skos:altLabel"
+      value="Named Entity Recognition"/>
+</archimate:Meaning>

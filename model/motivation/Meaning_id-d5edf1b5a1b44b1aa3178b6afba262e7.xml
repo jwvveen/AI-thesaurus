@@ -1,0 +1,24 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Naïve Bayes"
+    id="id-d5edf1b5a1b44b1aa3178b6afba262e7"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Probabilistisch algoritme gebaseerd op de Bayesiaanse theorie."/>
+  <properties
+      key="skos:scopeNote"
+      value="Het wordt veel toegepast in kunstmatige intelligentie en machine learning, bijvoorbeeld bij spamfilters, tekstanalyse en fraudedetectie. Het heet &quot;Naïve&quot; omdat het ervan uitgaat dat kenmerken onafhankelijk van elkaar zijn, wat niet altijd klopt, maar in veel gevallen toch goed werkt."/>
+  <properties
+      key="dct:source"
+      value="https://en.wikipedia.org/wiki/Naive_Bayes_classifier"/>
+  <properties
+      key="rdfs:comment"
+      value="Naïve Bayes is een statistische methode die gebruikt wordt om waarschijnlijkheden te berekenen en te voorspellen. "/>
+</archimate:Meaning>

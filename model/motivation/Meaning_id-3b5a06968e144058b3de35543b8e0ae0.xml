@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neurale netwerken en deeplearning"
+    id="id-3b5a06968e144058b3de35543b8e0ae0"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een geavanceerde vorm van AI die complexe patronen in data herkent via gelaagde neurale netwerken, nuttig voor beeldherkenning, spraakverwerking en taalbegrip."/>
+</archimate:Meaning>

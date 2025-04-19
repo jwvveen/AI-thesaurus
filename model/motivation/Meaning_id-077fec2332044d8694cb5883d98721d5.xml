@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="token"
+    id="id-077fec2332044d8694cb5883d98721d5"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="De basiseenheid van tekst (een woord of deel van een woord) die wordt verwerkt door LLMs."/>
+</archimate:Meaning>

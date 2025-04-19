@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="temperatuur"
+    id="id-99810ae4b63f476c90262643ffe69e83"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="De mate van willekeur (randomness) in de output van een LLM."/>
+</archimate:Meaning>

@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lineaire regressie"
+    id="id-1ff559ff76744de3ab30a098724b41ad"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Voorspelt een continue waarde op basis van invoerdata."/>
+</archimate:Meaning>

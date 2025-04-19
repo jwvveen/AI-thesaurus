@@ -1,0 +1,24 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artificial general intelligence"
+    id="id-3629353df00d4a2e85175d467ebee58c"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Artificial general intelligence (AGI) of kunstmatige algemene intelligentie (KAI) verwijst naar een hypothetisch toekomstig AI-systeem waarvan de intelligentie die van de mens voor alle intellectuele taken evenaart of overtreft."/>
+  <properties
+      key="skos:altLabel"
+      value="AGI"/>
+  <properties
+      key="skos:scopeNote"
+      value="Veel AI-onderzoekers geloven dat AI dit punt waarschijnlijk zal bereiken en de menselijke intelligentie ergens deze eeuw zal overtreffen als gevolg van de versnelling van machine learning. Dit scenario wordt vaak besproken in de context van alignment en AI-veiligheid: als AI intelligenter wordt dan mensen, is het essentieel dat het blijft werken aan onze doelen en geen mensen in gevaar brengt."/>
+  <properties
+      key="dct:source"
+      value="https://www.scribbr.nl/ai-tools-gebruiken/ai-termen-begrippenlijst/"/>
+</archimate:Meaning>

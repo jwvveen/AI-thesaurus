@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validatie"
+    id="id-3bca660407d544dd9ae76301a1045608"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (validatieset) die niet voor training is gebruikt."/>
+</archimate:Meaning>

@@ -1,0 +1,27 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI Agent"
+    id="id-8189ae8686614e3e8d2e5fa8fb4b4455"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een AI-agent is een software-entiteit die autonoom taken uitvoert en beslissingen neemt op basis van waarnemingen, regels en machine learning-algoritmen."/>
+  <properties
+      key="skos:altLabel"
+      value="zelflerende bot"/>
+  <properties
+      key="skos:scopeNote"
+      value=" AI-agenten kunnen variëren in complexiteit, van eenvoudige bots tot geavanceerde zelflerende systemen."/>
+  <properties
+      key="dct:source"
+      value="https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/"/>
+  <properties
+      key="rdfs:comment"
+      value="Een AI-agent is een computerprogramma dat zelfstandig beslissingen kan nemen en handelingen uitvoert om een doel te bereiken. Het gebruikt kunstmatige intelligentie (AI) om informatie te verzamelen, te leren en zich aan te passen aan veranderingen."/>
+</archimate:Meaning>

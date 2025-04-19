@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ChatGPT"
+    id="id-6001a10a6e234e36be3e5fef7c2bbc00"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"/>
+</archimate:Meaning>

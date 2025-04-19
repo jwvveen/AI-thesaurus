@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sentimentanalyse"
+    id="id-97bde38b848f49f28deaf2a2d80343a5"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Interpreteren of een tekst positief, negatief of neutraal is."/>
+</archimate:Meaning>

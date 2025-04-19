@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Grok AI"
+    id="id-7306a1c4c2094ad6a86ef3f595884607"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value=" Ontwikkeld door X (voorheen Twitter), ontworpen om humor en context beter te begrijpen.&#xD;&#xA;"/>
+  <properties
+      key="skos:scopeNote"
+      value="Grok is een generatieve AI-chatbot ontwikkeld door xAI, het AI-bedrijf van Elon Musk. Het werd gelanceerd als een alternatief voor ChatGPT en andere AI-assistenten, met een focus op real-time informatie en een unieke persoonlijkheid."/>
+</archimate:Meaning>

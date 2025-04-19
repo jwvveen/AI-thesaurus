@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Claude AI"
+    id="id-db4995cb35144acc8f1c396fd8fded22"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Bekend om zijn grote contextvenster en sterke creatieve schrijfvaardigheden&#xD;&#xA;"/>
+</archimate:Meaning>

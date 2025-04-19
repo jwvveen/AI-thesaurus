@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CNN"
+    id="id-b22b4f48be1c48de974b0b986ff92110"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Vooral gebruikt bij beeldherkenning."/>
+  <properties
+      key="skos:altLabel"
+      value="Convolutional Neural Networks"/>
+</archimate:Meaning>

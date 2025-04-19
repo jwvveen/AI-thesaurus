@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="generator"
+    id="id-4294e2d18ddc4c5ca6a8832bb191c0ed"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Onderdeel van een GAN dat probeert nieuwe data te creëren die lijkt op echte voorbeelden."/>
+</archimate:Meaning>

@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anthropic"
+    id="id-8caad01156b64be3b17b07b4523db6fc"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Anthropic is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2021 door voormalige medewerkers van OpenAI, waaronder Dario en Daniela Amodei. "/>
+  <properties
+      key="skos:scopeNote"
+      value="Het bedrijf richt zich op AI-veiligheid en ontwikkelt grote taalmodellen (LLMs) onder de naam Claude, als concurrent van ChatGPT en Google Gemini."/>
+</archimate:Meaning>

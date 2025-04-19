@@ -1,0 +1,21 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GAN"
+    id="id-8cd68d2ff669417683658cfe088d08ca"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een deep learning-model bestaande uit een generator (creëert output) en een discriminator (beoordeelt output), die met elkaar concurreren."/>
+  <properties
+      key="skos:altLabel"
+      value="Generative Adversarial Network"/>
+  <properties
+      key="skos:scopeNote"
+      value="Helpt bij het genereren van realistische data zoals beelden en geluid."/>
+</archimate:Meaning>

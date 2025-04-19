@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transformers"
+    id="id-8a4681eb26764cce82d5cb4d656ae340"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Backbone van moderne NLP-modellen zoals GPT en BERT."/>
+</archimate:Meaning>

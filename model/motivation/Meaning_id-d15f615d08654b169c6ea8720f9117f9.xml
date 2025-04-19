@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support Vector Machines"
+    id="id-d15f615d08654b169c6ea8720f9117f9"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Klasseert data met een optimaliserende grens."/>
+  <properties
+      key="skos:altLabel"
+      value="SVM"/>
+</archimate:Meaning>

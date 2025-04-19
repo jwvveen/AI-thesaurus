@@ -1,0 +1,21 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logistieke regressie"
+    id="id-cc07685c283940b49ff7cfcc15ca27cf"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Gebruikt voor binaire classificatieproblemen."/>
+  <properties
+      key="skos:scopeNote"
+      value="Logistieke regressie gebruikt een wiskundige formule om een kanswaarde tussen 0 en 1 te berekenen. Dit wordt vaak gebruikt voor ja/nee-beslissingen."/>
+  <properties
+      key="rdfs:comment"
+      value="Logistieke regressie is een statistische methode die wordt gebruikt om kansen te voorspellen. Het helpt bij het bepalen of iets wel of niet gebeurt op basis van gegevens."/>
+</archimate:Meaning>

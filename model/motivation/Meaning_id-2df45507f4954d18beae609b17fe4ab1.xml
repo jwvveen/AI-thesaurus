@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RNN"
+    id="id-2df45507f4954d18beae609b17fe4ab1"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Geschikt voor sequentiegegevens zoals tekst en spraak."/>
+  <properties
+      key="skos:altLabel"
+      value="Recurrent Neural Networks"/>
+</archimate:Meaning>

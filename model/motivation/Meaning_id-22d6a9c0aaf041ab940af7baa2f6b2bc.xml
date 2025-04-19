@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supervised learning"
+    id="id-22d6a9c0aaf041ab940af7baa2f6b2bc"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Machine learning proces waarbij een model leert van gelabelde voorbeelden (input-output paren), vergelijkbaar met een docent-student scenario."/>
+</archimate:Meaning>

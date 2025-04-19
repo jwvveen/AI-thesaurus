@@ -1,0 +1,27 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prompt engineering"
+    id="id-a598d6f1b14f4d76a2e8e67e3c877d9a"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Het proces van het zorgvuldig kiezen en aanpassen van de input (prompt) voor een machine learning-model om de best mogelijke output te krijgen."/>
+  <properties
+      key="skos:altLabel"
+      value="prompten"/>
+  <properties
+      key="skos:scopeNote"
+      value="Voorbeelden van prompt engineering:&#xD;&#xA;- Een duidelijke vraag stellen zodat de AI een informatief antwoord geeft.&#xD;&#xA;- Specifieke instructies toevoegen om een bepaalde schrijfstijl of toon te krijgen.&#xD;&#xA;- Creatieve prompts maken zodat een AI interessante ideeën of ontwerpen genereert."/>
+  <properties
+      key="dct:source"
+      value="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-prompt-engineering"/>
+  <properties
+      key="rdfs:comment"
+      value="Prompt engineering is het slim formuleren van opdrachten voor een AI-systeem, zoals een chatbot of tekstgenerator. Door de juiste woorden en structuur te gebruiken, kan een AI betere en nauwkeurigere antwoorden geven."/>
+</archimate:Meaning>

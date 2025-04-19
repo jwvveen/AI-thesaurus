@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BERT"
+    id="id-4adf7a7be5744eb791dad323bd8d8517"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Begrijpt tekst in context door bidirectionele verwerking."/>
+  <properties
+      key="skos:altLabel"
+      value="Bidirectional Encoder Representations from Transformers"/>
+</archimate:Meaning>

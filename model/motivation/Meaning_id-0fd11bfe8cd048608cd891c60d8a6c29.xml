@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslisbomen"
+    id="id-0fd11bfe8cd048608cd891c60d8a6c29"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Gebruikt hiërarchische regels om beslissingen te nemen."/>
+</archimate:Meaning>

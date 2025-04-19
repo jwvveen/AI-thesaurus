@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XLNet"
+    id="id-f93355650fcf4f08a3029baed7b5e418"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een verbeterde versie van BERT met permutatie-gebaseerde training."/>
+</archimate:Meaning>

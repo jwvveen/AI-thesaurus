@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemini"
+    id="id-4838adaa62424e1a99d293215c8bfe32"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Google's AI-model dat real-time internetgegevens kan verwerken en een breed scala aan taken aankan."/>
+  <properties
+      key="skos:altLabel"
+      value="Bard"/>
+</archimate:Meaning>

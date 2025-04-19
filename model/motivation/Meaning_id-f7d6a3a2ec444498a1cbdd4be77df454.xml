@@ -1,0 +1,20 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LLM"
+    id="id-f7d6a3a2ec444498a1cbdd4be77df454"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Type AI getraind op grote hoeveelheden tekstdata, capabel om menselijk klinkende tekst te creëren, vragen te beantwoorden, etc."/>
+  <properties
+      key="skos:altLabel"
+      value="Large Language Model"/>
+  <properties
+      key="skos:scopeNote"/>
+</archimate:Meaning>

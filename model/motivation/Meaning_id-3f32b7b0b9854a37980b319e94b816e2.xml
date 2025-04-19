@@ -1,0 +1,24 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="model"
+    id="id-3f32b7b0b9854a37980b319e94b816e2"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2021-01-26"/>
+  <properties
+      key="skos:definition"
+      value="Een programma getraind om patronen in data te herkennen en voorspellingen te doen."/>
+  <properties
+      key="skos:altLabel"
+      value="concept"/>
+  <properties
+      key="skos:scopeNote"
+      value=" Bijvoorbeeld weer voorspellen, katten herkennen"/>
+  <properties
+      key="rdfs:comment"
+      value="Een model is een versimpelde weergave van iets uit de echte wereld. Het helpt om iets beter te begrijpen, te onderzoeken of te voorspellen. "/>
+</archimate:Meaning>

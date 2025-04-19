@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meta"
+    id="id-544c60e94bf3446ba98a536198c96373"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Meta Platforms, Inc. is een Amerikaans technologiebedrijf, opgericht in 2004 door Mark Zuckerberg en oorspronkelijk bekend als Facebook, Inc.. In 2021 werd de naam veranderd naar Meta, om de focus op de metaverse en bredere digitale innovatie te weerspiegelen."/>
+  <properties
+      key="skos:scopeNote"
+      value="Meta is een van de grootste technologiebedrijven ter wereld en richt zich op sociale media, digitale communicatie en virtual reality. "/>
+</archimate:Meaning>

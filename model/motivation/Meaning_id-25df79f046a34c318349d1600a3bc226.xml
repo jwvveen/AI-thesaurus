@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="algoritme"
+    id="id-25df79f046a34c318349d1600a3bc226"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2021-01-26"/>
+  <properties
+      key="skos:definition"
+      value="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden (Algemene Rekenkamer).Dit houdt binnen DUO in de geoperationaliseerde regels die zijn afgeleid / gebaseerd op wet- en regelgeving."/>
+  <properties
+      key="dct:source"
+      value="https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf"/>
+</archimate:Meaning>

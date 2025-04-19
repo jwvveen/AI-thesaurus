@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LLaMA"
+    id="id-bd82bf977b0242fdb3ec3567990259ce"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Meta's AI-model dat open-source is en wordt gebruikt voor onderzoek en toepassingen."/>
+  <properties
+      key="skos:altLabel"
+      value="Large Language Model Meta AI"/>
+</archimate:Meaning>

@@ -1,0 +1,21 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bias"
+    id="id-8e451ba30a654c4198e128d65c1dc223"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="In de context van AI verwijst bias of vooringenomenheid naar de aannames die een AI-systeem doet om het leerproces en de taakuitvoer te vereenvoudigen. AI-onderzoekers proberen bias tot een minimum te beperken, omdat deze kan leiden tot slechte resultaten of onverwachte uitkomsten."/>
+  <properties
+      key="skos:scopeNote"
+      value="Bias in de context van AI verwijst naar systematische fouten of vooroordelen in een algoritme die ontstaan door bevooroordeelde trainingsdata. Dit kan leiden tot oneerlijke of onnauwkeurige resultaten. Bijvoorbeeld, als een AI-systeem wordt getraind op data die voornamelijk afkomstig is van een bepaalde demografische groep, kan het systeem bevooroordeeld zijn tegen andere groepen. Bias kan verschillende vormen aannemen, zoals: * Sample Bias: Wanneer de trainingsdata niet representatief is voor de populatie. * Measurement Bias: Wanneer de data die wordt verzameld onnauwkeurig of misleidend is. * Algorithmic Bias: Wanneer het algoritme zelf bepaalde groepen systematisch benadeelt."/>
+  <properties
+      key="skos:altLabel"
+      value="vooringenomenheid"/>
+</archimate:Meaning>

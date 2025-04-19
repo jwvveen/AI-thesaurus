@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="xAI"
+    id="id-62ba75d7a9f84f45a346631e09d69a42"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="xAI is een kunstmatige intelligentie (AI) bedrijf, opgericht door Elon Musk in 2023. Het bedrijf richt zich op geavanceerde AI-ontwikkeling en heeft als missie om AI te bouwen die menselijke kennis en begrip vergroot."/>
+  <properties
+      key="skos:scopeNote"
+      value="xAI wil AI ontwikkelen die de mensheid helpt bij wetenschappelijke ontdekkingen en complexe problemen. Het bedrijf werkt met een snelle ontwikkelingsstrategie en richt zich op innovatieve AI-oplossingen."/>
+</archimate:Meaning>

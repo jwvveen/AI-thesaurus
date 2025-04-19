@@ -1,0 +1,21 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generatieve AI"
+    id="id-bf8b320010cf4113800fd98db2233d13"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="Ter redactie"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een vorm van artificiële intelligentie die content (tekst, afbeeldingen en/of gevarieerde inhoud zoals muziek) kan produceren (genereren) op basis van de gegevens waarop het wordt getraind."/>
+  <properties
+      key="skos:altLabel"
+      value="GenAI"/>
+  <properties
+      key="skos:scopeNote"
+      value="Een voorbeeld is het genereren van synthetische data en ondersteuning bij programmeren."/>
+</archimate:Meaning>

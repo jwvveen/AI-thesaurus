@@ -1,0 +1,12 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autoencoders"
+    id="id-c4bea78d62f64c7ba35e94ac023a6c37"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="skos:definition"
+      value="Gebruikt voor anomaliedetectie en data-compressie."/>
+</archimate:Meaning>

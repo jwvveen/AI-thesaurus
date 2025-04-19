@@ -1,0 +1,21 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GPT"
+    id="id-1a1a07398d9148f89d881e0359a4ef48"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een type neuraal netwerk, vooraf getraind op veel tekstdata, dat duidelijke en relevante tekst genereert op basis van prompts"/>
+  <properties
+      key="skos:altLabel"
+      value="Generative Pre-trained Transformer"/>
+  <properties
+      key="skos:scopeNote"
+      value="Een voorbeeld is ChatGPT."/>
+</archimate:Meaning>

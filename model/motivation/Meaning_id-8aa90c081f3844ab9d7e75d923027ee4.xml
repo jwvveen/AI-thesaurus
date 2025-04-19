@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natuurlijke taalverwerking"
+    id="id-8aa90c081f3844ab9d7e75d923027ee4"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."/>
+  <properties
+      key="skos:altLabel"
+      value="NLP, Natural Language Processing"/>
+</archimate:Meaning>

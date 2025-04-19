@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="discriminator"
+    id="id-a59a0d0868d043c087f0f913677950ca"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Onderdeel van een GAN dat beoordeelt of data echt (uit een dataset) of onecht (gegenereerd) is; belangrijk voor o.a. fraudedetectie"/>
+</archimate:Meaning>

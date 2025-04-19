@@ -1,0 +1,20 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RAG"
+    id="id-69b70dc6af0d4e37b92642d32f5721f4"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Is een techniek binnen kunstmatige intelligentie die de kracht van generatieve AI combineert met informatieopvraging. Dit betekent dat een AI-model niet alleen tekst genereert op basis van vooraf getrainde data, maar ook relevante informatie kan ophalen uit externe kennisbronnen om nauwkeurigere en actuele antwoorden te geven"/>
+  <properties
+      key="skos:altLabel"
+      value="Retrieval-Augmented Generation"/>
+  <properties
+      key="skos:scopeNote"/>
+</archimate:Meaning>

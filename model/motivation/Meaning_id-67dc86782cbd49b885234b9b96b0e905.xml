@@ -1,0 +1,21 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenAI"
+    id="id-67dc86782cbd49b885234b9b96b0e905"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="OpenAI is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2015 en gevestigd in San Francisco, Californië. Het bedrijf richt zich op AI-onderzoek en ontwikkeling, met als missie om kunstmatige algemene intelligentie (AGI) te creëren die veilig en nuttig is voor de mensheid."/>
+  <properties
+      key="skos:scopeNote"
+      value="Het bedrijf werd in 2015 opgericht door Ilya Sutskever, Greg Brockman, Sam Altman en Elon Musk (die niet langer betrokken is). De huidige CEO is Sam Altman. OpenAI begon als een non-profit, maar ging in 2019 over naar for-profit. Het heeft populaire tools uitgebracht, waaronder ChatGPT en DALL-E."/>
+  <properties
+      key="dct:source"
+      value="https://openai.com/about/"/>
+</archimate:Meaning>

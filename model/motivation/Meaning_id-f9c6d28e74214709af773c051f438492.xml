@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Random Forest"
+    id="id-f9c6d28e74214709af773c051f438492"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Combineert meerdere beslisbomen om robuustere voorspellingen te doen."/>
+</archimate:Meaning>

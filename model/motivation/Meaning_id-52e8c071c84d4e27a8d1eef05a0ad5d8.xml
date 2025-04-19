@@ -1,0 +1,23 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI-detector"
+    id="id-52e8c071c84d4e27a8d1eef05a0ad5d8"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een AI-detector is een hulpmiddel dat is ontworpen om te detecteren wanneer een stuk tekst (of soms een afbeelding of video) is gemaakt door AI-tools (zoals ChatGPT en DALL-E). Deze detectoren zijn niet 100% betrouwbaar, maar ze kunnen een indicatie geven van de waarschijnlijkheid dat een tekst door AI is gegenereerd."/>
+  <properties
+      key="skos:altLabel"/>
+  <properties
+      key="skos:scopeNote"
+      value="AI-detectoren werken met soortgelijke grote taalmodellen (large language models, LLMs) als de tools die ze proberen te detecteren. Deze modellen kijken in wezen naar een tekst (of afbeelding of video) en vragen zich af: “Is dit iets wat ik zou hebben gegenereerd?”. Ze zoeken naar lage niveaus van twee criteria: perplexiteit (perplexity) en onregelmatigheid (burstiness).AI-detectoren kunnen worden gebruikt door universiteiten en andere instellingen om door AI gegenereerde inhoud te identificeren."/>
+  <properties
+      key="dct:source"
+      value="https://www.scribbr.nl/ai-tools-gebruiken/ai-termen-begrippenlijst/"/>
+</archimate:Meaning>

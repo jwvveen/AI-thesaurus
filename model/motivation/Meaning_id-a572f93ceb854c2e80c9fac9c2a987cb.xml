@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T5"
+    id="id-a572f93ceb854c2e80c9fac9c2a987cb"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Geschikt voor diverse NLP-taken zoals samenvatting en vertaling."/>
+  <properties
+      key="skos:altLabel"
+      value="Text-to-Text Transfer Transformer"/>
+</archimate:Meaning>

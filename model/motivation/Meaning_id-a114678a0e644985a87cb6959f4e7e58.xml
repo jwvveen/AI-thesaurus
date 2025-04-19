@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="K-Nearest Neighbors"
+    id="id-a114678a0e644985a87cb6959f4e7e58"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Vergelijkt nieuwe gegevenspunten met bestaande om de beste match te vinden."/>
+  <properties
+      key="skos:altLabel"
+      value="KNN"/>
+</archimate:Meaning>
