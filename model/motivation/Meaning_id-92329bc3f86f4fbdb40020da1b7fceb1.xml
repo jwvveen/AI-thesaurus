@@ -1,0 +1,15 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI leverancier"
+    id="id-92329bc3f86f4fbdb40020da1b7fceb1"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een AI-leverancier is een bedrijf of organisatie die kunstmatige intelligentie (AI) ontwikkelt, levert of integreert in producten en diensten. Dit kan variëren van bedrijven die geavanceerde AI-modellen bouwen, zoals machine learning-algoritmes, tot organisaties die AI-oplossingen aanbieden voor specifieke toepassingen, zoals spraakherkenning, beeldverwerking of automatisering."/>
+</archimate:Meaning>

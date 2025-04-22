@@ -1,7 +1,7 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Claude AI"
-    id="id-db4995cb35144acc8f1c396fd8fded22"
+    name="multi-agent systeem"
+    id="id-2723f5292f03476e89bdc6e8b2b4a3ca"
     documentation="Zie properties.">
   <properties
       key="ameff:status"
@@ -11,8 +11,5 @@
       value="2023-01-01"/>
   <properties
       key="skos:definition"
-      value="Bekend om zijn grote contextvenster en sterke creatieve schrijfvaardigheden&#xD;&#xA;"/>
-  <properties
-      key="dct:source"
-      value="https://claude.ai/"/>
+      value="Dit zijn meerdere AI-agents die samenwerken, bijvoorbeeld robots in een fabriek die gezamenlijk een productieproces optimaliseren."/>
 </archimate:Meaning>

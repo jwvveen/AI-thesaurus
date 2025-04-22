@@ -1,0 +1,27 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI-systeem"
+    id="id-d8bab3ca74a74797bf1fec71a8a5ca5e"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="Publiceren"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2024-06-13"/>
+  <properties
+      key="skos:definition"
+      value="Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen."/>
+  <properties
+      key="skos:scopeNote"
+      value="Voorbeelden van AI-systemen zijn machine learning, Natural Language Processing (NLP) en computer vision (classifiers)."/>
+  <properties
+      key="dct:source"
+      value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/"/>
+  <properties
+      key="skos:altLabel"
+      value="kunstmatige intelligentie"/>
+  <properties
+      key="rdfs:comment"
+      value="AI-systeem is een specifieke implementatie van AI binnen een bepaalde toepassing of technologie. Een AI-systeem gebruikt AI-algoritmen om een taak uit te voeren, zoals spraakherkenning (bijv. Siri), beeldanalyse, automatische vertalingen of besluitvorming in zelfrijdende auto's. Elk AI-systeem is gebouwd om een specifieke set van functies te vervullen."/>
+</archimate:Meaning>

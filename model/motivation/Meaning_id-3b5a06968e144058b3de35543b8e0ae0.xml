@@ -1,6 +1,6 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Neurale netwerken en deeplearning"
+    name="neurale netwerken"
     id="id-3b5a06968e144058b3de35543b8e0ae0"
     documentation="Zie properties.">
   <properties
@@ -12,4 +12,7 @@
   <properties
       key="skos:definition"
       value="Een geavanceerde vorm van AI die complexe patronen in data herkent via gelaagde neurale netwerken, nuttig voor beeldherkenning, spraakverwerking en taalbegrip."/>
+  <properties
+      key="skos:altLabel"
+      value="deeplearning"/>
 </archimate:Meaning>

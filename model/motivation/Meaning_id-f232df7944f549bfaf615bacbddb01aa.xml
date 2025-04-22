@@ -1,7 +1,7 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Claude AI"
-    id="id-db4995cb35144acc8f1c396fd8fded22"
+    name="autonome agent"
+    id="id-f232df7944f549bfaf615bacbddb01aa"
     documentation="Zie properties.">
   <properties
       key="ameff:status"
@@ -11,8 +11,5 @@
       value="2023-01-01"/>
   <properties
       key="skos:definition"
-      value="Bekend om zijn grote contextvenster en sterke creatieve schrijfvaardigheden&#xD;&#xA;"/>
-  <properties
-      key="dct:source"
-      value="https://claude.ai/"/>
+      value="Deze kunnen zelfstandig complexe taken uitvoeren, zoals zelfrijdende auto's die verkeersomstandigheden analyseren en handelen zonder directe menselijke controle."/>
 </archimate:Meaning>

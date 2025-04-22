@@ -15,4 +15,7 @@
   <properties
       key="skos:altLabel"
       value="Bard"/>
+  <properties
+      key="dct:source"
+      value="https://gemini.google.com/"/>
 </archimate:Meaning>

@@ -11,8 +11,14 @@
       value="2021-01-26"/>
   <properties
       key="skos:definition"
-      value="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden (Algemene Rekenkamer).Dit houdt binnen DUO in de geoperationaliseerde regels die zijn afgeleid / gebaseerd op wet- en regelgeving."/>
+      value="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden."/>
   <properties
       key="dct:source"
       value="https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf"/>
+  <properties
+      key="skos:scopeNote"
+      value="Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:&#xD;&#xA;* problemen oplossen&#xD;&#xA;* vragen beantwoorden&#xD;&#xA;* taken of processen uitvoeren&#xD;&#xA;* besluiten nemen"/>
+  <properties
+      key="rdfs:comment"
+      value="Een recept om een informaticaprobleem op te lossen vanuit een gegeven begintoestand naar een beoogd einddoel, dat bestaat uit een eindige reeks eenduidig gedefinieerde instructies of regels."/>
 </archimate:Meaning>

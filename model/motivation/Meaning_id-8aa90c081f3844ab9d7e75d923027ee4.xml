@@ -14,5 +14,8 @@
       value="De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."/>
   <properties
       key="skos:altLabel"
-      value="NLP, Natural Language Processing"/>
+      value="Natural Language Processing"/>
+  <properties
+      key="skos:notation"
+      value="NLP"/>
 </archimate:Meaning>

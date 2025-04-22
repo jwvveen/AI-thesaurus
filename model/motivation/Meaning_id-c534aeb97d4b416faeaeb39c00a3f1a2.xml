@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DeepSeek"
+    id="id-c534aeb97d4b416faeaeb39c00a3f1a2"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="DeepSeek is een Chinees kunstmatige intelligentiebedrijf dat open-source grote taalmodellen ontwikkelt. Het werd opgericht in mei 2023 en wordt gefinancierd door het Chinese hedgefonds High-Flyer. DeepSeek kreeg internationale aandacht in januari 2025 met de release van zijn nieuwste model, DeepSeek R1, dat concurreert met gevestigde AI-systemen zoals OpenAI's ChatGPT."/>
+  <properties
+      key="dct:source"
+      value="https://deepseek.ai/"/>
+</archimate:Meaning>

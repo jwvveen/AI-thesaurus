@@ -1,6 +1,6 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hallucinatie"
+    name="hallucinatie"
     id="id-bcb04663e43c4abfb393bf62d8de05ee"
     documentation="Zie properties.">
   <properties
@@ -12,8 +12,4 @@
   <properties
       key="skos:definition"
       value="Output van generatieve AI die feitelijk onjuist is of niet overeenkomt met de werkelijkheid, ondanks dat deze semantisch correct kan lijken."/>
-  <properties
-      key="skos:altLabel"/>
-  <properties
-      key="skos:scopeNote"/>
 </archimate:Meaning>

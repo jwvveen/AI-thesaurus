@@ -1,0 +1,27 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rekenregel"
+    id="id-e2f6d243f58e43958906be0e475ebbd3"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2021-01-26"/>
+  <properties
+      key="skos:definition"
+      value="Rekenregels zijn de meest eenvoudige algoritmes. Dit zijn door mensen bedachte regels die het computersysteem precies moet opvolgen: als x gebeurt, dan doe je y."/>
+  <properties
+      key="skos:altLabel"
+      value="regelgebaseerd algoritme"/>
+  <properties
+      key="skos:scopeNote"
+      value="Rekenregels:&#xD;&#xA;* zijn expliciet geprogrammeerd en bedacht door mensen&#xD;&#xA;* staan uit vaste stappen om een taak uit te voeren&#xD;&#xA;&#xD;&#xA;Voorbeelden: &#xD;&#xA;* Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.&#xD;&#xA;* Ondersteuning berekening uitkering dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen.&#xD;&#xA;* Prestatiemonitor dat risicoscores berekent van scholen, op basis van door mensen bedachte regels."/>
+  <properties
+      key="rdfs:comment"
+      value="Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem."/>
+  <properties
+      key="dct:source"
+      value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#wanneer-is-het-een-algoritme"/>
+</archimate:Meaning>

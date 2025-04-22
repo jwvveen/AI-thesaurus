@@ -1,6 +1,6 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mistral 7B"
+    name="Mistral"
     id="id-fad1bfff70854bc0949c3f57102b42e8"
     documentation="Zie properties.">
   <properties
@@ -12,4 +12,10 @@
   <properties
       key="skos:definition"
       value="Een krachtige open-source taalmodel dat efficiënt werkt en minder rekenkracht vereist."/>
+  <properties
+      key="skos:scopeNote"
+      value="zoals Mistral 7B, Mixtral 8x7B en Codestral 22B"/>
+  <properties
+      key="dct:source"
+      value="https://mistral.ai/"/>
 </archimate:Meaning>

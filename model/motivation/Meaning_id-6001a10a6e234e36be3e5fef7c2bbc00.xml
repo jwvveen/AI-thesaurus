@@ -12,4 +12,7 @@
   <properties
       key="skos:definition"
       value="ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"/>
+  <properties
+      key="dct:source"
+      value="https://chatgpt.com/"/>
 </archimate:Meaning>

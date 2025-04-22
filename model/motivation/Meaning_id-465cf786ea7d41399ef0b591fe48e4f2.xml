@@ -1,0 +1,24 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reinforcement learning"
+    id="id-465cf786ea7d41399ef0b591fe48e4f2"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Het algoritme leert door straf en beloning. Het doel is zo hoog mogelijk scoren in zo min mogelijk tijd."/>
+  <properties
+      key="skos:scopeNote"
+      value="Je geeft bijvoorbeeld punten als het algoritme foto’s sorteert die op katten lijken. Dit proces is vergelijkbaar met hoe mensen leren door ervaring. Bij reinforcement learning leert het AI-model autonoom bij. Bij online reinforcement learning kan het model in productie ook nog continu zichzelf bijstellen. Je kunt er ook voor kiezen dit alleen in trainingsfase te doen, en het model 'bevroren' in te zetten. "/>
+  <properties
+      key="dct:source"
+      value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
+  <properties
+      key="skos:altLabel"
+      value="bekrachtiginsleren"/>
+</archimate:Meaning>

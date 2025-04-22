@@ -1,7 +1,7 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Claude AI"
-    id="id-db4995cb35144acc8f1c396fd8fded22"
+    name="reactieve agent"
+    id="id-439513bc984b4fe3b7772b5025ef6f2c"
     documentation="Zie properties.">
   <properties
       key="ameff:status"
@@ -11,8 +11,5 @@
       value="2023-01-01"/>
   <properties
       key="skos:definition"
-      value="Bekend om zijn grote contextvenster en sterke creatieve schrijfvaardigheden&#xD;&#xA;"/>
-  <properties
-      key="dct:source"
-      value="https://claude.ai/"/>
+      value="Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."/>
 </archimate:Meaning>

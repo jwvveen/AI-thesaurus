@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="algoritme register"
+    id="id-fa0be189340043c0b6e6ebbddbf15baa"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2025-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Een register met beschrijvingen van algoritmische toepassingen die direct of indirect een maatschappelijk en/of economisch effect hebben, op burgers of op de maatschappij als geheel."/>
+  <properties
+      key="dct:source"
+      value="http://begrippen.kadaster.nl/ar/id/concept/AlgorithmRegister"/>
+</archimate:Meaning>

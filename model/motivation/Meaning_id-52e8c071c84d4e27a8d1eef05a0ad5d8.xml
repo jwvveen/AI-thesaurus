@@ -13,8 +13,6 @@
       key="skos:definition"
       value="Een AI-detector is een hulpmiddel dat is ontworpen om te detecteren wanneer een stuk tekst (of soms een afbeelding of video) is gemaakt door AI-tools (zoals ChatGPT en DALL-E). Deze detectoren zijn niet 100% betrouwbaar, maar ze kunnen een indicatie geven van de waarschijnlijkheid dat een tekst door AI is gegenereerd."/>
   <properties
-      key="skos:altLabel"/>
-  <properties
       key="skos:scopeNote"
       value="AI-detectoren werken met soortgelijke grote taalmodellen (large language models, LLMs) als de tools die ze proberen te detecteren. Deze modellen kijken in wezen naar een tekst (of afbeelding of video) en vragen zich af: “Is dit iets wat ik zou hebben gegenereerd?”. Ze zoeken naar lage niveaus van twee criteria: perplexiteit (perplexity) en onregelmatigheid (burstiness).AI-detectoren kunnen worden gebruikt door universiteiten en andere instellingen om door AI gegenereerde inhoud te identificeren."/>
   <properties

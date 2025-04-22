@@ -15,4 +15,7 @@
   <properties
       key="skos:altLabel"
       value="Large Language Model Meta AI"/>
+  <properties
+      key="dct:source"
+      value="https://www.llama.com/"/>
 </archimate:Meaning>

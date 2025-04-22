@@ -15,4 +15,10 @@
   <properties
       key="skos:altLabel"
       value="ML"/>
+  <properties
+      key="skos:scopeNote"
+      value="Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor leren computers van data, zonder dat mensen dit precies zo programmeren. Ze zoeken bijvoorbeeld naar patronen of doen voorspellingen. Dit is een veel voorkomende vorm van AI."/>
+  <properties
+      key="dct:source"
+      value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
 </archimate:Meaning>
