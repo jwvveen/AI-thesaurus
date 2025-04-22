@@ -43,7 +43,7 @@ generate_ttl <- function(df,df_filtered_relationships, output_file) {
           ttl_lines <- c(ttl_lines, paste0("    skos:related ameff:", related_rows$target[i], " ;"))
         }
         if (!is.na(related_rows$target[i]) && (related_rows$type[i]=="Specialization")) {
-          ttl_lines <- c(ttl_lines, paste0("    skos:narrower ameff:", related_rows$target[i], " ;"))
+          ttl_lines <- c(ttl_lines, paste0("    skos:broader ameff:", related_rows$target[i], " ;"))
         }
         if (!is.na(related_rows$target[i]) && (related_rows$type[i]=="Composition")) {
           ttl_lines <- c(ttl_lines, paste0("    skos:narrower ameff:", related_rows$target[i], " ;"))
