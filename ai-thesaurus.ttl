@@ -1,0 +1,623 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix ameff: <http://archimate.org/> .
+
+ameff:id-077fec2332044d8694cb5883d98721d5 a skos:Concept ;
+    skos:prefLabel "token"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "De basiseenheid van tekst (een woord of deel van een woord) die wordt verwerkt door LLMs."@nl ;
+    skos:related ameff:id-f7d6a3a2ec444498a1cbdd4be77df454 .
+
+ameff:id-0fd11bfe8cd048608cd891c60d8a6c29 a skos:Concept ;
+    skos:prefLabel "Beslisbomen"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Gebruikt hiërarchische regels om beslissingen te nemen."@nl ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-18d36ed19c4f4bd79bd0aab204957a7d a skos:Concept ;
+    skos:prefLabel "Google"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"@nl ;
+    skos:narrower ameff:id-4838adaa62424e1a99d293215c8bfe32 ;
+    skos:broader ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 .
+
+ameff:id-1a1a07398d9148f89d881e0359a4ef48 a skos:Concept ;
+    skos:prefLabel "GPT"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een type neuraal netwerk, vooraf getraind op veel tekstdata, dat duidelijke en relevante tekst genereert op basis van prompts"@nl ;
+    skos:altLabel "Generative Pre-trained Transformer"@nl ;
+    skos:scopeNote "Een voorbeeld is ChatGPT." ;
+    skos:broader ameff:id-bf8b320010cf4113800fd98db2233d13 .
+
+ameff:id-1d6ec628e1294a3593e08664ef9c79e4 a skos:Concept ;
+    skos:prefLabel "unsupervised learning"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Machine learning proces waarbij AI zelf verborgen patronen in ongelabelde data zoekt zonder expliciete begeleiding."@nl ;
+    skos:scopeNote "Je laat het algoritme zelf patronen en structuren ontdekken in ongestructureerde gegevens zonder labels. Je biedt bijvoorbeeld foto’s aan van dieren die het algoritme zelf moet groeperen." ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" ;
+    skos:broader ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-1ff559ff76744de3ab30a098724b41ad a skos:Concept ;
+    skos:prefLabel "Lineaire regressie"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Voorspelt een continue waarde op basis van invoerdata."@nl ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-22d6a9c0aaf041ab940af7baa2f6b2bc a skos:Concept ;
+    skos:prefLabel "supervised learning"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Machine learning proces waarbij een model leert van gelabelde voorbeelden (input-output paren), vergelijkbaar met een docent-student scenario."@nl ;
+    skos:altLabel "gecontroleerd leren"@nl ;
+    skos:scopeNote "Je algoritme leert van gegevens die je labelt met informatie. Je biedt bijvoorbeeld foto’s aan met de labels: dit is wel een kat, dit is geen kat." ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" ;
+    skos:broader ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-25df79f046a34c318349d1600a3bc226 a skos:Concept ;
+    skos:prefLabel "algoritme"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2021-01-26" ;
+    skos:definition "Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden."@nl ;
+    dct:source "https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf" ;
+    skos:scopeNote "Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:  * problemen oplossen  * vragen beantwoorden  * taken of processen uitvoeren  * besluiten nemen" ;
+    rdfs:comment "Een recept om een informaticaprobleem op te lossen vanuit een gegeven begintoestand naar een beoogd einddoel, dat bestaat uit een eindige reeks eenduidig gedefinieerde instructies of regels." ;
+    skos:related ameff:id-f67b09d6474c4bd8b063e8deaa6af295 .
+
+ameff:id-2723f5292f03476e89bdc6e8b2b4a3ca a skos:Concept ;
+    skos:prefLabel "multi-agent systeem"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Dit zijn meerdere AI-agents die samenwerken, bijvoorbeeld robots in een fabriek die gezamenlijk een productieproces optimaliseren."@nl ;
+    skos:broader ameff:id-8189ae8686614e3e8d2e5fa8fb4b4455 .
+
+ameff:id-2df45507f4954d18beae609b17fe4ab1 a skos:Concept ;
+    skos:prefLabel "RNN"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Geschikt voor sequentiegegevens zoals tekst en spraak."@nl ;
+    skos:altLabel "Recurrent Neural Networks"@nl ;
+    skos:related ameff:id-3b5a06968e144058b3de35543b8e0ae0 ;
+    skos:broader ameff:id-dc96470859204cc0936668cf5f58ce9b .
+
+ameff:id-345eea97ff2742ac8fb821c663480da7 a skos:Concept ;
+    skos:prefLabel "AI-geletterdheid"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico’s van AI en de mogelijke schade die zij kan veroorzaken."@nl ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/" ;
+    skos:related ameff:id-8abb432dde27452a98727b8d186be461 .
+
+ameff:id-3629353df00d4a2e85175d467ebee58c a skos:Concept ;
+    skos:prefLabel "Artificial general intelligence"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Artificial general intelligence (AGI) of kunstmatige algemene intelligentie (KAI) verwijst naar een hypothetisch toekomstig AI-systeem waarvan de intelligentie die van de mens voor alle intellectuele taken evenaart of overtreft."@nl ;
+    skos:altLabel "AGI"@nl ;
+    skos:scopeNote "Veel AI-onderzoekers geloven dat AI dit punt waarschijnlijk zal bereiken en de menselijke intelligentie ergens deze eeuw zal overtreffen als gevolg van de versnelling van machine learning. Dit scenario wordt vaak besproken in de context van alignment en AI-veiligheid: als AI intelligenter wordt dan mensen, is het essentieel dat het blijft werken aan onze doelen en geen mensen in gevaar brengt." ;
+    dct:source "https://www.scribbr.nl/ai-tools-gebruiken/ai-termen-begrippenlijst/" ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-3b5a06968e144058b3de35543b8e0ae0 a skos:Concept ;
+    skos:prefLabel "neurale netwerken"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een geavanceerde vorm van AI die complexe patronen in data herkent via gelaagde neurale netwerken, nuttig voor beeldherkenning, spraakverwerking en taalbegrip."@nl ;
+    skos:altLabel "deeplearning"@nl ;
+    skos:broader ameff:id-8cd68d2ff669417683658cfe088d08ca ;
+    skos:broader ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-3bca660407d544dd9ae76301a1045608 a skos:Concept ;
+    skos:prefLabel "validatie"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (validatieset) die niet voor training is gebruikt."@nl .
+
+ameff:id-3f32b7b0b9854a37980b319e94b816e2 a skos:Concept ;
+    skos:prefLabel "model"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2021-01-26" ;
+    skos:definition "Een programma getraind om patronen in data te herkennen en voorspellingen te doen."@nl ;
+    skos:altLabel "concept"@nl ;
+    skos:scopeNote "Bijvoorbeeld weer voorspellen, katten herkennen" ;
+    rdfs:comment "Een model is een versimpelde weergave van iets uit de echte wereld. Het helpt om iets beter te begrijpen, te onderzoeken of te voorspellen." ;
+    skos:related ameff:id-25df79f046a34c318349d1600a3bc226 .
+
+ameff:id-4294e2d18ddc4c5ca6a8832bb191c0ed a skos:Concept ;
+    skos:prefLabel "generator"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Onderdeel van een GAN dat probeert nieuwe data te creëren die lijkt op echte voorbeelden."@nl .
+
+ameff:id-439513bc984b4fe3b7772b5025ef6f2c a skos:Concept ;
+    skos:prefLabel "reactieve agent"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."@nl ;
+    skos:broader ameff:id-8189ae8686614e3e8d2e5fa8fb4b4455 .
+
+ameff:id-465cf786ea7d41399ef0b591fe48e4f2 a skos:Concept ;
+    skos:prefLabel "reinforcement learning"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Het algoritme leert door straf en beloning. Het doel is zo hoog mogelijk scoren in zo min mogelijk tijd."@nl ;
+    skos:scopeNote "Je geeft bijvoorbeeld punten als het algoritme foto’s sorteert die op katten lijken. Dit proces is vergelijkbaar met hoe mensen leren door ervaring. Bij reinforcement learning leert het AI-model autonoom bij. Bij online reinforcement learning kan het model in productie ook nog continu zichzelf bijstellen. Je kunt er ook voor kiezen dit alleen in trainingsfase te doen, en het model 'bevroren' in te zetten." ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" ;
+    skos:altLabel "bekrachtiginsleren"@nl ;
+    skos:broader ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-4838adaa62424e1a99d293215c8bfe32 a skos:Concept ;
+    skos:prefLabel "Gemini"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Google's AI-model dat real-time internetgegevens kan verwerken en een breed scala aan taken aankan."@nl ;
+    skos:altLabel "Bard"@nl ;
+    dct:source "https://gemini.google.com/" ;
+    skos:broader ameff:id-1a1a07398d9148f89d881e0359a4ef48 .
+
+ameff:id-4adf7a7be5744eb791dad323bd8d8517 a skos:Concept ;
+    skos:prefLabel "BERT"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Begrijpt tekst in context door bidirectionele verwerking."@nl ;
+    skos:altLabel "Bidirectional Encoder Representations from Transformers"@nl ;
+    skos:related ameff:id-8aa90c081f3844ab9d7e75d923027ee4 ;
+    skos:broader ameff:id-f93355650fcf4f08a3029baed7b5e418 .
+
+ameff:id-4cf8f12d84f24fd58a1fa268f6cd96e2 a skos:Concept ;
+    skos:prefLabel "DeepSeek AI"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "DeepSeek is een Chinees kunstmatige intelligentiebedrijf dat open-source grote taalmodellen ontwikkelt. Het werd opgericht in mei 2023 en wordt gefinancierd door het Chinese hedgefonds High-Flyer. DeepSeek kreeg internationale aandacht in januari 2025 met de release van zijn nieuwste model, DeepSeek R1, dat concurreert met gevestigde AI-systemen zoals OpenAI's ChatGPT."@nl ;
+    dct:source "https://deepseek.ai/" ;
+    skos:broader ameff:id-1a1a07398d9148f89d881e0359a4ef48 .
+
+ameff:id-52e8c071c84d4e27a8d1eef05a0ad5d8 a skos:Concept ;
+    skos:prefLabel "AI-detector"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een AI-detector is een hulpmiddel dat is ontworpen om te detecteren wanneer een stuk tekst (of soms een afbeelding of video) is gemaakt door AI-tools (zoals ChatGPT en DALL-E). Deze detectoren zijn niet 100% betrouwbaar, maar ze kunnen een indicatie geven van de waarschijnlijkheid dat een tekst door AI is gegenereerd."@nl ;
+    skos:scopeNote "AI-detectoren werken met soortgelijke grote taalmodellen (large language models, LLMs) als de tools die ze proberen te detecteren. Deze modellen kijken in wezen naar een tekst (of afbeelding of video) en vragen zich af: “Is dit iets wat ik zou hebben gegenereerd?”. Ze zoeken naar lage niveaus van twee criteria: perplexiteit (perplexity) en onregelmatigheid (burstiness).AI-detectoren kunnen worden gebruikt door universiteiten en andere instellingen om door AI gegenereerde inhoud te identificeren." ;
+    dct:source "https://www.scribbr.nl/ai-tools-gebruiken/ai-termen-begrippenlijst/" .
+
+ameff:id-544c60e94bf3446ba98a536198c96373 a skos:Concept ;
+    skos:prefLabel "Meta"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Meta Platforms, Inc. is een Amerikaans technologiebedrijf, opgericht in 2004 door Mark Zuckerberg en oorspronkelijk bekend als Facebook, Inc.. In 2021 werd de naam veranderd naar Meta, om de focus op de metaverse en bredere digitale innovatie te weerspiegelen."@nl ;
+    skos:scopeNote "Meta is een van de grootste technologiebedrijven ter wereld en richt zich op sociale media, digitale communicatie en virtual reality." ;
+    skos:narrower ameff:id-bd82bf977b0242fdb3ec3567990259ce ;
+    skos:broader ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 .
+
+ameff:id-5731aefff919430b9beff520fc5cb95e a skos:Concept ;
+    skos:prefLabel "NER"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Identificeren van namen, locaties en concepten in tekst."@nl ;
+    skos:altLabel "Named Entity Recognition"@nl ;
+    skos:related ameff:id-8aa90c081f3844ab9d7e75d923027ee4 .
+
+ameff:id-593dffe970da47a389c0189623cfc145 a skos:Concept ;
+    skos:prefLabel "geheugen-gebaseerde agent"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."@nl ;
+    skos:broader ameff:id-8189ae8686614e3e8d2e5fa8fb4b4455 .
+
+ameff:id-6001a10a6e234e36be3e5fef7c2bbc00 a skos:Concept ;
+    skos:prefLabel "ChatGPT"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"@nl ;
+    dct:source "https://chatgpt.com/" ;
+    skos:broader ameff:id-1a1a07398d9148f89d881e0359a4ef48 ;
+    skos:narrower ameff:id-0c5cb9bbd2d14497a2e00276752132f6 .
+
+ameff:id-62ba75d7a9f84f45a346631e09d69a42 a skos:Concept ;
+    skos:prefLabel "xAI"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "xAI is een kunstmatige intelligentie (AI) bedrijf, opgericht door Elon Musk in 2023. Het bedrijf richt zich op geavanceerde AI-ontwikkeling en heeft als missie om AI te bouwen die menselijke kennis en begrip vergroot."@nl ;
+    skos:scopeNote "xAI wil AI ontwikkelen die de mensheid helpt bij wetenschappelijke ontdekkingen en complexe problemen. Het bedrijf werkt met een snelle ontwikkelingsstrategie en richt zich op innovatieve AI-oplossingen." ;
+    skos:narrower ameff:id-7306a1c4c2094ad6a86ef3f595884607 ;
+    skos:broader ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 .
+
+ameff:id-644a03519ce8463f80176ce9766c5911 a skos:Concept ;
+    skos:prefLabel "Machine Learning"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."@nl ;
+    skos:altLabel "ML"@nl ;
+    skos:scopeNote "Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor leren computers van data, zonder dat mensen dit precies zo programmeren. Ze zoeken bijvoorbeeld naar patronen of doen voorspellingen. Dit is een veel voorkomende vorm van AI." ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" ;
+    skos:narrower ameff:id-3bca660407d544dd9ae76301a1045608 ;
+    skos:broader ameff:id-d8bab3ca74a74797bf1fec71a8a5ca5e .
+
+ameff:id-67dc86782cbd49b885234b9b96b0e905 a skos:Concept ;
+    skos:prefLabel "OpenAI"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "OpenAI is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2015 en gevestigd in San Francisco, Californië. Het bedrijf richt zich op AI-onderzoek en ontwikkeling, met als missie om kunstmatige algemene intelligentie (AGI) te creëren die veilig en nuttig is voor de mensheid."@nl ;
+    skos:scopeNote "Het bedrijf werd in 2015 opgericht door Ilya Sutskever, Greg Brockman, Sam Altman en Elon Musk (die niet langer betrokken is). De huidige CEO is Sam Altman. OpenAI begon als een non-profit, maar ging in 2019 over naar for-profit. Het heeft populaire tools uitgebracht, waaronder ChatGPT en DALL-E." ;
+    dct:source "https://openai.com/about/" ;
+    skos:narrower ameff:id-6001a10a6e234e36be3e5fef7c2bbc00 ;
+    skos:broader ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 .
+
+ameff:id-69b70dc6af0d4e37b92642d32f5721f4 a skos:Concept ;
+    skos:prefLabel "RAG"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Is een techniek binnen kunstmatige intelligentie die de kracht van generatieve AI combineert met informatieopvraging. Dit betekent dat een AI-model niet alleen tekst genereert op basis van vooraf getrainde data, maar ook relevante informatie kan ophalen uit externe kennisbronnen om nauwkeurigere en actuele antwoorden te geven"@nl ;
+    skos:altLabel "Retrieval Augmented Generation"@nl ;
+    skos:related ameff:id-bf8b320010cf4113800fd98db2233d13 .
+
+ameff:id-7306a1c4c2094ad6a86ef3f595884607 a skos:Concept ;
+    skos:prefLabel "Grok"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Ontwikkeld door X (voorheen Twitter), ontworpen om humor en context beter te begrijpen."@nl ;
+    skos:scopeNote "Grok is een generatieve AI-chatbot ontwikkeld door xAI, het AI-bedrijf van Elon Musk. Het werd gelanceerd als een alternatief voor ChatGPT en andere AI-assistenten, met een focus op real-time informatie en een unieke persoonlijkheid." ;
+    dct:source "https://grok.com/" ;
+    skos:broader ameff:id-1a1a07398d9148f89d881e0359a4ef48 .
+
+ameff:id-8140d291d7fc49919113cae76cda5e73 a skos:Concept ;
+    skos:prefLabel "deepfake"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Door AI gegenereerd of gemanipuleerd beeld-, audio- of videomateriaal dat een gelijkenis vertoont met bestaande personen, voorwerpen, plaatsen, entiteiten of gebeurtenissen, en door een persoon ten onrechte voor authentiek of waarheidsgetrouw zou worden aangezien."@nl ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/" ;
+    skos:related ameff:id-52e8c071c84d4e27a8d1eef05a0ad5d8 .
+
+ameff:id-8189ae8686614e3e8d2e5fa8fb4b4455 a skos:Concept ;
+    skos:prefLabel "AI-agent"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een AI-agent is een software-entiteit die autonoom taken uitvoert en beslissingen neemt op basis van waarnemingen, regels en machine learning-algoritmen."@nl ;
+    skos:altLabel "zelflerende bot"@nl ;
+    skos:scopeNote "AI-agenten kunnen variëren in complexiteit, van eenvoudige bots tot geavanceerde zelflerende systemen." ;
+    dct:source "https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/" ;
+    rdfs:comment "Een AI-agent is een computerprogramma dat zelfstandig beslissingen kan nemen en handelingen uitvoert om een doel te bereiken. Het gebruikt kunstmatige intelligentie (AI) om informatie te verzamelen, te leren en zich aan te passen aan veranderingen." .
+
+ameff:id-8a4681eb26764cce82d5cb4d656ae340 a skos:Concept ;
+    skos:prefLabel "Transformers"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Backbone van moderne NLP-modellen zoals GPT en BERT."@nl ;
+    skos:related ameff:id-3b5a06968e144058b3de35543b8e0ae0 .
+
+ameff:id-8aa90c081f3844ab9d7e75d923027ee4 a skos:Concept ;
+    skos:prefLabel "Natuurlijke taalverwerking"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."@nl ;
+    skos:altLabel "Natural Language Processing"@nl ;
+    skos:notation "NLP" ;
+    skos:broader ameff:id-d8bab3ca74a74797bf1fec71a8a5ca5e .
+
+ameff:id-8abb432dde27452a98727b8d186be461 a skos:Concept ;
+    skos:prefLabel "AI"@nl ;
+    ameff:status "Publiceren" ;
+    ameff:datumstatus "2024-06-13" ;
+    skos:definition "Een technologie die, voor expliciete of impliciete doelen, afleidt hoe het op basis van ontvangen input (zoals data), outputs genereert. Outputs betreffen onder meer voorspellingen, content, aanbevelingen en/of beslissingen. De technologie kan leren, redeneren en taken uitvoeren op een manier die normaliter menselijke intelligentie vereist."@nl ;
+    skos:scopeNote "AI (Artificial Intelligence) verwijst naar het bredere concept van kunstmatige intelligentie—de wetenschap en technologie die machines in staat stelt om menselijke cognitieve taken na te bootsen, zoals leren, redeneren en probleemoplossing.Dit omvat technieken zoals machine learning, neurale netwerken en natuurlijke taalverwerking." ;
+    dct:source "https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai" ;
+    skos:altLabel "kunstmatige intelligentie"@nl ;
+    rdfs:comment "AI (kunstmatige intelligentie) is een technologie waarbij computers taken uitvoeren die normaal door mensen worden gedaan, zoals leren, denken en problemen oplossen. AI kan bijvoorbeeld gezichten herkennen, teksten begrijpen of zelf rijden in een auto. Dit gebeurt met slimme programma’s die veel gegevens verwerken en daaruit leren." ;
+    skos:related ameff:id-52e8c071c84d4e27a8d1eef05a0ad5d8 ;
+    skos:broader ameff:id-25df79f046a34c318349d1600a3bc226 ;
+    skos:related ameff:id-5b94d345f0524e36aace6ba7830df367 .
+
+ameff:id-8caad01156b64be3b17b07b4523db6fc a skos:Concept ;
+    skos:prefLabel "Anthropic"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Anthropic is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2021 door voormalige medewerkers van OpenAI, waaronder Dario en Daniela Amodei."@nl ;
+    skos:scopeNote "Het bedrijf richt zich op AI-veiligheid en ontwikkelt grote taalmodellen (LLMs) onder de naam Claude, als concurrent van ChatGPT en Google Gemini." ;
+    skos:narrower ameff:id-db4995cb35144acc8f1c396fd8fded22 ;
+    skos:broader ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 .
+
+ameff:id-8cd68d2ff669417683658cfe088d08ca a skos:Concept ;
+    skos:prefLabel "GAN"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een deep learning-model bestaande uit een generator (creëert output) en een discriminator (beoordeelt output), die met elkaar concurreren."@nl ;
+    skos:altLabel "Generative Adversarial Network"@nl ;
+    skos:scopeNote "Helpt bij het genereren van realistische data zoals beelden en geluid." ;
+    skos:narrower ameff:id-4294e2d18ddc4c5ca6a8832bb191c0ed ;
+    skos:narrower ameff:id-a59a0d0868d043c087f0f913677950ca .
+
+ameff:id-8e451ba30a654c4198e128d65c1dc223 a skos:Concept ;
+    skos:prefLabel "bias"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "In de context van AI verwijst bias of vooringenomenheid naar de aannames die een AI-systeem doet om het leerproces en de taakuitvoer te vereenvoudigen. AI-onderzoekers proberen bias tot een minimum te beperken, omdat deze kan leiden tot slechte resultaten of onverwachte uitkomsten."@nl ;
+    skos:scopeNote "Bias in de context van AI verwijst naar systematische fouten of vooroordelen in een algoritme die ontstaan door bevooroordeelde trainingsdata. Dit kan leiden tot oneerlijke of onnauwkeurige resultaten. Bijvoorbeeld, als een AI-systeem wordt getraind op data die voornamelijk afkomstig is van een bepaalde demografische groep, kan het systeem bevooroordeeld zijn tegen andere groepen. Bias kan verschillende vormen aannemen, zoals: * Sample Bias: Wanneer de trainingsdata niet representatief is voor de populatie. * Measurement Bias: Wanneer de data die wordt verzameld onnauwkeurig of misleidend is. * Algorithmic Bias: Wanneer het algoritme zelf bepaalde groepen systematisch benadeelt." ;
+    skos:altLabel "vooringenomenheid"@nl ;
+    skos:related ameff:id-bf8b320010cf4113800fd98db2233d13 .
+
+ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 a skos:Concept ;
+    skos:prefLabel "AI leverancier"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een AI-leverancier is een bedrijf of organisatie die kunstmatige intelligentie (AI) ontwikkelt, levert of integreert in producten en diensten. Dit kan variëren van bedrijven die geavanceerde AI-modellen bouwen, zoals machine learning-algoritmes, tot organisaties die AI-oplossingen aanbieden voor specifieke toepassingen, zoals spraakherkenning, beeldverwerking of automatisering."@nl .
+
+ameff:id-97bde38b848f49f28deaf2a2d80343a5 a skos:Concept ;
+    skos:prefLabel "Sentimentanalyse"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Interpreteren of een tekst positief, negatief of neutraal is."@nl ;
+    skos:related ameff:id-8aa90c081f3844ab9d7e75d923027ee4 .
+
+ameff:id-99810ae4b63f476c90262643ffe69e83 a skos:Concept ;
+    skos:prefLabel "temperatuur"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "De mate van willekeur (randomness) in de output van een LLM."@nl ;
+    skos:related ameff:id-f7d6a3a2ec444498a1cbdd4be77df454 .
+
+ameff:id-a08ea99c3e6448d9b10ebd87f429bef1 a skos:Concept ;
+    skos:prefLabel "Machinevertaling"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Conversie van tekst tussen verschillende talen."@nl ;
+    skos:related ameff:id-8aa90c081f3844ab9d7e75d923027ee4 .
+
+ameff:id-a114678a0e644985a87cb6959f4e7e58 a skos:Concept ;
+    skos:prefLabel "K-Nearest Neighbors"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Vergelijkt nieuwe gegevenspunten met bestaande om de beste match te vinden."@nl ;
+    skos:altLabel "KNN"@nl ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-a572f93ceb854c2e80c9fac9c2a987cb a skos:Concept ;
+    skos:prefLabel "T5"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Geschikt voor diverse NLP-taken zoals samenvatting en vertaling."@nl ;
+    skos:altLabel "Text-to-Text Transfer Transformer"@nl ;
+    skos:related ameff:id-8aa90c081f3844ab9d7e75d923027ee4 .
+
+ameff:id-a598d6f1b14f4d76a2e8e67e3c877d9a a skos:Concept ;
+    skos:prefLabel "prompt engineering"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Het proces van het zorgvuldig kiezen en aanpassen van de input (prompt) voor een machine learning-model om de best mogelijke output te krijgen."@nl ;
+    skos:altLabel "prompten"@nl ;
+    skos:scopeNote "Voorbeelden van prompt engineering:  - Een duidelijke vraag stellen zodat de AI een informatief antwoord geeft.  - Specifieke instructies toevoegen om een bepaalde schrijfstijl of toon te krijgen.  - Creatieve prompts maken zodat een AI interessante ideeën of ontwerpen genereert." ;
+    dct:source "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-prompt-engineering" ;
+    rdfs:comment "Prompt engineering is het slim formuleren van opdrachten voor een AI-systeem, zoals een chatbot of tekstgenerator. Door de juiste woorden en structuur te gebruiken, kan een AI betere en nauwkeurigere antwoorden geven." ;
+    skos:related ameff:id-bf8b320010cf4113800fd98db2233d13 .
+
+ameff:id-a59a0d0868d043c087f0f913677950ca a skos:Concept ;
+    skos:prefLabel "discriminator"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Onderdeel van een GAN dat beoordeelt of data echt (uit een dataset) of onecht (gegenereerd) is; belangrijk voor o.a. fraudedetectie"@nl .
+
+ameff:id-b22b4f48be1c48de974b0b986ff92110 a skos:Concept ;
+    skos:prefLabel "CNN"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Vooral gebruikt bij beeldherkenning."@nl ;
+    skos:altLabel "Convolutional Neural Networks"@nl ;
+    skos:related ameff:id-3b5a06968e144058b3de35543b8e0ae0 .
+
+ameff:id-bcb04663e43c4abfb393bf62d8de05ee a skos:Concept ;
+    skos:prefLabel "hallucinatie"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Output van generatieve AI die feitelijk onjuist is of niet overeenkomt met de werkelijkheid, ondanks dat deze semantisch correct kan lijken."@nl ;
+    skos:related ameff:id-bf8b320010cf4113800fd98db2233d13 .
+
+ameff:id-bd82bf977b0242fdb3ec3567990259ce a skos:Concept ;
+    skos:prefLabel "LLaMA"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Meta's AI-model dat open-source is en wordt gebruikt voor onderzoek en toepassingen."@nl ;
+    skos:altLabel "Large Language Model Meta AI"@nl ;
+    dct:source "https://www.llama.com/" ;
+    skos:broader ameff:id-1a1a07398d9148f89d881e0359a4ef48 .
+
+ameff:id-bf8b320010cf4113800fd98db2233d13 a skos:Concept ;
+    skos:prefLabel "Generatieve AI"@nl ;
+    ameff:status "Ter redactie" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een vorm van artificiële intelligentie die content (tekst, afbeeldingen en/of gevarieerde inhoud zoals muziek) kan produceren (genereren) op basis van de gegevens waarop het wordt getraind."@nl ;
+    skos:altLabel "GenAI"@nl ;
+    skos:scopeNote "Een voorbeeld is het genereren van synthetische data en ondersteuning bij programmeren." ;
+    dct:source "https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk" ;
+    rdfs:comment "Generatieve AI, dat vaak wordt gebruikt door grote taalmodellen zoals GPT-4o en DALL-E 3, richt zich op het creëren van nieuwe content op basis van patronen die zijn geleerd uit enorme datasets." ;
+    skos:broader ameff:id-d8bab3ca74a74797bf1fec71a8a5ca5e .
+
+ameff:id-c2f46b43502248a9aa80dd6b2eada12e a skos:Concept ;
+    skos:prefLabel "Mistral AI"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Mistral AI is een Frans kunstmatige intelligentie (AI) bedrijf, opgericht in april 2023 door Arthur Mensch, Guillaume Lample en Timothée Lacroix. Het bedrijf is gespecialiseerd in open-weight large language models (LLMs) en richt zich op open-source innovatie in AI."@nl ;
+    skos:scopeNote "- Ontwikkeling van AI-modellen → Mistral AI heeft verschillende geavanceerde taalmodellen ontwikkeld, zoals Mistral 7B, Mixtral 8x7B en Codestral 22B.- Focus op open-source → Het bedrijf wil AI toegankelijk maken door open modellen te ontwikkelen die breed inzetbaar zijn.- Snelle groei en investeringen → In 2023 haalde Mistral AI €385 miljoen op in een investeringsronde, en in 2024 werd het bedrijf gewaardeerd op €5,8 miljard." ;
+    skos:narrower ameff:id-fad1bfff70854bc0949c3f57102b42e8 ;
+    skos:broader ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 .
+
+ameff:id-c4bea78d62f64c7ba35e94ac023a6c37 a skos:Concept ;
+    skos:prefLabel "Autoencoders"@nl ;
+    ameff:status "In bewerking" ;
+    skos:definition "Gebruikt voor anomaliedetectie en data-compressie."@nl ;
+    skos:related ameff:id-3b5a06968e144058b3de35543b8e0ae0 .
+
+ameff:id-c534aeb97d4b416faeaeb39c00a3f1a2 a skos:Concept ;
+    skos:prefLabel "DeepSeek"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "DeepSeek is een Chinees kunstmatige intelligentiebedrijf dat open-source grote taalmodellen ontwikkelt. Het werd opgericht in mei 2023 en wordt gefinancierd door het Chinese hedgefonds High-Flyer. DeepSeek kreeg internationale aandacht in januari 2025 met de release van zijn nieuwste model, DeepSeek R1, dat concurreert met gevestigde AI-systemen zoals OpenAI's ChatGPT."@nl ;
+    dct:source "https://deepseek.ai/" ;
+    skos:narrower ameff:id-4cf8f12d84f24fd58a1fa268f6cd96e2 ;
+    skos:broader ameff:id-92329bc3f86f4fbdb40020da1b7fceb1 .
+
+ameff:id-cc07685c283940b49ff7cfcc15ca27cf a skos:Concept ;
+    skos:prefLabel "Logistieke regressie"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Gebruikt voor binaire classificatieproblemen."@nl ;
+    skos:scopeNote "Logistieke regressie gebruikt een wiskundige formule om een kanswaarde tussen 0 en 1 te berekenen. Dit wordt vaak gebruikt voor ja/nee-beslissingen." ;
+    rdfs:comment "Logistieke regressie is een statistische methode die wordt gebruikt om kansen te voorspellen. Het helpt bij het bepalen of iets wel of niet gebeurt op basis van gegevens." ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-d15f615d08654b169c6ea8720f9117f9 a skos:Concept ;
+    skos:prefLabel "Support Vector Machines"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Klasseert data met een optimaliserende grens."@nl ;
+    skos:altLabel "SVM"@nl ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-d5edf1b5a1b44b1aa3178b6afba262e7 a skos:Concept ;
+    skos:prefLabel "Naïve Bayes"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Probabilistisch algoritme gebaseerd op de Bayesiaanse theorie."@nl ;
+    skos:scopeNote "Het wordt veel toegepast in kunstmatige intelligentie en machine learning, bijvoorbeeld bij spamfilters, tekstanalyse en fraudedetectie. Het heet  Naïve  omdat het ervan uitgaat dat kenmerken onafhankelijk van elkaar zijn, wat niet altijd klopt, maar in veel gevallen toch goed werkt." ;
+    dct:source "https://en.wikipedia.org/wiki/Naive_Bayes_classifier" ;
+    rdfs:comment "Naïve Bayes is een statistische methode die gebruikt wordt om waarschijnlijkheden te berekenen en te voorspellen." ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-d8bab3ca74a74797bf1fec71a8a5ca5e a skos:Concept ;
+    skos:prefLabel "AI-systeem"@nl ;
+    ameff:status "Publiceren" ;
+    ameff:datumstatus "2024-06-13" ;
+    skos:definition "Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen."@nl ;
+    skos:scopeNote "Voorbeelden van AI-systemen zijn machine learning, Natural Language Processing (NLP) en computer vision (classifiers)." ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/" ;
+    skos:altLabel "kunstmatige intelligentie"@nl ;
+    rdfs:comment "Een AI-systeem omvat niet alleen het model, maar ook de gehele infrastructuur eromheen. Dit omvat de hardware, software, gegevensverwerking, input- en outputinterfaces, en alle componenten die nodig zijn om het model effectief te laten werken. Voorbeelden van AI-systemen zijn ChatGPT, Google Gemini en Co-Pilot." ;
+    skos:closeMatch <https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai> ;
+    skos:broader ameff:id-8abb432dde27452a98727b8d186be461 .
+
+ameff:id-db4995cb35144acc8f1c396fd8fded22 a skos:Concept ;
+    skos:prefLabel "Claude AI"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Bekend om zijn grote contextvenster en sterke creatieve schrijfvaardigheden"@nl ;
+    dct:source "https://claude.ai/" ;
+    skos:broader ameff:id-1a1a07398d9148f89d881e0359a4ef48 .
+
+ameff:id-dc96470859204cc0936668cf5f58ce9b a skos:Concept ;
+    skos:prefLabel "LSTM"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Verbeterde versie van RNNs, gebruikt voor tijdsreeksen en taalmodellen."@nl ;
+    skos:altLabel "Long Short-Term Memory"@nl .
+
+ameff:id-e2f6d243f58e43958906be0e475ebbd3 a skos:Concept ;
+    skos:prefLabel "rekenregel"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2021-01-26" ;
+    skos:definition "Rekenregels zijn de meest eenvoudige algoritmes. Dit zijn door mensen bedachte regels die het computersysteem precies moet opvolgen: als x gebeurt, dan doe je y."@nl ;
+    skos:altLabel "regelgebaseerd algoritme"@nl ;
+    skos:scopeNote "Rekenregels:  * zijn expliciet geprogrammeerd en bedacht door mensen  * staan uit vaste stappen om een taak uit te voeren    Voorbeelden:   * Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.  * Ondersteuning berekening uitkering dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen.  * Prestatiemonitor dat risicoscores berekent van scholen, op basis van door mensen bedachte regels." ;
+    rdfs:comment "Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem." ;
+    dct:source "https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#wanneer-is-het-een-algoritme" ;
+    skos:broader ameff:id-25df79f046a34c318349d1600a3bc226 .
+
+ameff:id-f232df7944f549bfaf615bacbddb01aa a skos:Concept ;
+    skos:prefLabel "autonome agent"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Deze kunnen zelfstandig complexe taken uitvoeren, zoals zelfrijdende auto's die verkeersomstandigheden analyseren en handelen zonder directe menselijke controle."@nl ;
+    skos:broader ameff:id-8189ae8686614e3e8d2e5fa8fb4b4455 .
+
+ameff:id-f7d6a3a2ec444498a1cbdd4be77df454 a skos:Concept ;
+    skos:prefLabel "LLM"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een gespecialiseerd type generatief AI-model dat getraind is op grote hoeveelheden tekst om bestaande content te begrijpen en tekstuele content te generen."@nl ;
+    skos:altLabel "Large Language Model"@nl ;
+    dct:source "https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai" ;
+    rdfs:comment "Type AI getraind op grote hoeveelheden tekstdata, capabel om menselijk klinkende tekst te creëren, vragen te beantwoorden, etc." ;
+    skos:related ameff:id-bf8b320010cf4113800fd98db2233d13 ;
+    skos:related ameff:id-69b70dc6af0d4e37b92642d32f5721f4 .
+
+ameff:id-f93355650fcf4f08a3029baed7b5e418 a skos:Concept ;
+    skos:prefLabel "XLNet"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een verbeterde versie van BERT met permutatie-gebaseerde training."@nl .
+
+ameff:id-f9c6d28e74214709af773c051f438492 a skos:Concept ;
+    skos:prefLabel "Random Forest"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Combineert meerdere beslisbomen om robuustere voorspellingen te doen."@nl ;
+    skos:related ameff:id-644a03519ce8463f80176ce9766c5911 .
+
+ameff:id-fa0be189340043c0b6e6ebbddbf15baa a skos:Concept ;
+    skos:prefLabel "algoritme register"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2025-01-01" ;
+    skos:definition "Een register met beschrijvingen van algoritmische toepassingen die direct of indirect een maatschappelijk en/of economisch effect hebben, op burgers of op de maatschappij als geheel."@nl ;
+    dct:source "http://begrippen.kadaster.nl/ar/id/concept/AlgorithmRegister" ;
+    skos:broader ameff:id-25df79f046a34c318349d1600a3bc226 .
+
+ameff:id-fad1bfff70854bc0949c3f57102b42e8 a skos:Concept ;
+    skos:prefLabel "Mistral"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Een krachtige open-source taalmodel dat efficiënt werkt en minder rekenkracht vereist."@nl ;
+    skos:scopeNote "zoals Mistral 7B, Mixtral 8x7B en Codestral 22B" ;
+    dct:source "https://mistral.ai/" ;
+    skos:broader ameff:id-1a1a07398d9148f89d881e0359a4ef48 .
+
+ameff:id-f67b09d6474c4bd8b063e8deaa6af295 a skos:Concept ;
+    skos:prefLabel "Algoritme Impact Assessment"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2021-01-26" ;
+    skos:definition "Een algoritme impact assessment	is	een hulpmiddel voor	het maken van afwegingen bij het inzetten van algoritmes en kunstmatige intelligentie."@nl ;
+    dct:source "https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai" ;
+    skos:scopeNote "Voorbeelden van algoritme impact assessments zijn het Impact Assessment	 Mensenrechten	en	 Algoritmes (IAMA) en het AI	Impact	Assessment	(AIIA)" ;
+    skos:altLabel "AIIA"@nl .
+
+ameff:id-5b94d345f0524e36aace6ba7830df367 a skos:Concept ;
+    skos:prefLabel "AI-verordening"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "De Europese AI-verordening vormt een van ’s werelds eerste uitgebreide wetten specifiek voor kunstmatige intelligentie (AI). De AI-verordening legt kaders en eisen vast voor zowel overheden als bedrijven met betrekking tot de ontwikkeling en het gebruik van AI-systemen."@nl ;
+    dct:source "https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nieuwe-technologieen-data-en-ethiek/artificiele-intelligentie-ai/ai-verordening/" ;
+    skos:altLabel "AI Act"@nl ;
+    skos:scopeNote "Het doel van de wet is dat AI-systemen die organisaties (binnen de EU) gebruiken, veilig zijn en fundamentele rechten  respecteren. Het maakt niet uit of die AI-systemen binnen of buiten de EU zijn ontwikkeld. AI-systemen worden onderverdeeld in verschillende risicocategorieën. Afhankelijk van de categorie waarin een AI-systeem valt, gelden zwaardere, minder zware of geen regels." ;
+    rdfs:comment "De AI-verordening is een Europese wet die regels stelt voor de ontwikkeling en het gebruik van AI-systemen. Ook geeft de wet rechten aan burgers die in aanraking komen met AI-systemen." .
+
+ameff:id-9497999cfd0d41f691463b660f2cc029 a skos:Concept ;
+    skos:prefLabel "AI-model"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2021-01-26" ;
+    skos:definition "Een AI-model is het resultaat van het trainen van een algoritme op data. Een algoritme is een set instructies, en het model is het specifieke resultaat van het volgen van de set instructies op basis van bepaalde data."@nl ;
+    skos:altLabel "concept"@nl ;
+    skos:scopeNote "Een model wordt getraind op een taak, bijvoorbeeld het classificeren van documenten of bij een LLM het genereren van zinnen die lijken op de trainingsdata. GPT-4 is een voorbeeld van een AI-model." ;
+    dct:source "https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai" ;
+    skos:broader ameff:id-3f32b7b0b9854a37980b319e94b816e2 .
+
+ameff:id-0c5cb9bbd2d14497a2e00276752132f6 a skos:Concept ;
+    skos:prefLabel "GPT-4.1"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "GPT-4.1 is een geavanceerd AI-model van OpenAI dat verbeteringen biedt op het gebied van codering, instructievolging en lange-contextbegrip. Dit model ondersteunt tot 1 miljoen tokens aan context, waardoor het beter in staat is om grote hoeveelheden informatie te verwerken en relevante details te herkennen."@nl ;
+    dct:source "https://openai.com/index/gpt-4-1/" ;
+    skos:broader ameff:id-9497999cfd0d41f691463b660f2cc029 .
+
+ameff:id-558d50e96baa403797897085c47e1c9d a skos:Concept ;
+    skos:prefLabel "Agentic-AI"@nl ;
+    ameff:status "In bewerking" ;
+    ameff:datumstatus "2023-01-01" ;
+    skos:definition "Agentic AI	geeft het AI-systeem	ook het	 vermogen tot zelfstandige handelingen, om bijvoorbeeld bestanden aan te maken."@nl ;
+    skos:scopeNote "Een voorbeeld van Agentic AI is een digitale assistent die niet alleen vragen beantwoordt, maar ook zelfstandig een reis plant, tickets boekt en een hotel reserveert op basis van voorkeuren." ;
+    dct:source "https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk" ;
+    rdfs:comment "Agentic AI verwijst naar kunstmatige intelligentie die zelfstandig beslissingen kan nemen en acties kan uitvoeren zonder directe menselijke tussenkomst. Dit type AI gaat verder dan traditionele AI-systemen, die meestal reageren op input zonder echte autonomie. Agentic AI kan taken plannen, uitvoeren en zichzelf aanpassen op basis van veranderende omstandigheden." ;
+    skos:narrower ameff:id-8189ae8686614e3e8d2e5fa8fb4b4455 ;
+    skos:broader ameff:id-d8bab3ca74a74797bf1fec71a8a5ca5e .
+
