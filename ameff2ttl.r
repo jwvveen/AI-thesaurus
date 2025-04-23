@@ -12,7 +12,7 @@ taallabel <- function(label) {
 
 # Functie om juiste afsluiter te zetten bij een SKOS exactmatch, closematch of relatedmatch
 typeafsluiter_start <- function(label) {
-  if ((label=="skos:exactMatch") || (label=="skos:closeMatch") || (label=="skos:relatedMatch")) result <- "<" else result <- "\""
+  if ((label=="skos:exactMatch") || (label=="skos:closeMatch") || (label=="skos:relatedMatch")) result <- " <" else result <- " \""
   return(result)
 }
 
