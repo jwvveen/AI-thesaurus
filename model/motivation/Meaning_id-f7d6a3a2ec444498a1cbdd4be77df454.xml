@@ -11,10 +11,14 @@
       value="2023-01-01"/>
   <properties
       key="skos:definition"
-      value="Type AI getraind op grote hoeveelheden tekstdata, capabel om menselijk klinkende tekst te creëren, vragen te beantwoorden, etc."/>
+      value="Een gespecialiseerd type generatief AI-model dat getraind is op grote hoeveelheden tekst om bestaande content te begrijpen en tekstuele content te generen."/>
   <properties
       key="skos:altLabel"
       value="Large Language Model"/>
   <properties
-      key="skos:scopeNote"/>
+      key="dct:source"
+      value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+  <properties
+      key="rdfs:comment"
+      value="Type AI getraind op grote hoeveelheden tekstdata, capabel om menselijk klinkende tekst te creëren, vragen te beantwoorden, etc."/>
 </archimate:Meaning>

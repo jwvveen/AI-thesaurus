@@ -1,0 +1,24 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agentic-AI"
+    id="id-558d50e96baa403797897085c47e1c9d"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Agentic AI&#x9;geeft het AI-systeem&#x9;ook het&#x9; vermogen tot zelfstandige handelingen, om bijvoorbeeld bestanden aan te maken."/>
+  <properties
+      key="skos:scopeNote"
+      value="Een voorbeeld van Agentic AI is een digitale assistent die niet alleen vragen beantwoordt, maar ook zelfstandig een reis plant, tickets boekt en een hotel reserveert op basis van voorkeuren."/>
+  <properties
+      key="dct:source"
+      value="https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk"/>
+  <properties
+      key="rdfs:comment"
+      value="Agentic AI verwijst naar kunstmatige intelligentie die zelfstandig beslissingen kan nemen en acties kan uitvoeren zonder directe menselijke tussenkomst. Dit type AI gaat verder dan traditionele AI-systemen, die meestal reageren op input zonder echte autonomie. Agentic AI kan taken plannen, uitvoeren en zichzelf aanpassen op basis van veranderende omstandigheden."/>
+</archimate:Meaning>

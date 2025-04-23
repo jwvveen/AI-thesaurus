@@ -1,0 +1,24 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI-model"
+    id="id-9497999cfd0d41f691463b660f2cc029"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2021-01-26"/>
+  <properties
+      key="skos:definition"
+      value="Een AI-model is het resultaat van het trainen van een algoritme op data. Een algoritme is een set instructies, en het model is het specifieke resultaat van het volgen van de set instructies op basis van bepaalde data. "/>
+  <properties
+      key="skos:altLabel"
+      value="concept"/>
+  <properties
+      key="skos:scopeNote"
+      value="Een model wordt getraind op een taak, bijvoorbeeld het classificeren van documenten of bij een LLM het genereren van zinnen die lijken op de trainingsdata. GPT-4 is een voorbeeld van een AI-model."/>
+  <properties
+      key="dct:source"
+      value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+</archimate:Meaning>

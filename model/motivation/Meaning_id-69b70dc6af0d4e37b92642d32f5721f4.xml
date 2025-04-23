@@ -14,7 +14,5 @@
       value="Is een techniek binnen kunstmatige intelligentie die de kracht van generatieve AI combineert met informatieopvraging. Dit betekent dat een AI-model niet alleen tekst genereert op basis van vooraf getrainde data, maar ook relevante informatie kan ophalen uit externe kennisbronnen om nauwkeurigere en actuele antwoorden te geven"/>
   <properties
       key="skos:altLabel"
-      value="Retrieval-Augmented Generation"/>
-  <properties
-      key="skos:scopeNote"/>
+      value="Retrieval Augmented Generation"/>
 </archimate:Meaning>

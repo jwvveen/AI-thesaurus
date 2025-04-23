@@ -1,0 +1,24 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Algoritme Impact Assessment"
+    id="id-f67b09d6474c4bd8b063e8deaa6af295"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2021-01-26"/>
+  <properties
+      key="skos:definition"
+      value="Een algoritme impact assessment&#x9;is&#x9;een hulpmiddel voor&#x9;het maken van afwegingen bij het inzetten van algoritmes en kunstmatige intelligentie. "/>
+  <properties
+      key="dct:source"
+      value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+  <properties
+      key="skos:scopeNote"
+      value="Voorbeelden van algoritme impact assessments zijn het Impact Assessment&#x9; Mensenrechten&#x9;en&#x9; Algoritmes (IAMA) en het AI&#x9;Impact&#x9;Assessment&#x9;(AIIA)"/>
+  <properties
+      key="skos:altLabel"
+      value="AIIA"/>
+</archimate:Meaning>

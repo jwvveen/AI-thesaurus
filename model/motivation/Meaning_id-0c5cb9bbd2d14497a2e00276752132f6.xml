@@ -1,0 +1,18 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GPT-4.1"
+    id="id-0c5cb9bbd2d14497a2e00276752132f6"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="GPT-4.1 is een geavanceerd AI-model van OpenAI dat verbeteringen biedt op het gebied van codering, instructievolging en lange-contextbegrip. Dit model ondersteunt tot 1 miljoen tokens aan context, waardoor het beter in staat is om grote hoeveelheden informatie te verwerken en relevante details te herkennen."/>
+  <properties
+      key="dct:source"
+      value="https://openai.com/index/gpt-4-1/"/>
+</archimate:Meaning>

@@ -18,4 +18,10 @@
   <properties
       key="skos:scopeNote"
       value="Een voorbeeld is het genereren van synthetische data en ondersteuning bij programmeren."/>
+  <properties
+      key="dct:source"
+      value="https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk"/>
+  <properties
+      key="rdfs:comment"
+      value="Generatieve AI, dat vaak wordt gebruikt door grote taalmodellen zoals GPT-4o en DALL-E 3, richt zich op het creëren van nieuwe content op basis van patronen die zijn geleerd uit enorme datasets."/>
 </archimate:Meaning>

@@ -23,5 +23,8 @@
       value="kunstmatige intelligentie"/>
   <properties
       key="rdfs:comment"
-      value="AI-systeem is een specifieke implementatie van AI binnen een bepaalde toepassing of technologie. Een AI-systeem gebruikt AI-algoritmen om een taak uit te voeren, zoals spraakherkenning (bijv. Siri), beeldanalyse, automatische vertalingen of besluitvorming in zelfrijdende auto's. Elk AI-systeem is gebouwd om een specifieke set van functies te vervullen."/>
+      value="Een AI-systeem omvat niet alleen het model, maar ook de gehele infrastructuur eromheen. Dit omvat de hardware, software, gegevensverwerking, input- en outputinterfaces, en alle componenten die nodig zijn om het model effectief te laten werken. Voorbeelden van AI-systemen zijn ChatGPT, Google Gemini en Co-Pilot."/>
+  <properties
+      key="skos:closeMatch"
+      value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
 </archimate:Meaning>

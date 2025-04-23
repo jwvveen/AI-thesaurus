@@ -1,0 +1,27 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI-verordening"
+    id="id-5b94d345f0524e36aace6ba7830df367"
+    documentation="Zie properties.">
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="De Europese AI-verordening vormt een van ’s werelds eerste uitgebreide wetten specifiek voor kunstmatige intelligentie (AI). De AI-verordening legt kaders en eisen vast voor zowel overheden als bedrijven met betrekking tot de ontwikkeling en het gebruik van AI-systemen."/>
+  <properties
+      key="dct:source"
+      value="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nieuwe-technologieen-data-en-ethiek/artificiele-intelligentie-ai/ai-verordening/"/>
+  <properties
+      key="skos:altLabel"
+      value="AI Act"/>
+  <properties
+      key="skos:scopeNote"
+      value="Het doel van de wet is dat AI-systemen die organisaties (binnen de EU) gebruiken, veilig zijn en fundamentele rechten  respecteren. Het maakt niet uit of die AI-systemen binnen of buiten de EU zijn ontwikkeld. AI-systemen worden onderverdeeld in verschillende risicocategorieën. Afhankelijk van de categorie waarin een AI-systeem valt, gelden zwaardere, minder zware of geen regels."/>
+  <properties
+      key="rdfs:comment"
+      value="De AI-verordening is een Europese wet die regels stelt voor de ontwikkeling en het gebruik van AI-systemen. Ook geeft de wet rechten aan burgers die in aanraking komen met AI-systemen."/>
+</archimate:Meaning>

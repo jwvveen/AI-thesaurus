@@ -17,7 +17,7 @@
       value="concept"/>
   <properties
       key="skos:scopeNote"
-      value=" Bijvoorbeeld weer voorspellen, katten herkennen"/>
+      value="Bijvoorbeeld weer voorspellen, katten herkennen"/>
   <properties
       key="rdfs:comment"
       value="Een model is een versimpelde weergave van iets uit de echte wereld. Het helpt om iets beter te begrijpen, te onderzoeken of te voorspellen. "/>
