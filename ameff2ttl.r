@@ -10,6 +10,19 @@ taallabel <- function(label) {
   return(result)
 }
 
+# Functie om juiste afsluiter te zetten bij een SKOS exactmatch, closematch of relatedmatch
+typeafsluiter_start <- function(label) {
+  if ((label=="skos:exactMatch") || (label=="skos:closeMatch") || (label=="skos:relatedMatch")) result <- "<" else result <- "\""
+  return(result)
+}
+
+typeafsluiter_eind <- function(label) {
+  if ((label=="skos:exactMatch") || (label=="skos:closeMatch") || (label=="skos:relatedMatch")) result <- ">" else result <- "\""
+  return(result)
+}
+
+
+
 # Functie om dataframe om te zetten naar SKOS Turtle-formaat
 generate_ttl <- function(df,df_filtered_relationships, output_file) {
   ttl_lines <- c("@prefix skos: <http://www.w3.org/2004/02/skos/core#>.",
@@ -28,7 +41,7 @@ generate_ttl <- function(df,df_filtered_relationships, output_file) {
     # Voeg alle properties toe per concept
     for (i in 1:nrow(concept_rows)) {
       if (!is.na(concept_rows$propertyDefinitionName[i]) && !is.na(concept_rows$value[i])) {
-        ttl_lines <- c(ttl_lines, paste0("    ", concept_rows$propertyDefinitionName[i], " \"", concept_rows$value[i], "\"", taallabel(concept_rows$propertyDefinitionName[i])))
+        ttl_lines <- c(ttl_lines, paste0("    ", concept_rows$propertyDefinitionName[i], typeafsluiter_start(concept_rows$propertyDefinitionName[i]), concept_rows$value[i], typeafsluiter_eind(concept_rows$propertyDefinitionName[i]), taallabel(concept_rows$propertyDefinitionName[i])))
       }
     }
     
