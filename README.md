@@ -11,6 +11,6 @@ Om deze begrippen vanuit Archi te publiceren als NL-SBB-compliant Turtle (TTL)-b
 2.	Converteert de relaties naar SKOS-triples zoals skos:related en skos:narrower.
 3.	Genereert een geldig TTL-bestand dat kan worden ingeladen in een triplestore, zoals BegrippenXL.
 
-Het resultaat kan dan weer ingeladen worden in een begrippenviewer zoals BegrippenXL : https://www.begrippenxl.nl/ibp/nl/
+Het resultaat kan dan weer ingeladen worden in een begrippenviewer zoals BegrippenXL : https://www.begrippenxl.nl/ai/nl/
 
 
