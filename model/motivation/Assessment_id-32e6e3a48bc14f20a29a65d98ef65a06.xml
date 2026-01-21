@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Traceerbaarheid en verantwoording"
+    id="id-32e6e3a48bc14f20a29a65d98ef65a06"
+    documentation="Vooral bij kritische toepassingen is het lastig, zo niet onmogelijk, om te achterhalen welke specifieke prompt tot een bepaalde (wellicht problematische) output heeft geleid."/>

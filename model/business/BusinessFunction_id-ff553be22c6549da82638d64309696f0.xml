@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback &amp; learning loop"
+    id="id-ff553be22c6549da82638d64309696f0"
+    documentation="Systemen voor het systematisch verzamelen van feedback van eindgebruikers en domeinexperts op de kwaliteit en bruikbaarheid van AI-outputs. Deze feedback wordt vervolgens gebruikt om prompts iteratief te verbeteren."/>

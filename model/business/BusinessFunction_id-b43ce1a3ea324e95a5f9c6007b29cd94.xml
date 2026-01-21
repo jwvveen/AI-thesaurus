@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persona Management"
+    id="id-b43ce1a3ea324e95a5f9c6007b29cd94"
+    documentation="Gestandaardiseerde definities van AI-persona's (bijvoorbeeld &quot;expert in financieel advies,&quot; &quot;behulpzame technische supportmedewerker&quot;) die via specifieke instructies in prompts geactiveerd kunnen worden om de toon en stijl van de AI-output te sturen."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Context Management"
+    id="id-c026f3dbb9df4078bc2ccfaf0b7778f2"
+    documentation="Mechanismen en integraties om dynamisch relevante context (bijvoorbeeld gebruikersdata, historische interacties, domeinspecifieke kennis uit interne systemen) aan prompts toe te voegen."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integratielaag"
+    id="id-e9ff9e11a19a484ab3d02e57c29ea508"
+    documentation="Definities en interfaces voor hoe prompts en de daaruit voortvloeiende AI-outputs integreren met andere bedrijfssystemen, applicaties en workflows."/>

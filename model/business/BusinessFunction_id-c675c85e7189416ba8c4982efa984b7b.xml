@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Versionering &amp; Lifecycle Management"
+    id="id-c675c85e7189416ba8c4982efa984b7b"
+    documentation="Processen voor het beheren van verschillende versies van prompts, inclusief hun volledige levenscyclus: ontwerp, test, validatie, productie, evaluatie, en archivering of depreciatie."/>

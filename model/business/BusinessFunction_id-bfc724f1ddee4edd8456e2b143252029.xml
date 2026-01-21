@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prompt repository"
+    id="id-bfc724f1ddee4edd8456e2b143252029"
+    documentation="Een centrale, beheerde opslagplaats voor goedgekeurde, herbruikbare prompts en prompt-templates, verrijkt met metadata zoals doel, context, compatibel AI-model, versie, en prestatie-indicatoren."/>
