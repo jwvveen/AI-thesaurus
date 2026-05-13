@@ -3,13 +3,7 @@
     name="autonome agent"
     id="id-f232df7944f549bfaf615bacbddb01aa"
     documentation="Zie properties.">
-  <properties
-      key="ameff:status"
-      value="In bewerking"/>
-  <properties
-      key="ameff:datumstatus"
-      value="2023-01-01"/>
-  <properties
-      key="skos:definition"
-      value="Deze kunnen zelfstandig complexe taken uitvoeren, zoals zelfrijdende auto's die verkeersomstandigheden analyseren en handelen zonder directe menselijke controle."/>
+  <properties key="ameff:status" value="In bewerking"/>
+  <properties key="ameff:datumstatus" value="2023-01-01"/>
+  <properties key="skos:definition" value="Deze kunnen zelfstandig complexe taken uitvoeren, zoals zelfrijdende auto's die verkeersomstandigheden analyseren en handelen zonder directe menselijke controle."/>
 </archimate:Meaning>
