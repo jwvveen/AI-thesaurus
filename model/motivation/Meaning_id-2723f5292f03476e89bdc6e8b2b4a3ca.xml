@@ -3,7 +3,13 @@
     name="multi-agent systeem"
     id="id-2723f5292f03476e89bdc6e8b2b4a3ca"
     documentation="Zie properties.">
-  <properties key="ameff:status" value="In bewerking"/>
-  <properties key="ameff:datumstatus" value="2023-01-01"/>
-  <properties key="skos:definition" value="Dit zijn meerdere AI-agents die samenwerken, bijvoorbeeld robots in een fabriek die gezamenlijk een productieproces optimaliseren."/>
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Dit zijn meerdere AI-agents die samenwerken, bijvoorbeeld robots in een fabriek die gezamenlijk een productieproces optimaliseren."/>
 </archimate:Meaning>
