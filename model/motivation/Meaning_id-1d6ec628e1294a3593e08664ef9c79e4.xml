@@ -3,19 +3,9 @@
     name="unsupervised learning"
     id="id-1d6ec628e1294a3593e08664ef9c79e4"
     documentation="Zie properties.">
-  <properties
-      key="ameff:status"
-      value="In bewerking"/>
-  <properties
-      key="ameff:datumstatus"
-      value="2023-01-01"/>
-  <properties
-      key="skos:definition"
-      value="Machine learning proces waarbij AI zelf verborgen patronen in ongelabelde data zoekt zonder expliciete begeleiding."/>
-  <properties
-      key="skos:scopeNote"
-      value="Je laat het algoritme zelf patronen en structuren ontdekken in ongestructureerde gegevens zonder labels. Je biedt bijvoorbeeld foto’s aan van dieren die het algoritme zelf moet groeperen. "/>
-  <properties
-      key="dct:source"
-      value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
+  <properties key="ameff:status" value="In bewerking"/>
+  <properties key="ameff:datumstatus" value="2023-01-01"/>
+  <properties key="skos:definition" value="Machine learning proces waarbij AI zelf verborgen patronen in ongelabelde data zoekt zonder expliciete begeleiding."/>
+  <properties key="skos:scopeNote" value="Je laat het algoritme zelf patronen en structuren ontdekken in ongestructureerde gegevens zonder labels. Je biedt bijvoorbeeld foto’s aan van dieren die het algoritme zelf moet groeperen. "/>
+  <properties key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
 </archimate:Meaning>
