@@ -3,7 +3,13 @@
     name="hallucinatie"
     id="id-bcb04663e43c4abfb393bf62d8de05ee"
     documentation="Zie properties.">
-  <properties key="ameff:status" value="In bewerking"/>
-  <properties key="ameff:datumstatus" value="2023-01-01"/>
-  <properties key="skos:definition" value="Output van generatieve AI die feitelijk onjuist is of niet overeenkomt met de werkelijkheid, ondanks dat deze semantisch correct kan lijken."/>
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Output van generatieve AI die feitelijk onjuist is of niet overeenkomt met de werkelijkheid, ondanks dat deze semantisch correct kan lijken."/>
 </archimate:Meaning>

@@ -3,11 +3,25 @@
     name="AI"
     id="id-8abb432dde27452a98727b8d186be461"
     documentation="Zie properties.">
-  <properties key="ameff:status" value="Publiceren"/>
-  <properties key="ameff:datumstatus" value="2024-06-13"/>
-  <properties key="skos:definition" value="Een technologie die, voor expliciete of impliciete doelen, afleidt hoe het op basis van ontvangen input (zoals data), outputs genereert. Outputs betreffen onder meer voorspellingen, content, aanbevelingen en/of beslissingen. De technologie kan leren, redeneren en taken uitvoeren op een manier die normaliter menselijke intelligentie vereist."/>
-  <properties key="skos:scopeNote" value="AI (Artificial Intelligence) verwijst naar het bredere concept van kunstmatige intelligentie—de wetenschap en technologie die machines in staat stelt om menselijke cognitieve taken na te bootsen, zoals leren, redeneren en probleemoplossing.Dit omvat technieken zoals machine learning, neurale netwerken en natuurlijke taalverwerking."/>
-  <properties key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
-  <properties key="skos:altLabel" value="kunstmatige intelligentie"/>
-  <properties key="rdfs:comment" value="AI (kunstmatige intelligentie) is een technologie waarbij computers taken uitvoeren die normaal door mensen worden gedaan, zoals leren, denken en problemen oplossen. AI kan bijvoorbeeld gezichten herkennen, teksten begrijpen of zelf rijden in een auto. Dit gebeurt met slimme programma’s die veel gegevens verwerken en daaruit leren."/>
+  <properties
+      key="ameff:status"
+      value="Publiceren"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2024-06-13"/>
+  <properties
+      key="skos:definition"
+      value="Een technologie die, voor expliciete of impliciete doelen, afleidt hoe het op basis van ontvangen input (zoals data), outputs genereert. Outputs betreffen onder meer voorspellingen, content, aanbevelingen en/of beslissingen. De technologie kan leren, redeneren en taken uitvoeren op een manier die normaliter menselijke intelligentie vereist."/>
+  <properties
+      key="skos:scopeNote"
+      value="AI (Artificial Intelligence) verwijst naar het bredere concept van kunstmatige intelligentie—de wetenschap en technologie die machines in staat stelt om menselijke cognitieve taken na te bootsen, zoals leren, redeneren en probleemoplossing.Dit omvat technieken zoals machine learning, neurale netwerken en natuurlijke taalverwerking."/>
+  <properties
+      key="dct:source"
+      value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+  <properties
+      key="skos:altLabel"
+      value="kunstmatige intelligentie"/>
+  <properties
+      key="rdfs:comment"
+      value="AI (kunstmatige intelligentie) is een technologie waarbij computers taken uitvoeren die normaal door mensen worden gedaan, zoals leren, denken en problemen oplossen. AI kan bijvoorbeeld gezichten herkennen, teksten begrijpen of zelf rijden in een auto. Dit gebeurt met slimme programma’s die veel gegevens verwerken en daaruit leren."/>
 </archimate:Meaning>

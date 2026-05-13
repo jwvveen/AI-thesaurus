@@ -3,18 +3,22 @@
     name="algoritme"
     id="id-25df79f046a34c318349d1600a3bc226"
     documentation="Zie properties.">
-  <properties key="ameff:status" value="In bewerking"/>
-  <properties key="ameff:datumstatus" value="2021-01-26"/>
-  <properties key="skos:definition" value="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden."/>
-  <properties key="dct:source" value="https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf"/>
-  <properties key="skos:scopeNote" value="Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:
-
-* problemen oplossen
-
-* vragen beantwoorden
-
-* taken of processen uitvoeren
-
-* besluiten nemen"/>
-  <properties key="rdfs:comment" value="Een recept om een informaticaprobleem op te lossen vanuit een gegeven begintoestand naar een beoogd einddoel, dat bestaat uit een eindige reeks eenduidig gedefinieerde instructies of regels."/>
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2021-01-26"/>
+  <properties
+      key="skos:definition"
+      value="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden."/>
+  <properties
+      key="dct:source"
+      value="https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf"/>
+  <properties
+      key="skos:scopeNote"
+      value="Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:  * problemen oplossen  * vragen beantwoorden  * taken of processen uitvoeren  * besluiten nemen"/>
+  <properties
+      key="rdfs:comment"
+      value="Een recept om een informaticaprobleem op te lossen vanuit een gegeven begintoestand naar een beoogd einddoel, dat bestaat uit een eindige reeks eenduidig gedefinieerde instructies of regels."/>
 </archimate:Meaning>

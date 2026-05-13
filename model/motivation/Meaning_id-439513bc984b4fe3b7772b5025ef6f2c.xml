@@ -3,7 +3,13 @@
     name="reactieve agent"
     id="id-439513bc984b4fe3b7772b5025ef6f2c"
     documentation="Zie properties.">
-  <properties key="ameff:status" value="In bewerking"/>
-  <properties key="ameff:datumstatus" value="2023-01-01"/>
-  <properties key="skos:definition" value="Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."/>
+  <properties
+      key="ameff:status"
+      value="In bewerking"/>
+  <properties
+      key="ameff:datumstatus"
+      value="2023-01-01"/>
+  <properties
+      key="skos:definition"
+      value="Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."/>
 </archimate:Meaning>
