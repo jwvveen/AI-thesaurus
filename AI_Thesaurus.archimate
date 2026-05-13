@@ -11,51 +11,63 @@
     </element>
   </folder>
   <folder name="Business" id="id-folder-business" type="business">
-    <element xsi:type="archimate:BusinessFunction" name="Persona Management" id="id-b43ce1a3ea324e95a5f9c6007b29cd94">
-      <documentation>Gestandaardiseerde definities van AI-persona's (bijvoorbeeld &quot;expert in financieel advies,&quot; &quot;behulpzame technische supportmedewerker&quot;) die via specifieke instructies in prompts geactiveerd kunnen worden om de toon en stijl van de AI-output te sturen.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessFunction" name="Output validatie &amp; filtering" id="id-dc7ad62346834b4c8ffc07d010d60226">
-      <documentation>Geautomatiseerde en/of handmatige processen en tools om de output van AI-modellen te controleren op feitelijkheid, relevantie, consistentie, toon, en het filteren van ongewenste of schadelijke content.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessFunction" name="Prompt repository" id="id-bfc724f1ddee4edd8456e2b143252029">
-      <documentation>Een centrale, beheerde opslagplaats voor goedgekeurde, herbruikbare prompts en prompt-templates, verrijkt met metadata zoals doel, context, compatibel AI-model, versie, en prestatie-indicatoren.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessFunction" name="Prompt design &amp; development" id="id-8b8fff08d9c842eabf4b8458daf1d352">
-      <documentation>Processen, richtlijnen en tools voor het methodisch ontwerpen van effectieve prompts, gebaseerd op principes van duidelijkheid, context en specificiteit</documentation>
-    </element>
     <element xsi:type="archimate:BusinessFunction" name="Feedback &amp; learning loop" id="id-ff553be22c6549da82638d64309696f0">
       <documentation>Systemen voor het systematisch verzamelen van feedback van eindgebruikers en domeinexperts op de kwaliteit en bruikbaarheid van AI-outputs. Deze feedback wordt vervolgens gebruikt om prompts iteratief te verbeteren.</documentation>
-    </element>
-    <element xsi:type="archimate:BusinessFunction" name="Versionering &amp; Lifecycle Management" id="id-c675c85e7189416ba8c4982efa984b7b">
-      <documentation>Processen voor het beheren van verschillende versies van prompts, inclusief hun volledige levenscyclus: ontwerp, test, validatie, productie, evaluatie, en archivering of depreciatie.</documentation>
     </element>
     <element xsi:type="archimate:BusinessFunction" name="Context Management" id="id-c026f3dbb9df4078bc2ccfaf0b7778f2">
       <documentation>Mechanismen en integraties om dynamisch relevante context (bijvoorbeeld gebruikersdata, historische interacties, domeinspecifieke kennis uit interne systemen) aan prompts toe te voegen.</documentation>
     </element>
+    <element xsi:type="archimate:BusinessFunction" name="Prompt repository" id="id-bfc724f1ddee4edd8456e2b143252029">
+      <documentation>Een centrale, beheerde opslagplaats voor goedgekeurde, herbruikbare prompts en prompt-templates, verrijkt met metadata zoals doel, context, compatibel AI-model, versie, en prestatie-indicatoren.</documentation>
+    </element>
     <element xsi:type="archimate:BusinessFunction" name="Integratielaag" id="id-e9ff9e11a19a484ab3d02e57c29ea508">
       <documentation>Definities en interfaces voor hoe prompts en de daaruit voortvloeiende AI-outputs integreren met andere bedrijfssystemen, applicaties en workflows.</documentation>
     </element>
+    <element xsi:type="archimate:BusinessFunction" name="Output validatie &amp; filtering" id="id-dc7ad62346834b4c8ffc07d010d60226">
+      <documentation>Geautomatiseerde en/of handmatige processen en tools om de output van AI-modellen te controleren op feitelijkheid, relevantie, consistentie, toon, en het filteren van ongewenste of schadelijke content.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Persona Management" id="id-b43ce1a3ea324e95a5f9c6007b29cd94">
+      <documentation>Gestandaardiseerde definities van AI-persona's (bijvoorbeeld &quot;expert in financieel advies,&quot; &quot;behulpzame technische supportmedewerker&quot;) die via specifieke instructies in prompts geactiveerd kunnen worden om de toon en stijl van de AI-output te sturen.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Prompt design &amp; development" id="id-8b8fff08d9c842eabf4b8458daf1d352">
+      <documentation>Processen, richtlijnen en tools voor het methodisch ontwerpen van effectieve prompts, gebaseerd op principes van duidelijkheid, context en specificiteit</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessFunction" name="Versionering &amp; Lifecycle Management" id="id-c675c85e7189416ba8c4982efa984b7b">
+      <documentation>Processen voor het beheren van verschillende versies van prompts, inclusief hun volledige levenscyclus: ontwerp, test, validatie, productie, evaluatie, en archivering of depreciatie.</documentation>
+    </element>
   </folder>
   <folder name="Application" id="id-folder-application" type="application">
-    <element xsi:type="archimate:ApplicationComponent" name="Generative AI Platform" id="id-3fef7b405c61474e95a41df5a80b89a0"/>
     <element xsi:type="archimate:ApplicationComponent" name="Vector Database" id="id-eee4a3f14a524b649b98d23bc03e8c16"/>
-    <element xsi:type="archimate:ApplicationComponent" name="LLM" id="id-6ed8164643494d38abe9381719cc8c9a"/>
     <element xsi:type="archimate:ApplicationComponent" name="Prompt Management Tool" id="id-5f7e82eaa9924023bfc5001cf91fc730"/>
+    <element xsi:type="archimate:ApplicationComponent" name="Generative AI Platform" id="id-3fef7b405c61474e95a41df5a80b89a0"/>
+    <element xsi:type="archimate:ApplicationComponent" name="LLM" id="id-6ed8164643494d38abe9381719cc8c9a"/>
   </folder>
   <folder name="Technology &amp; Physical" id="id-folder-technology" type="technology">
   </folder>
   <folder name="Motivation" id="id-folder-motivation" type="motivation">
-    <element xsi:type="archimate:Meaning" name="autonome agent" id="id-f232df7944f549bfaf615bacbddb01aa">
+    <element xsi:type="archimate:Meaning" name="temperatuur" id="id-99810ae4b63f476c90262643ffe69e83">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Deze kunnen zelfstandig complexe taken uitvoeren, zoals zelfrijdende auto's die verkeersomstandigheden analyseren en handelen zonder directe menselijke controle."/>
+      <property key="skos:definition" value="De mate van willekeur (randomness) in de output van een LLM."/>
     </element>
-    <element xsi:type="archimate:Meaning" name="hallucinatie" id="id-bcb04663e43c4abfb393bf62d8de05ee">
+    <element xsi:type="archimate:Meaning" name="RAG" id="id-69b70dc6af0d4e37b92642d32f5721f4">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Output van generatieve AI die feitelijk onjuist is of niet overeenkomt met de werkelijkheid, ondanks dat deze semantisch correct kan lijken."/>
+      <property key="skos:definition" value="Is een techniek binnen kunstmatige intelligentie die de kracht van generatieve AI combineert met informatieopvraging. Dit betekent dat een AI-model niet alleen tekst genereert op basis van vooraf getrainde data, maar ook relevante informatie kan ophalen uit externe kennisbronnen om nauwkeurigere en actuele antwoorden te geven"/>
+      <property key="skos:altLabel" value="Retrieval Augmented Generation"/>
+    </element>
+    <element xsi:type="archimate:Value" name="Schaalbaarheid" id="id-92b61019e7004a6f9ca475f130bdbe12">
+      <documentation>Een architectuur maakt het mogelijk om effectief promptgebruik op te schalen binnen de gehele organisatie, over verschillende afdelingen en use cases heen.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="GPT" id="id-1a1a07398d9148f89d881e0359a4ef48">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Een type neuraal netwerk, vooraf getraind op veel tekstdata, dat duidelijke en relevante tekst genereert op basis van prompts"/>
+      <property key="skos:altLabel" value="Generative Pre-trained Transformer"/>
+      <property key="skos:scopeNote" value="Een voorbeeld is ChatGPT."/>
     </element>
     <element xsi:type="archimate:Meaning" name="Mistral AI" id="id-c2f46b43502248a9aa80dd6b2eada12e">
       <documentation>Zie properties.</documentation>
@@ -63,6 +75,12 @@
       <property key="ameff:datumstatus" value="2023-01-01"/>
       <property key="skos:definition" value="Mistral AI is een Frans kunstmatige intelligentie (AI) bedrijf, opgericht in april 2023 door Arthur Mensch, Guillaume Lample en Timothée Lacroix. Het bedrijf is gespecialiseerd in open-weight large language models (LLMs) en richt zich op open-source innovatie in AI."/>
       <property key="skos:scopeNote" value="- Ontwikkeling van AI-modellen → Mistral AI heeft verschillende geavanceerde taalmodellen ontwikkeld, zoals Mistral 7B, Mixtral 8x7B en Codestral 22B.- Focus op open-source → Het bedrijf wil AI toegankelijk maken door open modellen te ontwikkelen die breed inzetbaar zijn.- Snelle groei en investeringen → In 2023 haalde Mistral AI €385 miljoen op in een investeringsronde, en in 2024 werd het bedrijf gewaardeerd op €5,8 miljard."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Beslisbomen" id="id-0fd11bfe8cd048608cd891c60d8a6c29">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Gebruikt hiërarchische regels om beslissingen te nemen."/>
     </element>
     <element xsi:type="archimate:Meaning" name="LLaMA" id="id-bd82bf977b0242fdb3ec3567990259ce">
       <documentation>Zie properties.</documentation>
@@ -72,11 +90,135 @@
       <property key="skos:altLabel" value="Large Language Model Meta AI"/>
       <property key="dct:source" value="https://www.llama.com/"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="multi-agent systeem" id="id-2723f5292f03476e89bdc6e8b2b4a3ca">
+    <element xsi:type="archimate:Assessment" name="Beheer en onderhoud" id="id-a06e73eb9f41409eb879c7dd48a865d0">
+      <documentation>Wanneer AI-modellen updaten of nieuwe, verbeterde prompt-technieken beschikbaar komen, is het een complexe taak om alle ad-hoc en verspreide prompts aan te passen en te optimaliseren.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="discriminator" id="id-a59a0d0868d043c087f0f913677950ca">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Dit zijn meerdere AI-agents die samenwerken, bijvoorbeeld robots in een fabriek die gezamenlijk een productieproces optimaliseren."/>
+      <property key="skos:definition" value="Onderdeel van een GAN dat beoordeelt of data echt (uit een dataset) of onecht (gegenereerd) is; belangrijk voor o.a. fraudedetectie"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="OpenAI" id="id-67dc86782cbd49b885234b9b96b0e905">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="OpenAI is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2015 en gevestigd in San Francisco, Californië. Het bedrijf richt zich op AI-onderzoek en ontwikkeling, met als missie om kunstmatige algemene intelligentie (AGI) te creëren die veilig en nuttig is voor de mensheid."/>
+      <property key="skos:scopeNote" value="Het bedrijf werd in 2015 opgericht door Ilya Sutskever, Greg Brockman, Sam Altman en Elon Musk (die niet langer betrokken is). De huidige CEO is Sam Altman. OpenAI begon als een non-profit, maar ging in 2019 over naar for-profit. Het heeft populaire tools uitgebracht, waaronder ChatGPT en DALL-E."/>
+      <property key="dct:source" value="https://openai.com/about/"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="prompt engineering" id="id-a598d6f1b14f4d76a2e8e67e3c877d9a">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Het proces van het zorgvuldig kiezen en aanpassen van de input (prompt) voor een machine learning-model om de best mogelijke output te krijgen."/>
+      <property key="skos:altLabel" value="prompten"/>
+      <property key="skos:scopeNote" value="Voorbeelden van prompt engineering:
+
+- Een duidelijke vraag stellen zodat de AI een informatief antwoord geeft.
+
+- Specifieke instructies toevoegen om een bepaalde schrijfstijl of toon te krijgen.
+
+- Creatieve prompts maken zodat een AI interessante ideeën of ontwerpen genereert."/>
+      <property key="dct:source" value="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-prompt-engineering"/>
+      <property key="rdfs:comment" value="Prompt engineering is het slim formuleren van opdrachten voor een AI-systeem, zoals een chatbot of tekstgenerator. Door de juiste woorden en structuur te gebruiken, kan een AI betere en nauwkeurigere antwoorden geven."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="K-Nearest Neighbors" id="id-a114678a0e644985a87cb6959f4e7e58">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Vergelijkt nieuwe gegevenspunten met bestaande om de beste match te vinden."/>
+      <property key="skos:altLabel" value="KNN"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="validatie" id="id-3bca660407d544dd9ae76301a1045608">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (validatieset) die niet voor training is gebruikt."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Lineaire regressie" id="id-1ff559ff76744de3ab30a098724b41ad">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Voorspelt een continue waarde op basis van invoerdata."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="token" id="id-077fec2332044d8694cb5883d98721d5">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="De basiseenheid van tekst (een woord of deel van een woord) die wordt verwerkt door LLMs."/>
+    </element>
+    <element xsi:type="archimate:Value" name="Risicobeheersing" id="id-59ed2b8921ec4c6fbf8251f561dfe572">
+      <documentation>Helpt bij het proactief identificeren en mitigeren van risico's zoals het genereren van incorrecte informatie, het versterken van bias, of het schenden van privacy.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="XLNet" id="id-f93355650fcf4f08a3029baed7b5e418">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Een verbeterde versie van BERT met permutatie-gebaseerde training."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Agentic-AI" id="id-558d50e96baa403797897085c47e1c9d">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Agentic AI geeft het AI-systeem ook het vermogen tot zelfstandige handelingen, om bijvoorbeeld bestanden aan te maken."/>
+      <property key="skos:scopeNote" value="Een voorbeeld van Agentic AI is een digitale assistent die niet alleen vragen beantwoordt, maar ook zelfstandig een reis plant, tickets boekt en een hotel reserveert op basis van voorkeuren."/>
+      <property key="dct:source" value="https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk"/>
+      <property key="rdfs:comment" value="Agentic AI verwijst naar kunstmatige intelligentie die zelfstandig beslissingen kan nemen en acties kan uitvoeren zonder directe menselijke tussenkomst. Dit type AI gaat verder dan traditionele AI-systemen, die meestal reageren op input zonder echte autonomie. Agentic AI kan taken plannen, uitvoeren en zichzelf aanpassen op basis van veranderende omstandigheden."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Gemini" id="id-4838adaa62424e1a99d293215c8bfe32">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Google's AI-model dat real-time internetgegevens kan verwerken en een breed scala aan taken aankan."/>
+      <property key="skos:altLabel" value="Bard"/>
+      <property key="dct:source" value="https://gemini.google.com/"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="neurale netwerken" id="id-3b5a06968e144058b3de35543b8e0ae0">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Een geavanceerde vorm van AI die complexe patronen in data herkent via gelaagde neurale netwerken, nuttig voor beeldherkenning, spraakverwerking en taalbegrip."/>
+      <property key="skos:altLabel" value="deeplearning"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="LSTM" id="id-dc96470859204cc0936668cf5f58ce9b">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Verbeterde versie van RNNs, gebruikt voor tijdsreeksen en taalmodellen."/>
+      <property key="skos:altLabel" value="Long Short-Term Memory"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Mistral" id="id-fad1bfff70854bc0949c3f57102b42e8">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Een krachtige open-source taalmodel dat efficiënt werkt en minder rekenkracht vereist."/>
+      <property key="skos:scopeNote" value="zoals Mistral 7B, Mixtral 8x7B en Codestral 22B"/>
+      <property key="dct:source" value="https://mistral.ai/"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="rekenregel" id="id-e2f6d243f58e43958906be0e475ebbd3">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2021-01-26"/>
+      <property key="skos:definition" value="Rekenregels zijn de meest eenvoudige algoritmes. Dit zijn door mensen bedachte regels die het computersysteem precies moet opvolgen: als x gebeurt, dan doe je y."/>
+      <property key="skos:altLabel" value="regelgebaseerd algoritme"/>
+      <property key="skos:scopeNote" value="Rekenregels:
+
+* zijn expliciet geprogrammeerd en bedacht door mensen
+
+* staan uit vaste stappen om een taak uit te voeren
+
+
+
+Voorbeelden: 
+
+* Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.
+
+* Ondersteuning berekening uitkering dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen.
+
+* Prestatiemonitor dat risicoscores berekent van scholen, op basis van door mensen bedachte regels."/>
+      <property key="rdfs:comment" value="Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem."/>
+      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#wanneer-is-het-een-algoritme"/>
     </element>
     <element xsi:type="archimate:Meaning" name="deepfake" id="id-8140d291d7fc49919113cae76cda5e73">
       <documentation>Zie properties.</documentation>
@@ -85,62 +227,49 @@
       <property key="skos:definition" value="Door AI gegenereerd of gemanipuleerd beeld-, audio- of videomateriaal dat een gelijkenis vertoont met bestaande personen, voorwerpen, plaatsen, entiteiten of gebeurtenissen, en door een persoon ten onrechte voor authentiek of waarheidsgetrouw zou worden aangezien."/>
       <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="AI-detector" id="id-52e8c071c84d4e27a8d1eef05a0ad5d8">
+    <element xsi:type="archimate:Meaning" name="ChatGPT" id="id-6001a10a6e234e36be3e5fef7c2bbc00">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een AI-detector is een hulpmiddel dat is ontworpen om te detecteren wanneer een stuk tekst (of soms een afbeelding of video) is gemaakt door AI-tools (zoals ChatGPT en DALL-E). Deze detectoren zijn niet 100% betrouwbaar, maar ze kunnen een indicatie geven van de waarschijnlijkheid dat een tekst door AI is gegenereerd."/>
-      <property key="skos:scopeNote" value="AI-detectoren werken met soortgelijke grote taalmodellen (large language models, LLMs) als de tools die ze proberen te detecteren. Deze modellen kijken in wezen naar een tekst (of afbeelding of video) en vragen zich af: “Is dit iets wat ik zou hebben gegenereerd?”. Ze zoeken naar lage niveaus van twee criteria: perplexiteit (perplexity) en onregelmatigheid (burstiness).AI-detectoren kunnen worden gebruikt door universiteiten en andere instellingen om door AI gegenereerde inhoud te identificeren."/>
-      <property key="dct:source" value="https://www.scribbr.nl/ai-tools-gebruiken/ai-termen-begrippenlijst/"/>
+      <property key="skos:definition" value="ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"/>
+      <property key="dct:source" value="https://chatgpt.com/"/>
     </element>
-    <element xsi:type="archimate:Driver" name="Verhogen operationele efficiëntie" id="id-610c4ad3adf5448b878dc3ecd84ca718"/>
-    <element xsi:type="archimate:Meaning" name="geheugen-gebaseerde agent" id="id-593dffe970da47a389c0189623cfc145">
+    <element xsi:type="archimate:Meaning" name="Machine Learning" id="id-644a03519ce8463f80176ce9766c5911">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."/>
+      <property key="skos:definition" value="De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."/>
+      <property key="skos:altLabel" value="ML"/>
+      <property key="skos:scopeNote" value="Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor leren computers van data, zonder dat mensen dit precies zo programmeren. Ze zoeken bijvoorbeeld naar patronen of doen voorspellingen. Dit is een veel voorkomende vorm van AI."/>
+      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="Anthropic" id="id-8caad01156b64be3b17b07b4523db6fc">
+    <element xsi:type="archimate:Meaning" name="Grok" id="id-7306a1c4c2094ad6a86ef3f595884607">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Anthropic is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2021 door voormalige medewerkers van OpenAI, waaronder Dario en Daniela Amodei. "/>
-      <property key="skos:scopeNote" value="Het bedrijf richt zich op AI-veiligheid en ontwikkelt grote taalmodellen (LLMs) onder de naam Claude, als concurrent van ChatGPT en Google Gemini."/>
+      <property key="skos:definition" value=" Ontwikkeld door X (voorheen Twitter), ontworpen om humor en context beter te begrijpen.
+
+"/>
+      <property key="skos:scopeNote" value="Grok is een generatieve AI-chatbot ontwikkeld door xAI, het AI-bedrijf van Elon Musk. Het werd gelanceerd als een alternatief voor ChatGPT en andere AI-assistenten, met een focus op real-time informatie en een unieke persoonlijkheid."/>
+      <property key="dct:source" value="https://grok.com/"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="Meta" id="id-544c60e94bf3446ba98a536198c96373">
+    <element xsi:type="archimate:Meaning" name="bias" id="id-8e451ba30a654c4198e128d65c1dc223">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Meta Platforms, Inc. is een Amerikaans technologiebedrijf, opgericht in 2004 door Mark Zuckerberg en oorspronkelijk bekend als Facebook, Inc.. In 2021 werd de naam veranderd naar Meta, om de focus op de metaverse en bredere digitale innovatie te weerspiegelen."/>
-      <property key="skos:scopeNote" value="Meta is een van de grootste technologiebedrijven ter wereld en richt zich op sociale media, digitale communicatie en virtual reality. "/>
+      <property key="skos:definition" value="In de context van AI verwijst bias of vooringenomenheid naar de aannames die een AI-systeem doet om het leerproces en de taakuitvoer te vereenvoudigen. AI-onderzoekers proberen bias tot een minimum te beperken, omdat deze kan leiden tot slechte resultaten of onverwachte uitkomsten."/>
+      <property key="skos:scopeNote" value="Bias in de context van AI verwijst naar systematische fouten of vooroordelen in een algoritme die ontstaan door bevooroordeelde trainingsdata. Dit kan leiden tot oneerlijke of onnauwkeurige resultaten. Bijvoorbeeld, als een AI-systeem wordt getraind op data die voornamelijk afkomstig is van een bepaalde demografische groep, kan het systeem bevooroordeeld zijn tegen andere groepen. Bias kan verschillende vormen aannemen, zoals: * Sample Bias: Wanneer de trainingsdata niet representatief is voor de populatie. * Measurement Bias: Wanneer de data die wordt verzameld onnauwkeurig of misleidend is. * Algorithmic Bias: Wanneer het algoritme zelf bepaalde groepen systematisch benadeelt."/>
+      <property key="skos:altLabel" value="vooringenomenheid"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="model" id="id-3f32b7b0b9854a37980b319e94b816e2">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2021-01-26"/>
-      <property key="skos:definition" value="Een programma getraind om patronen in data te herkennen en voorspellingen te doen."/>
-      <property key="skos:altLabel" value="concept"/>
-      <property key="skos:scopeNote" value="Bijvoorbeeld weer voorspellen, katten herkennen"/>
-      <property key="rdfs:comment" value="Een model is een versimpelde weergave van iets uit de echte wereld. Het helpt om iets beter te begrijpen, te onderzoeken of te voorspellen. "/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="DeepSeek" id="id-c534aeb97d4b416faeaeb39c00a3f1a2">
+    <element xsi:type="archimate:Meaning" name="NER" id="id-5731aefff919430b9beff520fc5cb95e">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="DeepSeek is een Chinees kunstmatige intelligentiebedrijf dat open-source grote taalmodellen ontwikkelt. Het werd opgericht in mei 2023 en wordt gefinancierd door het Chinese hedgefonds High-Flyer. DeepSeek kreeg internationale aandacht in januari 2025 met de release van zijn nieuwste model, DeepSeek R1, dat concurreert met gevestigde AI-systemen zoals OpenAI's ChatGPT."/>
-      <property key="dct:source" value="https://deepseek.ai/"/>
+      <property key="skos:definition" value="Identificeren van namen, locaties en concepten in tekst."/>
+      <property key="skos:altLabel" value="Named Entity Recognition"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="Autoencoders" id="id-c4bea78d62f64c7ba35e94ac023a6c37">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="skos:definition" value="Gebruikt voor anomaliedetectie en data-compressie."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="BERT" id="id-4adf7a7be5744eb791dad323bd8d8517">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Begrijpt tekst in context door bidirectionele verwerking."/>
-      <property key="skos:altLabel" value="Bidirectional Encoder Representations from Transformers"/>
+    <element xsi:type="archimate:Assessment" name="Herbruikbaarheid" id="id-4976db20ff8c4e48b5823808f9cd0c4e">
+      <documentation>Effectieve prompts worden niet systematisch vastgelegd en gedeeld. Hierdoor gaat waardevolle kennis verloren en wordt het wiel telkens opnieuw uitgevonden, wat inefficiënt is.</documentation>
     </element>
     <element xsi:type="archimate:Meaning" name="GAN" id="id-8cd68d2ff669417683658cfe088d08ca">
       <documentation>Zie properties.</documentation>
@@ -150,23 +279,47 @@
       <property key="skos:altLabel" value="Generative Adversarial Network"/>
       <property key="skos:scopeNote" value="Helpt bij het genereren van realistische data zoals beelden en geluid."/>
     </element>
-    <element xsi:type="archimate:Value" name="Governance" id="id-0bbfe32fe8c14b79813980aca9413064">
-      <documentation>Het implementeren van duidelijke processen voor het creëren, testen, goedkeuren, en beheren van prompts, inclusief ethische overwegingen en risicobeoordelingen.</documentation>
-    </element>
-    <element xsi:type="archimate:Assessment" name="Kwaliteitsborging" id="id-a4496ff618f3481caeae1bcc9022901b">
-      <documentation>Zonder een gestructureerde aanpak is het moeilijk om de effectiviteit van prompts objectief te meten, te vergelijken en systematisch te verbeteren.</documentation>
-    </element>
-    <element xsi:type="archimate:Meaning" name="reinforcement learning" id="id-465cf786ea7d41399ef0b591fe48e4f2">
+    <element xsi:type="archimate:Meaning" name="Support Vector Machines" id="id-d15f615d08654b169c6ea8720f9117f9">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Het algoritme leert door straf en beloning. Het doel is zo hoog mogelijk scoren in zo min mogelijk tijd."/>
-      <property key="skos:scopeNote" value="Je geeft bijvoorbeeld punten als het algoritme foto’s sorteert die op katten lijken. Dit proces is vergelijkbaar met hoe mensen leren door ervaring. Bij reinforcement learning leert het AI-model autonoom bij. Bij online reinforcement learning kan het model in productie ook nog continu zichzelf bijstellen. Je kunt er ook voor kiezen dit alleen in trainingsfase te doen, en het model 'bevroren' in te zetten. "/>
-      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
-      <property key="skos:altLabel" value="bekrachtiginsleren"/>
+      <property key="skos:definition" value="Klasseert data met een optimaliserende grens."/>
+      <property key="skos:altLabel" value="SVM"/>
     </element>
-    <element xsi:type="archimate:Assessment" name="Beheer en onderhoud" id="id-a06e73eb9f41409eb879c7dd48a865d0">
-      <documentation>Wanneer AI-modellen updaten of nieuwe, verbeterde prompt-technieken beschikbaar komen, is het een complexe taak om alle ad-hoc en verspreide prompts aan te passen en te optimaliseren.</documentation>
+    <element xsi:type="archimate:Meaning" name="T5" id="id-a572f93ceb854c2e80c9fac9c2a987cb">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Geschikt voor diverse NLP-taken zoals samenvatting en vertaling."/>
+      <property key="skos:altLabel" value="Text-to-Text Transfer Transformer"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Random Forest" id="id-f9c6d28e74214709af773c051f438492">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Combineert meerdere beslisbomen om robuustere voorspellingen te doen."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="AI" id="id-8abb432dde27452a98727b8d186be461">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="Publiceren"/>
+      <property key="ameff:datumstatus" value="2024-06-13"/>
+      <property key="skos:definition" value="Een technologie die, voor expliciete of impliciete doelen, afleidt hoe het op basis van ontvangen input (zoals data), outputs genereert. Outputs betreffen onder meer voorspellingen, content, aanbevelingen en/of beslissingen. De technologie kan leren, redeneren en taken uitvoeren op een manier die normaliter menselijke intelligentie vereist."/>
+      <property key="skos:scopeNote" value="AI (Artificial Intelligence) verwijst naar het bredere concept van kunstmatige intelligentie—de wetenschap en technologie die machines in staat stelt om menselijke cognitieve taken na te bootsen, zoals leren, redeneren en probleemoplossing.Dit omvat technieken zoals machine learning, neurale netwerken en natuurlijke taalverwerking."/>
+      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+      <property key="skos:altLabel" value="kunstmatige intelligentie"/>
+      <property key="rdfs:comment" value="AI (kunstmatige intelligentie) is een technologie waarbij computers taken uitvoeren die normaal door mensen worden gedaan, zoals leren, denken en problemen oplossen. AI kan bijvoorbeeld gezichten herkennen, teksten begrijpen of zelf rijden in een auto. Dit gebeurt met slimme programma’s die veel gegevens verwerken en daaruit leren."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="AI-geletterdheid" id="id-345eea97ff2742ac8fb821c663480da7">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico’s van AI en de mogelijke schade die zij kan veroorzaken."/>
+      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Autoencoders" id="id-c4bea78d62f64c7ba35e94ac023a6c37">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="skos:definition" value="Gebruikt voor anomaliedetectie en data-compressie."/>
     </element>
     <element xsi:type="archimate:Meaning" name="AI-agent" id="id-8189ae8686614e3e8d2e5fa8fb4b4455">
       <documentation>Zie properties.</documentation>
@@ -178,8 +331,211 @@
       <property key="dct:source" value="https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/"/>
       <property key="rdfs:comment" value="Een AI-agent is een computerprogramma dat zelfstandig beslissingen kan nemen en handelingen uitvoert om een doel te bereiken. Het gebruikt kunstmatige intelligentie (AI) om informatie te verzamelen, te leren en zich aan te passen aan veranderingen."/>
     </element>
-    <element xsi:type="archimate:Assessment" name="Bias amplificatie" id="id-ddee31456511435cb63020fe317bd6d9">
-      <documentation>Ongestructureerd en onbewust prompten kan onbedoeld leiden tot het versterken van bestaande biases in AI-modellen, met potentieel negatieve gevolgen.</documentation>
+    <element xsi:type="archimate:Meaning" name="Claude AI" id="id-db4995cb35144acc8f1c396fd8fded22">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Bekend om zijn grote contextvenster en sterke creatieve schrijfvaardigheden
+
+"/>
+      <property key="dct:source" value="https://claude.ai/"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Algoritme Impact Assessment" id="id-f67b09d6474c4bd8b063e8deaa6af295">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2021-01-26"/>
+      <property key="skos:definition" value="Een algoritme impact assessment	is	een hulpmiddel voor	het maken van afwegingen bij het inzetten van algoritmes en kunstmatige intelligentie. "/>
+      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+      <property key="skos:scopeNote" value="Voorbeelden van algoritme impact assessments zijn het Impact Assessment	 Mensenrechten	en	 Algoritmes (IAMA) en het AI	Impact	Assessment	(AIIA)"/>
+      <property key="skos:altLabel" value="AIIA"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="xAI" id="id-62ba75d7a9f84f45a346631e09d69a42">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="xAI is een kunstmatige intelligentie (AI) bedrijf, opgericht door Elon Musk in 2023. Het bedrijf richt zich op geavanceerde AI-ontwikkeling en heeft als missie om AI te bouwen die menselijke kennis en begrip vergroot."/>
+      <property key="skos:scopeNote" value="xAI wil AI ontwikkelen die de mensheid helpt bij wetenschappelijke ontdekkingen en complexe problemen. Het bedrijf werkt met een snelle ontwikkelingsstrategie en richt zich op innovatieve AI-oplossingen."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="RNN" id="id-2df45507f4954d18beae609b17fe4ab1">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Geschikt voor sequentiegegevens zoals tekst en spraak."/>
+      <property key="skos:altLabel" value="Recurrent Neural Networks"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="multi-agent systeem" id="id-2723f5292f03476e89bdc6e8b2b4a3ca">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Dit zijn meerdere AI-agents die samenwerken, bijvoorbeeld robots in een fabriek die gezamenlijk een productieproces optimaliseren."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Naïve Bayes" id="id-d5edf1b5a1b44b1aa3178b6afba262e7">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Probabilistisch algoritme gebaseerd op de Bayesiaanse theorie."/>
+      <property key="skos:scopeNote" value="Het wordt veel toegepast in kunstmatige intelligentie en machine learning, bijvoorbeeld bij spamfilters, tekstanalyse en fraudedetectie. Het heet &quot;Naïve&quot; omdat het ervan uitgaat dat kenmerken onafhankelijk van elkaar zijn, wat niet altijd klopt, maar in veel gevallen toch goed werkt."/>
+      <property key="dct:source" value="https://en.wikipedia.org/wiki/Naive_Bayes_classifier"/>
+      <property key="rdfs:comment" value="Naïve Bayes is een statistische methode die gebruikt wordt om waarschijnlijkheden te berekenen en te voorspellen. "/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="hallucinatie" id="id-bcb04663e43c4abfb393bf62d8de05ee">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Output van generatieve AI die feitelijk onjuist is of niet overeenkomt met de werkelijkheid, ondanks dat deze semantisch correct kan lijken."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="algoritme register" id="id-fa0be189340043c0b6e6ebbddbf15baa">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2025-01-01"/>
+      <property key="skos:definition" value="Een register met beschrijvingen van algoritmische toepassingen die direct of indirect een maatschappelijk en/of economisch effect hebben, op burgers of op de maatschappij als geheel."/>
+      <property key="dct:source" value="http://begrippen.kadaster.nl/ar/id/concept/AlgorithmRegister"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="GPT-4.1" id="id-0c5cb9bbd2d14497a2e00276752132f6">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="GPT-4.1 is een geavanceerd AI-model van OpenAI dat verbeteringen biedt op het gebied van codering, instructievolging en lange-contextbegrip. Dit model ondersteunt tot 1 miljoen tokens aan context, waardoor het beter in staat is om grote hoeveelheden informatie te verwerken en relevante details te herkennen."/>
+      <property key="dct:source" value="https://openai.com/index/gpt-4-1/"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Generatieve AI" id="id-bf8b320010cf4113800fd98db2233d13">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="Ter redactie"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Een vorm van artificiële intelligentie die content (tekst, afbeeldingen en/of gevarieerde inhoud zoals muziek) kan produceren (genereren) op basis van de gegevens waarop het wordt getraind."/>
+      <property key="skos:altLabel" value="GenAI"/>
+      <property key="skos:scopeNote" value="Een voorbeeld is het genereren van synthetische data en ondersteuning bij programmeren."/>
+      <property key="dct:source" value="https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk"/>
+      <property key="rdfs:comment" value="Generatieve AI, dat vaak wordt gebruikt door grote taalmodellen zoals GPT-4o en DALL-E 3, richt zich op het creëren van nieuwe content op basis van patronen die zijn geleerd uit enorme datasets."/>
+    </element>
+    <element xsi:type="archimate:Value" name="Governance" id="id-0bbfe32fe8c14b79813980aca9413064">
+      <documentation>Het implementeren van duidelijke processen voor het creëren, testen, goedkeuren, en beheren van prompts, inclusief ethische overwegingen en risicobeoordelingen.</documentation>
+    </element>
+    <element xsi:type="archimate:Value" name="Standaardisatie" id="id-aff776a9eada4aa29c05ec463cfade28">
+      <documentation>Het vastleggen van gemeenschappelijke structuren, templates, en richtlijnen voor het ontwerpen van prompts bevordert uniformiteit.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="AI-model" id="id-9497999cfd0d41f691463b660f2cc029">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2021-01-26"/>
+      <property key="skos:definition" value="Een AI-model is het resultaat van het trainen van een algoritme op data. Een algoritme is een set instructies, en het model is het specifieke resultaat van het volgen van de set instructies op basis van bepaalde data. "/>
+      <property key="skos:altLabel" value="concept"/>
+      <property key="skos:scopeNote" value="Een model wordt getraind op een taak, bijvoorbeeld het classificeren van documenten of bij een LLM het genereren van zinnen die lijken op de trainingsdata. GPT-4 is een voorbeeld van een AI-model."/>
+      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+    </element>
+    <element xsi:type="archimate:Value" name="Kwaliteitsbeheersing" id="id-1f0603f6ec604dbb89734574ae90cf7e">
+      <documentation>Systematische feedbackloops en de mogelijkheid tot A/B-testen van prompts leiden tot continu betere resultaten en een hogere betrouwbaarheid.</documentation>
+    </element>
+    <element xsi:type="archimate:Driver" name="Verhogen operationele efficiëntie" id="id-610c4ad3adf5448b878dc3ecd84ca718"/>
+    <element xsi:type="archimate:Meaning" name="Sentimentanalyse" id="id-97bde38b848f49f28deaf2a2d80343a5">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Interpreteren of een tekst positief, negatief of neutraal is."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="model" id="id-3f32b7b0b9854a37980b319e94b816e2">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2021-01-26"/>
+      <property key="skos:definition" value="Een programma getraind om patronen in data te herkennen en voorspellingen te doen."/>
+      <property key="skos:altLabel" value="concept"/>
+      <property key="skos:scopeNote" value="Bijvoorbeeld weer voorspellen, katten herkennen"/>
+      <property key="rdfs:comment" value="Een model is een versimpelde weergave van iets uit de echte wereld. Het helpt om iets beter te begrijpen, te onderzoeken of te voorspellen. "/>
+    </element>
+    <element xsi:type="archimate:Value" name="Efficiëntie" id="id-2298e292223747db9600ccf65005c516">
+      <documentation>Hergebruik van bewezen, effectieve prompts en prompt-componenten versnelt de ontwikkeling van AI-toepassingen en verbetert de kwaliteit van de output.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="CNN" id="id-b22b4f48be1c48de974b0b986ff92110">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Vooral gebruikt bij beeldherkenning."/>
+      <property key="skos:altLabel" value="Convolutional Neural Networks"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="unsupervised learning" id="id-1d6ec628e1294a3593e08664ef9c79e4">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Machine learning proces waarbij AI zelf verborgen patronen in ongelabelde data zoekt zonder expliciete begeleiding."/>
+      <property key="skos:scopeNote" value="Je laat het algoritme zelf patronen en structuren ontdekken in ongestructureerde gegevens zonder labels. Je biedt bijvoorbeeld foto’s aan van dieren die het algoritme zelf moet groeperen. "/>
+      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Transformers" id="id-8a4681eb26764cce82d5cb4d656ae340">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Backbone van moderne NLP-modellen zoals GPT en BERT."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Machinevertaling" id="id-a08ea99c3e6448d9b10ebd87f429bef1">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Conversie van tekst tussen verschillende talen."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="AI leverancier" id="id-92329bc3f86f4fbdb40020da1b7fceb1">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Een AI-leverancier is een bedrijf of organisatie die kunstmatige intelligentie (AI) ontwikkelt, levert of integreert in producten en diensten. Dit kan variëren van bedrijven die geavanceerde AI-modellen bouwen, zoals machine learning-algoritmes, tot organisaties die AI-oplossingen aanbieden voor specifieke toepassingen, zoals spraakherkenning, beeldverwerking of automatisering."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Logistieke regressie" id="id-cc07685c283940b49ff7cfcc15ca27cf">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Gebruikt voor binaire classificatieproblemen."/>
+      <property key="skos:scopeNote" value="Logistieke regressie gebruikt een wiskundige formule om een kanswaarde tussen 0 en 1 te berekenen. Dit wordt vaak gebruikt voor ja/nee-beslissingen."/>
+      <property key="rdfs:comment" value="Logistieke regressie is een statistische methode die wordt gebruikt om kansen te voorspellen. Het helpt bij het bepalen of iets wel of niet gebeurt op basis van gegevens."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="BERT" id="id-4adf7a7be5744eb791dad323bd8d8517">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Begrijpt tekst in context door bidirectionele verwerking."/>
+      <property key="skos:altLabel" value="Bidirectional Encoder Representations from Transformers"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="reactieve agent" id="id-439513bc984b4fe3b7772b5025ef6f2c">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."/>
+    </element>
+    <element xsi:type="archimate:Driver" name="Verbeteren klantervaring door AI" id="id-4d0b76cb96c24d09a8a98989aad92e1d"/>
+    <element xsi:type="archimate:Meaning" name="geheugen-gebaseerde agent" id="id-593dffe970da47a389c0189623cfc145">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="DeepSeek" id="id-c534aeb97d4b416faeaeb39c00a3f1a2">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="DeepSeek is een Chinees kunstmatige intelligentiebedrijf dat open-source grote taalmodellen ontwikkelt. Het werd opgericht in mei 2023 en wordt gefinancierd door het Chinese hedgefonds High-Flyer. DeepSeek kreeg internationale aandacht in januari 2025 met de release van zijn nieuwste model, DeepSeek R1, dat concurreert met gevestigde AI-systemen zoals OpenAI's ChatGPT."/>
+      <property key="dct:source" value="https://deepseek.ai/"/>
+    </element>
+    <element xsi:type="archimate:Assessment" name="Traceerbaarheid en verantwoording" id="id-32e6e3a48bc14f20a29a65d98ef65a06">
+      <documentation>Vooral bij kritische toepassingen is het lastig, zo niet onmogelijk, om te achterhalen welke specifieke prompt tot een bepaalde (wellicht problematische) output heeft geleid.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="autonome agent" id="id-f232df7944f549bfaf615bacbddb01aa">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Deze kunnen zelfstandig complexe taken uitvoeren, zoals zelfrijdende auto's die verkeersomstandigheden analyseren en handelen zonder directe menselijke controle."/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="DeepSeek AI" id="id-4cf8f12d84f24fd58a1fa268f6cd96e2">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="DeepSeek is een Chinees kunstmatige intelligentiebedrijf dat open-source grote taalmodellen ontwikkelt. Het werd opgericht in mei 2023 en wordt gefinancierd door het Chinese hedgefonds High-Flyer. DeepSeek kreeg internationale aandacht in januari 2025 met de release van zijn nieuwste model, DeepSeek R1, dat concurreert met gevestigde AI-systemen zoals OpenAI's ChatGPT."/>
+      <property key="dct:source" value="https://deepseek.ai/"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Natuurlijke taalverwerking" id="id-8aa90c081f3844ab9d7e75d923027ee4">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."/>
+      <property key="skos:altLabel" value="Natural Language Processing"/>
+      <property key="skos:notation" value="NLP"/>
     </element>
     <element xsi:type="archimate:Meaning" name="AI-systeem" id="id-d8bab3ca74a74797bf1fec71a8a5ca5e">
       <documentation>Zie properties.</documentation>
@@ -192,19 +548,33 @@
       <property key="rdfs:comment" value="Een AI-systeem omvat niet alleen het model, maar ook de gehele infrastructuur eromheen. Dit omvat de hardware, software, gegevensverwerking, input- en outputinterfaces, en alle componenten die nodig zijn om het model effectief te laten werken. Voorbeelden van AI-systemen zijn ChatGPT, Google Gemini en Co-Pilot."/>
       <property key="skos:closeMatch" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="Natuurlijke taalverwerking" id="id-8aa90c081f3844ab9d7e75d923027ee4">
+    <element xsi:type="archimate:Meaning" name="generator" id="id-4294e2d18ddc4c5ca6a8832bb191c0ed">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."/>
-      <property key="skos:altLabel" value="Natural Language Processing"/>
-      <property key="skos:notation" value="NLP"/>
+      <property key="skos:definition" value="Onderdeel van een GAN dat probeert nieuwe data te creëren die lijkt op echte voorbeelden."/>
     </element>
-    <element xsi:type="archimate:Assessment" name="Consistentie" id="id-1f141d45bbf04bbb91ea7b07ae2113fa">
-      <documentation>Verschillende gebruikers, of dezelfde gebruiker op verschillende momenten, formuleren prompts anders, wat leidt tot variabele outputkwaliteit en onvoorspelbare resultaten.</documentation>
+    <element xsi:type="archimate:Meaning" name="LLM" id="id-f7d6a3a2ec444498a1cbdd4be77df454">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Een gespecialiseerd type generatief AI-model dat getraind is op grote hoeveelheden tekst om bestaande content te begrijpen en tekstuele content te generen."/>
+      <property key="skos:altLabel" value="Large Language Model"/>
+      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+      <property key="rdfs:comment" value="Type AI getraind op grote hoeveelheden tekstdata, capabel om menselijk klinkende tekst te creëren, vragen te beantwoorden, etc."/>
     </element>
-    <element xsi:type="archimate:Value" name="Kwaliteitsbeheersing" id="id-1f0603f6ec604dbb89734574ae90cf7e">
-      <documentation>Systematische feedbackloops en de mogelijkheid tot A/B-testen van prompts leiden tot continu betere resultaten en een hogere betrouwbaarheid.</documentation>
+    <element xsi:type="archimate:Meaning" name="Google" id="id-18d36ed19c4f4bd79bd0aab204957a7d">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"/>
+    </element>
+    <element xsi:type="archimate:Meaning" name="Anthropic" id="id-8caad01156b64be3b17b07b4523db6fc">
+      <documentation>Zie properties.</documentation>
+      <property key="ameff:status" value="In bewerking"/>
+      <property key="ameff:datumstatus" value="2023-01-01"/>
+      <property key="skos:definition" value="Anthropic is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2021 door voormalige medewerkers van OpenAI, waaronder Dario en Daniela Amodei. "/>
+      <property key="skos:scopeNote" value="Het bedrijf richt zich op AI-veiligheid en ontwikkelt grote taalmodellen (LLMs) onder de naam Claude, als concurrent van ChatGPT en Google Gemini."/>
     </element>
     <element xsi:type="archimate:Meaning" name="supervised learning" id="id-22d6a9c0aaf041ab940af7baa2f6b2bc">
       <documentation>Zie properties.</documentation>
@@ -215,55 +585,36 @@
       <property key="skos:scopeNote" value="Je algoritme leert van gegevens die je labelt met informatie. Je biedt bijvoorbeeld foto’s aan met de labels: dit is wel een kat, dit is geen kat. "/>
       <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="AI-geletterdheid" id="id-345eea97ff2742ac8fb821c663480da7">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico’s van AI en de mogelijke schade die zij kan veroorzaken."/>
-      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/"/>
+    <element xsi:type="archimate:Assessment" name="Consistentie" id="id-1f141d45bbf04bbb91ea7b07ae2113fa">
+      <documentation>Verschillende gebruikers, of dezelfde gebruiker op verschillende momenten, formuleren prompts anders, wat leidt tot variabele outputkwaliteit en onvoorspelbare resultaten.</documentation>
     </element>
-    <element xsi:type="archimate:Meaning" name="unsupervised learning" id="id-1d6ec628e1294a3593e08664ef9c79e4">
+    <element xsi:type="archimate:Assessment" name="Bias amplificatie" id="id-ddee31456511435cb63020fe317bd6d9">
+      <documentation>Ongestructureerd en onbewust prompten kan onbedoeld leiden tot het versterken van bestaande biases in AI-modellen, met potentieel negatieve gevolgen.</documentation>
+    </element>
+    <element xsi:type="archimate:Meaning" name="reinforcement learning" id="id-465cf786ea7d41399ef0b591fe48e4f2">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Machine learning proces waarbij AI zelf verborgen patronen in ongelabelde data zoekt zonder expliciete begeleiding."/>
-      <property key="skos:scopeNote" value="Je laat het algoritme zelf patronen en structuren ontdekken in ongestructureerde gegevens zonder labels. Je biedt bijvoorbeeld foto’s aan van dieren die het algoritme zelf moet groeperen. "/>
+      <property key="skos:definition" value="Het algoritme leert door straf en beloning. Het doel is zo hoog mogelijk scoren in zo min mogelijk tijd."/>
+      <property key="skos:scopeNote" value="Je geeft bijvoorbeeld punten als het algoritme foto’s sorteert die op katten lijken. Dit proces is vergelijkbaar met hoe mensen leren door ervaring. Bij reinforcement learning leert het AI-model autonoom bij. Bij online reinforcement learning kan het model in productie ook nog continu zichzelf bijstellen. Je kunt er ook voor kiezen dit alleen in trainingsfase te doen, en het model 'bevroren' in te zetten. "/>
       <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
+      <property key="skos:altLabel" value="bekrachtiginsleren"/>
     </element>
-    <element xsi:type="archimate:Meaning" name="algoritme register" id="id-fa0be189340043c0b6e6ebbddbf15baa">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2025-01-01"/>
-      <property key="skos:definition" value="Een register met beschrijvingen van algoritmische toepassingen die direct of indirect een maatschappelijk en/of economisch effect hebben, op burgers of op de maatschappij als geheel."/>
-      <property key="dct:source" value="http://begrippen.kadaster.nl/ar/id/concept/AlgorithmRegister"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="prompt engineering" id="id-a598d6f1b14f4d76a2e8e67e3c877d9a">
+    <element xsi:type="archimate:Meaning" name="Meta" id="id-544c60e94bf3446ba98a536198c96373">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Het proces van het zorgvuldig kiezen en aanpassen van de input (prompt) voor een machine learning-model om de best mogelijke output te krijgen."/>
-      <property key="skos:altLabel" value="prompten"/>
-      <property key="skos:scopeNote" value="Voorbeelden van prompt engineering:
-- Een duidelijke vraag stellen zodat de AI een informatief antwoord geeft.
-- Specifieke instructies toevoegen om een bepaalde schrijfstijl of toon te krijgen.
-- Creatieve prompts maken zodat een AI interessante ideeën of ontwerpen genereert."/>
-      <property key="dct:source" value="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-prompt-engineering"/>
-      <property key="rdfs:comment" value="Prompt engineering is het slim formuleren van opdrachten voor een AI-systeem, zoals een chatbot of tekstgenerator. Door de juiste woorden en structuur te gebruiken, kan een AI betere en nauwkeurigere antwoorden geven."/>
+      <property key="skos:definition" value="Meta Platforms, Inc. is een Amerikaans technologiebedrijf, opgericht in 2004 door Mark Zuckerberg en oorspronkelijk bekend als Facebook, Inc.. In 2021 werd de naam veranderd naar Meta, om de focus op de metaverse en bredere digitale innovatie te weerspiegelen."/>
+      <property key="skos:scopeNote" value="Meta is een van de grootste technologiebedrijven ter wereld en richt zich op sociale media, digitale communicatie en virtual reality. "/>
     </element>
-    <element xsi:type="archimate:Meaning" name="bias" id="id-8e451ba30a654c4198e128d65c1dc223">
+    <element xsi:type="archimate:Meaning" name="Artificial general intelligence" id="id-3629353df00d4a2e85175d467ebee58c">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="In de context van AI verwijst bias of vooringenomenheid naar de aannames die een AI-systeem doet om het leerproces en de taakuitvoer te vereenvoudigen. AI-onderzoekers proberen bias tot een minimum te beperken, omdat deze kan leiden tot slechte resultaten of onverwachte uitkomsten."/>
-      <property key="skos:scopeNote" value="Bias in de context van AI verwijst naar systematische fouten of vooroordelen in een algoritme die ontstaan door bevooroordeelde trainingsdata. Dit kan leiden tot oneerlijke of onnauwkeurige resultaten. Bijvoorbeeld, als een AI-systeem wordt getraind op data die voornamelijk afkomstig is van een bepaalde demografische groep, kan het systeem bevooroordeeld zijn tegen andere groepen. Bias kan verschillende vormen aannemen, zoals: * Sample Bias: Wanneer de trainingsdata niet representatief is voor de populatie. * Measurement Bias: Wanneer de data die wordt verzameld onnauwkeurig of misleidend is. * Algorithmic Bias: Wanneer het algoritme zelf bepaalde groepen systematisch benadeelt."/>
-      <property key="skos:altLabel" value="vooringenomenheid"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="T5" id="id-a572f93ceb854c2e80c9fac9c2a987cb">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Geschikt voor diverse NLP-taken zoals samenvatting en vertaling."/>
-      <property key="skos:altLabel" value="Text-to-Text Transfer Transformer"/>
+      <property key="skos:definition" value="Artificial general intelligence (AGI) of kunstmatige algemene intelligentie (KAI) verwijst naar een hypothetisch toekomstig AI-systeem waarvan de intelligentie die van de mens voor alle intellectuele taken evenaart of overtreft."/>
+      <property key="skos:altLabel" value="AGI"/>
+      <property key="skos:scopeNote" value="Veel AI-onderzoekers geloven dat AI dit punt waarschijnlijk zal bereiken en de menselijke intelligentie ergens deze eeuw zal overtreffen als gevolg van de versnelling van machine learning. Dit scenario wordt vaak besproken in de context van alignment en AI-veiligheid: als AI intelligenter wordt dan mensen, is het essentieel dat het blijft werken aan onze doelen en geen mensen in gevaar brengt."/>
+      <property key="dct:source" value="https://www.scribbr.nl/ai-tools-gebruiken/ai-termen-begrippenlijst/"/>
     </element>
     <element xsi:type="archimate:Meaning" name="AI-verordening" id="id-5b94d345f0524e36aace6ba7830df367">
       <documentation>Zie properties.</documentation>
@@ -275,52 +626,8 @@
       <property key="skos:scopeNote" value="Het doel van de wet is dat AI-systemen die organisaties (binnen de EU) gebruiken, veilig zijn en fundamentele rechten  respecteren. Het maakt niet uit of die AI-systemen binnen of buiten de EU zijn ontwikkeld. AI-systemen worden onderverdeeld in verschillende risicocategorieën. Afhankelijk van de categorie waarin een AI-systeem valt, gelden zwaardere, minder zware of geen regels."/>
       <property key="rdfs:comment" value="De AI-verordening is een Europese wet die regels stelt voor de ontwikkeling en het gebruik van AI-systemen. Ook geeft de wet rechten aan burgers die in aanraking komen met AI-systemen."/>
     </element>
-    <element xsi:type="archimate:Meaning" name="Algoritme Impact Assessment" id="id-f67b09d6474c4bd8b063e8deaa6af295">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2021-01-26"/>
-      <property key="skos:definition" value="Een algoritme impact assessment	is	een hulpmiddel voor	het maken van afwegingen bij het inzetten van algoritmes en kunstmatige intelligentie. "/>
-      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
-      <property key="skos:scopeNote" value="Voorbeelden van algoritme impact assessments zijn het Impact Assessment	 Mensenrechten	en	 Algoritmes (IAMA) en het AI	Impact	Assessment	(AIIA)"/>
-      <property key="skos:altLabel" value="AIIA"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="rekenregel" id="id-e2f6d243f58e43958906be0e475ebbd3">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2021-01-26"/>
-      <property key="skos:definition" value="Rekenregels zijn de meest eenvoudige algoritmes. Dit zijn door mensen bedachte regels die het computersysteem precies moet opvolgen: als x gebeurt, dan doe je y."/>
-      <property key="skos:altLabel" value="regelgebaseerd algoritme"/>
-      <property key="skos:scopeNote" value="Rekenregels:
-* zijn expliciet geprogrammeerd en bedacht door mensen
-* staan uit vaste stappen om een taak uit te voeren
-
-Voorbeelden: 
-* Eenvoudige chatbots die burgers advies geven op basis van door mensen bedachte beslisbomen.
-* Ondersteuning berekening uitkering dat adviseert over uitkeringen, op basis van door mensen bedachte beslisbomen.
-* Prestatiemonitor dat risicoscores berekent van scholen, op basis van door mensen bedachte regels."/>
-      <property key="rdfs:comment" value="Rekenregels zijn niet kunstmatig intelligent (AI). Rekenregels kunnen wel onderdeel zijn van een AI-systeem."/>
-      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#wanneer-is-het-een-algoritme"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="ChatGPT" id="id-6001a10a6e234e36be3e5fef7c2bbc00">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"/>
-      <property key="dct:source" value="https://chatgpt.com/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="RAG" id="id-69b70dc6af0d4e37b92642d32f5721f4">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Is een techniek binnen kunstmatige intelligentie die de kracht van generatieve AI combineert met informatieopvraging. Dit betekent dat een AI-model niet alleen tekst genereert op basis van vooraf getrainde data, maar ook relevante informatie kan ophalen uit externe kennisbronnen om nauwkeurigere en actuele antwoorden te geven"/>
-      <property key="skos:altLabel" value="Retrieval Augmented Generation"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="NER" id="id-5731aefff919430b9beff520fc5cb95e">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Identificeren van namen, locaties en concepten in tekst."/>
-      <property key="skos:altLabel" value="Named Entity Recognition"/>
+    <element xsi:type="archimate:Assessment" name="Kwaliteitsborging" id="id-a4496ff618f3481caeae1bcc9022901b">
+      <documentation>Zonder een gestructureerde aanpak is het moeilijk om de effectiviteit van prompts objectief te meten, te vergelijken en systematisch te verbeteren.</documentation>
     </element>
     <element xsi:type="archimate:Meaning" name="algoritme" id="id-25df79f046a34c318349d1600a3bc226">
       <documentation>Zie properties.</documentation>
@@ -328,315 +635,24 @@ Voorbeelden:
       <property key="ameff:datumstatus" value="2021-01-26"/>
       <property key="skos:definition" value="Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden."/>
       <property key="dct:source" value="https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf"/>
-      <property key="skos:scopeNote" value="Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:
-* problemen oplossen
-* vragen beantwoorden
-* taken of processen uitvoeren
+      <property key="skos:scopeNote" value="Met een algoritme bedoelen we een set regels en instructies die een computer uitvoert, met 1 of meer van deze doelen:
+
+* problemen oplossen
+
+* vragen beantwoorden
+
+* taken of processen uitvoeren
+
 * besluiten nemen"/>
       <property key="rdfs:comment" value="Een recept om een informaticaprobleem op te lossen vanuit een gegeven begintoestand naar een beoogd einddoel, dat bestaat uit een eindige reeks eenduidig gedefinieerde instructies of regels."/>
     </element>
-    <element xsi:type="archimate:Meaning" name="RNN" id="id-2df45507f4954d18beae609b17fe4ab1">
+    <element xsi:type="archimate:Meaning" name="AI-detector" id="id-52e8c071c84d4e27a8d1eef05a0ad5d8">
       <documentation>Zie properties.</documentation>
       <property key="ameff:status" value="In bewerking"/>
       <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Geschikt voor sequentiegegevens zoals tekst en spraak."/>
-      <property key="skos:altLabel" value="Recurrent Neural Networks"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="discriminator" id="id-a59a0d0868d043c087f0f913677950ca">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Onderdeel van een GAN dat beoordeelt of data echt (uit een dataset) of onecht (gegenereerd) is; belangrijk voor o.a. fraudedetectie"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="AI leverancier" id="id-92329bc3f86f4fbdb40020da1b7fceb1">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een AI-leverancier is een bedrijf of organisatie die kunstmatige intelligentie (AI) ontwikkelt, levert of integreert in producten en diensten. Dit kan variëren van bedrijven die geavanceerde AI-modellen bouwen, zoals machine learning-algoritmes, tot organisaties die AI-oplossingen aanbieden voor specifieke toepassingen, zoals spraakherkenning, beeldverwerking of automatisering."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Claude AI" id="id-db4995cb35144acc8f1c396fd8fded22">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Bekend om zijn grote contextvenster en sterke creatieve schrijfvaardigheden
-"/>
-      <property key="dct:source" value="https://claude.ai/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Transformers" id="id-8a4681eb26764cce82d5cb4d656ae340">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Backbone van moderne NLP-modellen zoals GPT en BERT."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Sentimentanalyse" id="id-97bde38b848f49f28deaf2a2d80343a5">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Interpreteren of een tekst positief, negatief of neutraal is."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Gemini" id="id-4838adaa62424e1a99d293215c8bfe32">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Google's AI-model dat real-time internetgegevens kan verwerken en een breed scala aan taken aankan."/>
-      <property key="skos:altLabel" value="Bard"/>
-      <property key="dct:source" value="https://gemini.google.com/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Beslisbomen" id="id-0fd11bfe8cd048608cd891c60d8a6c29">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Gebruikt hiërarchische regels om beslissingen te nemen."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Support Vector Machines" id="id-d15f615d08654b169c6ea8720f9117f9">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Klasseert data met een optimaliserende grens."/>
-      <property key="skos:altLabel" value="SVM"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Random Forest" id="id-f9c6d28e74214709af773c051f438492">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Combineert meerdere beslisbomen om robuustere voorspellingen te doen."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Naïve Bayes" id="id-d5edf1b5a1b44b1aa3178b6afba262e7">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Probabilistisch algoritme gebaseerd op de Bayesiaanse theorie."/>
-      <property key="skos:scopeNote" value="Het wordt veel toegepast in kunstmatige intelligentie en machine learning, bijvoorbeeld bij spamfilters, tekstanalyse en fraudedetectie. Het heet &quot;Naïve&quot; omdat het ervan uitgaat dat kenmerken onafhankelijk van elkaar zijn, wat niet altijd klopt, maar in veel gevallen toch goed werkt."/>
-      <property key="dct:source" value="https://en.wikipedia.org/wiki/Naive_Bayes_classifier"/>
-      <property key="rdfs:comment" value="Naïve Bayes is een statistische methode die gebruikt wordt om waarschijnlijkheden te berekenen en te voorspellen. "/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="GPT" id="id-1a1a07398d9148f89d881e0359a4ef48">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een type neuraal netwerk, vooraf getraind op veel tekstdata, dat duidelijke en relevante tekst genereert op basis van prompts"/>
-      <property key="skos:altLabel" value="Generative Pre-trained Transformer"/>
-      <property key="skos:scopeNote" value="Een voorbeeld is ChatGPT."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="reactieve agent" id="id-439513bc984b4fe3b7772b5025ef6f2c">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Deze reageren direct op input zonder een langetermijngeheugen. Bijvoorbeeld een schaakcomputer die alleen de huidige zet analyseert."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="XLNet" id="id-f93355650fcf4f08a3029baed7b5e418">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een verbeterde versie van BERT met permutatie-gebaseerde training."/>
-    </element>
-    <element xsi:type="archimate:Driver" name="Verbeteren klantervaring door AI" id="id-4d0b76cb96c24d09a8a98989aad92e1d"/>
-    <element xsi:type="archimate:Meaning" name="K-Nearest Neighbors" id="id-a114678a0e644985a87cb6959f4e7e58">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Vergelijkt nieuwe gegevenspunten met bestaande om de beste match te vinden."/>
-      <property key="skos:altLabel" value="KNN"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="OpenAI" id="id-67dc86782cbd49b885234b9b96b0e905">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="OpenAI is een Amerikaans kunstmatige intelligentie (AI) bedrijf, opgericht in 2015 en gevestigd in San Francisco, Californië. Het bedrijf richt zich op AI-onderzoek en ontwikkeling, met als missie om kunstmatige algemene intelligentie (AGI) te creëren die veilig en nuttig is voor de mensheid."/>
-      <property key="skos:scopeNote" value="Het bedrijf werd in 2015 opgericht door Ilya Sutskever, Greg Brockman, Sam Altman en Elon Musk (die niet langer betrokken is). De huidige CEO is Sam Altman. OpenAI begon als een non-profit, maar ging in 2019 over naar for-profit. Het heeft populaire tools uitgebracht, waaronder ChatGPT en DALL-E."/>
-      <property key="dct:source" value="https://openai.com/about/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="AI-model" id="id-9497999cfd0d41f691463b660f2cc029">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2021-01-26"/>
-      <property key="skos:definition" value="Een AI-model is het resultaat van het trainen van een algoritme op data. Een algoritme is een set instructies, en het model is het specifieke resultaat van het volgen van de set instructies op basis van bepaalde data. "/>
-      <property key="skos:altLabel" value="concept"/>
-      <property key="skos:scopeNote" value="Een model wordt getraind op een taak, bijvoorbeeld het classificeren van documenten of bij een LLM het genereren van zinnen die lijken op de trainingsdata. GPT-4 is een voorbeeld van een AI-model."/>
-      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="GPT-4.1" id="id-0c5cb9bbd2d14497a2e00276752132f6">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="GPT-4.1 is een geavanceerd AI-model van OpenAI dat verbeteringen biedt op het gebied van codering, instructievolging en lange-contextbegrip. Dit model ondersteunt tot 1 miljoen tokens aan context, waardoor het beter in staat is om grote hoeveelheden informatie te verwerken en relevante details te herkennen."/>
-      <property key="dct:source" value="https://openai.com/index/gpt-4-1/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Google" id="id-18d36ed19c4f4bd79bd0aab204957a7d">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="ChatGPT is een geavanceerd taalmodel ontwikkeld door OpenAI, gebaseerd op de GPT (Generative Pre-training Transformer) architectuur1. Het is ontworpen voor natuurlijke taalverwerkingstaken en kan menselijke gesprekken nabootsen. ChatGPT kan vragen beantwoorden, vervolgvragen stellen, fouten toegeven, incorrecte aannames uitdagen en ongepaste verzoeken afwijzen"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="validatie" id="id-3bca660407d544dd9ae76301a1045608">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (validatieset) die niet voor training is gebruikt."/>
-    </element>
-    <element xsi:type="archimate:Value" name="Efficiëntie" id="id-2298e292223747db9600ccf65005c516">
-      <documentation>Hergebruik van bewezen, effectieve prompts en prompt-componenten versnelt de ontwikkeling van AI-toepassingen en verbetert de kwaliteit van de output.</documentation>
-    </element>
-    <element xsi:type="archimate:Value" name="Standaardisatie" id="id-aff776a9eada4aa29c05ec463cfade28">
-      <documentation>Het vastleggen van gemeenschappelijke structuren, templates, en richtlijnen voor het ontwerpen van prompts bevordert uniformiteit.</documentation>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Machinevertaling" id="id-a08ea99c3e6448d9b10ebd87f429bef1">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Conversie van tekst tussen verschillende talen."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="DeepSeek AI" id="id-4cf8f12d84f24fd58a1fa268f6cd96e2">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="DeepSeek is een Chinees kunstmatige intelligentiebedrijf dat open-source grote taalmodellen ontwikkelt. Het werd opgericht in mei 2023 en wordt gefinancierd door het Chinese hedgefonds High-Flyer. DeepSeek kreeg internationale aandacht in januari 2025 met de release van zijn nieuwste model, DeepSeek R1, dat concurreert met gevestigde AI-systemen zoals OpenAI's ChatGPT."/>
-      <property key="dct:source" value="https://deepseek.ai/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="CNN" id="id-b22b4f48be1c48de974b0b986ff92110">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Vooral gebruikt bij beeldherkenning."/>
-      <property key="skos:altLabel" value="Convolutional Neural Networks"/>
-    </element>
-    <element xsi:type="archimate:Assessment" name="Herbruikbaarheid" id="id-4976db20ff8c4e48b5823808f9cd0c4e">
-      <documentation>Effectieve prompts worden niet systematisch vastgelegd en gedeeld. Hierdoor gaat waardevolle kennis verloren en wordt het wiel telkens opnieuw uitgevonden, wat inefficiënt is.</documentation>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Lineaire regressie" id="id-1ff559ff76744de3ab30a098724b41ad">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Voorspelt een continue waarde op basis van invoerdata."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="temperatuur" id="id-99810ae4b63f476c90262643ffe69e83">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="De mate van willekeur (randomness) in de output van een LLM."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Artificial general intelligence" id="id-3629353df00d4a2e85175d467ebee58c">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Artificial general intelligence (AGI) of kunstmatige algemene intelligentie (KAI) verwijst naar een hypothetisch toekomstig AI-systeem waarvan de intelligentie die van de mens voor alle intellectuele taken evenaart of overtreft."/>
-      <property key="skos:altLabel" value="AGI"/>
-      <property key="skos:scopeNote" value="Veel AI-onderzoekers geloven dat AI dit punt waarschijnlijk zal bereiken en de menselijke intelligentie ergens deze eeuw zal overtreffen als gevolg van de versnelling van machine learning. Dit scenario wordt vaak besproken in de context van alignment en AI-veiligheid: als AI intelligenter wordt dan mensen, is het essentieel dat het blijft werken aan onze doelen en geen mensen in gevaar brengt."/>
+      <property key="skos:definition" value="Een AI-detector is een hulpmiddel dat is ontworpen om te detecteren wanneer een stuk tekst (of soms een afbeelding of video) is gemaakt door AI-tools (zoals ChatGPT en DALL-E). Deze detectoren zijn niet 100% betrouwbaar, maar ze kunnen een indicatie geven van de waarschijnlijkheid dat een tekst door AI is gegenereerd."/>
+      <property key="skos:scopeNote" value="AI-detectoren werken met soortgelijke grote taalmodellen (large language models, LLMs) als de tools die ze proberen te detecteren. Deze modellen kijken in wezen naar een tekst (of afbeelding of video) en vragen zich af: “Is dit iets wat ik zou hebben gegenereerd?”. Ze zoeken naar lage niveaus van twee criteria: perplexiteit (perplexity) en onregelmatigheid (burstiness).AI-detectoren kunnen worden gebruikt door universiteiten en andere instellingen om door AI gegenereerde inhoud te identificeren."/>
       <property key="dct:source" value="https://www.scribbr.nl/ai-tools-gebruiken/ai-termen-begrippenlijst/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Generatieve AI" id="id-bf8b320010cf4113800fd98db2233d13">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="Ter redactie"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een vorm van artificiële intelligentie die content (tekst, afbeeldingen en/of gevarieerde inhoud zoals muziek) kan produceren (genereren) op basis van de gegevens waarop het wordt getraind."/>
-      <property key="skos:altLabel" value="GenAI"/>
-      <property key="skos:scopeNote" value="Een voorbeeld is het genereren van synthetische data en ondersteuning bij programmeren."/>
-      <property key="dct:source" value="https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk"/>
-      <property key="rdfs:comment" value="Generatieve AI, dat vaak wordt gebruikt door grote taalmodellen zoals GPT-4o en DALL-E 3, richt zich op het creëren van nieuwe content op basis van patronen die zijn geleerd uit enorme datasets."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="LLM" id="id-f7d6a3a2ec444498a1cbdd4be77df454">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een gespecialiseerd type generatief AI-model dat getraind is op grote hoeveelheden tekst om bestaande content te begrijpen en tekstuele content te generen."/>
-      <property key="skos:altLabel" value="Large Language Model"/>
-      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
-      <property key="rdfs:comment" value="Type AI getraind op grote hoeveelheden tekstdata, capabel om menselijk klinkende tekst te creëren, vragen te beantwoorden, etc."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Agentic-AI" id="id-558d50e96baa403797897085c47e1c9d">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Agentic AI	geeft het AI-systeem	ook het	 vermogen tot zelfstandige handelingen, om bijvoorbeeld bestanden aan te maken."/>
-      <property key="skos:scopeNote" value="Een voorbeeld van Agentic AI is een digitale assistent die niet alleen vragen beantwoordt, maar ook zelfstandig een reis plant, tickets boekt en een hotel reserveert op basis van voorkeuren."/>
-      <property key="dct:source" value="https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk"/>
-      <property key="rdfs:comment" value="Agentic AI verwijst naar kunstmatige intelligentie die zelfstandig beslissingen kan nemen en acties kan uitvoeren zonder directe menselijke tussenkomst. Dit type AI gaat verder dan traditionele AI-systemen, die meestal reageren op input zonder echte autonomie. Agentic AI kan taken plannen, uitvoeren en zichzelf aanpassen op basis van veranderende omstandigheden."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="token" id="id-077fec2332044d8694cb5883d98721d5">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="De basiseenheid van tekst (een woord of deel van een woord) die wordt verwerkt door LLMs."/>
-    </element>
-    <element xsi:type="archimate:Value" name="Schaalbaarheid" id="id-92b61019e7004a6f9ca475f130bdbe12">
-      <documentation>Een architectuur maakt het mogelijk om effectief promptgebruik op te schalen binnen de gehele organisatie, over verschillende afdelingen en use cases heen.</documentation>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Logistieke regressie" id="id-cc07685c283940b49ff7cfcc15ca27cf">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Gebruikt voor binaire classificatieproblemen."/>
-      <property key="skos:scopeNote" value="Logistieke regressie gebruikt een wiskundige formule om een kanswaarde tussen 0 en 1 te berekenen. Dit wordt vaak gebruikt voor ja/nee-beslissingen."/>
-      <property key="rdfs:comment" value="Logistieke regressie is een statistische methode die wordt gebruikt om kansen te voorspellen. Het helpt bij het bepalen of iets wel of niet gebeurt op basis van gegevens."/>
-    </element>
-    <element xsi:type="archimate:Value" name="Risicobeheersing" id="id-59ed2b8921ec4c6fbf8251f561dfe572">
-      <documentation>Helpt bij het proactief identificeren en mitigeren van risico's zoals het genereren van incorrecte informatie, het versterken van bias, of het schenden van privacy.</documentation>
-    </element>
-    <element xsi:type="archimate:Meaning" name="xAI" id="id-62ba75d7a9f84f45a346631e09d69a42">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="xAI is een kunstmatige intelligentie (AI) bedrijf, opgericht door Elon Musk in 2023. Het bedrijf richt zich op geavanceerde AI-ontwikkeling en heeft als missie om AI te bouwen die menselijke kennis en begrip vergroot."/>
-      <property key="skos:scopeNote" value="xAI wil AI ontwikkelen die de mensheid helpt bij wetenschappelijke ontdekkingen en complexe problemen. Het bedrijf werkt met een snelle ontwikkelingsstrategie en richt zich op innovatieve AI-oplossingen."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Machine Learning" id="id-644a03519ce8463f80176ce9766c5911">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen."/>
-      <property key="skos:altLabel" value="ML"/>
-      <property key="skos:scopeNote" value="Zelflerende algoritmes zijn algoritmes die zichzelf trainen. Dit proces heet machinelearning. Hierdoor leren computers van data, zonder dat mensen dit precies zo programmeren. Ze zoeken bijvoorbeeld naar patronen of doen voorspellingen. Dit is een veel voorkomende vorm van AI."/>
-      <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="generator" id="id-4294e2d18ddc4c5ca6a8832bb191c0ed">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Onderdeel van een GAN dat probeert nieuwe data te creëren die lijkt op echte voorbeelden."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="AI" id="id-8abb432dde27452a98727b8d186be461">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="Publiceren"/>
-      <property key="ameff:datumstatus" value="2024-06-13"/>
-      <property key="skos:definition" value="Een technologie die, voor expliciete of impliciete doelen, afleidt hoe het op basis van ontvangen input (zoals data), outputs genereert. Outputs betreffen onder meer voorspellingen, content, aanbevelingen en/of beslissingen. De technologie kan leren, redeneren en taken uitvoeren op een manier die normaliter menselijke intelligentie vereist."/>
-      <property key="skos:scopeNote" value="AI (Artificial Intelligence) verwijst naar het bredere concept van kunstmatige intelligentie—de wetenschap en technologie die machines in staat stelt om menselijke cognitieve taken na te bootsen, zoals leren, redeneren en probleemoplossing.Dit omvat technieken zoals machine learning, neurale netwerken en natuurlijke taalverwerking."/>
-      <property key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
-      <property key="skos:altLabel" value="kunstmatige intelligentie"/>
-      <property key="rdfs:comment" value="AI (kunstmatige intelligentie) is een technologie waarbij computers taken uitvoeren die normaal door mensen worden gedaan, zoals leren, denken en problemen oplossen. AI kan bijvoorbeeld gezichten herkennen, teksten begrijpen of zelf rijden in een auto. Dit gebeurt met slimme programma’s die veel gegevens verwerken en daaruit leren."/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="neurale netwerken" id="id-3b5a06968e144058b3de35543b8e0ae0">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een geavanceerde vorm van AI die complexe patronen in data herkent via gelaagde neurale netwerken, nuttig voor beeldherkenning, spraakverwerking en taalbegrip."/>
-      <property key="skos:altLabel" value="deeplearning"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Mistral" id="id-fad1bfff70854bc0949c3f57102b42e8">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Een krachtige open-source taalmodel dat efficiënt werkt en minder rekenkracht vereist."/>
-      <property key="skos:scopeNote" value="zoals Mistral 7B, Mixtral 8x7B en Codestral 22B"/>
-      <property key="dct:source" value="https://mistral.ai/"/>
-    </element>
-    <element xsi:type="archimate:Assessment" name="Traceerbaarheid en verantwoording" id="id-32e6e3a48bc14f20a29a65d98ef65a06">
-      <documentation>Vooral bij kritische toepassingen is het lastig, zo niet onmogelijk, om te achterhalen welke specifieke prompt tot een bepaalde (wellicht problematische) output heeft geleid.</documentation>
-    </element>
-    <element xsi:type="archimate:Meaning" name="Grok" id="id-7306a1c4c2094ad6a86ef3f595884607">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value=" Ontwikkeld door X (voorheen Twitter), ontworpen om humor en context beter te begrijpen.
-"/>
-      <property key="skos:scopeNote" value="Grok is een generatieve AI-chatbot ontwikkeld door xAI, het AI-bedrijf van Elon Musk. Het werd gelanceerd als een alternatief voor ChatGPT en andere AI-assistenten, met een focus op real-time informatie en een unieke persoonlijkheid."/>
-      <property key="dct:source" value="https://grok.com/"/>
-    </element>
-    <element xsi:type="archimate:Meaning" name="LSTM" id="id-dc96470859204cc0936668cf5f58ce9b">
-      <documentation>Zie properties.</documentation>
-      <property key="ameff:status" value="In bewerking"/>
-      <property key="ameff:datumstatus" value="2023-01-01"/>
-      <property key="skos:definition" value="Verbeterde versie van RNNs, gebruikt voor tijdsreeksen en taalmodellen."/>
-      <property key="skos:altLabel" value="Long Short-Term Memory"/>
     </element>
   </folder>
   <folder name="Implementation &amp; Migration" id="id-folder-implementation-migration" type="implementation_migration">
@@ -644,112 +660,112 @@ Voorbeelden:
   <folder name="Other" id="id-folder-other" type="other">
   </folder>
   <folder name="Relations" id="id-folder-relations" type="relations">
-    <element xsi:type="archimate:SpecializationRelationship" id="id-1d994deda02d4f3d8f53cb7989e447b6" source="id-fa0be189340043c0b6e6ebbddbf15baa" target="id-25df79f046a34c318349d1600a3bc226"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-c8ed428f8ba046139c16995dfb7078f8" source="id-85226bc370454988b23555d325941c1a" target="id-69b70dc6af0d4e37b92642d32f5721f4"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-ce1677f8617b4028b8f4e7e6309b1caa" source="id-e9ff9e11a19a484ab3d02e57c29ea508" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-6e284e105dab4f20aa72fdc78421132d" source="id-3b5a06968e144058b3de35543b8e0ae0" target="id-8cd68d2ff669417683658cfe088d08ca"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-17bd03f78ca5482fa583aac9afc27633" source="id-593dffe970da47a389c0189623cfc145" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-ba4a91157a2641578ce785614d42b9b7" source="id-ff553be22c6549da82638d64309696f0" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-4cf09388d0fe436a897c84192ec18f08" source="id-bcb04663e43c4abfb393bf62d8de05ee" target="id-bf8b320010cf4113800fd98db2233d13"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-93b915fc93ac4053b78810e96cd6eb5e" source="id-18d36ed19c4f4bd79bd0aab204957a7d" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-cb9d61f3193544b99875bdb16f22b2b3" source="id-c534aeb97d4b416faeaeb39c00a3f1a2" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-8381233faf7740f3a239faa3514fec9f" source="id-8b8fff08d9c842eabf4b8458daf1d352" target="id-0bbfe32fe8c14b79813980aca9413064"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-a9daa77aab1441fda622421e1374f746" source="id-2723f5292f03476e89bdc6e8b2b4a3ca" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-387756b968804392b7ab7734bb164f8c" source="id-99810ae4b63f476c90262643ffe69e83" target="id-f7d6a3a2ec444498a1cbdd4be77df454"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-02324d3738464bb7b40d5c127d814f83" source="id-c675c85e7189416ba8c4982efa984b7b" target="id-1f0603f6ec604dbb89734574ae90cf7e"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-fa59eca9d5504fc5bfd4dbee97754fd7" source="id-4adf7a7be5744eb791dad323bd8d8517" target="id-f93355650fcf4f08a3029baed7b5e418"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-2a181421f9814443871a411dca1e0f1c" source="id-dc7ad62346834b4c8ffc07d010d60226" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-6fac8c58f73744e292ce70f42e6b5c74" source="id-8caad01156b64be3b17b07b4523db6fc" target="id-db4995cb35144acc8f1c396fd8fded22"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-e926bcdc870c4a1986d60dc8d54f7be4" source="id-8e451ba30a654c4198e128d65c1dc223" target="id-bf8b320010cf4113800fd98db2233d13"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-387e06a83b514b53b4a50440e561b0c6" source="id-e2f6d243f58e43958906be0e475ebbd3" target="id-25df79f046a34c318349d1600a3bc226"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-02ad7061da664739b699b29edf463f33" source="id-4838adaa62424e1a99d293215c8bfe32" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-1e3e01171b244b79988dbeb9cb2bc5b4" source="id-22d6a9c0aaf041ab940af7baa2f6b2bc" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-956d032699cd4da5b927c6a79b62eade" source="id-8cd68d2ff669417683658cfe088d08ca" target="id-a59a0d0868d043c087f0f913677950ca"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-e87baad5369a45d2be5ddd941eeb69f7" source="id-b43ce1a3ea324e95a5f9c6007b29cd94" target="id-92b61019e7004a6f9ca475f130bdbe12"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-d6f784119d7b4b1d82ba9b7676d5e4d7" source="id-a08ea99c3e6448d9b10ebd87f429bef1" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a3555c04bfab4d57982f800758c72be1" source="id-62ba75d7a9f84f45a346631e09d69a42" target="id-7306a1c4c2094ad6a86ef3f595884607"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-68078503e2614e219c675142b6c0e1d0" source="id-465cf786ea7d41399ef0b591fe48e4f2" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-9406ec22308e415293d276a401b2bdc0" source="id-62ba75d7a9f84f45a346631e09d69a42" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-62f714886793419b911eb17c807b307f" source="id-c2f46b43502248a9aa80dd6b2eada12e" target="id-fad1bfff70854bc0949c3f57102b42e8"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-1f2176543fae47408b344f85cb28ad45" source="id-f7d6a3a2ec444498a1cbdd4be77df454" target="id-bf8b320010cf4113800fd98db2233d13"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-b5df24cd03b34d29a02c01834df6fce6" source="id-bfc724f1ddee4edd8456e2b143252029" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-c3d7b56d375c46daa38ef7266883a12f" source="id-85226bc370454988b23555d325941c1a" target="id-a598d6f1b14f4d76a2e8e67e3c877d9a"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-c7d4b70479084117b495b2aa31fb92db" source="id-d15f615d08654b169c6ea8720f9117f9" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-09fe880abc254b63a4aa62bc696a3b80" source="id-7306a1c4c2094ad6a86ef3f595884607" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-3541429d78da40a9ac4c3f7a6c23e2d1" source="id-4adf7a7be5744eb791dad323bd8d8517" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-df58791a66e54752ade66d24a7ed8f6c" source="id-b43ce1a3ea324e95a5f9c6007b29cd94" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-8e46b291658f4ef2ba07e55bdaa0197f" source="id-a114678a0e644985a87cb6959f4e7e58" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-46ff3e0844f84a17a4f42cac8be0a5c2" source="id-544c60e94bf3446ba98a536198c96373" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-1984617c79874c7da525e77723bde386" source="id-85226bc370454988b23555d325941c1a" target="id-32e6e3a48bc14f20a29a65d98ef65a06"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-325d4a9ff52944168c8afe5159fa19a3" source="id-c675c85e7189416ba8c4982efa984b7b" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-bd58060255f74230ae98278dda1f6706" source="id-97bde38b848f49f28deaf2a2d80343a5" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-5d17089871b145359dd8dc114052dda2" source="id-d5edf1b5a1b44b1aa3178b6afba262e7" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-7592a080f3c74126bee724a7c3ac4eee" source="id-544c60e94bf3446ba98a536198c96373" target="id-bd82bf977b0242fdb3ec3567990259ce"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-65e79651c5d341cf838825b3e5c727ea" source="id-67dc86782cbd49b885234b9b96b0e905" target="id-6001a10a6e234e36be3e5fef7c2bbc00"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-d0a39f1d32e044a5b9117b0eae665177" source="id-1ff559ff76744de3ab30a098724b41ad" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-4e72d3e662ee47d3a7c656412d328997" source="id-85226bc370454988b23555d325941c1a" target="id-4976db20ff8c4e48b5823808f9cd0c4e"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-17669dd6ee8f4e8a9a9efc07e63dbc23" source="id-b22b4f48be1c48de974b0b986ff92110" target="id-3b5a06968e144058b3de35543b8e0ae0"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-cd83cd6b628946beb0cbd4b5e0e4fcc0" source="id-bf8b320010cf4113800fd98db2233d13" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-5debb2bb59b8492f98bff747b24fb2fc" source="id-f9c6d28e74214709af773c051f438492" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-09e5d4306c0149fab92138fe003966e8" source="id-d8bab3ca74a74797bf1fec71a8a5ca5e" target="id-8abb432dde27452a98727b8d186be461"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-53d4a2f113524dff97cb2cefc3183eea" source="id-a598d6f1b14f4d76a2e8e67e3c877d9a" target="id-bf8b320010cf4113800fd98db2233d13"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ddc818e0c9ce4680a4e5b087f1377888" source="id-644a03519ce8463f80176ce9766c5911" target="id-3bca660407d544dd9ae76301a1045608"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-2fc47d47c2484a6ca3c6fe82579caf27" source="id-e9ff9e11a19a484ab3d02e57c29ea508" target="id-aff776a9eada4aa29c05ec463cfade28"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-b82fb2be68504473bd9e3fe957743ff5" source="id-3b5a06968e144058b3de35543b8e0ae0" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-ffb27bbd625b430da05cd33a7f52cc1f" source="id-18d36ed19c4f4bd79bd0aab204957a7d" target="id-4838adaa62424e1a99d293215c8bfe32"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-edebade2af9047988061e5fb38216888" source="id-0fd11bfe8cd048608cd891c60d8a6c29" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-dd4d00c5313647548f6be5846e303df1" source="id-8aa90c081f3844ab9d7e75d923027ee4" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-2cd05e493af644698d39c9f335402073" source="id-3f32b7b0b9854a37980b319e94b816e2" target="id-25df79f046a34c318349d1600a3bc226"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-66fe78b8128b42f7ba43b51398b9cd8b" source="id-c026f3dbb9df4078bc2ccfaf0b7778f2" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-93423c85fd2b48f0b48abe94db92fd3d" source="id-85226bc370454988b23555d325941c1a" target="id-a06e73eb9f41409eb879c7dd48a865d0"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-591e401062224191954a92a9874fcf39" source="id-8abb432dde27452a98727b8d186be461" target="id-52e8c071c84d4e27a8d1eef05a0ad5d8"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-63883b174cf44835b00864d4b1fc969e" source="id-c4bea78d62f64c7ba35e94ac023a6c37" target="id-3b5a06968e144058b3de35543b8e0ae0"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-65749c1a55b74f2fae3614e201e024b8" source="id-85226bc370454988b23555d325941c1a" target="id-4d0b76cb96c24d09a8a98989aad92e1d"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-6e284e105dab4f20aa72fdc78421132d" source="id-3b5a06968e144058b3de35543b8e0ae0" target="id-8cd68d2ff669417683658cfe088d08ca"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-387756b968804392b7ab7734bb164f8c" source="id-99810ae4b63f476c90262643ffe69e83" target="id-f7d6a3a2ec444498a1cbdd4be77df454"/>
     <element xsi:type="archimate:InfluenceRelationship" id="id-c51302f1caa14fd69f8343d7b303f18d" source="id-85226bc370454988b23555d325941c1a" target="id-1f141d45bbf04bbb91ea7b07ae2113fa"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-5be9ff16c1d54acd85ddec2e8fa99db9" source="id-8a4681eb26764cce82d5cb4d656ae340" target="id-3b5a06968e144058b3de35543b8e0ae0"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-ce70d94ec60c43a4a0391ad075336a22" source="id-db4995cb35144acc8f1c396fd8fded22" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-0126f3d501e44e16a4c2741ae1e8a8e8" source="id-0c5cb9bbd2d14497a2e00276752132f6" target="id-9497999cfd0d41f691463b660f2cc029"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-3ab0fd142be14c75830a3401e3a5e109" source="id-c026f3dbb9df4078bc2ccfaf0b7778f2" target="id-aff776a9eada4aa29c05ec463cfade28"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-ccd54e2a5f1e4bdeb6a41bb17c6a346a" source="id-2df45507f4954d18beae609b17fe4ab1" target="id-3b5a06968e144058b3de35543b8e0ae0"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-9a2b369043e34a859cf52121be9504ec" source="id-077fec2332044d8694cb5883d98721d5" target="id-f7d6a3a2ec444498a1cbdd4be77df454"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-da13b4c1c3014be2b151e077b5e5fead" source="id-558d50e96baa403797897085c47e1c9d" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-6dfe25b0912d4d4896b4906cc7901bf8" source="id-9497999cfd0d41f691463b660f2cc029" target="id-3f32b7b0b9854a37980b319e94b816e2"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-8217be0d2f0747939c17d29ae79d72af" source="id-8caad01156b64be3b17b07b4523db6fc" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-938aa92fc74b4072be2533966e1eab1b" source="id-345eea97ff2742ac8fb821c663480da7" target="id-8abb432dde27452a98727b8d186be461"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-0ce2c931f4964da5aa42a86ef7a8de89" source="id-558d50e96baa403797897085c47e1c9d" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
-    <element xsi:type="archimate:RealizationRelationship" id="id-1518ee37dcf940f6bd99f717cff6e9d0" source="id-8b8fff08d9c842eabf4b8458daf1d352" target="id-85226bc370454988b23555d325941c1a"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-ac555c9429904e90a794d5575f5bac18" source="id-bfc724f1ddee4edd8456e2b143252029" target="id-2298e292223747db9600ccf65005c516"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-416de726e331432fbc2cc4c744675d86" source="id-8b8fff08d9c842eabf4b8458daf1d352" target="id-1f0603f6ec604dbb89734574ae90cf7e"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-35b3cd1bf35943b3884783f661e98d95" source="id-bfc724f1ddee4edd8456e2b143252029" target="id-aff776a9eada4aa29c05ec463cfade28"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-fb262db8cc294913ab51309c1c53799d" source="id-f232df7944f549bfaf615bacbddb01aa" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-91dc4393f9174137a827a56780c12241" source="id-85226bc370454988b23555d325941c1a" target="id-610c4ad3adf5448b878dc3ecd84ca718"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-a63e1a8734ad41f2a11b13a6d31c9771" source="id-f7d6a3a2ec444498a1cbdd4be77df454" target="id-69b70dc6af0d4e37b92642d32f5721f4"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-bf6ba847fc9048158dc3642bcc6c7244" source="id-ff553be22c6549da82638d64309696f0" target="id-59ed2b8921ec4c6fbf8251f561dfe572"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-8ed98d27b4be4439a72dd541bc58f723" source="id-8cd68d2ff669417683658cfe088d08ca" target="id-4294e2d18ddc4c5ca6a8832bb191c0ed"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-e2e9a20457ba47da94874cae34e8ab5f" source="id-439513bc984b4fe3b7772b5025ef6f2c" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-062e294d7f444e6a97ec7f0a6ba6175b" source="id-a572f93ceb854c2e80c9fac9c2a987cb" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-3bd6cedbb8b0430ba9df193c950d8498" source="id-644a03519ce8463f80176ce9766c5911" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-07b837b90cae405b81032464e5259a77" source="id-cc07685c283940b49ff7cfcc15ca27cf" target="id-644a03519ce8463f80176ce9766c5911"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-602a917421704480bf5caf4987bcf369" source="id-c2f46b43502248a9aa80dd6b2eada12e" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-406472ebd96d4e10bd1f767c7fefb0e4" source="id-6001a10a6e234e36be3e5fef7c2bbc00" target="id-0c5cb9bbd2d14497a2e00276752132f6"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-61d43c47a1084047beddff45b128fa3d" source="id-85226bc370454988b23555d325941c1a" target="id-ddee31456511435cb63020fe317bd6d9"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-2b8bbb4955bc417189f39b27aebd402d" source="id-1a1a07398d9148f89d881e0359a4ef48" target="id-bf8b320010cf4113800fd98db2233d13"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-edd0e629163443029c5a07c92e63a0d5" source="id-6001a10a6e234e36be3e5fef7c2bbc00" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-65749c1a55b74f2fae3614e201e024b8" source="id-85226bc370454988b23555d325941c1a" target="id-4d0b76cb96c24d09a8a98989aad92e1d"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-8f9803332a6044a7b831c343dead0af5" source="id-c534aeb97d4b416faeaeb39c00a3f1a2" target="id-4cf8f12d84f24fd58a1fa268f6cd96e2"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-9fc067271a1f418bbc568f0eedaa9431" source="id-25df79f046a34c318349d1600a3bc226" target="id-f67b09d6474c4bd8b063e8deaa6af295"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-ef50289db0904cf2a8f4f76a8f314877" source="id-5731aefff919430b9beff520fc5cb95e" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-882de35a206341179581c9d3399052d1" source="id-8abb432dde27452a98727b8d186be461" target="id-5b94d345f0524e36aace6ba7830df367"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-8f4420d704594cefac6b76a5b105d485" source="id-8140d291d7fc49919113cae76cda5e73" target="id-52e8c071c84d4e27a8d1eef05a0ad5d8"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-cf1a05c2c4884b7fb05a8ccf74f13eac" source="id-4cf8f12d84f24fd58a1fa268f6cd96e2" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-6055f6ecfbf240a0a2e25a92c1342149" source="id-fad1bfff70854bc0949c3f57102b42e8" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
-    <element xsi:type="archimate:SpecializationRelationship" id="id-0d042f2ac9f74f07a5d830301b2b0b30" source="id-bd82bf977b0242fdb3ec3567990259ce" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
-    <element xsi:type="archimate:InfluenceRelationship" id="id-a8606868e7c74d5eb0eedc6f3d79481f" source="id-85226bc370454988b23555d325941c1a" target="id-a4496ff618f3481caeae1bcc9022901b"/>
-    <element xsi:type="archimate:AssociationRelationship" id="id-b755f0ecf6fa44c0bf10a593dd65edba" source="id-3629353df00d4a2e85175d467ebee58c" target="id-644a03519ce8463f80176ce9766c5911"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-deb0140a2ed5427dac0b9b27e7c7b813" source="id-69b70dc6af0d4e37b92642d32f5721f4" target="id-bf8b320010cf4113800fd98db2233d13"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-3bd6cedbb8b0430ba9df193c950d8498" source="id-644a03519ce8463f80176ce9766c5911" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-d6f784119d7b4b1d82ba9b7676d5e4d7" source="id-a08ea99c3e6448d9b10ebd87f429bef1" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-cd83cd6b628946beb0cbd4b5e0e4fcc0" source="id-bf8b320010cf4113800fd98db2233d13" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-65e79651c5d341cf838825b3e5c727ea" source="id-67dc86782cbd49b885234b9b96b0e905" target="id-6001a10a6e234e36be3e5fef7c2bbc00"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-2fc47d47c2484a6ca3c6fe82579caf27" source="id-e9ff9e11a19a484ab3d02e57c29ea508" target="id-aff776a9eada4aa29c05ec463cfade28"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-bf6ba847fc9048158dc3642bcc6c7244" source="id-ff553be22c6549da82638d64309696f0" target="id-59ed2b8921ec4c6fbf8251f561dfe572"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-dd4d00c5313647548f6be5846e303df1" source="id-8aa90c081f3844ab9d7e75d923027ee4" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
     <element xsi:type="archimate:SpecializationRelationship" id="id-80aa13367a534b7f9a9f27413c3d2e9f" source="id-67dc86782cbd49b885234b9b96b0e905" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-df58791a66e54752ade66d24a7ed8f6c" source="id-b43ce1a3ea324e95a5f9c6007b29cd94" target="id-85226bc370454988b23555d325941c1a"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-63883b174cf44835b00864d4b1fc969e" source="id-c4bea78d62f64c7ba35e94ac023a6c37" target="id-3b5a06968e144058b3de35543b8e0ae0"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-325d4a9ff52944168c8afe5159fa19a3" source="id-c675c85e7189416ba8c4982efa984b7b" target="id-85226bc370454988b23555d325941c1a"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-e926bcdc870c4a1986d60dc8d54f7be4" source="id-8e451ba30a654c4198e128d65c1dc223" target="id-bf8b320010cf4113800fd98db2233d13"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-591e401062224191954a92a9874fcf39" source="id-8abb432dde27452a98727b8d186be461" target="id-52e8c071c84d4e27a8d1eef05a0ad5d8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8f9803332a6044a7b831c343dead0af5" source="id-c534aeb97d4b416faeaeb39c00a3f1a2" target="id-4cf8f12d84f24fd58a1fa268f6cd96e2"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-387e06a83b514b53b4a50440e561b0c6" source="id-e2f6d243f58e43958906be0e475ebbd3" target="id-25df79f046a34c318349d1600a3bc226"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-882de35a206341179581c9d3399052d1" source="id-8abb432dde27452a98727b8d186be461" target="id-5b94d345f0524e36aace6ba7830df367"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-3ab0fd142be14c75830a3401e3a5e109" source="id-c026f3dbb9df4078bc2ccfaf0b7778f2" target="id-aff776a9eada4aa29c05ec463cfade28"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-17bd03f78ca5482fa583aac9afc27633" source="id-593dffe970da47a389c0189623cfc145" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-b755f0ecf6fa44c0bf10a593dd65edba" source="id-3629353df00d4a2e85175d467ebee58c" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-fb262db8cc294913ab51309c1c53799d" source="id-f232df7944f549bfaf615bacbddb01aa" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-938aa92fc74b4072be2533966e1eab1b" source="id-345eea97ff2742ac8fb821c663480da7" target="id-8abb432dde27452a98727b8d186be461"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-406472ebd96d4e10bd1f767c7fefb0e4" source="id-6001a10a6e234e36be3e5fef7c2bbc00" target="id-0c5cb9bbd2d14497a2e00276752132f6"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-416de726e331432fbc2cc4c744675d86" source="id-8b8fff08d9c842eabf4b8458daf1d352" target="id-1f0603f6ec604dbb89734574ae90cf7e"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-1d994deda02d4f3d8f53cb7989e447b6" source="id-fa0be189340043c0b6e6ebbddbf15baa" target="id-25df79f046a34c318349d1600a3bc226"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-2a181421f9814443871a411dca1e0f1c" source="id-dc7ad62346834b4c8ffc07d010d60226" target="id-85226bc370454988b23555d325941c1a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ffb27bbd625b430da05cd33a7f52cc1f" source="id-18d36ed19c4f4bd79bd0aab204957a7d" target="id-4838adaa62424e1a99d293215c8bfe32"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-ce1677f8617b4028b8f4e7e6309b1caa" source="id-e9ff9e11a19a484ab3d02e57c29ea508" target="id-85226bc370454988b23555d325941c1a"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-35b3cd1bf35943b3884783f661e98d95" source="id-bfc724f1ddee4edd8456e2b143252029" target="id-aff776a9eada4aa29c05ec463cfade28"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-09fe880abc254b63a4aa62bc696a3b80" source="id-7306a1c4c2094ad6a86ef3f595884607" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-a8606868e7c74d5eb0eedc6f3d79481f" source="id-85226bc370454988b23555d325941c1a" target="id-a4496ff618f3481caeae1bcc9022901b"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-68078503e2614e219c675142b6c0e1d0" source="id-465cf786ea7d41399ef0b591fe48e4f2" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-46ff3e0844f84a17a4f42cac8be0a5c2" source="id-544c60e94bf3446ba98a536198c96373" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-93423c85fd2b48f0b48abe94db92fd3d" source="id-85226bc370454988b23555d325941c1a" target="id-a06e73eb9f41409eb879c7dd48a865d0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7592a080f3c74126bee724a7c3ac4eee" source="id-544c60e94bf3446ba98a536198c96373" target="id-bd82bf977b0242fdb3ec3567990259ce"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-ac555c9429904e90a794d5575f5bac18" source="id-bfc724f1ddee4edd8456e2b143252029" target="id-2298e292223747db9600ccf65005c516"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-c7d4b70479084117b495b2aa31fb92db" source="id-d15f615d08654b169c6ea8720f9117f9" target="id-644a03519ce8463f80176ce9766c5911"/>
     <element xsi:type="archimate:SpecializationRelationship" id="id-4813d5adf22140b5b630561f0ffcb43e" source="id-1d6ec628e1294a3593e08664ef9c79e4" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-b82fb2be68504473bd9e3fe957743ff5" source="id-3b5a06968e144058b3de35543b8e0ae0" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-edd0e629163443029c5a07c92e63a0d5" source="id-6001a10a6e234e36be3e5fef7c2bbc00" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-8381233faf7740f3a239faa3514fec9f" source="id-8b8fff08d9c842eabf4b8458daf1d352" target="id-0bbfe32fe8c14b79813980aca9413064"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-e2e9a20457ba47da94874cae34e8ab5f" source="id-439513bc984b4fe3b7772b5025ef6f2c" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-1f2176543fae47408b344f85cb28ad45" source="id-f7d6a3a2ec444498a1cbdd4be77df454" target="id-bf8b320010cf4113800fd98db2233d13"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-e87baad5369a45d2be5ddd941eeb69f7" source="id-b43ce1a3ea324e95a5f9c6007b29cd94" target="id-92b61019e7004a6f9ca475f130bdbe12"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-ef50289db0904cf2a8f4f76a8f314877" source="id-5731aefff919430b9beff520fc5cb95e" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-1984617c79874c7da525e77723bde386" source="id-85226bc370454988b23555d325941c1a" target="id-32e6e3a48bc14f20a29a65d98ef65a06"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-2b8bbb4955bc417189f39b27aebd402d" source="id-1a1a07398d9148f89d881e0359a4ef48" target="id-bf8b320010cf4113800fd98db2233d13"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-9a2b369043e34a859cf52121be9504ec" source="id-077fec2332044d8694cb5883d98721d5" target="id-f7d6a3a2ec444498a1cbdd4be77df454"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-0ce2c931f4964da5aa42a86ef7a8de89" source="id-558d50e96baa403797897085c47e1c9d" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-6dfe25b0912d4d4896b4906cc7901bf8" source="id-9497999cfd0d41f691463b660f2cc029" target="id-3f32b7b0b9854a37980b319e94b816e2"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-5d17089871b145359dd8dc114052dda2" source="id-d5edf1b5a1b44b1aa3178b6afba262e7" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-cb9d61f3193544b99875bdb16f22b2b3" source="id-c534aeb97d4b416faeaeb39c00a3f1a2" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-4cf09388d0fe436a897c84192ec18f08" source="id-bcb04663e43c4abfb393bf62d8de05ee" target="id-bf8b320010cf4113800fd98db2233d13"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-1518ee37dcf940f6bd99f717cff6e9d0" source="id-8b8fff08d9c842eabf4b8458daf1d352" target="id-85226bc370454988b23555d325941c1a"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-53d4a2f113524dff97cb2cefc3183eea" source="id-a598d6f1b14f4d76a2e8e67e3c877d9a" target="id-bf8b320010cf4113800fd98db2233d13"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-c8ed428f8ba046139c16995dfb7078f8" source="id-85226bc370454988b23555d325941c1a" target="id-69b70dc6af0d4e37b92642d32f5721f4"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-5debb2bb59b8492f98bff747b24fb2fc" source="id-f9c6d28e74214709af773c051f438492" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-9fc067271a1f418bbc568f0eedaa9431" source="id-25df79f046a34c318349d1600a3bc226" target="id-f67b09d6474c4bd8b063e8deaa6af295"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-6055f6ecfbf240a0a2e25a92c1342149" source="id-fad1bfff70854bc0949c3f57102b42e8" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6fac8c58f73744e292ce70f42e6b5c74" source="id-8caad01156b64be3b17b07b4523db6fc" target="id-db4995cb35144acc8f1c396fd8fded22"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ddc818e0c9ce4680a4e5b087f1377888" source="id-644a03519ce8463f80176ce9766c5911" target="id-3bca660407d544dd9ae76301a1045608"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-93b915fc93ac4053b78810e96cd6eb5e" source="id-18d36ed19c4f4bd79bd0aab204957a7d" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-ba4a91157a2641578ce785614d42b9b7" source="id-ff553be22c6549da82638d64309696f0" target="id-85226bc370454988b23555d325941c1a"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-a9daa77aab1441fda622421e1374f746" source="id-2723f5292f03476e89bdc6e8b2b4a3ca" target="id-8189ae8686614e3e8d2e5fa8fb4b4455"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-0126f3d501e44e16a4c2741ae1e8a8e8" source="id-0c5cb9bbd2d14497a2e00276752132f6" target="id-9497999cfd0d41f691463b660f2cc029"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-62f714886793419b911eb17c807b307f" source="id-c2f46b43502248a9aa80dd6b2eada12e" target="id-fad1bfff70854bc0949c3f57102b42e8"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-2cd05e493af644698d39c9f335402073" source="id-3f32b7b0b9854a37980b319e94b816e2" target="id-25df79f046a34c318349d1600a3bc226"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-fa59eca9d5504fc5bfd4dbee97754fd7" source="id-4adf7a7be5744eb791dad323bd8d8517" target="id-f93355650fcf4f08a3029baed7b5e418"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-07b837b90cae405b81032464e5259a77" source="id-cc07685c283940b49ff7cfcc15ca27cf" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-9406ec22308e415293d276a401b2bdc0" source="id-62ba75d7a9f84f45a346631e09d69a42" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-a63e1a8734ad41f2a11b13a6d31c9771" source="id-f7d6a3a2ec444498a1cbdd4be77df454" target="id-69b70dc6af0d4e37b92642d32f5721f4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a3555c04bfab4d57982f800758c72be1" source="id-62ba75d7a9f84f45a346631e09d69a42" target="id-7306a1c4c2094ad6a86ef3f595884607"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-02ad7061da664739b699b29edf463f33" source="id-4838adaa62424e1a99d293215c8bfe32" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-ccd54e2a5f1e4bdeb6a41bb17c6a346a" source="id-2df45507f4954d18beae609b17fe4ab1" target="id-3b5a06968e144058b3de35543b8e0ae0"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-09e5d4306c0149fab92138fe003966e8" source="id-d8bab3ca74a74797bf1fec71a8a5ca5e" target="id-8abb432dde27452a98727b8d186be461"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-91dc4393f9174137a827a56780c12241" source="id-85226bc370454988b23555d325941c1a" target="id-610c4ad3adf5448b878dc3ecd84ca718"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-602a917421704480bf5caf4987bcf369" source="id-c2f46b43502248a9aa80dd6b2eada12e" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-8f4420d704594cefac6b76a5b105d485" source="id-8140d291d7fc49919113cae76cda5e73" target="id-52e8c071c84d4e27a8d1eef05a0ad5d8"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-1e3e01171b244b79988dbeb9cb2bc5b4" source="id-22d6a9c0aaf041ab940af7baa2f6b2bc" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-02324d3738464bb7b40d5c127d814f83" source="id-c675c85e7189416ba8c4982efa984b7b" target="id-1f0603f6ec604dbb89734574ae90cf7e"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-8217be0d2f0747939c17d29ae79d72af" source="id-8caad01156b64be3b17b07b4523db6fc" target="id-92329bc3f86f4fbdb40020da1b7fceb1"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-d0a39f1d32e044a5b9117b0eae665177" source="id-1ff559ff76744de3ab30a098724b41ad" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-ce70d94ec60c43a4a0391ad075336a22" source="id-db4995cb35144acc8f1c396fd8fded22" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-da13b4c1c3014be2b151e077b5e5fead" source="id-558d50e96baa403797897085c47e1c9d" target="id-d8bab3ca74a74797bf1fec71a8a5ca5e"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-edebade2af9047988061e5fb38216888" source="id-0fd11bfe8cd048608cd891c60d8a6c29" target="id-644a03519ce8463f80176ce9766c5911"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-062e294d7f444e6a97ec7f0a6ba6175b" source="id-a572f93ceb854c2e80c9fac9c2a987cb" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
     <element xsi:type="archimate:SpecializationRelationship" id="id-279e520e24954c35a8b9c78e2b1fbcd0" source="id-2df45507f4954d18beae609b17fe4ab1" target="id-dc96470859204cc0936668cf5f58ce9b"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-17669dd6ee8f4e8a9a9efc07e63dbc23" source="id-b22b4f48be1c48de974b0b986ff92110" target="id-3b5a06968e144058b3de35543b8e0ae0"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-cf1a05c2c4884b7fb05a8ccf74f13eac" source="id-4cf8f12d84f24fd58a1fa268f6cd96e2" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-61d43c47a1084047beddff45b128fa3d" source="id-85226bc370454988b23555d325941c1a" target="id-ddee31456511435cb63020fe317bd6d9"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-956d032699cd4da5b927c6a79b62eade" source="id-8cd68d2ff669417683658cfe088d08ca" target="id-a59a0d0868d043c087f0f913677950ca"/>
+    <element xsi:type="archimate:SpecializationRelationship" id="id-0d042f2ac9f74f07a5d830301b2b0b30" source="id-bd82bf977b0242fdb3ec3567990259ce" target="id-1a1a07398d9148f89d881e0359a4ef48"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-c3d7b56d375c46daa38ef7266883a12f" source="id-85226bc370454988b23555d325941c1a" target="id-a598d6f1b14f4d76a2e8e67e3c877d9a"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-8e46b291658f4ef2ba07e55bdaa0197f" source="id-a114678a0e644985a87cb6959f4e7e58" target="id-644a03519ce8463f80176ce9766c5911"/>
     <element xsi:type="archimate:SpecializationRelationship" id="id-8daf417bcb5c4ac0bbd1709d6503d8e9" source="id-8abb432dde27452a98727b8d186be461" target="id-25df79f046a34c318349d1600a3bc226"/>
+    <element xsi:type="archimate:RealizationRelationship" id="id-b5df24cd03b34d29a02c01834df6fce6" source="id-bfc724f1ddee4edd8456e2b143252029" target="id-85226bc370454988b23555d325941c1a"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-bd58060255f74230ae98278dda1f6706" source="id-97bde38b848f49f28deaf2a2d80343a5" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8ed98d27b4be4439a72dd541bc58f723" source="id-8cd68d2ff669417683658cfe088d08ca" target="id-4294e2d18ddc4c5ca6a8832bb191c0ed"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-3541429d78da40a9ac4c3f7a6c23e2d1" source="id-4adf7a7be5744eb791dad323bd8d8517" target="id-8aa90c081f3844ab9d7e75d923027ee4"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-4e72d3e662ee47d3a7c656412d328997" source="id-85226bc370454988b23555d325941c1a" target="id-4976db20ff8c4e48b5823808f9cd0c4e"/>
   </folder>
   <folder name="Views" id="id-folder-views" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Algemeen" id="id-08a258e19ad84168a18a26587762054e">
@@ -932,8 +948,7 @@ Voorbeelden:
       </child>
       <child xsi:type="archimate:Note" id="id-child-3c75c48d6dbe">
         <bounds x="43" y="20" width="492" height="49"/>
-        <content>Note
-Titel: AI thesaurus (NL-SBB)</content>
+        <content>Titel: AI thesaurus (NL-SBB)</content>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Natuurlijke taalverwerking" id="id-15f743964e314a6bbb7e509b940a7a11">
