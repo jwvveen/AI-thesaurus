@@ -3,22 +3,10 @@
     name="Algoritme Impact Assessment"
     id="id-f67b09d6474c4bd8b063e8deaa6af295"
     documentation="Zie properties.">
-  <properties
-      key="ameff:status"
-      value="In bewerking"/>
-  <properties
-      key="ameff:datumstatus"
-      value="2021-01-26"/>
-  <properties
-      key="skos:definition"
-      value="Een algoritme impact assessment is een hulpmiddel voor het maken van afwegingen bij het inzetten van algoritmes en kunstmatige intelligentie. "/>
-  <properties
-      key="dct:source"
-      value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
-  <properties
-      key="skos:scopeNote"
-      value="Voorbeelden van algoritme impact assessments zijn het Impact Assessment  Mensenrechten en  Algoritmes (IAMA) en het AI Impact Assessment (AIIA)"/>
-  <properties
-      key="skos:altLabel"
-      value="AIIA"/>
+  <properties key="ameff:status" value="In bewerking"/>
+  <properties key="ameff:datumstatus" value="2021-01-26"/>
+  <properties key="skos:definition" value="Een algoritme impact assessment is een hulpmiddel voor het maken van afwegingen bij het inzetten van algoritmes en kunstmatige intelligentie. "/>
+  <properties key="dct:source" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai"/>
+  <properties key="skos:scopeNote" value="Voorbeelden van algoritme impact assessments zijn het Impact Assessment  Mensenrechten en  Algoritmes (IAMA) en het AI Impact Assessment (AIIA)"/>
+  <properties key="skos:altLabel" value="AIIA"/>
 </archimate:Meaning>

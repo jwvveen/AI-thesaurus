@@ -2,4 +2,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prompt Design &amp; Management"
     id="id-85226bc370454988b23555d325941c1a"
-    documentation="De organisatorische bekwaamheid om effectieve prompts te ontwerpen, beheren en optimaliseren."/>
+    documentation="De organisatorische bekwaamheid om effectieve prompts te ontwerpen, beheren en optimaliseren.">
+  <properties key="definitie" value="dfgdfgdf"/>
+</archimate:Capability>

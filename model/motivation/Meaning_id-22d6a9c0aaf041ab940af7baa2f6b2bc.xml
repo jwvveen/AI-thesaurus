@@ -3,22 +3,10 @@
     name="supervised learning"
     id="id-22d6a9c0aaf041ab940af7baa2f6b2bc"
     documentation="Zie properties.">
-  <properties
-      key="ameff:status"
-      value="In bewerking"/>
-  <properties
-      key="ameff:datumstatus"
-      value="2023-01-01"/>
-  <properties
-      key="skos:definition"
-      value="Machine learning proces waarbij een model leert van gelabelde voorbeelden (input-output paren), vergelijkbaar met een docent-student scenario."/>
-  <properties
-      key="skos:altLabel"
-      value="gecontroleerd leren"/>
-  <properties
-      key="skos:scopeNote"
-      value="Je algoritme leert van gegevens die je labelt met informatie. Je biedt bijvoorbeeld foto’s aan met de labels: dit is wel een kat, dit is geen kat. "/>
-  <properties
-      key="dct:source"
-      value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
+  <properties key="ameff:status" value="In bewerking"/>
+  <properties key="ameff:datumstatus" value="2023-01-01"/>
+  <properties key="skos:definition" value="Machine learning proces waarbij een model leert van gelabelde voorbeelden (input-output paren), vergelijkbaar met een docent-student scenario."/>
+  <properties key="skos:altLabel" value="gecontroleerd leren"/>
+  <properties key="skos:scopeNote" value="Je algoritme leert van gegevens die je labelt met informatie. Je biedt bijvoorbeeld foto’s aan met de labels: dit is wel een kat, dit is geen kat. "/>
+  <properties key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes"/>
 </archimate:Meaning>
