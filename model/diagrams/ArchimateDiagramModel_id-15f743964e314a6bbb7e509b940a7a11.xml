@@ -55,7 +55,6 @@
         id="id-conn-bfe7cae9ca30"
         source="id-child-65e447b03144"
         target="id-child-45039e698320">
-      <bendpoints startX="12" startY="-159" endX="-120" endY="9"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-062e294d7f444e6a97ec7f0a6ba6175b.xml#id-062e294d7f444e6a97ec7f0a6ba6175b"/>
