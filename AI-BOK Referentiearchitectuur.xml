@@ -11873,11 +11873,6 @@ Het bijbehorende paper is peer-reviewed gepresenteerd op EA4AI @ CBI-EDOC 2026 (
         <item identifierRef="id-95b0589b19304bdea1b824ef530c35d7" />
       </item>
       <item>
-        <label xml:lang="nl">Assessment</label>
-        <item identifierRef="id-c92e670dde87439a925f0f36556f8b3e" />
-        <item identifierRef="id-039ef0a2c85c455e8b539c18f060c397" />
-      </item>
-      <item>
         <label xml:lang="nl">Quality Gates</label>
         <item identifierRef="id-4ab659d622fb45feb8c22e81fa40188c" />
         <item identifierRef="id-d8ee55681f99471b9b09debe59b984f7" />
@@ -12290,6 +12285,8 @@ Het bijbehorende paper is peer-reviewed gepresenteerd op EA4AI @ CBI-EDOC 2026 (
         <item identifierRef="id-79f824afe8dd7b7059fe1bef6dfc448b" />
         <item identifierRef="id-9086e8707c08a4048e0f6079a2bc2e97" />
         <item identifierRef="id-e6b0ce61735e4bbce61abe8d27bf3869" />
+        <item identifierRef="id-c92e670dde87439a925f0f36556f8b3e" />
+        <item identifierRef="id-039ef0a2c85c455e8b539c18f060c397" />
       </item>
       <item>
         <label xml:lang="nl">Requirement</label>

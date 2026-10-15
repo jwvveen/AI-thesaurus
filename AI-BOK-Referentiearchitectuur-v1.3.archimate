@@ -1538,20 +1538,6 @@
         <property key="dct:source" value="AI-BOK v1.3, Module 3, sectie 3.1.9" />
       </element>
     </folder>
-    <folder name="Assessment" id="id-a3272d42a6134bb7a82a0b7f240b0ddf">
-      <element xsi:type="archimate:Assessment" name="Databias-assessment" id="id-c92e670dde87439a925f0f36556f8b3e">
-        <documentation>Assessment per dataset op bias en representativiteit.</documentation>
-        <property key="gdpr-classification" value="Possibly special category personal data" />
-        <property key="confidentiality" value="Confidential" />
-        <property key="dct:source" value="AI-BOK v1.3, Module 1, sectie 5.8" />
-      </element>
-      <element xsi:type="archimate:Assessment" name="Supply chain-risicobeoordeling" id="id-039ef0a2c85c455e8b539c18f060c397">
-        <documentation>Risk assessment of external models, datasets, services.</documentation>
-        <property key="gdpr-classification" value="No personal data" />
-        <property key="confidentiality" value="Confidential" />
-        <property key="dct:source" value="AI-BOK v1.3, Module 1, sectie 9.13" />
-      </element>
-    </folder>
     <folder name="Quality Gates" id="id-6ae4229fe4ff49de9c7d0124da924e2f">
       <element xsi:type="archimate:BusinessEvent" name="Gate: Business Case Approved" id="id-4ab659d622fb45feb8c22e81fa40188c">
         <property key="dct:source" value="AI-BOK v1.3, Module 3, sectie 3.1.1" />
@@ -3297,6 +3283,18 @@
         <property key="introduced-in" value="AI-BOK v1.1" />
         <property key="category" value="Agentic AI failure mode" />
         <property key="dct:source" value="AI-BOK v1.3, Failure-mode catalogue" />
+      </element>
+      <element xsi:type="archimate:Assessment" name="Databias-assessment" id="id-c92e670dde87439a925f0f36556f8b3e">
+        <documentation>Assessment per dataset op bias en representativiteit.</documentation>
+        <property key="gdpr-classification" value="Possibly special category personal data" />
+        <property key="confidentiality" value="Confidential" />
+        <property key="dct:source" value="AI-BOK v1.3, Module 1, sectie 5.8" />
+      </element>
+      <element xsi:type="archimate:Assessment" name="Supply chain-risicobeoordeling" id="id-039ef0a2c85c455e8b539c18f060c397">
+        <documentation>Risk assessment of external models, datasets, services.</documentation>
+        <property key="gdpr-classification" value="No personal data" />
+        <property key="confidentiality" value="Confidential" />
+        <property key="dct:source" value="AI-BOK v1.3, Module 1, sectie 9.13" />
       </element>
     </folder>
     <folder name="Requirement" id="id-0bd7db59f22f45fab2fa26cc2defa83e">
