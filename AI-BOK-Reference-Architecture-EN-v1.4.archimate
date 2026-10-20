@@ -725,7 +725,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
         <property key="eu-ai-act-relevant" value="Nee" />
       </element>
       <element xsi:type="archimate:BusinessActor" name="Triply" id="id-54fbba7c2f314e598c28c61bf5871a81">
-        <documentation>Netherlandss bedrijf, linked data platform TriplyDB.</documentation>
+        <documentation>Dutch company, linked data platform TriplyDB.</documentation>
         <property key="url" value="https://www.triply.cc" />
         <property key="vendor-type" value="Knowledge Graph" />
         <property key="license-model" value="Commercial" />

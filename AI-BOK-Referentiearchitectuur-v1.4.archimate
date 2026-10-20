@@ -705,7 +705,7 @@
         <property key="eu-ai-act-relevant" value="Nee" />
       </element>
       <element xsi:type="archimate:BusinessActor" name="Triply" id="id-54fbba7c2f314e598c28c61bf5871a81">
-        <documentation>Netherlandss bedrijf, linked data platform TriplyDB.</documentation>
+        <documentation>Nederlands bedrijf, linked data platform TriplyDB.</documentation>
         <property key="url" value="https://www.triply.cc" />
         <property key="vendor-type" value="Kennisgraaf" />
         <property key="license-model" value="Commercial" />

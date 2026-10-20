@@ -1781,7 +1781,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-54fbba7c2f314e598c28c61bf5871a81" xsi:type="BusinessActor">
       <name xml:lang="nl">Triply</name>
-      <documentation xml:lang="nl">Netherlandss bedrijf, linked data platform TriplyDB.</documentation>
+      <documentation xml:lang="nl">Nederlands bedrijf, linked data platform TriplyDB.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-12">
           <value xml:lang="nl">https://www.triply.cc</value>

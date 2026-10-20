@@ -1780,7 +1780,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-54fbba7c2f314e598c28c61bf5871a81" xsi:type="BusinessActor">
       <name xml:lang="en">Triply</name>
-      <documentation xml:lang="en">Netherlandss bedrijf, linked data platform TriplyDB.</documentation>
+      <documentation xml:lang="en">Dutch company, linked data platform TriplyDB.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-12">
           <value xml:lang="en">https://www.triply.cc</value>
