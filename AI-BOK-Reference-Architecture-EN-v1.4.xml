@@ -262,7 +262,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-b5245fbf43704b90bbae237e7a4de619" xsi:type="Capability">
       <name xml:lang="en">KA12: AI Knowledge &amp; Context Management</name>
-      <documentation xml:lang="en">AI systems produce grounded, traceable and semantically vamemberated output.</documentation>
+      <documentation xml:lang="en">AI systems produce grounded, traceable and semantically validated output.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-1">
           <value xml:lang="en">Very High</value>
@@ -2212,7 +2212,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-b5cd5bd547c048888776a940d1a273cb" xsi:type="BusinessActor">
       <name xml:lang="en">Grafana Labs</name>
-      <documentation xml:lang="en">Observability platform, dashboards en logging.</documentation>
+      <documentation xml:lang="en">Observability platform, dashboards and logging.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-12">
           <value xml:lang="en">https://www.grafana.com</value>
@@ -3541,7 +3541,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-aff2e91e91b9430aac1dfb313752f5c7" xsi:type="BusinessRole">
       <name xml:lang="en">Explainability Specialist</name>
-      <documentation xml:lang="en">Designt en implementeert uitlegbaarheidsmechanismen (SHAP, LIME).</documentation>
+      <documentation xml:lang="en">Designs and implements explainability mechanisms (SHAP, LIME).</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="en">AI-BOK v1.4, Module 2, section 2.2</value>
@@ -3586,7 +3586,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-7829d16bca3743b592c4f65b9a41b720" xsi:type="BusinessRole">
       <name xml:lang="en">AI Solution Architect</name>
-      <documentation xml:lang="en">Designt concrete AI-oplossingen binnen de referentiearchitectuur.</documentation>
+      <documentation xml:lang="en">Designs concrete AI solutions within the reference architecture.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="en">AI-BOK v1.4, Module 2, section 2.2</value>
@@ -4497,7 +4497,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-9398f5c182794e718d9e06556a27292f" xsi:type="ApplicationComponent">
       <name xml:lang="en">Data Quality Framework</name>
-      <documentation xml:lang="en">Geautomatiseerde datakwaliteitsValidation: volledigheid, consistentie, actualiteit, biasdetectie.</documentation>
+      <documentation xml:lang="en">Automated data quality validation: completeness, consistency, timeliness, bias detection.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="en">Current</value>
@@ -4563,7 +4563,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-d1791d0c1dd3414a8b93e24a5b4f02a3" xsi:type="ApplicationComponent">
       <name xml:lang="en">Model Serving</name>
-      <documentation xml:lang="en">Production-serving van ML-modellen: batching, caching, GPU-optimalisatie, A/B-testing.</documentation>
+      <documentation xml:lang="en">Production serving of ML models: batching, caching, GPU optimisation, A/B testing.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="en">Current</value>
@@ -4611,7 +4611,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-75b0913cde9f42ec9817a405930e5181" xsi:type="ApplicationComponent">
       <name xml:lang="en">GraphRAG</name>
-      <documentation xml:lang="en">Knowledge Graph-gebaseerde retrieval met entity-relatie context.</documentation>
+      <documentation xml:lang="en">Knowledge graph-based retrieval with entity-relation context.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="en">AI-BOK v1.4, Module 1, section 3.6</value>
@@ -4698,7 +4698,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-843b0c8e909d4f3fb86742f5076e8747" xsi:type="ApplicationService">
       <name xml:lang="en">Data Quality Service</name>
-      <documentation xml:lang="en">Geautomatiseerde datakwaliteitsValidation en -rapportage.</documentation>
+      <documentation xml:lang="en">Automated data quality validation and reporting.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-26">
           <value xml:lang="en">Data Plane</value>
@@ -6304,7 +6304,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-070b4dd748364d94a884d1187d7710a2" xsi:type="Goal">
       <name xml:lang="en">KA12: Grounded AI Knowledge Processing</name>
-      <documentation xml:lang="en">AI systems produce grounded, traceable and semantically vamemberated output.</documentation>
+      <documentation xml:lang="en">AI systems produce grounded, traceable and semantically validated output.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="en">AI-BOK v1.4, Module 1, section 12.2</value>
@@ -6892,7 +6892,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
     </element>
     <element identifier="id-9b8f235634f14282a5041e94291bf508" xsi:type="Principle">
       <name xml:lang="en">Proactive transparency</name>
-      <documentation xml:lang="en">Organisaties publiceren actief in het Algorithmregister.</documentation>
+      <documentation xml:lang="en">Organisations actively publish in the Algorithm Register.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="en">AI-BOK v1.4, Module 1, section 10.2</value>
@@ -8558,7 +8558,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
           <value xml:lang="en">Examples of AI systems are machine learning, Natural Language Processing (NLP) and computer vision (classifiers).</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://minbzk.github.io/Algorithmkader/overhetAlgorithmkader/definities/</value>
+          <value xml:lang="en">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/</value>
         </property>
         <property propertyDefinitionRef="propid-46">
           <value xml:lang="en">kunstmatige intelligentie</value>
@@ -8576,7 +8576,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
       <documentation xml:lang="en">A set of rules and instructions that a computer automatically follows when making calculations to solve a problem or answer a question.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-Algorithms/Aandacht+voor+Algorithms.pdf</value>
+          <value xml:lang="en">https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf</value>
         </property>
         <property propertyDefinitionRef="propid-45">
           <value xml:lang="en">By algorithm we mean a set of rules and instructions that a computer executes, with goals such as solving problems, answering questions, executing tasks or making decisions.</value>
@@ -8627,7 +8627,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
           <value xml:lang="en">Self-learning algorithms are algorithms that train themselves. This process is called machine learning. This allows computers to learn from data without explicit programming. This is a very common form of AI.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://minbzk.github.io/Algorithmkader/overhetAlgorithmkader/soorten-Algorithms/#zelflerende-Algorithms</value>
+          <value xml:lang="en">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
       </properties>
     </element>
@@ -8642,7 +8642,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
           <value xml:lang="en">Your algorithm learns from data you label with information. For example, you offer photos with labels: this is a cat, this is not a cat.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://minbzk.github.io/Algorithmkader/overhetAlgorithmkader/soorten-Algorithms/#zelflerende-Algorithms</value>
+          <value xml:lang="en">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
       </properties>
     </element>
@@ -8654,7 +8654,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
           <value xml:lang="en">You let the algorithm discover patterns and structures itself in unstructured data without labels.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://minbzk.github.io/Algorithmkader/overhetAlgorithmkader/soorten-Algorithms/#zelflerende-Algorithms</value>
+          <value xml:lang="en">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
       </properties>
     </element>
@@ -8666,7 +8666,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
           <value xml:lang="en">For example, you give points when the algorithm sorts photos that look like cats. In reinforcement learning, the AI model learns autonomously. You can also choose to deploy the model frozen.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://minbzk.github.io/Algorithmkader/overhetAlgorithmkader/soorten-Algorithms/#zelflerende-Algorithms</value>
+          <value xml:lang="en">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
         <property propertyDefinitionRef="propid-46">
           <value xml:lang="en">bekrachtiginsleren</value>
@@ -8897,7 +8897,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
       <documentation xml:lang="en">Skills, knowledge and understanding enabling providers, deployers and affected persons, taking into account their respective rights and obligations under the AI Act, to make informed use of AI systems and to become more aware of the opportunities and risks of AI and the potential harm it can cause.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://minbzk.github.io/Algorithmkader/overhetAlgorithmkader/definities/</value>
+          <value xml:lang="en">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/</value>
         </property>
       </properties>
     </element>
@@ -8918,7 +8918,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
       <documentation xml:lang="en">AI-generated or manipulated image, audio or video material that resembles existing persons, objects, places, entities or events, and would be wrongly perceived by a person as authentic or truthful.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en">https://minbzk.github.io/Algorithmkader/overhetAlgorithmkader/definities/</value>
+          <value xml:lang="en">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/</value>
         </property>
       </properties>
     </element>
@@ -9575,7 +9575,7 @@ Changes in v1.4 (October 2026): agent authority register element (view 03.01); A
       <name xml:lang="en">provides semantic building blocks</name>
     </relationship>
     <relationship identifier="id-2261291b4a6b426b842aab45b2c51f8d" source="id-221ac23cf28d4005b6a62f9a994d7bd2" target="id-c057752519ad4dffa4196c85cc673b89" xsi:type="Association">
-      <name xml:lang="en">provides vamemberated models</name>
+      <name xml:lang="en">provides validated models</name>
     </relationship>
     <relationship identifier="id-7ae6444b894f48e69cdc014573978db2" source="id-221ac23cf28d4005b6a62f9a994d7bd2" target="id-7cc895f011604056800c6d2fc73a1bf7" xsi:type="Association">
       <name xml:lang="en">escalates model risks</name>
@@ -22574,7 +22574,7 @@ Elaboration of the 19 main roles into specialised sub-roles per knowledge area.<
             </font>
           </style>
         </node>
-        <node identifier="id-fde3276b08d04b31b27ed7db519032b7" elementRef="id-48ad6cdedf9fb0543be788e7fd587a4c" xsi:type="Element" x="30" y="342" w="185" h="50">
+        <node identifier="id-fde3276b08d04b31b27ed7db519032b7" elementRef="id-48ad6cdedf9fb0543be788e7fd587a4c" xsi:type="Element" x="1100" y="177" w="185" h="50">
           <style>
             <fillColor r="255" g="255" b="181" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -38751,14 +38751,14 @@ Detail view of knowledge area 12 (AI Knowledge &amp; Context Management): capabi
       </view>
       <view identifier="id-cf51ac8e4e0338f77e39993bdc65740a" xsi:type="Diagram">
         <name xml:lang="en">07.01 Agentic AI Failure-Mode Catalogue</name>
-        <documentation xml:lang="en">Sixteen agentic AI failure modes (FM01-FM16) plus six operational/cyber-physical variants (FM17-FM22), with their primary KA anchors (KA9 Risk, KA3 Architecture). Cognition-plane bindings per pattern documented in the failure-mode catalogue (§3.6.7). Introduced in AI-BOK v1.1.</documentation>
+        <documentation xml:lang="en">Twenty agentic AI failure modes (FM01-FM16 and FM23-FM26) plus six operational/cyber-physical variants (FM17-FM22), together FM01 to FM26, with their primary KA anchors (KA9 Risk, KA3 Architecture). Cognition-plane bindings per pattern documented in the failure-mode catalogue (§3.6.7). Introduced in AI-BOK v1.1; FM23-FM26 added in v1.4.</documentation>
         <properties>
           <property propertyDefinitionRef="propid-5">
             <value xml:lang="en">AI-BOK v1.4</value>
           </property>
         </properties>
         <node identifier="id-b96f8a5a9fbce1bf51be6710197799b1" xsi:type="Label" x="20" y="20" w="380" h="120">
-          <label xml:lang="en">Sixteen agentic AI failure modes (FM01-FM16) plus six operational/cyber-physical variants (FM17-FM22), with their primary KA anchors (KA9 Risk, KA3 Architecture). Cognition-plane bindings per pattern documented in the failure-mode catalogue (§3.6.7). Introduced in AI-BOK v1.1.</label>
+          <label xml:lang="en">Twenty agentic AI failure modes (FM01-FM16 and FM23-FM26) plus six operational/cyber-physical variants (FM17-FM22), together FM01 to FM26, with their primary KA anchors (KA9 Risk, KA3 Architecture). Cognition-plane bindings per pattern documented in the failure-mode catalogue (§3.6.7). Introduced in AI-BOK v1.1; FM23-FM26 added in v1.4.</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />

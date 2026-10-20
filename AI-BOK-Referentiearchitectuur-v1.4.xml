@@ -1306,7 +1306,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">LLM Provider</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1378,7 +1378,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Research</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1498,7 +1498,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Framework</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1526,7 +1526,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Framework</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1550,7 +1550,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Framework</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1598,7 +1598,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Vector Database</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">Netherlands</value>
@@ -1622,7 +1622,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Vector Database</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">Germany</value>
@@ -1646,7 +1646,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Vector Database</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1715,10 +1715,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">https://jena.apache.org</value>
         </property>
         <property propertyDefinitionRef="propid-13">
-          <value xml:lang="nl">Open Bron Stichting</value>
+          <value xml:lang="nl">Open source-stichting</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1766,7 +1766,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Academisch</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1862,7 +1862,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">MLOps</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1910,7 +1910,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">MLOps</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1934,7 +1934,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">MLOps</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">Israel</value>
@@ -1958,7 +1958,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">MLOps</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -1982,7 +1982,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Platform</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US/France</value>
@@ -1997,7 +1997,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-0ac4c52fe0d940799c64335cbcb73876" xsi:type="BusinessActor">
       <name xml:lang="nl">Guardrails AI (Harvey)</name>
-      <documentation xml:lang="nl">Output-Validation en filtering voor LLMs.</documentation>
+      <documentation xml:lang="nl">Outputvalidatie en filtering voor LLMs.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-12">
           <value xml:lang="nl">https://www.guardrailsai.com</value>
@@ -2006,7 +2006,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Safety</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2030,7 +2030,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Safety</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">UK</value>
@@ -2054,7 +2054,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Evaluatie</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2078,7 +2078,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Evaluatie</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">India</value>
@@ -2150,7 +2150,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Academisch</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2174,7 +2174,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Research</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2198,7 +2198,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2213,7 +2213,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-b5cd5bd547c048888776a940d1a273cb" xsi:type="BusinessActor">
       <name xml:lang="nl">Grafana Labs</name>
-      <documentation xml:lang="nl">Observeerbaarheid platform, dashboards en logging.</documentation>
+      <documentation xml:lang="nl">Observeerbaarheidsplatform, dashboards en logging.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-12">
           <value xml:lang="nl">https://www.grafana.com</value>
@@ -2222,7 +2222,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">Sweden</value>
@@ -2270,7 +2270,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">Netherlands/US</value>
@@ -2294,7 +2294,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2318,7 +2318,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2342,7 +2342,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2366,7 +2366,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">Belgium</value>
@@ -2414,7 +2414,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Monitoring</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2462,7 +2462,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">API Gateway</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2486,7 +2486,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">API Gateway</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2534,7 +2534,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Identity &amp; Access</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2582,7 +2582,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Policy Engine</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2606,7 +2606,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Policy Engine</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2630,7 +2630,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Platform</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2654,7 +2654,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">AI Fairness</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2678,7 +2678,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Explainability</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2702,7 +2702,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Explainability</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2726,7 +2726,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Data Quality</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2774,7 +2774,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Annotation</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2822,7 +2822,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">ML Framework</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2846,7 +2846,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">ML Framework</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2894,7 +2894,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">DevOps Platform</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2918,7 +2918,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">CI/CD</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2942,7 +2942,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Container Platform</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2966,7 +2966,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Container Orchestratie</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -2990,7 +2990,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Package Management</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -3008,13 +3008,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <documentation xml:lang="nl">Infrastructure-as-code (Terraform).</documentation>
       <properties>
         <property propertyDefinitionRef="propid-12">
-          <value xml:lang="nl">https://www.heefthicorp.com</value>
+          <value xml:lang="nl">https://www.hashicorp.com</value>
         </property>
         <property propertyDefinitionRef="propid-13">
           <value xml:lang="nl">Infrastructure</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -3038,7 +3038,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Infrastructure</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -3086,7 +3086,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Feature Store</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -3134,7 +3134,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Data Lineage</value>
         </property>
         <property propertyDefinitionRef="propid-14">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-15">
           <value xml:lang="nl">US</value>
@@ -3897,7 +3897,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       </properties>
     </element>
     <element identifier="id-33607c5c577b4ebc993f6b3c6c9cafa4" xsi:type="BusinessEvent">
-      <name xml:lang="nl">Gate: Productie Ready</name>
+      <name xml:lang="nl">Gate: Productie gereed</name>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 3, sectie 3.1.5</value>
@@ -4009,7 +4009,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Cognition Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4021,7 +4021,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">99,9%</value>
         </property>
         <property propertyDefinitionRef="propid-31">
-          <value xml:lang="nl">High (agent heeft access to business data)</value>
+          <value xml:lang="nl">High (agent has access to business data)</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 3, sectie 3.6.5a</value>
@@ -4039,7 +4039,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Cognition Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4093,7 +4093,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Cognition Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4120,7 +4120,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Cognition Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4174,7 +4174,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Control Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4194,7 +4194,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Agentbevoegdheidsregister</name>
       <documentation xml:lang="nl">Register van agents met hun mandaat, mandaatversie, autonomieniveau, instance-NHI's en status (actief, opgeschort, ingetrokken). Het policy-consultation-protocol toetst elke agenthandeling ertegen; intrekkingen worden ondertekend met een korte geldigheid (FM21). Bron: AI-BOK v1.4, Module 3, §3.6.5a-c.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-32">
+        <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
         <property propertyDefinitionRef="propid-26">
@@ -4213,7 +4213,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Control Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4225,7 +4225,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">99,999% (compliance)</value>
         </property>
         <property propertyDefinitionRef="propid-31">
-          <value xml:lang="nl">High (bevat decision history)</value>
+          <value xml:lang="nl">High (contains decision history)</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 3, sectie 3.6.5a</value>
@@ -4243,7 +4243,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Control Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise / SaaS</value>
@@ -4327,7 +4327,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Data Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4357,7 +4357,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Data Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4438,7 +4438,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Control Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">SaaS / On-premise</value>
@@ -4465,7 +4465,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Cognition Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4486,7 +4486,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Cognition Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4498,7 +4498,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-9398f5c182794e718d9e06556a27292f" xsi:type="ApplicationComponent">
       <name xml:lang="nl">Data Quality Framework</name>
-      <documentation xml:lang="nl">Geautomatiseerde datakwaliteitsValidatie: volledigheid, consistentie, actualiteit, biasdetectie.</documentation>
+      <documentation xml:lang="nl">Geautomatiseerde datakwaliteitsvalidatie: volledigheid, consistentie, actualiteit, biasdetectie.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
@@ -4507,7 +4507,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Data Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4519,7 +4519,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-4c281c672f06494990e192c2bea68d25" xsi:type="ApplicationComponent">
       <name xml:lang="nl">Annotation Tooling</name>
-      <documentation xml:lang="nl">Tooling voor data-annotatie, labeling en curatie. Ondersteuning voor RLHF en domeinexpert-Validation.</documentation>
+      <documentation xml:lang="nl">Tooling voor data-annotatie, labeling en curatie. Ondersteuning voor RLHF en validatie door domeinexperts.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
@@ -4528,7 +4528,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Data Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise / SaaS</value>
@@ -4549,7 +4549,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Control Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">SaaS / On-premise</value>
@@ -4573,7 +4573,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
           <value xml:lang="nl">Control Plane</value>
         </property>
         <property propertyDefinitionRef="propid-27">
-          <value xml:lang="nl">Open Bron</value>
+          <value xml:lang="nl">Open source</value>
         </property>
         <property propertyDefinitionRef="propid-28">
           <value xml:lang="nl">On-premise</value>
@@ -4635,13 +4635,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 3, sectie 3.2</value>
         </property>
-        <property propertyDefinitionRef="propid-33">
+        <property propertyDefinitionRef="propid-32">
           <value xml:lang="nl">aanbieder | gebruiksverantwoordelijke | beide (art. 3, punt 3 en 4; rolwissel art. 25, lid 1)</value>
         </property>
-        <property propertyDefinitionRef="propid-34">
+        <property propertyDefinitionRef="propid-33">
           <value xml:lang="nl">EU-databank (art. 49 en 71); Algoritmeregister als beleid, geen AI Act-plicht</value>
         </property>
-        <property propertyDefinitionRef="propid-35">
+        <property propertyDefinitionRef="propid-34">
           <value xml:lang="nl">geen | lid 1 | lid 2 | lid 4</value>
         </property>
       </properties>
@@ -4662,13 +4662,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 3, sectie 3.2</value>
         </property>
-        <property propertyDefinitionRef="propid-36">
+        <property propertyDefinitionRef="propid-35">
           <value xml:lang="nl">ja | nee (art. 3, punt 63; documentatie art. 53, lid 1, onder b)</value>
         </property>
-        <property propertyDefinitionRef="propid-37">
+        <property propertyDefinitionRef="propid-36">
           <value xml:lang="nl">ja | nee (art. 51)</value>
         </property>
-        <property propertyDefinitionRef="propid-38">
+        <property propertyDefinitionRef="propid-37">
           <value xml:lang="nl">ja | nee</value>
         </property>
       </properties>
@@ -4699,7 +4699,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-843b0c8e909d4f3fb86742f5076e8747" xsi:type="ApplicationService">
       <name xml:lang="nl">Data Quality Service</name>
-      <documentation xml:lang="nl">Geautomatiseerde datakwaliteitsValidatie en -rapportage.</documentation>
+      <documentation xml:lang="nl">Geautomatiseerde datakwaliteitsvalidatie en -rapportage.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-26">
           <value xml:lang="nl">Data Plane</value>
@@ -4877,7 +4877,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4891,7 +4891,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4905,7 +4905,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4919,7 +4919,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4930,7 +4930,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-0cf316a877f64dabbdad927be72fd6bb" xsi:type="Node">
       <name xml:lang="nl">Cohere</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4941,7 +4941,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-826dd8e20e0642bf8d610da15f652a04" xsi:type="Node">
       <name xml:lang="nl">Microsoft Foundry (Azure OpenAI)</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4952,7 +4952,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-ff00caea985a4b0592112837ac3b3adc" xsi:type="Node">
       <name xml:lang="nl">AWS Bedrock</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4966,7 +4966,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Planned</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -4985,7 +4985,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-cb5c48f5f3714b6fb6ca5174db90113c" xsi:type="Node">
       <name xml:lang="nl">Triton Inference Server</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5010,7 +5010,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5035,7 +5035,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5049,7 +5049,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5063,7 +5063,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5074,7 +5074,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-24c73a16dadc480985c965dda3fba9b0" xsi:type="Node">
       <name xml:lang="nl">Azure AI Search</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5085,7 +5085,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-e4e04af8a6174ff7832509ec04e147a4" xsi:type="Node">
       <name xml:lang="nl">Amazon Kendra</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5096,7 +5096,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-32b44d160d764e9083997c2f98c0d710" xsi:type="Node">
       <name xml:lang="nl">PromptLayer</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5110,7 +5110,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5124,7 +5124,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5138,7 +5138,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5152,7 +5152,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5166,7 +5166,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5180,7 +5180,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5245,7 +5245,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5256,7 +5256,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-66bc66d69ad04e2a91896d83487b13bc" xsi:type="Node">
       <name xml:lang="nl">Keycloak</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5267,7 +5267,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-e0e39cbcef3e4f798b8e4376731df5e8" xsi:type="Node">
       <name xml:lang="nl">Okta</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5281,7 +5281,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5306,7 +5306,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5317,7 +5317,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-37fe2f1012f84ee8a9966ad23d34ca0e" xsi:type="Node">
       <name xml:lang="nl">Jaeger</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5331,7 +5331,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5353,7 +5353,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5364,7 +5364,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-9fca0a18fe104144acb512b9fd9272fa" xsi:type="Node">
       <name xml:lang="nl">Weights &amp; Biases</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5383,7 +5383,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-795ef27cc6b749b8accebd696780658d" xsi:type="Node">
       <name xml:lang="nl">Gemini Enterprise Agent Platform (voorheen Vertex AI)</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5402,7 +5402,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-b91319431815411d950771006906e7d7" xsi:type="Node">
       <name xml:lang="nl">ClearML</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5413,7 +5413,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-232249aaa94e47da851e0490bdd703b7" xsi:type="Node">
       <name xml:lang="nl">DVC (Data Version Control)</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5441,7 +5441,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-952343ec68c143e199111c7ee4ac1219" xsi:type="Node">
       <name xml:lang="nl">Kong</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5452,7 +5452,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-bc137eca678b42c1862eba18d983c527" xsi:type="Node">
       <name xml:lang="nl">Apigee</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5482,7 +5482,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5496,7 +5496,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5510,7 +5510,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5524,7 +5524,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5538,7 +5538,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5552,7 +5552,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5563,7 +5563,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-1427acf5c0b340f8b2bae7c7a4f50486" xsi:type="Node">
       <name xml:lang="nl">pgvector</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5577,7 +5577,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5596,7 +5596,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-9037fdbe4bef42b78d101ef181b3c851" xsi:type="Node">
       <name xml:lang="nl">GraphDB</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5607,7 +5607,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-580fb9697b6f4ea88e1b571d8706562d" xsi:type="Node">
       <name xml:lang="nl">Apache Jena</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5618,7 +5618,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-df25d77e892743eeb19af6177e09bef1" xsi:type="Node">
       <name xml:lang="nl">Stardog</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5629,7 +5629,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-5c93e371550c432599652adeccf2bbad" xsi:type="Node">
       <name xml:lang="nl">Protégé</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5643,7 +5643,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5654,7 +5654,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-7e6fab0e2f464275a2c94964014407c8" xsi:type="Node">
       <name xml:lang="nl">Snowflake</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5676,7 +5676,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Planned</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5725,7 +5725,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5739,7 +5739,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5750,7 +5750,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-690e839dee754f06a4cb22a3e450609a" xsi:type="Node">
       <name xml:lang="nl">Datadog</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">High</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5777,7 +5777,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-99773e336e4b4c59a1bba821ca4fed1d" xsi:type="Node">
       <name xml:lang="nl">Loki</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5791,7 +5791,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5805,7 +5805,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Emerging</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Medium</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5849,7 +5849,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-f2989bb907a5415ba897a000804717d2" xsi:type="Node">
       <name xml:lang="nl">AI Fairness 360 (IBM)</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5860,7 +5860,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-ce38ab7257b543b997dcbbb278ff5a57" xsi:type="Node">
       <name xml:lang="nl">Fairlearn (Microsoft)</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5871,7 +5871,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-63c297425c764aceab4193c1a4ffbe1e" xsi:type="Node">
       <name xml:lang="nl">Aequitas</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5890,7 +5890,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-165fb6362ba241b5b493493a36b24ce8" xsi:type="Node">
       <name xml:lang="nl">SHAP</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5901,7 +5901,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-3f1a857d288d4a4d9ff492e7c7344a4b" xsi:type="Node">
       <name xml:lang="nl">LIME</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5912,7 +5912,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-af66f850962345c68d86895ea173fef8" xsi:type="Node">
       <name xml:lang="nl">Great Expectations</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5923,7 +5923,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-7bcca2c221dc4b06bba035b1f6a8706c" xsi:type="Node">
       <name xml:lang="nl">Soda</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5934,7 +5934,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-96f7d3b86c81415bacdc4ddbab5b2261" xsi:type="Node">
       <name xml:lang="nl">Label Studio</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5953,7 +5953,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-1e573e7259d44b3ea9aabacb1acf123c" xsi:type="Node">
       <name xml:lang="nl">GitHub Actions</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5980,7 +5980,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-52b7efe7ca5c42679125cca71d1e4716" xsi:type="Node">
       <name xml:lang="nl">Jenkins</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -5994,7 +5994,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6008,7 +6008,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6019,7 +6019,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-9c83f76080254ebba48eb9567a3f89c2" xsi:type="Node">
       <name xml:lang="nl">Helm Charts</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6030,7 +6030,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <element identifier="id-f6817441bfed4ad1975f6baf30a35406" xsi:type="Node">
       <name xml:lang="nl">Terraform</name>
       <properties>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6055,7 +6055,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6069,7 +6069,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Free</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6083,7 +6083,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6097,7 +6097,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="nl">Current</value>
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-38">
           <value xml:lang="nl">Low</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -6542,7 +6542,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-a978794d9a884bd3a558d04927190748" xsi:type="Principle">
       <name xml:lang="nl">Continue feedbackloops</name>
-      <documentation xml:lang="nl">Productie observations structurally flow back to earlier pheeftes.</documentation>
+      <documentation xml:lang="nl">Production observations structurally flow back to earlier phases.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 1, sectie 4.2</value>
@@ -6794,7 +6794,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-b3a3372cb27a4f2fa4e4a1c447f33061" xsi:type="Principle">
       <name xml:lang="nl">Geleidelijke uitrol</name>
-      <documentation xml:lang="nl">New versions are rolled out in pheeftes (canary, A/B, blue-green).</documentation>
+      <documentation xml:lang="nl">New versions are rolled out in phases (canary, A/B, blue-green).</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 1, sectie 8.2</value>
@@ -7298,7 +7298,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-8d327be3f17b4b4b9efffa959755e4fb" xsi:type="Constraint">
       <name xml:lang="nl">ISO 9241-210:2019</name>
-      <documentation xml:lang="nl">Human-Centred Ontwerp.</documentation>
+      <documentation xml:lang="nl">Mensgericht ontwerp.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 3, sectie 3.3</value>
@@ -7792,10 +7792,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">AI-BOK v1.4, Module 3, sectie 3.2</value>
         </property>
-        <property propertyDefinitionRef="propid-40">
+        <property propertyDefinitionRef="propid-39">
           <value xml:lang="nl">bijlage I (art. 6, lid 1) | bijlage III punt 1-8 (art. 6, lid 2)</value>
         </property>
-        <property propertyDefinitionRef="propid-41">
+        <property propertyDefinitionRef="propid-40">
           <value xml:lang="nl">ja | nee (beoordeling art. 6, lid 4; registratie art. 49, lid 2)</value>
         </property>
       </properties>
@@ -7807,7 +7807,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7822,7 +7822,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7837,7 +7837,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7852,7 +7852,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7867,7 +7867,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7882,7 +7882,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7897,7 +7897,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7912,7 +7912,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7927,7 +7927,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7942,7 +7942,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7957,7 +7957,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7972,7 +7972,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -7987,7 +7987,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8002,7 +8002,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8017,7 +8017,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8032,7 +8032,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8047,7 +8047,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8062,7 +8062,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8077,7 +8077,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8092,7 +8092,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8107,7 +8107,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8122,7 +8122,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.1</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8137,7 +8137,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.4</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8152,7 +8152,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.4</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8167,7 +8167,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.4</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8182,7 +8182,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-6">
           <value xml:lang="nl">AI-BOK v1.4</value>
         </property>
-        <property propertyDefinitionRef="propid-42">
+        <property propertyDefinitionRef="propid-41">
           <value xml:lang="nl">Agentic AI failure mode</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8269,13 +8269,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Policy-as-code Governance</name>
       <documentation xml:lang="nl">Governance-regels moeten machine-leesbaar en runtime-evalueerbaar zijn.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8284,28 +8284,28 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Immutable Audit Trail</name>
       <documentation xml:lang="nl">Alle AI-beslissingen en -interacties moeten onveranderbaar gelogd worden.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
     </element>
     <element identifier="id-0be6be77e97645088b60bd03ba76881d" xsi:type="Requirement">
-      <name xml:lang="nl">Agent Auteurisation and Mandate</name>
+      <name xml:lang="nl">Autorisatie en mandaat van agents</name>
       <documentation xml:lang="nl">Agents moeten runtime geautoriseerd worden op basis van expliciete mandaten.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8314,28 +8314,28 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Input/Output Guardrails</name>
       <documentation xml:lang="nl">AI-output moet gefilterd worden op veiligheid, correctheid en ethiek.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
     </element>
     <element identifier="id-24628540161b4fada3cb7aed79ea36d6" xsi:type="Requirement">
-      <name xml:lang="nl">Continuous Observeerbaarheid</name>
+      <name xml:lang="nl">Continue observeerbaarheid</name>
       <documentation xml:lang="nl">AI-systemen moeten continu gemonitord worden op prestaties, drift en kosten.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8344,13 +8344,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Semantic Anchoring</name>
       <documentation xml:lang="nl">AI systems must interpret concepts via authoritative terminology frameworks.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8359,13 +8359,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">End-to-end Traceability</name>
       <documentation xml:lang="nl">Elke AI-output moet traceerbaar zijn naar bronnen, modellen en redeneerstappen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8374,13 +8374,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Central Model Management</name>
       <documentation xml:lang="nl">Alle productiemodellen moeten geregistreerd zijn met model cards en versies.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8389,13 +8389,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Structural Bias Detection</name>
       <documentation xml:lang="nl">Models must be periodically tested for undesirable biases.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8404,13 +8404,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Uitlegbaarheid van beslissingen</name>
       <documentation xml:lang="nl">Betrokkenen hebben recht op een begrijpelijke uitleg van AI-beslissingen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8419,28 +8419,28 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Privacy by design</name>
       <documentation xml:lang="nl">Personal data is never unnecessarily exposed to AI components.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
     </element>
     <element identifier="id-724e90959e3e4a848bb5546384094c12" xsi:type="Requirement">
-      <name xml:lang="nl">Grounding in Auteuritative Brons</name>
+      <name xml:lang="nl">Grounding in gezaghebbende bronnen</name>
       <documentation xml:lang="nl">AI-output moet gebaseerd zijn op geverifieerde, traceerbare kennisbronnen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8449,13 +8449,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Open standards and interoperability</name>
       <documentation xml:lang="nl">AI components communicate via standardised protocols (MCP, A2A).</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8464,28 +8464,28 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Automated Delivery Pipeline</name>
       <documentation xml:lang="nl">De route van model naar productie moet maximaal geautomatiseerd zijn via CI/CD.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
     </element>
     <element identifier="id-d14663309c1744ecaa3aec467d68ec23" xsi:type="Requirement">
-      <name xml:lang="nl">User-centred Prompt Ontwerp</name>
+      <name xml:lang="nl">Gebruikersgericht promptontwerp</name>
       <documentation xml:lang="nl">AI-interacties worden ontworpen vanuit het perspectief van taak, context en kennisniveau.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8494,13 +8494,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Continuous Data Quality Monitoring</name>
       <documentation xml:lang="nl">Datakwaliteit is een doorlopend proces van meting en verbetering.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-43">
+        <property propertyDefinitionRef="propid-42">
           <value xml:lang="nl">Not Started</value>
         </property>
-        <property propertyDefinitionRef="propid-44">
+        <property propertyDefinitionRef="propid-43">
           <value xml:lang="nl">Must Have</value>
         </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-44">
           <value xml:lang="nl">Yes</value>
         </property>
       </properties>
@@ -8537,16 +8537,16 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">AI</name>
       <documentation xml:lang="nl">Een technologie die, voor expliciete of impliciete doelen, afleidt hoe het op basis van ontvangen input (zoals data), outputs genereert. Outputs betreffen onder meer voorspellingen, content, aanbevelingen en/of beslissingen. De technologie kan leren, redeneren en taken uitvoeren op een manier die normaliter menselijke intelligentie vereist.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">AI (Artificial Intelligence) refers to the broader concept of artificial intelligence - the science and technology that enables machines to mimic human cognitive tasks such as learning, reasoning and problem-solving. This includes techniques such as machine learning, neural networks and natural language processing.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai</value>
         </property>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">kunstmatige intelligentie</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">AI (artificial intelligence) is a technology where computers perform tasks normally done by humans, such as learning, thinking and problem-solving. AI can recognise faces, understand text or drive a car autonomously. This is done with smart programs that process large amounts of data and learn from them.</value>
         </property>
       </properties>
@@ -8555,19 +8555,19 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">AI-systeem</name>
       <documentation xml:lang="nl">Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Examples of AI systems are machine learning, Natuurlijke Taalverwerking (NLP) and computer vision (classifiers).</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/definities/</value>
+          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/</value>
         </property>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">kunstmatige intelligentie</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">An AI system encompasses not only the model but also the entire infrastructure around it. This includes hardware, software, data processing, input and output interfaces, and all components needed to make the model work effectively. Examples are ChatGPT, Google Gemini and Co-Pilot.</value>
         </property>
-        <property propertyDefinitionRef="propid-49">
+        <property propertyDefinitionRef="propid-48">
           <value xml:lang="nl">https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai</value>
         </property>
       </properties>
@@ -8577,12 +8577,12 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <documentation xml:lang="nl">Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-Algoritmes/Aandacht+voor+Algoritmes.pdf</value>
+          <value xml:lang="nl">https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">By algorithm we mean a set of rules and instructions that a computer executes, with goals such as solving problems, answering questions, executing tasks or making decisions.</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">A recipe for solving a computer science problem from a given initial state to an intended end goal, consisting of a finite sequence of unambiguously defined instructions or rules.</value>
         </property>
       </properties>
@@ -8591,13 +8591,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Model</name>
       <documentation xml:lang="nl">Een programma getraind om patronen in data te herkennen en voorspellingen te doen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">concept</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">For example, predicting weather, recognising cats.</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">A model is a simplified representation of something from the real world. It helps to better understand, investigate or predict something.</value>
         </property>
       </properties>
@@ -8606,10 +8606,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">AI-model</name>
       <documentation xml:lang="nl">Een AI-model is het resultaat van het trainen van een Algoritme op data. Een Algoritme is een set instructies, en het model is het specifieke resultaat van het volgen van de set instructies op basis van bepaalde data.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">concept</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">A model is getraind op a task, for example classifying documents. GPT-4 is an example of an AI model.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8621,14 +8621,14 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Machine Learning</name>
       <documentation xml:lang="nl">De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">ML</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Self-learning algorithms are algorithms that train themselves. This process is called machine learning. This allows computers to learn from data without explicit programming. This is a very common form of AI.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes</value>
+          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
       </properties>
     </element>
@@ -8636,14 +8636,14 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Supervised Learning</name>
       <documentation xml:lang="nl">Machine learning proces waarbij een model leert van gelabelde voorbeelden (input-output paren), vergelijkbaar met een docent-student scenario.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">gecontroleerd leren</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Your algorithm learns from data you label with information. For example, you offer photos with labels: this is a cat, this is not a cat.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes</value>
+          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
       </properties>
     </element>
@@ -8651,11 +8651,11 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Unsupervised Learning</name>
       <documentation xml:lang="nl">Machine learning proces waarbij AI zelf verborgen patronen in ongelabelde data zoekt zonder expliciete begeleiding.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">You let the algorithm discover patterns and structures itself in unstructured data without labels.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes</value>
+          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
       </properties>
     </element>
@@ -8663,26 +8663,26 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Reinforcement Learning</name>
       <documentation xml:lang="nl">Het Algoritme leert door straf en beloning. Het doel is zo hoog mogelijk scoren in zo min mogelijk tijd.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">For example, you give points when the algorithm sorts photos that look like cats. In reinforcement learning, the AI model learns autonomously. You can also choose to deploy the model frozen.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes</value>
+          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes</value>
         </property>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">bekrachtiginsleren</value>
         </property>
       </properties>
     </element>
     <element identifier="id-d2488c46a45b40e68bd3103e5540e2b7" xsi:type="Meaning">
       <name xml:lang="nl">Validatie</name>
-      <documentation xml:lang="nl">Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (Validationset) die niet voor training is gebruikt.</documentation>
+      <documentation xml:lang="nl">Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (validatieset) die niet voor training is gebruikt.</documentation>
     </element>
     <element identifier="id-00cc67ceef9242e783522269066d66ba" xsi:type="Meaning">
       <name xml:lang="nl">Neurale Netwerken</name>
       <documentation xml:lang="nl">Een geavanceerde vorm van AI die complexe patronen in data herkent via gelaagde Neurale Netwerken, nuttig voor beeldherkenning, spraakverwerking en taalbegrip.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">deeplearning</value>
         </property>
       </properties>
@@ -8691,7 +8691,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">CNN (Convolutional)</name>
       <documentation xml:lang="nl">Vooral gebruikt bij beeldherkenning.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Convolutional Neurale Netwerken</value>
         </property>
       </properties>
@@ -8700,7 +8700,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">RNN (Recurrent)</name>
       <documentation xml:lang="nl">Geschikt voor sequentiegegevens zoals tekst en spraak.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Recurrent Neurale Netwerken</value>
         </property>
       </properties>
@@ -8713,16 +8713,16 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Generatieve AI</name>
       <documentation xml:lang="nl">Een vorm van artificiële intelligentie die content (tekst, afbeeldingen en/of gevarieerde inhoud zoals muziek) kan produceren (genereren) op basis van de gegevens waarop het wordt getraind.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">GenAI</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">An example is generating synthetic data and providing programming assistance.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">Generatieve AI, often used by large language models such as GPT-4o and DALL-E 3, focuses on creating new content based on patterns learned from enormous datasets.</value>
         </property>
       </properties>
@@ -8731,13 +8731,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Large Language Model</name>
       <documentation xml:lang="nl">Een gespecialiseerd type generatief AI-model dat getraind is op grote hoeveelheden tekst om bestaande content te begrijpen en tekstuele content te generen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Large Language Model</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">Type of AI getraind op large amounts of text data, capable of creating human-sounding text, answering questions, etc.</value>
         </property>
       </properties>
@@ -8746,10 +8746,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">GPT</name>
       <documentation xml:lang="nl">Een type neuraal netwerk, vooraf getraind op veel tekstdata, dat duidelijke en relevante tekst genereert op basis van prompts</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Generative Pre-trained Transformer</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">An example is ChatGPT.</value>
         </property>
       </properties>
@@ -8758,7 +8758,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">RAG</name>
       <documentation xml:lang="nl">Is een techniek binnen kunstmatige intelligentie die de kracht van generatieve AI combineert met informatieopvraging. Dit betekent dat een AI-model niet alleen tekst genereert op basis van vooraf getrainde data, maar ook relevante informatie kan ophalen uit externe kennisbronnen om nauwkeurigere en actuele antwoorden te geven</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Retrieval Augmented Generation</value>
         </property>
       </properties>
@@ -8767,16 +8767,16 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Prompt Engineering</name>
       <documentation xml:lang="nl">Het proces van het zorgvuldig kiezen en aanpassen van de input (prompt) voor een machine learning-model om de best mogelijke output te krijgen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">prompten</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Examples of prompt engineering: asking clear questions, adding specific instructions for style, creating creative prompts for interesting ideas or designs.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-prompt-engineering</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">Prompt engineering is the art of smartly formulating instructions for an AI system. By using the right words and structure, an AI can give better and more accurate answers.</value>
         </property>
       </properties>
@@ -8797,10 +8797,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Bias</name>
       <documentation xml:lang="nl">In de context van AI verwijst bias of vooringenomenheid naar de aannames die een AI-systeem doet om het leerproces en de taakuitvoer te vereenvoudigen. AI-onderzoekers proberen bias tot een minimum te beperken, omdat deze kan leiden tot slechte resultaten of onverwachte uitkomsten.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
-          <value xml:lang="nl">Bias in the context of AI refers to systematic errors or prejudices in an algorithm arising from biased training data. This can lead to unfair or inaccurate results. Bias can take various forms: Sample Bias, Measurement Bias, Algoritmeic Bias.</value>
+        <property propertyDefinitionRef="propid-45">
+          <value xml:lang="nl">Bias in the context of AI refers to systematic errors or prejudices in an algorithm arising from biased training data. This can lead to unfair or inaccurate results. Bias can take various forms: Sample Bias, Measurement Bias, Algorithmic Bias.</value>
         </property>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">vooringenomenheid</value>
         </property>
       </properties>
@@ -8809,10 +8809,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Natuurlijke Taalverwerking</name>
       <documentation xml:lang="nl">De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Natuurlijke Taalverwerking</value>
         </property>
-        <property propertyDefinitionRef="propid-50">
+        <property propertyDefinitionRef="propid-49">
           <value xml:lang="nl">NLP</value>
         </property>
       </properties>
@@ -8821,7 +8821,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Named Entity Recognition</name>
       <documentation xml:lang="nl">Identificeren van namen, locaties en concepten in tekst.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Named Entity Recognition</value>
         </property>
       </properties>
@@ -8832,18 +8832,18 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </element>
     <element identifier="id-f7ae52a774104d378abf4ca59b5a63b0" xsi:type="Meaning">
       <name xml:lang="nl">AI-agent</name>
-      <documentation xml:lang="nl">Een AI-agent is een software-entiteit die autonoom taken uitvoert en beslissingen neemt op basis van waarnemingen, regels en machine learning-Algoritmen.</documentation>
+      <documentation xml:lang="nl">Een AI-agent is een software-entiteit die autonoom taken uitvoert en beslissingen neemt op basis van waarnemingen, regels en machine-learningalgoritmen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">zelflerende bot</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">AI agents can vary in complexity, from simple bots to advanced self-learning systems.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">An AI agent is a computer program that can independently make decisions and take actions to achieve a goal. It uses AI to gather information, learn and adapt to changes.</value>
         </property>
       </properties>
@@ -8852,13 +8852,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Agentic AI</name>
       <documentation xml:lang="nl">Agentic AI	geeft het AI-systeem	ook het	 vermogen tot zelfstandige handelingen, om bijvoorbeeld bestanden aan te maken.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">An example of Agentic AI is a digital assistant that not only answers questions but also independently plans a trip, books tickets and reserves a hotel based on preferences.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://datanorth.ai/nl/blog/agentic-ai-begrijpen-definitie-en-toepassingen-in-de-praktijk</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">Agentic AI refers to artificial intelligence that can independently make decisions and take actions without direct human intervention. This type of AI goes beyond traditional AI systems. Agentic AI can plan, execute and adapt based on changing circumstances.</value>
         </property>
       </properties>
@@ -8882,13 +8882,13 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nieuwe-technologieen-data-en-ethiek/artificiele-intelligentie-ai/ai-verordening/</value>
         </property>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">AI Act</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">The purpose of the law is that AI systems used by organisations within the EU are safe and respect fundamental rights. AI systems are divided into different risk categories with corresponding rules.</value>
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-47">
           <value xml:lang="nl">The AI Act is a European law that sets rules for the development and use of AI systems. The law also grants rights to citizens who come into contact with AI systems.</value>
         </property>
       </properties>
@@ -8898,7 +8898,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <documentation xml:lang="nl">Vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico's van AI en de mogelijke schade die zij kan veroorzaken.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/definities/</value>
+          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/</value>
         </property>
       </properties>
     </element>
@@ -8906,7 +8906,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">AI-detector</name>
       <documentation xml:lang="nl">Een AI-detector is een hulpmiddel dat is ontworpen om te detecteren wanneer een stuk tekst (of soms een afbeelding of video) is gemaakt door AI-tools (zoals ChatGPT en DALL-E). Deze detectoren zijn niet 100% betrouwbaar, maar ze kunnen een indicatie geven van de waarschijnlijkheid dat een tekst door AI is gegenereerd.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">AI-detectors work with similar large language models (LLMs) as the tools they try to detect. They look for low levels of perplexity and burstiness. AI-detectors can be used by universities and other institutions to identify AI-generated content.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8919,7 +8919,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <documentation xml:lang="nl">Door AI gegenereerd of gemanipuleerd beeld-, audio- of videomateriaal dat een gelijkenis vertoont met bestaande personen, voorwerpen, plaatsen, entiteiten of gebeurtenissen, en door een persoon ten onrechte voor authentiek of waarheidsgetrouw zou worden aangezien.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/definities/</value>
+          <value xml:lang="nl">https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/</value>
         </property>
       </properties>
     </element>
@@ -8930,10 +8930,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
         <property propertyDefinitionRef="propid-5">
           <value xml:lang="nl">https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Examples of Algoritme Impact Assessments are the IAMA and the AIIA.</value>
         </property>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">AIIA</value>
         </property>
       </properties>
@@ -8943,7 +8943,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <documentation xml:lang="nl">Een register met beschrijvingen van algoritmische toepassingen die direct of indirect een maatschappelijk en/of economisch effect hebben, op burgers of op de maatschappij als geheel.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
-          <value xml:lang="nl">http://begrippen.kadaster.nl/ar/id/concept/AlgoritmeRegister</value>
+          <value xml:lang="nl">http://begrippen.kadaster.nl/ar/id/concept/AlgorithmRegister</value>
         </property>
       </properties>
     </element>
@@ -8951,7 +8951,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Cognition Plane</name>
       <documentation xml:lang="nl">De architectuurlaag waar AI-systemen redeneren, interpreteren en beslissingen nemen. Onderscheidt zich van het data- en controlvlak door non-deterministisch, contextafhankelijk gedrag.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Het cognition plane is de kernarchitectuurinnovatie van de AI-BOK. Het vereist eigen governance-mechanismen zoals mandaten en redeneringsgrenzen.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8963,7 +8963,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Grounding</name>
       <documentation xml:lang="nl">Het verankeren van AI-output in geverifieerde, autoritatieve bronnen zodat antwoorden feitelijk correct en traceerbaar zijn.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Grounding is een van de drie fundamenten van het cognition plane. Zonder grounding produceert een LLM antwoorden op basis van trainingsdata die verouderd of onjuist kan zijn.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8975,7 +8975,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Semantische Precisie</name>
       <documentation xml:lang="nl">Eenduidige, formeel gedefinieerde begrippen die AI-systemen in staat stellen concepten correct te interpreteren.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Eerste fundament van het cognition plane. Vereist autoritatieve terminologieraamwerken (SKOS/NL-SBB).</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8987,7 +8987,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">AI Governance</name>
       <documentation xml:lang="nl">Het geheel van beleidsraamwerken, besluitstructuren, verantwoordelijkheden en mandaten waarmee een organisatie AI-systemen bestuurt.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">KG1 is het centrale kennisgebied van de AI-BOK. AI Governance is ingebed, niet opgelegd — mechanismen zijn onderdeel van de architectuur.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -8999,7 +8999,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Shadow AI</name>
       <documentation xml:lang="nl">Niet-goedgekeurd gebruik van AI-tools en -diensten door medewerkers buiten het zicht van IT en governance.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Shadow AI vormt een groeiend risico. De AI-BOK adviseert channeling (veilige alternatieven bieden) boven verbieden.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9011,7 +9011,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Driftdetectie</name>
       <documentation xml:lang="nl">Het monitoren van verschuivingen in data- of modelgedrag die de prestaties van een AI-systeem in productie degraderen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Onderscheid tussen data drift (inputverdeling verandert) en concept drift (relatie input-output verandert). Trigger voor de hertrainingsloop.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9023,7 +9023,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Guardrail</name>
       <documentation xml:lang="nl">Programmeerbare begrenzingen op de input en output van AI-modellen die ongewenst gedrag voorkomen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Guardrails zijn architecturaal verankerd in het cognition plane. Ze vormen een extra beveiligingslaag bovenop modeltraining.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9035,7 +9035,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Agent Mandaat</name>
       <documentation xml:lang="nl">Formele specificatie van de autonomiegrenzen, escalatieregels en contextbeperkingen waarbinnen een AI-agent mag opereren.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Agent mandaten zijn het governance-instrument voor agentic AI. Ze specificeren wat een agent mag, niet mag, en wanneer een mens moet ingrijpen.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9047,7 +9047,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Quality Gate</name>
       <documentation xml:lang="nl">Formeel beslismoment in de AI-levenscyclus waar een AI-initiatief wordt beoordeeld op kwaliteitscriteria voordat het naar de volgende fase mag.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Elke quality gate heeft specifieke criteria, verantwoordelijke rollen en deliverables. Vergelijkbaar met TOGAF ADM quality reviews.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9059,7 +9059,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Model Card (begrip)</name>
       <documentation xml:lang="nl">Gestandaardiseerd documentatieformaat dat beschrijft wat een AI-model doet, voor wie, met welke beperkingen en welke prestaties.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Gebaseerd op Mitchell et al. (2019). Elke model card bevat: doel, eigenaar, trainingsdata, evaluatieresultaten, beperkingen, fairness-assessment.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9071,10 +9071,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Human-in-the-loop</name>
       <documentation xml:lang="nl">Ontwerppatroon waarbij een mens actief betrokken is in het beslisproces van een AI-systeem en elke output beoordeelt voordat deze wordt uitgevoerd.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">HITL, menselijke controle</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Drie varianten: human-in-the-loop (elke beslissing), human-on-the-loop (steekproefsgewijs), human-in-command (beleid/strategie).</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9086,10 +9086,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Kennisgraaf</name>
       <documentation xml:lang="nl">Een grafenstructuur die entiteiten en hun onderlinge relaties representeert als kennisbasis voor AI-systemen.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Kennisgraaf, KG</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Kennisgrafen vormen een kerncomponent van het data plane. Ze worden ingezet voor GraphRAG, entity resolution en semantische zoekfuncties.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9101,7 +9101,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Embedding</name>
       <documentation xml:lang="nl">Een numerieke vectorrepresentatie van tekst, beeld of andere data die semantische betekenis vastlegt in een continue vectorruimte.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Embeddings zijn de basis van RAG-pipelines en semantisch zoeken. Kwaliteit van embeddings bepaalt retrieval-effectiviteit.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9113,7 +9113,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Fine-tuning</name>
       <documentation xml:lang="nl">Het verder trainen van een foundation model op domeinspecifieke data om de prestaties voor een specifieke taak te verbeteren.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Alternatief voor RAG wanneer domeinkennis structureel in het model moet worden opgenomen. Duurder en complexer dan prompting.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9125,10 +9125,10 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Responsible AI</name>
       <documentation xml:lang="nl">De praktijk van het ontwerpen, ontwikkelen en inzetten van AI-systemen op een manier die ethisch, transparant, eerlijk en verantwoord is.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-46">
           <value xml:lang="nl">Verantwoorde AI</value>
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-45">
           <value xml:lang="nl">Responsible AI omvat fairness, uitlegbaarheid, privacy, veiligheid en menselijk toezicht. Het is het overkoepelende thema van KG11.</value>
         </property>
         <property propertyDefinitionRef="propid-5">
@@ -9195,7 +9195,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       </properties>
     </element>
     <element identifier="id-605987a0c74742b5a143fa6e8d86ea63" xsi:type="WorkPackage">
-      <name xml:lang="nl">Pheefte 1: Quick Wins (0-3 months)</name>
+      <name xml:lang="nl">Fase 1: Quick Wins (0-3 months)</name>
       <documentation xml:lang="nl">Inventory existing AI initiatives, assemble AI Board, classify risk, create awareness.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
@@ -9204,7 +9204,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       </properties>
     </element>
     <element identifier="id-9ec8eb85d79043d58ffcd9f101b00715" xsi:type="WorkPackage">
-      <name xml:lang="nl">Pheefte 2: Foundation (3-12 months)</name>
+      <name xml:lang="nl">Fase 2: Foundation (3-12 months)</name>
       <documentation xml:lang="nl">Governance framework operational, lifecycle established, first models in registry, basic monitoring.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
@@ -9213,7 +9213,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       </properties>
     </element>
     <element identifier="id-7455c042c1c4455aab4c709466280b37" xsi:type="WorkPackage">
-      <name xml:lang="nl">Pheefte 3: Scale-up (12-24 months)</name>
+      <name xml:lang="nl">Fase 3: Scale-up (12-24 months)</name>
       <documentation xml:lang="nl">Organisation-wide rollout, cognition plane operational, multi-agent pilots, full compliance.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
@@ -9222,7 +9222,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       </properties>
     </element>
     <element identifier="id-f03d2af978d448c3a510014fa5254ad2" xsi:type="WorkPackage">
-      <name xml:lang="nl">Pheefte 4: Optimisation (24+ months)</name>
+      <name xml:lang="nl">Fase 4: Optimisation (24+ months)</name>
       <documentation xml:lang="nl">Continue verbetering, gefedereerde samenwerking, AI-gedreven innovatie, volwassenheidsniveau 4-5.</documentation>
       <properties>
         <property propertyDefinitionRef="propid-5">
@@ -9340,7 +9340,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
       <name xml:lang="nl">Vector Databases</name>
     </element>
     <element identifier="id-066618b265104bfdb44a32cb04ee2bc1" xsi:type="Grouping">
-      <name xml:lang="nl">Kennisgraafs</name>
+      <name xml:lang="nl">Kennisgrafen</name>
     </element>
     <element identifier="id-934e328fd1dd499eaab395cc9a96a22e" xsi:type="Grouping">
       <name xml:lang="nl">Data Platforms</name>
@@ -10008,7 +10008,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <relationship identifier="id-03e9fa2496054f23b624d93be8338c5c" source="id-c057752519ad4dffa4196c85cc673b89" target="id-556baa523a9845d5" xsi:type="Association">
       <name xml:lang="nl">primair</name>
       <properties>
-        <property propertyDefinitionRef="propid-51">
+        <property propertyDefinitionRef="propid-50">
           <value xml:lang="nl">primary</value>
         </property>
       </properties>
@@ -11577,7 +11577,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </relationship>
     <relationship identifier="id-d900b22929444598abf186e5bd976307" source="id-c057752519ad4dffa4196c85cc673b89" target="id-09dc2cb3655b43efbedbf8f9b84b7ded" xsi:type="Association">
       <properties>
-        <property propertyDefinitionRef="propid-51">
+        <property propertyDefinitionRef="propid-50">
           <value xml:lang="nl">secondary</value>
         </property>
       </properties>
@@ -13655,28 +13655,28 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     </item>
   </organizations>
   <propertyDefinitions>
-    <propertyDefinition identifier="propid-33" type="string">
+    <propertyDefinition identifier="propid-32" type="string">
       <name>AI Act-rol van de organisatie</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-36" type="string">
+    <propertyDefinition identifier="propid-35" type="string">
       <name>AI-model voor algemene doeleinden</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-41" type="string">
+    <propertyDefinition identifier="propid-40" type="string">
       <name>Afwijking art. 6, lid 3</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-40" type="string">
+    <propertyDefinition identifier="propid-39" type="string">
       <name>Hoogrisicogrondslag</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-35" type="string">
+    <propertyDefinition identifier="propid-34" type="string">
       <name>Overgangspositie (art. 111)</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-38" type="string">
+    <propertyDefinition identifier="propid-37" type="string">
       <name>Overgangspositie GPAI (art. 111, lid 3)</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-34" type="string">
+    <propertyDefinition identifier="propid-33" type="string">
       <name>Registratiekenmerk</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-37" type="string">
+    <propertyDefinition identifier="propid-36" type="string">
       <name>Systeemrisico</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-4" type="string">
@@ -13691,16 +13691,16 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <propertyDefinition identifier="propid-1" type="string">
       <name>business-value</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-42" type="string">
+    <propertyDefinition identifier="propid-41" type="string">
       <name>category</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-45" type="string">
+    <propertyDefinition identifier="propid-44" type="string">
       <name>compliance-relevance</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-9" type="string">
       <name>confidentiality</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-39" type="string">
+    <propertyDefinition identifier="propid-38" type="string">
       <name>cost-indication</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-31" type="string">
@@ -13736,7 +13736,7 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <propertyDefinition identifier="propid-24" type="string">
       <name>human-oversight</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-43" type="string">
+    <propertyDefinition identifier="propid-42" type="string">
       <name>implementation-status</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-29" type="string">
@@ -13751,11 +13751,8 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <propertyDefinition identifier="propid-14" type="string">
       <name>license-model</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-32" type="string">
-      <name>lifecycle-phase</name>
-    </propertyDefinition>
     <propertyDefinition identifier="propid-25" type="string">
-      <name>lifecycle-pheefte</name>
+      <name>lifecycle-phase</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-2" type="string">
       <name>maturity-level</name>
@@ -13766,16 +13763,16 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <propertyDefinition identifier="propid-26" type="string">
       <name>plane</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-51" type="string">
+    <propertyDefinition identifier="propid-50" type="string">
       <name>plane-role</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-44" type="string">
+    <propertyDefinition identifier="propid-43" type="string">
       <name>priority</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-22" type="string">
       <name>raci-default-for</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-48" type="string">
+    <propertyDefinition identifier="propid-47" type="string">
       <name>rdfs:comment</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-10" type="string">
@@ -13787,16 +13784,16 @@ Wijzigingen v1.4 (oktober 2026): element agentbevoegdheidsregister (view 03.01);
     <propertyDefinition identifier="propid-18" type="string">
       <name>seniority-level</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-47" type="string">
+    <propertyDefinition identifier="propid-46" type="string">
       <name>skos:altLabel</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-49" type="string">
+    <propertyDefinition identifier="propid-48" type="string">
       <name>skos:closeMatch</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-50" type="string">
+    <propertyDefinition identifier="propid-49" type="string">
       <name>skos:notation</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-46" type="string">
+    <propertyDefinition identifier="propid-45" type="string">
       <name>skos:scopeNote</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-12" type="string">
@@ -22581,7 +22578,7 @@ Uitwerking van de 19 hoofdrollen naar gespecialiseerde sub-rollen per kennisgebi
             </font>
           </style>
         </node>
-        <node identifier="id-cbd02d6870294016b9c32e46828d8cf2" elementRef="id-48ad6cdedf9fb0543be788e7fd587a4c" xsi:type="Element" x="30" y="342" w="185" h="50">
+        <node identifier="id-cbd02d6870294016b9c32e46828d8cf2" elementRef="id-48ad6cdedf9fb0543be788e7fd587a4c" xsi:type="Element" x="1100" y="177" w="185" h="50">
           <style>
             <fillColor r="255" g="255" b="181" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -33753,7 +33750,7 @@ AI Quality Framework with 5 kwaliteitsdimensies for assessing AI systems.</label
 Gewijzigd: 2026-09-22
 Bron: AI-BOK v1.4, Module 3, sectie 3.5
 
-Implementation roadmap in 4 pheeftes (Foundation, Scale, Optimize, Transform) with identified gaps.</label>
+Implementation roadmap in 4 phases (Foundation, Scale, Optimize, Transform) with identified gaps.</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -38758,14 +38755,14 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
       </view>
       <view identifier="id-cf51ac8e4e0338f77e39993bdc65740a" xsi:type="Diagram">
         <name xml:lang="nl">07.01 Agentic AI Failure-Mode Catalogue</name>
-        <documentation xml:lang="nl">Zestien agentic AI-faalmodi (FM01-FM16) plus zes operationele/cyber-physical-varianten (FM17-FM22), met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1.</documentation>
+        <documentation xml:lang="nl">Twintig agentic AI-faalmodi (FM01-FM16 en FM23-FM26) plus zes operationele/cyber-physical-varianten (FM17-FM22), samen FM01 tot en met FM26, met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1; FM23-FM26 toegevoegd in v1.4.</documentation>
         <properties>
           <property propertyDefinitionRef="propid-5">
             <value xml:lang="nl">AI-BOK v1.4</value>
           </property>
         </properties>
         <node identifier="id-b96f8a5a9fbce1bf51be6710197799b1" xsi:type="Label" x="20" y="20" w="380" h="120">
-          <label xml:lang="nl">Zestien agentic AI-faalmodi (FM01-FM16) plus zes operationele/cyber-physical-varianten (FM17-FM22), met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1.</label>
+          <label xml:lang="nl">Twintig agentic AI-faalmodi (FM01-FM16 en FM23-FM26) plus zes operationele/cyber-physical-varianten (FM17-FM22), samen FM01 tot en met FM26, met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1; FM23-FM26 toegevoegd in v1.4.</label>
           <style>
             <fillColor r="255" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />

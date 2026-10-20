@@ -528,7 +528,7 @@
         <documentation>Technologiebedrijf, maker van open-source LLaMA-modellen.</documentation>
         <property key="url" value="https://ai.meta.com" />
         <property key="vendor-type" value="LLM Provider" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -555,7 +555,7 @@
         <documentation>People + AI Research initiative.</documentation>
         <property key="url" value="https://pair.withgoogle.com" />
         <property key="vendor-type" value="Research" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -600,7 +600,7 @@
         <documentation>Framework voor LLM-applicaties, RAG en agents.</documentation>
         <property key="url" value="https://www.langchain.com" />
         <property key="vendor-type" value="AI Framework" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -609,7 +609,7 @@
         <documentation>Multi-agent orkestratie framework.</documentation>
         <property key="url" value="https://www.crewai.com" />
         <property key="vendor-type" value="AI Framework" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -618,7 +618,7 @@
         <documentation>Data-framework voor LLM-applicaties en RAG.</documentation>
         <property key="url" value="https://www.llamaindex.ai" />
         <property key="vendor-type" value="AI Framework" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -636,7 +636,7 @@
         <documentation>Maker van Weaviate open-source vector database.</documentation>
         <property key="url" value="https://www.weaviate.io" />
         <property key="vendor-type" value="Vector Database" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="Netherlands" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -645,7 +645,7 @@
         <documentation>Open-source vector zoekmachine.</documentation>
         <property key="url" value="https://www.qdrant.tech" />
         <property key="vendor-type" value="Vector Database" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="Germany" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -654,7 +654,7 @@
         <documentation>Open-source embedding database.</documentation>
         <property key="url" value="https://www.trychroma.com" />
         <property key="vendor-type" value="Vector Database" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -680,8 +680,8 @@
       <element xsi:type="archimate:BusinessActor" name="Apache Foundation" id="id-a2465100c75f4634bdee4b5959b61335">
         <documentation>Open-source softwarestichting, o.a. Jena triple store.</documentation>
         <property key="url" value="https://jena.apache.org" />
-        <property key="vendor-type" value="Open Bron Stichting" />
-        <property key="license-model" value="Open Bron" />
+        <property key="vendor-type" value="Open source-stichting" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -699,7 +699,7 @@
         <documentation>Academic ontology editor Protege.</documentation>
         <property key="url" value="https://protege.stanford.edu" />
         <property key="vendor-type" value="Academisch" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -735,7 +735,7 @@
         <documentation>Open-source ML lifecycle management.</documentation>
         <property key="url" value="https://www.mlflow.org" />
         <property key="vendor-type" value="MLOps" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -753,7 +753,7 @@
         <documentation>ML pipeline orkestratie op Kubernetes.</documentation>
         <property key="url" value="https://www.kubeflow.org" />
         <property key="vendor-type" value="MLOps" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -762,7 +762,7 @@
         <documentation>Open-source MLOps platform.</documentation>
         <property key="url" value="https://www.clear.ml" />
         <property key="vendor-type" value="MLOps" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="Israel" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -771,7 +771,7 @@
         <documentation>Data en model version control.</documentation>
         <property key="url" value="https://www.dvc.org" />
         <property key="vendor-type" value="MLOps" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -780,16 +780,16 @@
         <documentation>Open-source AI-community, model hub en tooling.</documentation>
         <property key="url" value="https://www.huggingface.co" />
         <property key="vendor-type" value="AI Platform" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US/France" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Yes" />
       </element>
       <element xsi:type="archimate:BusinessActor" name="Guardrails AI (Harvey)" id="id-0ac4c52fe0d940799c64335cbcb73876">
-        <documentation>Output-Validation en filtering voor LLMs.</documentation>
+        <documentation>Outputvalidatie en filtering voor LLMs.</documentation>
         <property key="url" value="https://www.guardrailsai.com" />
         <property key="vendor-type" value="AI Safety" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -798,7 +798,7 @@
         <documentation>LLM vulnerability scanning toolkit.</documentation>
         <property key="url" value="https://github.com/leondz/garak" />
         <property key="vendor-type" value="AI Safety" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="UK" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -807,7 +807,7 @@
         <documentation>LLM evaluatie en red teaming tool.</documentation>
         <property key="url" value="https://www.promptfoo.dev" />
         <property key="vendor-type" value="AI Evaluatie" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -816,7 +816,7 @@
         <documentation>RAG-evaluatie framework.</documentation>
         <property key="url" value="https://www.ragas.io" />
         <property key="vendor-type" value="AI Evaluatie" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="India" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -843,7 +843,7 @@
         <documentation>Center for Research on Foundation Models.</documentation>
         <property key="url" value="https://crfm.stanford.edu" />
         <property key="vendor-type" value="Academisch" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -852,7 +852,7 @@
         <documentation>Open-source AI-onderzoekslaboratorium.</documentation>
         <property key="url" value="https://www.eleuther.ai" />
         <property key="vendor-type" value="Research" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -861,16 +861,16 @@
         <documentation>Open-source monitoring en alerting.</documentation>
         <property key="url" value="https://www.prometheus.io" />
         <property key="vendor-type" value="Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
       </element>
       <element xsi:type="archimate:BusinessActor" name="Grafana Labs" id="id-b5cd5bd547c048888776a940d1a273cb">
-        <documentation>Observeerbaarheid platform, dashboards en logging.</documentation>
+        <documentation>Observeerbaarheidsplatform, dashboards en logging.</documentation>
         <property key="url" value="https://www.grafana.com" />
         <property key="vendor-type" value="Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="Sweden" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -888,7 +888,7 @@
         <documentation>Zoek- en observability platform (ELK Stack).</documentation>
         <property key="url" value="https://www.elastic.co" />
         <property key="vendor-type" value="Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="Netherlands/US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -897,7 +897,7 @@
         <documentation>Open-source observability framework.</documentation>
         <property key="url" value="https://www.opentelemetry.io" />
         <property key="vendor-type" value="Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -906,7 +906,7 @@
         <documentation>Distributed tracing systeem.</documentation>
         <property key="url" value="https://www.jaegertracing.io" />
         <property key="vendor-type" value="Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -915,7 +915,7 @@
         <documentation>ML monitoring en data drift detectie.</documentation>
         <property key="url" value="https://www.evidentlyai.com" />
         <property key="vendor-type" value="AI Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -924,7 +924,7 @@
         <documentation>Post-deployment ML performance monitoring.</documentation>
         <property key="url" value="https://www.nannyml.com" />
         <property key="vendor-type" value="AI Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="Belgium" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -942,7 +942,7 @@
         <documentation>LLM inference cost benchmarking.</documentation>
         <property key="url" value="https://github.com/aws-samples/llmeter" />
         <property key="vendor-type" value="AI Monitoring" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -960,7 +960,7 @@
         <documentation>API gateway en service mesh.</documentation>
         <property key="url" value="https://www.konghq.com" />
         <property key="vendor-type" value="API Gateway" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -969,7 +969,7 @@
         <documentation>Unified LLM API proxy en load balancer.</documentation>
         <property key="url" value="https://www.litellm.ai" />
         <property key="vendor-type" value="API Gateway" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -987,7 +987,7 @@
         <documentation>Open-source identity en access management.</documentation>
         <property key="url" value="https://www.keycloak.org" />
         <property key="vendor-type" value="Identity &amp; Access" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1005,7 +1005,7 @@
         <documentation>Unified policy engine, policy-as-code.</documentation>
         <property key="url" value="https://www.openpolicyagent.org" />
         <property key="vendor-type" value="Policy Engine" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1014,7 +1014,7 @@
         <documentation>Policy language voor autorisatielogica.</documentation>
         <property key="url" value="https://www.cedarpolicy.com" />
         <property key="vendor-type" value="Policy Engine" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1023,7 +1023,7 @@
         <documentation>AI Fairness 360 toolkit voor biasdetectie.</documentation>
         <property key="url" value="https://aif360.mybluemix.net" />
         <property key="vendor-type" value="AI Platform" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -1032,7 +1032,7 @@
         <documentation>Open-source bias audit toolkit.</documentation>
         <property key="url" value="https://aequitas.dssg.io" />
         <property key="vendor-type" value="AI Fairness" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Low" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -1041,7 +1041,7 @@
         <documentation>SHapley Additive exPlanations voor model interpretatie.</documentation>
         <property key="url" value="https://shap.readthedocs.io" />
         <property key="vendor-type" value="Explainability" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -1050,7 +1050,7 @@
         <documentation>Local Interpretable Model-agnostic Explanations.</documentation>
         <property key="url" value="https://github.com/marcotcr/lime" />
         <property key="vendor-type" value="Explainability" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Yes" />
@@ -1059,7 +1059,7 @@
         <documentation>Data validation en documentatie framework.</documentation>
         <property key="url" value="https://www.greatexpectations.io" />
         <property key="vendor-type" value="Data Quality" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1077,7 +1077,7 @@
         <documentation>Maker van Label Studio, open-source annotatie.</documentation>
         <property key="url" value="https://www.humansignal.com" />
         <property key="vendor-type" value="Annotation" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1095,7 +1095,7 @@
         <documentation>Open-source ML framework en serving.</documentation>
         <property key="url" value="https://www.tensorflow.org" />
         <property key="vendor-type" value="ML Framework" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1104,7 +1104,7 @@
         <documentation>Open-source deep learning framework.</documentation>
         <property key="url" value="https://www.pytorch.org" />
         <property key="vendor-type" value="ML Framework" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1122,7 +1122,7 @@
         <documentation>DevOps platform met geïntegreerde CI/CD.</documentation>
         <property key="url" value="https://www.gitlab.com" />
         <property key="vendor-type" value="DevOps Platform" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1131,7 +1131,7 @@
         <documentation>Open-source automation server.</documentation>
         <property key="url" value="https://www.jenkins.io" />
         <property key="vendor-type" value="CI/CD" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1140,7 +1140,7 @@
         <documentation>Containerisatieplatform.</documentation>
         <property key="url" value="https://www.docker.com" />
         <property key="vendor-type" value="Container Platform" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1149,7 +1149,7 @@
         <documentation>Container orkestratie standaard.</documentation>
         <property key="url" value="https://www.kubernetes.io" />
         <property key="vendor-type" value="Container Orchestratie" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1158,16 +1158,16 @@
         <documentation>Kubernetes package manager.</documentation>
         <property key="url" value="https://www.helm.sh" />
         <property key="vendor-type" value="Package Management" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
       </element>
       <element xsi:type="archimate:BusinessActor" name="HashiCorp (IBM)" id="id-2908542d609d4b06920e8379f5bc20a9">
         <documentation>Infrastructure-as-code (Terraform).</documentation>
-        <property key="url" value="https://www.heefthicorp.com" />
+        <property key="url" value="https://www.hashicorp.com" />
         <property key="vendor-type" value="Infrastructure" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="High" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1176,7 +1176,7 @@
         <documentation>Infrastructure-as-code in programmeertalen.</documentation>
         <property key="url" value="https://www.pulumi.com" />
         <property key="vendor-type" value="Infrastructure" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1194,7 +1194,7 @@
         <documentation>Open-source feature store voor ML.</documentation>
         <property key="url" value="https://www.feast.dev" />
         <property key="vendor-type" value="Feature Store" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1212,7 +1212,7 @@
         <documentation>Open-source data lineage standaard.</documentation>
         <property key="url" value="https://www.openlineage.io" />
         <property key="vendor-type" value="Data Lineage" />
-        <property key="license-model" value="Open Bron" />
+        <property key="license-model" value="Open source" />
         <property key="origin" value="US" />
         <property key="enterprise-readiness" value="Medium" />
         <property key="eu-ai-act-relevant" value="Nee" />
@@ -1524,7 +1524,7 @@
       <element xsi:type="archimate:BusinessEvent" name="Gate: Model Validated" id="id-74a4791f4275451cb92ed93e097975a5">
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.1.4" />
       </element>
-      <element xsi:type="archimate:BusinessEvent" name="Gate: Productie Ready" id="id-33607c5c577b4ebc993f6b3c6c9cafa4">
+      <element xsi:type="archimate:BusinessEvent" name="Gate: Productie gereed" id="id-33607c5c577b4ebc993f6b3c6c9cafa4">
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.1.5" />
       </element>
       <element xsi:type="archimate:BusinessEvent" name="Gate: Go Live" id="id-7dbc2129ebe245a5bffd19954e411710">
@@ -1561,7 +1561,7 @@
     <folder name="Applicatiecomponenten (ABBs)" id="id-88626c71b0644792a81bd6a713f4b3be">
       <element xsi:type="archimate:ApplicationComponent" name="LLM/Foundation Model Service" id="id-b4ee1e0a74d44f689ad216c1c596f9ea">
         <documentation>Inferentie-endpoint voor taalmodellen. Biedt tekst-, beeld- en codegeneratie via foundation models.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
         <property key="vendor-dependency" value="Commercial" />
         <property key="deployment-model" value="SaaS / On-premise" />
@@ -1572,20 +1572,20 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Agent Orchestrator" id="id-3a6510c36fe14ee6a7a40a69243ba331">
         <documentation>Orkestratie van autonome AI-agents, taakdecompositie, tool-gebruik en multi-agent coördinatie.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="MCP / A2A" />
         <property key="availability-sla" value="99,9%" />
-        <property key="data-sensitivity" value="High (agent heeft access to business data)" />
+        <property key="data-sensitivity" value="High (agent has access to business data)" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="RAG Pipeline" id="id-adca26631e0c4e00919b012267886473">
         <documentation>Retrieval-Augmented Generation: haalt relevante context op uit kennisbronnen en voedt deze aan het LLM.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="REST API / Python SDK" />
         <property key="availability-sla" value="99,9%" />
@@ -1594,7 +1594,7 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Prompt Registry" id="id-24c9c97c81024b4e91e80d40594e0bb8">
         <documentation>Centraal beheer van prompt-templates, system messages, versiebeheer en effectiviteitsmetrics.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
         <property key="vendor-dependency" value="Commercial" />
         <property key="deployment-model" value="SaaS / On-premise" />
@@ -1603,9 +1603,9 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Guardrails Engine" id="id-b2731dabe6614dce86686ddfc8fb2660">
         <documentation>Input/output-filtering, content moderation, prompt injection detectie en veiligheidscontroles.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="Python SDK / Middleware" />
         <property key="availability-sla" value="99,99% (kritiek)" />
@@ -1613,16 +1613,16 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Evaluation Framework" id="id-9019194a47cf498ea84bf3bc857c5d65">
         <documentation>Geautomatiseerde kwaliteitsevaluatie van modellen: faithfulness, relevance, hallucination rate.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="Python SDK" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="AI Identity &amp; Access Mgmt" id="id-3071afca4a504e5eb40d1061e79192f8">
         <documentation>Identiteit en autorisatie voor AI-agents, gebruikers en systemen. Agent-identiteiten (NHI).</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
         <property key="vendor-dependency" value="Commercial" />
         <property key="deployment-model" value="SaaS" />
@@ -1633,9 +1633,9 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Policy Engine" id="id-e0adf63ad5d8451c88a08ea99b762d72">
         <documentation>Beleidsregels voor AI-autorisatie, policy-as-code. Runtime governance-checks voor agents.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="REST API / Rego / Cedar" />
         <property key="availability-sla" value="99,99% (kritiek)" />
@@ -1643,20 +1643,20 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Agentbevoegdheidsregister" id="id-a9b14a7e2f3c4d5e8f60718293a4b5c6"><documentation>Register van agents met hun mandaat, mandaatversie, autonomieniveau, instance-NHI's en status (actief, opgeschort, ingetrokken). Het policy-consultation-protocol toetst elke agenthandeling ertegen; intrekkingen worden ondertekend met een korte geldigheid (FM21). Bron: AI-BOK v1.4, Module 3, §3.6.5a-c.</documentation><property key="lifecycle-phase" value="Current" /><property key="plane" value="Control Plane" /></element><element xsi:type="archimate:ApplicationComponent" name="Audit Trail Service" id="id-a78f6e992e984c12a6acfe3a2272f775">
         <documentation>Onveranderbare logging van AI-beslissingen, interacties en agentacties. Provenance en traceerbaarheid.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="OpenTelemetry / REST API" />
         <property key="availability-sla" value="99,999% (compliance)" />
-        <property key="data-sensitivity" value="High (bevat decision history)" />
+        <property key="data-sensitivity" value="High (contains decision history)" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Model Registry" id="id-31eb2da7e5664de09dfca2fb5be3a2ed">
         <documentation>Centraal register van modellen, versies, model cards, experimenten en deployments.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise / SaaS" />
         <property key="integration-protocol" value="REST API / MLflow API" />
         <property key="availability-sla" value="99,9%" />
@@ -1664,7 +1664,7 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="API Gateway" id="id-8d8e7c755bd74fc082a36b564a3874ea">
         <documentation>Toegangsbeheer, rate limiting, routing en load balancing voor AI-services en LLM-endpoints.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
         <property key="vendor-dependency" value="Commercial" />
         <property key="deployment-model" value="On-premise / SaaS" />
@@ -1674,7 +1674,7 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Vector Database" id="id-d68a13b8058c464a86d7756463475372">
         <documentation>Opslag en similarity search van embeddings voor RAG en semantisch zoeken.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Data Plane" />
         <property key="vendor-dependency" value="Commercial" />
         <property key="deployment-model" value="SaaS / On-premise" />
@@ -1685,9 +1685,9 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Kennisgraaf" id="id-22df3ac6f0ea4f49aab7b97c348271f1">
         <documentation>Kennisgraaf voor gestructureerde kennis: entiteiten, relaties, ontologieën (RDF/OWL/SKOS).</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Data Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="SPARQL / REST API" />
         <property key="availability-sla" value="99,9%" />
@@ -1696,16 +1696,16 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Feature Store" id="id-131384c62bfc40aca71523959895fbc0">
         <documentation>Gestandaardiseerde opslag en serving van ML-features voor training en inferentie.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Data Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="integration-protocol" value="REST API / gRPC" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Data Lake/Warehouse" id="id-f4f7373e29df461aa7956faffdafcdcd">
         <documentation>Centrale opslag voor trainingsdata, evaluatiedata en analytics.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Data Plane" />
         <property key="vendor-dependency" value="Commercial" />
         <property key="deployment-model" value="SaaS" />
@@ -1716,7 +1716,7 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Document Store" id="id-1d24aa509f9048c9914fdf74f03ce7f4">
         <documentation>Documentopslag voor RAG-bronnen: beleidsdocumenten, handleidingen, kennisartikelen.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Data Plane" />
         <property key="vendor-dependency" value="Commercial" />
         <property key="deployment-model" value="SaaS / On-premise" />
@@ -1726,9 +1726,9 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Monitoring &amp; Observeerbaarheid" id="id-6d5bbf3ff1ab471aa5790ec65ef3019b">
         <documentation>Continue monitoring van AI-systemen: prestaties, kosten, drift, anomalieën en SLA-bewaking.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="SaaS / On-premise" />
         <property key="integration-protocol" value="OpenTelemetry / Prometheus" />
         <property key="availability-sla" value="99,99%" />
@@ -1736,50 +1736,50 @@
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Bias Detection &amp; Fairness" id="id-215470a1830045049ca8de7a3ff5143c">
         <documentation>Detectie en mitigatie van bias in modellen en data. Fairness-metrics en debiasing-technieken.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Explainability Engine" id="id-77f9749577084f52ad2393672e355b33">
         <documentation>Uitlegbaarheidsmechanismen voor AI-beslissingen: feature attribution, counterfactuals, attention maps.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Cognition Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Data Quality Framework" id="id-9398f5c182794e718d9e06556a27292f">
-        <documentation>Geautomatiseerde datakwaliteitsValidatie: volledigheid, consistentie, actualiteit, biasdetectie.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <documentation>Geautomatiseerde datakwaliteitsvalidatie: volledigheid, consistentie, actualiteit, biasdetectie.</documentation>
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Data Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Annotation Tooling" id="id-4c281c672f06494990e192c2bea68d25">
-        <documentation>Tooling voor data-annotatie, labeling en curatie. Ondersteuning voor RLHF en domeinexpert-Validation.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <documentation>Tooling voor data-annotatie, labeling en curatie. Ondersteuning voor RLHF en validatie door domeinexperts.</documentation>
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Data Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise / SaaS" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="CI/CD &amp; Infrastructure" id="id-4bf1d841fdec44378d24b1fccd4cfa16">
         <documentation>Continue integratie- en deliverypipelines, containerisatie, infrastructure-as-code voor AI-workloads.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="SaaS / On-premise" />
         <property key="integration-protocol" value="YAML / REST API" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:ApplicationComponent" name="Model Serving" id="id-d1791d0c1dd3414a8b93e24a5b4f02a3">
         <documentation>Productie-serving van ML-modellen: batching, caching, GPU-optimalisatie, A/B-testing.</documentation>
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="plane" value="Control Plane" />
-        <property key="vendor-dependency" value="Open Bron" />
+        <property key="vendor-dependency" value="Open source" />
         <property key="deployment-model" value="On-premise" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -1828,7 +1828,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5" />
       </element>
       <element xsi:type="archimate:ApplicationService" name="Data Quality Service" id="id-843b0c8e909d4f3fb86742f5076e8747">
-        <documentation>Geautomatiseerde datakwaliteitsValidatie en -rapportage.</documentation>
+        <documentation>Geautomatiseerde datakwaliteitsvalidatie en -rapportage.</documentation>
         <property key="plane" value="Data Plane" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5" />
       </element>
@@ -1907,22 +1907,22 @@
   <folder name="Technology" id="id-b6eabd72a28a45bd927a7955c2433ba7" type="technology">
     <folder name="Technologiecomponenten (SBBs)" id="id-525e65fb84c34f2699f63649d6bd9ba5">
       <element xsi:type="archimate:Node" name="OpenAI GPT (modelfamilie)" id="id-84e2e78e503b427486c35932e36d6132">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="High" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Anthropic Claude" id="id-36bc97b7a44847bdb020b0f77f4dd0d0">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="High" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Meta LLaMA" id="id-9b6dc053d2fd43ccbebfb408f30324cb">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Google Gemini" id="id-374c63290fdb4263bba6f95323522072">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="High" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -1939,7 +1939,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="vLLM" id="id-d9128e713d0643e79a1457687dd69093">
-        <property key="lifecycle-pheefte" value="Planned" />
+        <property key="lifecycle-phase" value="Planned" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -1951,30 +1951,30 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="LangGraph" id="id-c115edabdf9a42bb8d1a0fec698be3bf">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="CrewAI" id="id-92b6ca838d9740779bf8b26bdb4f5146">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Microsoft Agent Framework" id="id-57684c3a6d3641598190ed767009aa7d">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="LangChain" id="id-c02fa21eb75845688116e1423fc5adb2">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="LlamaIndex" id="id-9b3291a28cf94130bc47d4cbb9160cd4">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Haystack" id="id-d35fe35309e94ed594983f35ee7131b4">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -1991,37 +1991,37 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="NeMo Guardrails" id="id-91e80b31ca664bd2b6ce572977a0dec4">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Guardrails AI" id="id-1fc2aad1b415408993c35475edf24dfd">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Garak" id="id-909192cc82e240389a37aee59f049c12">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Promptfoo" id="id-89d35f22ab284efbb347b5c5c5c09cfa">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Medium" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="RAGAS" id="id-a68742a986d04ee9b03245278d1ece9c">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="DeepEval" id="id-a30794d6d9ca42e291e4ba6be72d590a">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="TruLens" id="id-e005ae133d1246d6b323f1ee8cb4dd6a">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="HELM" id="id-acebabc2b1e344fdba8c48e3f3101051">
@@ -2040,7 +2040,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Microsoft Entra ID" id="id-fe84c6fd2d574cca96f798a948f8ad21">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="High" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2053,16 +2053,16 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Open Policy Agent" id="id-10b8ec05b2904092a55c2905acae6307">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Cedar" id="id-5d419e93467242c3be6ff75a4ed24c15">
-        <property key="lifecycle-pheefte" value="Planned" />
+        <property key="lifecycle-phase" value="Planned" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="OpenTelemetry" id="id-5c3ba09040644a1e965cc4d2c1cd668f">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2071,7 +2071,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Langfuse" id="id-0a3d122a06f54d59a436cad23c109e91">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2079,7 +2079,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="MLflow" id="id-89308f4f52bc4248aba07aeae18f3441">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Medium" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2126,32 +2126,32 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="LiteLLM" id="id-cd101eab65b84e71be1b7bfacef562b0">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Low" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="OpenRouter" id="id-64b72b356da6465397a88b6fed50721e">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Low" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Pinecone" id="id-5167544caebd45699164ab67e431e655">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Medium" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Weaviate" id="id-7c0850c34bde4e27a7a105e190e98475">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Low" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Qdrant" id="id-2f75c0a3121c4f6eb39cdce3f416d151">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="ChromaDB" id="id-d8e7315688e14a349a9a59538b42a243">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2160,7 +2160,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Neo4j" id="id-b9c7cf4448604baa84428a6fdd289be6">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Low" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2184,7 +2184,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Databricks" id="id-1da4ce4e3aa340d9a630f9cf1179ab65">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="High" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2196,12 +2196,12 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Feast" id="id-7bbd34249e884e9c9cd2ff692a6350ed">
-        <property key="lifecycle-pheefte" value="Planned" />
+        <property key="lifecycle-phase" value="Planned" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Tecton" id="id-6497cf62369e451cb390470295773f81">
-        <property key="lifecycle-pheefte" value="Planned" />
+        <property key="lifecycle-phase" value="Planned" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="SharePoint" id="id-52621b7b64c943c7a247f771795d5d6e">
@@ -2214,12 +2214,12 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Prometheus" id="id-459fe810aa2945bd83230f8cea920232">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Grafana" id="id-b452b42b82e64ce29f195e754244bf48">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2238,12 +2238,12 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Evidently AI" id="id-b555070be2744173b976d688a56e3d32">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Medium" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="NannyML" id="id-bf06063cdb02416d8e8eb614616bdf82">
-        <property key="lifecycle-pheefte" value="Emerging" />
+        <property key="lifecycle-phase" value="Emerging" />
         <property key="cost-indication" value="Medium" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2312,12 +2312,12 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Docker" id="id-b2a872eba1b74e24addc60c4efd48686">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Kubernetes" id="id-5820695a7a354c179a2524e9a1a2c9f4">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2330,26 +2330,26 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="Pulumi" id="id-c53ff6bfc47a4e6b8523e6cc7cfbb6fe">
-        <property key="lifecycle-pheefte" value="Planned" />
+        <property key="lifecycle-phase" value="Planned" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="TriplyDB" id="id-2fa12480c96c4ff69d6db816b086da72">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Low" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="BegrippenXL" id="id-4388d58b9fae4d6cb0b0137807fed6f7">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Free" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="WikiXL" id="id-f95ab4c432634525a7ffec3e5615a229">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Low" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
       <element xsi:type="archimate:Node" name="ArchiMedes" id="id-79cad821eb234c2da4c3b9b0ed4122f8">
-        <property key="lifecycle-pheefte" value="Current" />
+        <property key="lifecycle-phase" value="Current" />
         <property key="cost-indication" value="Low" />
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
       </element>
@@ -2555,7 +2555,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 1, sectie 4.2" />
       </element>
       <element xsi:type="archimate:Principle" name="Continue feedbackloops" id="id-a978794d9a884bd3a558d04927190748">
-        <documentation>Productie observations structurally flow back to earlier pheeftes.</documentation>
+        <documentation>Production observations structurally flow back to earlier phases.</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 1, sectie 4.2" />
       </element>
       <element xsi:type="archimate:Principle" name="Reproduceerbaarheid als randvoorwaarde" id="id-8bccf996d7fd46e89c0c50e6138e25e1">
@@ -2667,7 +2667,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 1, sectie 8.2" />
       </element>
       <element xsi:type="archimate:Principle" name="Geleidelijke uitrol" id="id-b3a3372cb27a4f2fa4e4a1c447f33061">
-        <documentation>New versions are rolled out in pheeftes (canary, A/B, blue-green).</documentation>
+        <documentation>New versions are rolled out in phases (canary, A/B, blue-green).</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 1, sectie 8.2" />
       </element>
       <element xsi:type="archimate:Principle" name="Risico-evenredigheid" id="id-0d6d3c784fbe40baab3c2f3d5b93cdb9">
@@ -2893,7 +2893,7 @@
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.3" />
       </element>
       <element xsi:type="archimate:Constraint" name="ISO 9241-210:2019" id="id-8d327be3f17b4b4b9efffa959755e4fb">
-        <documentation>Human-Centred Ontwerp.</documentation>
+        <documentation>Mensgericht ontwerp.</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.3" />
       </element>
       <element xsi:type="archimate:Constraint" name="WCAG 2.2 / EN 301 549" id="id-cf5c94248a804e21bb8ed6debb1e30bc">
@@ -3282,7 +3282,7 @@
         <property key="priority" value="Must Have" />
         <property key="compliance-relevance" value="Yes" />
       </element>
-      <element xsi:type="archimate:Requirement" name="Agent Auteurisation and Mandate" id="id-0be6be77e97645088b60bd03ba76881d">
+      <element xsi:type="archimate:Requirement" name="Autorisatie en mandaat van agents" id="id-0be6be77e97645088b60bd03ba76881d">
         <documentation>Agents moeten runtime geautoriseerd worden op basis van expliciete mandaten.</documentation>
         <property key="implementation-status" value="Not Started" />
         <property key="priority" value="Must Have" />
@@ -3294,7 +3294,7 @@
         <property key="priority" value="Must Have" />
         <property key="compliance-relevance" value="Yes" />
       </element>
-      <element xsi:type="archimate:Requirement" name="Continuous Observeerbaarheid" id="id-24628540161b4fada3cb7aed79ea36d6">
+      <element xsi:type="archimate:Requirement" name="Continue observeerbaarheid" id="id-24628540161b4fada3cb7aed79ea36d6">
         <documentation>AI-systemen moeten continu gemonitord worden op prestaties, drift en kosten.</documentation>
         <property key="implementation-status" value="Not Started" />
         <property key="priority" value="Must Have" />
@@ -3336,7 +3336,7 @@
         <property key="priority" value="Must Have" />
         <property key="compliance-relevance" value="Yes" />
       </element>
-      <element xsi:type="archimate:Requirement" name="Grounding in Auteuritative Brons" id="id-724e90959e3e4a848bb5546384094c12">
+      <element xsi:type="archimate:Requirement" name="Grounding in gezaghebbende bronnen" id="id-724e90959e3e4a848bb5546384094c12">
         <documentation>AI-output moet gebaseerd zijn op geverifieerde, traceerbare kennisbronnen.</documentation>
         <property key="implementation-status" value="Not Started" />
         <property key="priority" value="Must Have" />
@@ -3354,7 +3354,7 @@
         <property key="priority" value="Must Have" />
         <property key="compliance-relevance" value="Yes" />
       </element>
-      <element xsi:type="archimate:Requirement" name="User-centred Prompt Ontwerp" id="id-d14663309c1744ecaa3aec467d68ec23">
+      <element xsi:type="archimate:Requirement" name="Gebruikersgericht promptontwerp" id="id-d14663309c1744ecaa3aec467d68ec23">
         <documentation>AI-interacties worden ontworpen vanuit het perspectief van taak, context en kennisniveau.</documentation>
         <property key="implementation-status" value="Not Started" />
         <property key="priority" value="Must Have" />
@@ -3401,14 +3401,14 @@
       <element xsi:type="archimate:Meaning" name="AI-systeem" id="id-f99d0c1159734acf853343b0a8b0a853">
         <documentation>Een op een machine gebaseerd systeem dat is ontworpen om met verschillende niveaus van autonomie te werken en dat na het inzetten ervan aanpassingsvermogen kan vertonen, en dat, voor expliciete of impliciete doelstellingen, uit de ontvangen input afleidt hoe output te genereren zoals voorspellingen, inhoud, aanbevelingen of beslissingen die van invloed kunnen zijn op fysieke of virtuele omgevingen.</documentation>
         <property key="skos:scopeNote" value="Examples of AI systems are machine learning, Natuurlijke Taalverwerking (NLP) and computer vision (classifiers)." />
-        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/definities/" />
+        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/" />
         <property key="skos:altLabel" value="kunstmatige intelligentie" />
         <property key="rdfs:comment" value="An AI system encompasses not only the model but also the entire infrastructure around it. This includes hardware, software, data processing, input and output interfaces, and all components needed to make the model work effectively. Examples are ChatGPT, Google Gemini and Co-Pilot." />
         <property key="skos:closeMatch" value="https://www.rijksoverheid.nl/documenten/publicaties/2025/04/22/overheidsbrede-handreiking-generatieve-ai" />
       </element>
       <element xsi:type="archimate:Meaning" name="Algoritme" id="id-577ac8c36bbf4d71bb415abfa91357a6">
         <documentation>Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.</documentation>
-        <property key="dct:source" value="https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-Algoritmes/Aandacht+voor+Algoritmes.pdf" />
+        <property key="dct:source" value="https://www.rekenkamer.nl/binaries/rekenkamer/documenten/rapporten/2021/01/26/aandacht-voor-algoritmes/Aandacht+voor+algoritmes.pdf" />
         <property key="skos:scopeNote" value="By algorithm we mean a set of rules and instructions that a computer executes, with goals such as solving problems, answering questions, executing tasks or making decisions." />
         <property key="rdfs:comment" value="A recipe for solving a computer science problem from a given initial state to an intended end goal, consisting of a finite sequence of unambiguously defined instructions or rules." />
       </element>
@@ -3428,27 +3428,27 @@
         <documentation>De manier waarop computers nieuwe dingen leren zonder expliciete programmering, door te leren van gelabelde data om voorspellingen te doen.</documentation>
         <property key="skos:altLabel" value="ML" />
         <property key="skos:scopeNote" value="Self-learning algorithms are algorithms that train themselves. This process is called machine learning. This allows computers to learn from data without explicit programming. This is a very common form of AI." />
-        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes" />
+        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" />
       </element>
       <element xsi:type="archimate:Meaning" name="Supervised Learning" id="id-51c2252f9fd0463999fc029aaa79ce8c">
         <documentation>Machine learning proces waarbij een model leert van gelabelde voorbeelden (input-output paren), vergelijkbaar met een docent-student scenario.</documentation>
         <property key="skos:altLabel" value="gecontroleerd leren" />
         <property key="skos:scopeNote" value="Your algorithm learns from data you label with information. For example, you offer photos with labels: this is a cat, this is not a cat." />
-        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes" />
+        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" />
       </element>
       <element xsi:type="archimate:Meaning" name="Unsupervised Learning" id="id-c225e141c3584e32a214b3d16a0fb93d">
         <documentation>Machine learning proces waarbij AI zelf verborgen patronen in ongelabelde data zoekt zonder expliciete begeleiding.</documentation>
         <property key="skos:scopeNote" value="You let the algorithm discover patterns and structures itself in unstructured data without labels." />
-        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes" />
+        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" />
       </element>
       <element xsi:type="archimate:Meaning" name="Reinforcement Learning" id="id-c7e2c0b46bb34647a86cbfc59aba8c86">
         <documentation>Het Algoritme leert door straf en beloning. Het doel is zo hoog mogelijk scoren in zo min mogelijk tijd.</documentation>
         <property key="skos:scopeNote" value="For example, you give points when the algorithm sorts photos that look like cats. In reinforcement learning, the AI model learns autonomously. You can also choose to deploy the model frozen." />
-        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/soorten-Algoritmes/#zelflerende-Algoritmes" />
+        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/soorten-algoritmes/#zelflerende-algoritmes" />
         <property key="skos:altLabel" value="bekrachtiginsleren" />
       </element>
       <element xsi:type="archimate:Meaning" name="Validatie" id="id-d2488c46a45b40e68bd3103e5540e2b7">
-        <documentation>Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (Validationset) die niet voor training is gebruikt.</documentation>
+        <documentation>Stap in machine learning om de prestaties van een model te controleren met een aparte dataset (validatieset) die niet voor training is gebruikt.</documentation>
       </element>
       <element xsi:type="archimate:Meaning" name="Neurale Netwerken" id="id-00cc67ceef9242e783522269066d66ba">
         <documentation>Een geavanceerde vorm van AI die complexe patronen in data herkent via gelaagde Neurale Netwerken, nuttig voor beeldherkenning, spraakverwerking en taalbegrip.</documentation>
@@ -3505,7 +3505,7 @@
       </element>
       <element xsi:type="archimate:Meaning" name="Bias" id="id-f740eba62a5e4a9bb4bb55e6fc4be518">
         <documentation>In de context van AI verwijst bias of vooringenomenheid naar de aannames die een AI-systeem doet om het leerproces en de taakuitvoer te vereenvoudigen. AI-onderzoekers proberen bias tot een minimum te beperken, omdat deze kan leiden tot slechte resultaten of onverwachte uitkomsten.</documentation>
-        <property key="skos:scopeNote" value="Bias in the context of AI refers to systematic errors or prejudices in an algorithm arising from biased training data. This can lead to unfair or inaccurate results. Bias can take various forms: Sample Bias, Measurement Bias, Algoritmeic Bias." />
+        <property key="skos:scopeNote" value="Bias in the context of AI refers to systematic errors or prejudices in an algorithm arising from biased training data. This can lead to unfair or inaccurate results. Bias can take various forms: Sample Bias, Measurement Bias, Algorithmic Bias." />
         <property key="skos:altLabel" value="vooringenomenheid" />
       </element>
       <element xsi:type="archimate:Meaning" name="Natuurlijke Taalverwerking" id="id-c31d96fd11ec4044bb9a0882cd4d977d">
@@ -3521,7 +3521,7 @@
         <documentation>Interpreteren of een tekst positief, negatief of neutraal is.</documentation>
       </element>
       <element xsi:type="archimate:Meaning" name="AI-agent" id="id-f7ae52a774104d378abf4ca59b5a63b0">
-        <documentation>Een AI-agent is een software-entiteit die autonoom taken uitvoert en beslissingen neemt op basis van waarnemingen, regels en machine learning-Algoritmen.</documentation>
+        <documentation>Een AI-agent is een software-entiteit die autonoom taken uitvoert en beslissingen neemt op basis van waarnemingen, regels en machine-learningalgoritmen.</documentation>
         <property key="skos:altLabel" value="zelflerende bot" />
         <property key="skos:scopeNote" value="AI agents can vary in complexity, from simple bots to advanced self-learning systems." />
         <property key="dct:source" value="https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/" />
@@ -3551,7 +3551,7 @@
       </element>
       <element xsi:type="archimate:Meaning" name="AI-geletterdheid" id="id-9a22adcd1a1b46d2aa7a51e7030520f4">
         <documentation>Vaardigheden, kennis en begrip die aanbieders, gebruiksverantwoordelijken en betrokken personen, rekening houdend met hun respectieve rechten en plichten in het kader van de de AI-verordening, in staat stellen met kennis van zaken AI-systemen in te zetten en zich bewuster te worden van de kansen en risico's van AI en de mogelijke schade die zij kan veroorzaken.</documentation>
-        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/definities/" />
+        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/" />
       </element>
       <element xsi:type="archimate:Meaning" name="AI-detector" id="id-d077fc09916d4f1b9896f4930b3c767c">
         <documentation>Een AI-detector is een hulpmiddel dat is ontworpen om te detecteren wanneer een stuk tekst (of soms een afbeelding of video) is gemaakt door AI-tools (zoals ChatGPT en DALL-E). Deze detectoren zijn niet 100% betrouwbaar, maar ze kunnen een indicatie geven van de waarschijnlijkheid dat een tekst door AI is gegenereerd.</documentation>
@@ -3560,7 +3560,7 @@
       </element>
       <element xsi:type="archimate:Meaning" name="Deepfake" id="id-cd9e94fabf2f4088a3d98a6fb495066f">
         <documentation>Door AI gegenereerd of gemanipuleerd beeld-, audio- of videomateriaal dat een gelijkenis vertoont met bestaande personen, voorwerpen, plaatsen, entiteiten of gebeurtenissen, en door een persoon ten onrechte voor authentiek of waarheidsgetrouw zou worden aangezien.</documentation>
-        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetAlgoritmekader/definities/" />
+        <property key="dct:source" value="https://minbzk.github.io/Algoritmekader/overhetalgoritmekader/definities/" />
       </element>
       <element xsi:type="archimate:Meaning" name="Algoritme Impact Assessment" id="id-1169d9229a2d4a0db7ef8bdfdaf9caf4">
         <documentation>Een Algoritme impact assessment	is	een hulpmiddel voor	het maken van afwegingen bij het inzetten van Algoritmes en kunstmatige intelligentie.</documentation>
@@ -3570,7 +3570,7 @@
       </element>
       <element xsi:type="archimate:Meaning" name="Algoritme Register" id="id-47dc6d57f67e416cbd8f6a1afccd4814">
         <documentation>Een register met beschrijvingen van algoritmische toepassingen die direct of indirect een maatschappelijk en/of economisch effect hebben, op burgers of op de maatschappij als geheel.</documentation>
-        <property key="dct:source" value="http://begrippen.kadaster.nl/ar/id/concept/AlgoritmeRegister" />
+        <property key="dct:source" value="http://begrippen.kadaster.nl/ar/id/concept/AlgorithmRegister" />
       </element>
       <element xsi:type="archimate:Meaning" name="Cognition Plane" id="id-93676ca6613d45908f9f2eea9e384192">
         <documentation>De architectuurlaag waar AI-systemen redeneren, interpreteren en beslissingen nemen. Onderscheidt zich van het data- en controlvlak door non-deterministisch, contextafhankelijk gedrag.</documentation>
@@ -3685,19 +3685,19 @@
       </element>
     </folder>
     <folder name="WorkPackage" id="id-62060551b7c84fd595f48f754649a3c0">
-      <element xsi:type="archimate:WorkPackage" name="Pheefte 1: Quick Wins (0-3 months)" id="id-605987a0c74742b5a143fa6e8d86ea63">
+      <element xsi:type="archimate:WorkPackage" name="Fase 1: Quick Wins (0-3 months)" id="id-605987a0c74742b5a143fa6e8d86ea63">
         <documentation>Inventory existing AI initiatives, assemble AI Board, classify risk, create awareness.</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.5" />
       </element>
-      <element xsi:type="archimate:WorkPackage" name="Pheefte 2: Foundation (3-12 months)" id="id-9ec8eb85d79043d58ffcd9f101b00715">
+      <element xsi:type="archimate:WorkPackage" name="Fase 2: Foundation (3-12 months)" id="id-9ec8eb85d79043d58ffcd9f101b00715">
         <documentation>Governance framework operational, lifecycle established, first models in registry, basic monitoring.</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.5" />
       </element>
-      <element xsi:type="archimate:WorkPackage" name="Pheefte 3: Scale-up (12-24 months)" id="id-7455c042c1c4455aab4c709466280b37">
+      <element xsi:type="archimate:WorkPackage" name="Fase 3: Scale-up (12-24 months)" id="id-7455c042c1c4455aab4c709466280b37">
         <documentation>Organisation-wide rollout, cognition plane operational, multi-agent pilots, full compliance.</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.5" />
       </element>
-      <element xsi:type="archimate:WorkPackage" name="Pheefte 4: Optimisation (24+ months)" id="id-f03d2af978d448c3a510014fa5254ad2">
+      <element xsi:type="archimate:WorkPackage" name="Fase 4: Optimisation (24+ months)" id="id-f03d2af978d448c3a510014fa5254ad2">
         <documentation>Continue verbetering, gefedereerde samenwerking, AI-gedreven innovatie, volwassenheidsniveau 4-5.</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.5" />
       </element>
@@ -3758,7 +3758,7 @@
       <element xsi:type="archimate:Grouping" name="CI/CD &amp; Infra" id="id-c071a7bdfb5c4573a3c5bc556bd363e9" />
       <element xsi:type="archimate:Grouping" name="Model Serving" id="id-22c111471f6c44f09d2f66be0e72f46c" />
       <element xsi:type="archimate:Grouping" name="Vector Databases" id="id-c57a02f7792846fb95535ae7b8c07d37" />
-      <element xsi:type="archimate:Grouping" name="Kennisgraafs" id="id-066618b265104bfdb44a32cb04ee2bc1" />
+      <element xsi:type="archimate:Grouping" name="Kennisgrafen" id="id-066618b265104bfdb44a32cb04ee2bc1" />
       <element xsi:type="archimate:Grouping" name="Data Platforms" id="id-934e328fd1dd499eaab395cc9a96a22e" />
       <element xsi:type="archimate:Grouping" name="Data Quality" id="id-f5eebc569a644177873d1336154f6270" />
       <element xsi:type="archimate:Grouping" name="Feature Stores" id="id-243f562a77914b99aea904a615ef9ed3" />
@@ -5058,7 +5058,7 @@ De 13 kennisgebieden als capabilities, gegroepeerd in drie lagen: Strategie &amp
           <bounds x="970" y="645" width="280" height="55" />
           <sourceConnection xsi:type="archimate:Connection" id="id-a8a44dc99a9641afac5aefb6b5c5d74c" source="id-50fd26458e16422ab32f44ab494efa94" target="id-4d37bfa0aee74dfaadc8ce2cfa9116ea" archimateRelationship="id-87999166867240bb9f7e43e279ca30fe" />
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-b73e7bcaef1c4ab69cf2156ba8b09b68" targetConnections="id-c4fb5b121d0349bca14af5e72a4d1551 id-10523b2556d34a2d90f702e366a477df id-966f8d9585c9412b96f0d08287bd4735" archimateElement="id-266bb44492756059d93ca5a2205464fb">
+        <child xsi:type="archimate:DiagramObject" id="id-b73e7bcaef1c4ab69cf2156ba8b09b68" targetConnections="id-10523b2556d34a2d90f702e366a477df id-966f8d9585c9412b96f0d08287bd4735" archimateElement="id-266bb44492756059d93ca5a2205464fb">
           <bounds x="1280" y="645" width="280" height="55" />
           <sourceConnection xsi:type="archimate:Connection" id="id-ada38c7e95d94a1d9d00a5c211c28ec2" source="id-b73e7bcaef1c4ab69cf2156ba8b09b68" target="id-71a3b01ba7924f2ea668c6e8652fabf1" archimateRelationship="id-648103fe199b407390a05be9972c2966" />
         </child>
@@ -5175,7 +5175,7 @@ Gelaagde weergave van alle architectuurlagen: motivatie (drivers, doelen, princi
         <child xsi:type="archimate:DiagramObject" id="id-efc52678b1db4aadb1c7f55e593ad4cd" targetConnections="id-08e15507458647228b439dafeb4821a7" archimateElement="id-b5245fbf43704b90bbae237e7a4de619">
           <bounds x="1030" y="450" width="190" height="42" />
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-de40b5341f9c4ae6aa722d34c387661b" targetConnections="id-08e15507458647228b439dafeb4821a7" archimateElement="id-266bb44492756059d93ca5a2205464fb">
+        <child xsi:type="archimate:DiagramObject" id="id-de40b5341f9c4ae6aa722d34c387661b" archimateElement="id-266bb44492756059d93ca5a2205464fb">
           <bounds x="1250" y="450" width="190" height="42" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-897557d883ce456e8500a1fa96e9609b" targetConnections="id-8ea3a97ea6364e6a84ce2d4769748502 id-c5a63f1b9991471d8ef6546cb7321bc0" archimateElement="id-38003820bfa64d4aa8e6497e39f5418d">
@@ -7718,7 +7718,7 @@ AI-waardestroom van Idee &amp; Kans tot meetbare Waarde, met per fase de onderst
           <sourceConnection xsi:type="archimate:Connection" id="id-028b21c1e71643629a0af5255f143d06" source="id-d1d97d339a794a28a2c4c3b0cdf946d9" target="id-3eb4f51cc53a4aeb9c54cf9132a1d562" archimateRelationship="id-7a3bab9a83304a2d89d133bdca8d4c8a" />
           <sourceConnection xsi:type="archimate:Connection" id="id-01344037a9d548ec83587999ca59d6df" source="id-d1d97d339a794a28a2c4c3b0cdf946d9" target="id-2fb62f619c9a48fd815cd41704021795" archimateRelationship="id-e16ef3f65253435892d865dcee0b34d6" />
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-271b65a7839f41fb8402118d96dd1d81" targetConnections="id-4fd4ab3ca1b54fd79edc381993f1fa35" archimateElement="id-266bb44492756059d93ca5a2205464fb">
+        <child xsi:type="archimate:DiagramObject" id="id-271b65a7839f41fb8402118d96dd1d81" archimateElement="id-266bb44492756059d93ca5a2205464fb">
           <bounds x="-240" y="283" width="250" height="50" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-983fca1ff3b3425b91fe2b6193e17a7d" targetConnections="id-526a4cc80cd7443fbbe6108ec9f8e522" archimateElement="id-e383f2d2e9964bebae5298121ece5279">
@@ -7905,8 +7905,8 @@ Uitwerking van de 19 hoofdrollen naar gespecialiseerde sub-rollen per kennisgebi
         <child xsi:type="archimate:DiagramObject" id="id-2a32a06e4f96468fb341d21ee30183fc" targetConnections="id-495ceb52d6ba4297bf4b8b2162728618 id-6bf559acb915438187c8c62ad9940acd id-4da37a91383c4359b52307d1567d011e" archimateElement="id-e89a92e2e48d46d691e263ca136e2a08">
           <bounds x="30" y="177" width="185" height="50" />
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-cbd02d6870294016b9c32e46828d8cf2" targetConnections="id-495ceb52d6ba4297bf4b8b2162728618 id-6bf559acb915438187c8c62ad9940acd id-4da37a91383c4359b52307d1567d011e" archimateElement="id-48ad6cdedf9fb0543be788e7fd587a4c">
-          <bounds x="30" y="342" width="185" height="50" />
+        <child xsi:type="archimate:DiagramObject" id="id-cbd02d6870294016b9c32e46828d8cf2" archimateElement="id-48ad6cdedf9fb0543be788e7fd587a4c">
+          <bounds x="1100" y="177" width="185" height="50" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f5d4d55897db48f0ba4086e0723f935f" targetConnections="id-a8197000b05a4b9aa88c2fbe6fcd3ff7 id-5b0526c1b0d74168afea3b90dfef23aa id-230f0ea9bdd649659450d8fcdab3920e" archimateElement="id-46145689bfff47bea6579ecfe83c20e2">
           <bounds x="230" y="177" width="185" height="50" />
@@ -10803,7 +10803,7 @@ Kernbegrippen uit de AI-thesaurus in context geplaatst met bijbehorende ABBs en 
           <bounds x="580" y="658" width="250" height="52" />
           <sourceConnection xsi:type="archimate:Connection" id="id-3dd5844222624cd19a9d3c69eb16b606" source="id-905ed7ee35ff488280193b24c16000e0" target="id-3d544e2221474957b318f2efb4db661c" archimateRelationship="id-71fb60a81c4c4fd29d760afb3aaec023" />
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-4de750d7b54043e4bf4a8dc2287fdee2" targetConnections="id-d20fb467168e434095ad0409c2beb9d9" archimateElement="id-266bb44492756059d93ca5a2205464fb">
+        <child xsi:type="archimate:DiagramObject" id="id-4de750d7b54043e4bf4a8dc2287fdee2" archimateElement="id-266bb44492756059d93ca5a2205464fb">
           <bounds x="580" y="723" width="250" height="52" />
         </child>
         <documentation>Bron: AI Thesaurus (AI-BOK bijlage)</documentation>
@@ -11273,7 +11273,7 @@ Het 5×5 volwassenheidsmodel: 5 dimensies op 5 niveaus, gekoppeld aan de impleme
         <child xsi:type="archimate:DiagramObject" id="id-71d91564b96d43d689eb0632f39ffbd6" targetConnections="id-155eda9085ab4d399bd772824e7cb528 id-bf782e6ff3dc422e84b44e3a415d0e83 id-290ee1cff99b48e49e21a9c93ce4a7bc" archimateElement="id-1a225dded32b474d809b9f11f9cff3f7">
           <bounds x="1105" y="253" width="110" height="40" />
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-9391798d97184fcda2ab34232cf4df22" targetConnections="id-155eda9085ab4d399bd772824e7cb528 id-bf782e6ff3dc422e84b44e3a415d0e83 id-290ee1cff99b48e49e21a9c93ce4a7bc" archimateElement="id-266bb44492756059d93ca5a2205464fb">
+        <child xsi:type="archimate:DiagramObject" id="id-9391798d97184fcda2ab34232cf4df22" archimateElement="id-266bb44492756059d93ca5a2205464fb">
           <bounds x="1220" y="253" width="110" height="40" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f4ca79ee3f9d49ce8693ce71b02b7187" archimateElement="id-19b61cdaaca74b6097cb45f6f47bf446">
@@ -11433,7 +11433,7 @@ AI Quality Framework with 5 kwaliteitsdimensies for assessing AI systems.</conte
 Gewijzigd: 2026-09-22
 Bron: AI-BOK v1.4, Module 3, sectie 3.5
 
-Implementation roadmap in 4 pheeftes (Foundation, Scale, Optimize, Transform) with identified gaps.</content>
+Implementation roadmap in 4 phases (Foundation, Scale, Optimize, Transform) with identified gaps.</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8461600ab5804c56a769dda9010f7501" targetConnections="id-cdc3c7aa648343218ce2251a2e5d7d8c" archimateElement="id-605987a0c74742b5a143fa6e8d86ea63">
           <bounds x="40" y="193" width="280" height="80" />
@@ -13080,7 +13080,7 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
       <element xsi:type="archimate:ArchimateDiagramModel" name="07.01 Agentic AI Failure-Mode Catalogue" id="id-cf51ac8e4e0338f77e39993bdc65740a">
         <child xsi:type="archimate:Note" id="id-b96f8a5a9fbce1bf51be6710197799b1">
           <bounds width="380" height="120" x="20" y="20" />
-          <content>Zestien agentic AI-faalmodi (FM01-FM16) plus zes operationele/cyber-physical-varianten (FM17-FM22), met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1.</content>
+          <content>Twintig agentic AI-faalmodi (FM01-FM16 en FM23-FM26) plus zes operationele/cyber-physical-varianten (FM17-FM22), samen FM01 tot en met FM26, met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1; FM23-FM26 toegevoegd in v1.4.</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-203eaab79aebe0b2147f83367cd7cd25" archimateElement="id-7cc895f011604056800c6d2fc73a1bf7">
           <bounds x="20" y="160" width="260" height="60" />
@@ -13157,7 +13157,7 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
         <child xsi:type="archimate:DiagramObject" id="id-fec25ee5931a3dc90ce69231a60577b7" archimateElement="id-e6b0ce61735e4bbce61abe8d27bf3869">
           <bounds x="300" y="700" width="260" height="70" />
         </child>
-        <documentation>Zestien agentic AI-faalmodi (FM01-FM16) plus zes operationele/cyber-physical-varianten (FM17-FM22), met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1.</documentation>
+        <documentation>Twintig agentic AI-faalmodi (FM01-FM16 en FM23-FM26) plus zes operationele/cyber-physical-varianten (FM17-FM22), samen FM01 tot en met FM26, met hun primaire KG-verankeringen (KG9 Risico, KG3 Architectuur). Cognition-plane-bindings per patroon gedocumenteerd in de faalmoduscatalogus (§3.6.7). Geïntroduceerd in AI-BOK v1.1; FM23-FM26 toegevoegd in v1.4.</documentation>
         <property key="dct:source" value="AI-BOK v1.4" />
       <child xsi:type="archimate:DiagramObject" id="id-f230000000000000000000000000v000" archimateElement="id-f2300000000000000000000000000023"><bounds x="580" y="700" width="260" height="70" /></child><child xsi:type="archimate:DiagramObject" id="id-f240000000000000000000000000v000" archimateElement="id-f2400000000000000000000000000024"><bounds x="860" y="700" width="260" height="70" /></child><child xsi:type="archimate:DiagramObject" id="id-f250000000000000000000000000v000" archimateElement="id-f2500000000000000000000000000025"><bounds x="20" y="790" width="260" height="70" /></child><child xsi:type="archimate:DiagramObject" id="id-f260000000000000000000000000v000" archimateElement="id-f2600000000000000000000000000026"><bounds x="300" y="790" width="260" height="70" /></child></element>
     </folder>
