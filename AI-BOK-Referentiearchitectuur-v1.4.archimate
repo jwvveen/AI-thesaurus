@@ -5235,12 +5235,8 @@ Gelaagde weergave van alle architectuurlagen: motivatie (drivers, doelen, princi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-03f819b4e99144cb8f551d19f015135d" targetConnections="id-9d7c356d6bbc417eb614454c288d4815" archimateElement="id-31eb2da7e5664de09dfca2fb5be3a2ed">
           <bounds x="250" y="640" width="210" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-2a1388b0fc374a29aca9f76a9a514144" source="id-03f819b4e99144cb8f551d19f015135d" target="id-ded92d4b96dc44c3aa5091ac8bc820f5" archimateRelationship="id-156ce6141bb8457eaed9064bb4a03a22">
-            <bendpoint startY="-120" endX="30" />
-          </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-3fbfc05bac67458f8e49758a7fec4cf3" source="id-03f819b4e99144cb8f551d19f015135d" target="id-6f0f7d37e88146f183ead06cf0741968" archimateRelationship="id-498dafe854fe4e0f8dcd0785a3e9bc4d">
-            <bendpoint startX="10" startY="-120" endX="-160" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2a1388b0fc374a29aca9f76a9a514144" source="id-03f819b4e99144cb8f551d19f015135d" target="id-ded92d4b96dc44c3aa5091ac8bc820f5" archimateRelationship="id-156ce6141bb8457eaed9064bb4a03a22" />
+          <sourceConnection xsi:type="archimate:Connection" id="id-3fbfc05bac67458f8e49758a7fec4cf3" source="id-03f819b4e99144cb8f551d19f015135d" target="id-6f0f7d37e88146f183ead06cf0741968" archimateRelationship="id-498dafe854fe4e0f8dcd0785a3e9bc4d" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9ed90ec75f03444bb9d184d02d694a19" targetConnections="id-0e4f6151b4ea40e299e402110912255d" archimateElement="id-22df3ac6f0ea4f49aab7b97c348271f1">
           <bounds x="470" y="640" width="210" height="42" />
@@ -5524,9 +5520,7 @@ De 22 AI-BOK rollen met hun onderlinge rapportagelijnen en koppeling aan kennisg
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-69ef6c457be54264825f687ecd313eb1" archimateElement="id-4fa5a1af3dba4706b47a2ad0689c2126">
           <bounds x="745" y="368" width="220" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-c815f111f19a4315907296b80b8dc92f" source="id-69ef6c457be54264825f687ecd313eb1" target="id-0e1cf5ee84354f9686e53f36d44a4405" archimateRelationship="id-ecd73c38e6c44702bf4da10bd781a6a7">
-            <bendpoint startY="-173" endX="-185" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c815f111f19a4315907296b80b8dc92f" source="id-69ef6c457be54264825f687ecd313eb1" target="id-0e1cf5ee84354f9686e53f36d44a4405" archimateRelationship="id-ecd73c38e6c44702bf4da10bd781a6a7" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-203ed859b6f84fcf8105e56b01a03876" archimateElement="id-e89a92e2e48d46d691e263ca136e2a08">
           <bounds x="980" y="368" width="220" height="50" />
@@ -5603,15 +5597,11 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d67ca4aac1f54e9baf64749694ee469d" targetConnections="id-b89490112fdb4c178dcadb9d37e2e9aa id-e400df7572864e7b93a0022af5fed8a7" archimateElement="id-8c73da9ca9f34265a906bfea897d4e7c">
           <bounds x="889" y="379" width="230" height="60" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-cbb5220ac18f4b558ea0515b06a0fdc5" source="id-d67ca4aac1f54e9baf64749694ee469d" target="id-5bd982008a374371a7030c6a3e42af80" archimateRelationship="id-4c77efafb43c4d55955ce4f19d16fb43">
-            <bendpoint startY="304" endX="-126" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cbb5220ac18f4b558ea0515b06a0fdc5" source="id-d67ca4aac1f54e9baf64749694ee469d" target="id-5bd982008a374371a7030c6a3e42af80" archimateRelationship="id-4c77efafb43c4d55955ce4f19d16fb43" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5bd982008a374371a7030c6a3e42af80" targetConnections="id-4cd9bb267c9d48689f45557039eea7e7 id-cbb5220ac18f4b558ea0515b06a0fdc5" archimateElement="id-ea5423d4eb1e4deda0582671ccc329e3">
           <bounds x="1015" y="683" width="230" height="60" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-99ec571c136945839a4b271eb4a96025" source="id-5bd982008a374371a7030c6a3e42af80" target="id-654eae26644c45a28bbb9768421b4ba4" archimateRelationship="id-41b6a1476bbc43aab3c58abb74c02726">
-            <bendpoint startY="304" endX="126" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-99ec571c136945839a4b271eb4a96025" source="id-5bd982008a374371a7030c6a3e42af80" target="id-654eae26644c45a28bbb9768421b4ba4" archimateRelationship="id-41b6a1476bbc43aab3c58abb74c02726" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-654eae26644c45a28bbb9768421b4ba4" targetConnections="id-52c93c09612443adb58f1db37908404a id-99ec571c136945839a4b271eb4a96025 id-486363bd31c84e46ae7ce90854bd6d19 id-dad2992d6e7946a1acb23112f121035a id-23e92cff750a4637a141db7f97639f92 id-a71e721e69ce441da9602a8f058da76b" archimateElement="id-f74037ee3e014b04960a0b5699d1dcab">
           <bounds x="889" y="987" width="230" height="60" />
@@ -5631,15 +5621,11 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ab70f900b4e545a0a2efcc5881826f0a" targetConnections="id-65a15a15953e4ba0b6a303e96cccc262 id-9ca4ece70b174d11934bb09e0768df76" archimateElement="id-212229c729c04073a739e8b6de1444ea">
           <bounds x="281" y="987" width="230" height="60" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-255c5fc410bc4fc6ac07c71141d03e2c" source="id-ab70f900b4e545a0a2efcc5881826f0a" target="id-2337a449dca943d09502d1c7652686ff" archimateRelationship="id-c5b6853d59464b14a464a23bc7cece32">
-            <bendpoint startY="-304" endX="126" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-255c5fc410bc4fc6ac07c71141d03e2c" source="id-ab70f900b4e545a0a2efcc5881826f0a" target="id-2337a449dca943d09502d1c7652686ff" archimateRelationship="id-c5b6853d59464b14a464a23bc7cece32" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2337a449dca943d09502d1c7652686ff" targetConnections="id-985eedcb4dcd411ba637317c79de712f id-255c5fc410bc4fc6ac07c71141d03e2c" archimateElement="id-f5d063d296f8425a958ee711ddfb2810">
           <bounds x="155" y="683" width="230" height="60" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-150c3516f4644236b5240bc79671d0c3" source="id-2337a449dca943d09502d1c7652686ff" target="id-752fcd4e8ae24210a1248bdeb4369af1" archimateRelationship="id-9bd8f53f14254cad833d00f5718da004">
-            <bendpoint startY="-304" endX="-126" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-150c3516f4644236b5240bc79671d0c3" source="id-2337a449dca943d09502d1c7652686ff" target="id-752fcd4e8ae24210a1248bdeb4369af1" archimateRelationship="id-9bd8f53f14254cad833d00f5718da004" />
           <sourceConnection xsi:type="archimate:Connection" id="id-486363bd31c84e46ae7ce90854bd6d19" source="id-2337a449dca943d09502d1c7652686ff" target="id-654eae26644c45a28bbb9768421b4ba4" archimateRelationship="id-99799d403f11482da5ac7b366e4b465a">
             <bendpoint startX="10" startY="304" endX="-724" />
           </sourceConnection>
@@ -5663,9 +5649,7 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-73ee9b95585c4cc4bf57d21615528150" archimateElement="id-46145689bfff47bea6579ecfe83c20e2">
           <bounds x="1085" y="214" width="190" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-b89490112fdb4c178dcadb9d37e2e9aa" source="id-73ee9b95585c4cc4bf57d21615528150" target="id-d67ca4aac1f54e9baf64749694ee469d" archimateRelationship="id-152901e079974db79f50a6b64701ed0c">
-            <bendpoint startY="176" endX="176" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b89490112fdb4c178dcadb9d37e2e9aa" source="id-73ee9b95585c4cc4bf57d21615528150" target="id-d67ca4aac1f54e9baf64749694ee469d" archimateRelationship="id-152901e079974db79f50a6b64701ed0c" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-11a2656e883d4b9182873697681438ee" archimateElement="id-e89a92e2e48d46d691e263ca136e2a08">
           <bounds x="1285" y="694" width="190" height="38" />
@@ -5673,9 +5657,7 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ac2a6d960ab84cf0af1dcc5cf9f38dd0" archimateElement="id-7c8814f3fd63471c83d982987a2eaad8">
           <bounds x="1085" y="1174" width="190" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-52c93c09612443adb58f1db37908404a" source="id-ac2a6d960ab84cf0af1dcc5cf9f38dd0" target="id-654eae26644c45a28bbb9768421b4ba4" archimateRelationship="id-1b34d15e899141ccbc4d6497e35e95c7">
-            <bendpoint startY="-176" endX="176" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-52c93c09612443adb58f1db37908404a" source="id-ac2a6d960ab84cf0af1dcc5cf9f38dd0" target="id-654eae26644c45a28bbb9768421b4ba4" archimateRelationship="id-1b34d15e899141ccbc4d6497e35e95c7" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ec05af1231f240d89f65136401969712" archimateElement="id-d9a5923910af4a97ad215f9249878a1f">
           <bounds x="605" y="1374" width="190" height="38" />
@@ -5683,9 +5665,7 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c595a9cc08b4460d9871d2fd6cffbafd" archimateElement="id-2f61856506e94445aba2c9c283452abf">
           <bounds x="125" y="1174" width="190" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-65a15a15953e4ba0b6a303e96cccc262" source="id-c595a9cc08b4460d9871d2fd6cffbafd" target="id-ab70f900b4e545a0a2efcc5881826f0a" archimateRelationship="id-a483d7cfc34e4b0e93e32119dd8075d5">
-            <bendpoint startY="-176" endX="-176" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-65a15a15953e4ba0b6a303e96cccc262" source="id-c595a9cc08b4460d9871d2fd6cffbafd" target="id-ab70f900b4e545a0a2efcc5881826f0a" archimateRelationship="id-a483d7cfc34e4b0e93e32119dd8075d5" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b6f4a5639f1947d58abc063082532aca" archimateElement="id-1f1130a244104975ac327cf636e1fb33">
           <bounds x="-75" y="694" width="190" height="38" />
@@ -5693,9 +5673,7 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f46adec0b8704d8a8998c82259198485" archimateElement="id-3d3273c9fb144eed8a0ab707ffe7dd22">
           <bounds x="125" y="214" width="190" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-469a33b28feb41d9849fe02e6f83ac43" source="id-f46adec0b8704d8a8998c82259198485" target="id-752fcd4e8ae24210a1248bdeb4369af1" archimateRelationship="id-4f3e5d93f8bf4e458f364bf0dcefadfd">
-            <bendpoint startY="176" endX="-176" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-469a33b28feb41d9849fe02e6f83ac43" source="id-f46adec0b8704d8a8998c82259198485" target="id-752fcd4e8ae24210a1248bdeb4369af1" archimateRelationship="id-4f3e5d93f8bf4e458f364bf0dcefadfd" />
         </child>
         <documentation>Bron: AI-BOK v1.4, Module 1, sectie 4</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 1, sectie 4" />
@@ -5826,9 +5804,7 @@ Gedetailleerd procesmodel met quality gates als formele beslismomenten tussen de
           <sourceConnection xsi:type="archimate:Connection" id="id-4d5bfc25111e494d84ae083a62130998" source="id-7de383b0c8924296aba5935216e4a857" target="id-201da29e85da415f93220b3bd00c7095" archimateRelationship="id-dac04d4482d54a59ac2f01d112bd2d93">
             <bendpoint startY="-190" endX="990" />
           </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-1191c892f6c64fb99c1fd190c55e64db" source="id-7de383b0c8924296aba5935216e4a857" target="id-293331fac30b430aa5fa4220f39608a4" archimateRelationship="id-d272b430bf7c4fc4a41c819f889f8ee9">
-            <bendpoint startX="-10" startY="207" endX="130" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1191c892f6c64fb99c1fd190c55e64db" source="id-7de383b0c8924296aba5935216e4a857" target="id-293331fac30b430aa5fa4220f39608a4" archimateRelationship="id-d272b430bf7c4fc4a41c819f889f8ee9" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-37f8deab4400457385a45e321c40e7bb" archimateElement="id-3d3273c9fb144eed8a0ab707ffe7dd22">
           <bounds x="1050" y="418" width="180" height="40" />
@@ -7475,9 +7451,7 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3c4b0408b289452694d1e7e3806c2c63" archimateElement="id-3a6510c36fe14ee6a7a40a69243ba331">
           <bounds x="745" y="253" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-c3d732e4f70344eeb5ffb4fb8d7a033f" source="id-3c4b0408b289452694d1e7e3806c2c63" target="id-e8690f35e54246dea2a41f86bcb02c5e" archimateRelationship="id-039099d9eba8412aa1ea57bacf4fba9e">
-            <bendpoint startY="-54" endX="62" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c3d732e4f70344eeb5ffb4fb8d7a033f" source="id-3c4b0408b289452694d1e7e3806c2c63" target="id-e8690f35e54246dea2a41f86bcb02c5e" archimateRelationship="id-039099d9eba8412aa1ea57bacf4fba9e" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f804a9c6e6f84599aed1fbc24900af31" targetConnections="id-f6ab064040b640b1b09cf2ae720058e2" archimateElement="id-9a0365dd57124dbc8f0fdcf603e0b532">
           <bounds x="900" y="193" width="270" height="50" />
@@ -7493,9 +7467,7 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d7f10723b9cb4287bf1f0d7d4a860780" archimateElement="id-f4f7373e29df461aa7956faffdafcdcd">
           <bounds x="165" y="389" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-7a3a8c2402a145629409420bc981f67e" source="id-d7f10723b9cb4287bf1f0d7d4a860780" target="id-4dc05c99d4154b25962e9e03f0cb752b" archimateRelationship="id-fe265a63aea34ddcadd79d0471f97381">
-            <bendpoint startY="-54" endX="62" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7a3a8c2402a145629409420bc981f67e" source="id-d7f10723b9cb4287bf1f0d7d4a860780" target="id-4dc05c99d4154b25962e9e03f0cb752b" archimateRelationship="id-fe265a63aea34ddcadd79d0471f97381" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-433e8d66c2a543719e90bc2300a12c4a" archimateElement="id-9398f5c182794e718d9e06556a27292f">
           <bounds x="30" y="435" width="125" height="38" />
@@ -7505,36 +7477,28 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-bfe28c26be734f97b969846156270e80" archimateElement="id-31eb2da7e5664de09dfca2fb5be3a2ed">
           <bounds x="320" y="389" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-db68c68b90f84819960b7478675d0987" source="id-bfe28c26be734f97b969846156270e80" target="id-8fec6d20813f42bd96dc2a3b783323ba" archimateRelationship="id-156ce6141bb8457eaed9064bb4a03a22">
-            <bendpoint startY="-190" endX="-73" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-db68c68b90f84819960b7478675d0987" source="id-bfe28c26be734f97b969846156270e80" target="id-8fec6d20813f42bd96dc2a3b783323ba" archimateRelationship="id-156ce6141bb8457eaed9064bb4a03a22" />
           <sourceConnection xsi:type="archimate:Connection" id="id-80c2dc5976d14f19b9d183c4e279d51d" source="id-bfe28c26be734f97b969846156270e80" target="id-e8690f35e54246dea2a41f86bcb02c5e" archimateRelationship="id-498dafe854fe4e0f8dcd0785a3e9bc4d">
             <bendpoint startX="10" startY="-190" endX="-353" />
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="id-f6ab064040b640b1b09cf2ae720058e2" source="id-bfe28c26be734f97b969846156270e80" target="id-f804a9c6e6f84599aed1fbc24900af31" archimateRelationship="id-ee3ed41f697a430b8595e1fbe2ecf3b8">
             <bendpoint startX="20" startY="-190" endX="-633" />
           </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-1bda96f90f864a5882bef01d3344154d" source="id-bfe28c26be734f97b969846156270e80" target="id-53ac455ad1cc4c578515480ae0de1f7e" archimateRelationship="id-720e16d387f14aa99ef77260d8037f1c">
-            <bendpoint startX="30" startY="-54" endX="-43" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1bda96f90f864a5882bef01d3344154d" source="id-bfe28c26be734f97b969846156270e80" target="id-53ac455ad1cc4c578515480ae0de1f7e" archimateRelationship="id-720e16d387f14aa99ef77260d8037f1c" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-07d62314b6374003bc559c5139189d19" archimateElement="id-9019194a47cf498ea84bf3bc857c5d65">
           <bounds x="455" y="389" width="125" height="38" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9f8e647d2dc641e3930b6c9351ac8a51" targetConnections="id-cbf757e988974063a823dfe54f31ce8e id-c5077e8374194b78afab10c41ed67423" archimateElement="id-b4ee1e0a74d44f689ad216c1c596f9ea">
           <bounds x="320" y="435" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-7296dc289afe4af597c4b2fee48a0a5b" source="id-9f8e647d2dc641e3930b6c9351ac8a51" target="id-53ac455ad1cc4c578515480ae0de1f7e" archimateRelationship="id-684b5c2f4e8e4706bbcb8800df1ffa4a">
-            <bendpoint startY="-100" endX="-73" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7296dc289afe4af597c4b2fee48a0a5b" source="id-9f8e647d2dc641e3930b6c9351ac8a51" target="id-53ac455ad1cc4c578515480ae0de1f7e" archimateRelationship="id-684b5c2f4e8e4706bbcb8800df1ffa4a" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d69d72ebb87d4ef9bb09b1be75688a82" targetConnections="id-3ede9c5626c84d3aa3ecf581c702aea9 id-18be63a5cf1a42e8a726fd0abbbe6461" archimateElement="id-4e2da58ea10649c08804feb42d53b860">
           <bounds x="610" y="329" width="270" height="50" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ff71810def7d444593ed4ef134889f41" archimateElement="id-24c9c97c81024b4e91e80d40594e0bb8">
           <bounds x="610" y="389" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-3ede9c5626c84d3aa3ecf581c702aea9" source="id-ff71810def7d444593ed4ef134889f41" target="id-d69d72ebb87d4ef9bb09b1be75688a82" archimateRelationship="id-20a5310003cb49038c5cd425fb96414a">
-            <bendpoint startY="-54" endX="-73" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3ede9c5626c84d3aa3ecf581c702aea9" source="id-ff71810def7d444593ed4ef134889f41" target="id-d69d72ebb87d4ef9bb09b1be75688a82" archimateRelationship="id-20a5310003cb49038c5cd425fb96414a" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6c9ff70a074544ae9bebeeceb7ecc119" archimateElement="id-b2731dabe6614dce86686ddfc8fb2660">
           <bounds x="745" y="389" width="125" height="38" />
@@ -7550,9 +7514,7 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7179999ee7924c339118170f43da1062" archimateElement="id-8d8e7c755bd74fc082a36b564a3874ea">
           <bounds x="1035" y="435" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-091c7a65fff54e6e9e29dffb5a6c1a47" source="id-7179999ee7924c339118170f43da1062" target="id-34bde28daffe44e1b73015f4cc464924" archimateRelationship="id-4c251a124e06437a86eeb2b015a66bd4">
-            <bendpoint startY="-100" endX="62" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-091c7a65fff54e6e9e29dffb5a6c1a47" source="id-7179999ee7924c339118170f43da1062" target="id-34bde28daffe44e1b73015f4cc464924" archimateRelationship="id-4c251a124e06437a86eeb2b015a66bd4" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8ede1c962d124ea8aa8196a441aeacc9" targetConnections="id-451da3ddcd6b4c0cac3f02c017a02823 id-e2d48d0d30944a78b8cfb10488360886" archimateElement="id-5db7e17639d9474787b8ae43a5180a06">
           <bounds x="30" y="511" width="270" height="50" />
@@ -7580,18 +7542,14 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
           <sourceConnection xsi:type="archimate:Connection" id="id-af2c30a2874845658491c5a94268b3a5" source="id-348d87a117fd4d3294ceca0578d9c75b" target="id-a2f291e14a514b8389851098ff214bec" archimateRelationship="id-88ecc3a790bc4677977dbd9ddf214b3f">
             <bendpoint startY="-372" endX="217" />
           </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-b4478141c8cd4f529247c57b92396110" source="id-348d87a117fd4d3294ceca0578d9c75b" target="id-978776c29fca4cbab01e1052d357bec6" archimateRelationship="id-d707ef7f367b4550a8dc732b0577de76">
-            <bendpoint startX="10" startY="-54" endX="-63" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b4478141c8cd4f529247c57b92396110" source="id-348d87a117fd4d3294ceca0578d9c75b" target="id-978776c29fca4cbab01e1052d357bec6" archimateRelationship="id-d707ef7f367b4550a8dc732b0577de76" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6b8feca3989f43ed9e48c12413ddbdec" archimateElement="id-e0adf63ad5d8451c88a08ea99b762d72">
           <bounds x="455" y="571" width="125" height="38" />
           <sourceConnection xsi:type="archimate:Connection" id="id-bacbb7f46d0b4f029b0ca71ba7f9bea8" source="id-6b8feca3989f43ed9e48c12413ddbdec" target="id-a2f291e14a514b8389851098ff214bec" archimateRelationship="id-109e93ece2ab44b6bd7d964ffc8a695f">
             <bendpoint startY="-372" endX="352" />
           </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-5e4e8fd71e8f4e7fa1b3660e96d13a3c" source="id-6b8feca3989f43ed9e48c12413ddbdec" target="id-978776c29fca4cbab01e1052d357bec6" archimateRelationship="id-9a307c17f3194a9aab982b5ed4ea268e">
-            <bendpoint startX="-10" startY="-54" endX="52" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5e4e8fd71e8f4e7fa1b3660e96d13a3c" source="id-6b8feca3989f43ed9e48c12413ddbdec" target="id-978776c29fca4cbab01e1052d357bec6" archimateRelationship="id-9a307c17f3194a9aab982b5ed4ea268e" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-22153b7afe464360ab55e36310151a26" targetConnections="id-554dc0f40bf049e38a6247f772055c48" archimateElement="id-77f9eb4b44634f35a0b525370a628214">
           <bounds x="610" y="511" width="270" height="50" />
@@ -7619,15 +7577,11 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
           <sourceConnection xsi:type="archimate:Connection" id="id-cbf757e988974063a823dfe54f31ce8e" source="id-14d5076f8ed54cf790ef3f0ab42e3e4e" target="id-9f8e647d2dc641e3930b6c9351ac8a51" archimateRelationship="id-6ee04692a21145d796d6804219bafb7c">
             <bendpoint startY="-136" endX="580" />
           </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-3016cb7761664d9786f4f940dcd0befc" source="id-14d5076f8ed54cf790ef3f0ab42e3e4e" target="id-12c2dd7372854ef4a97198f0350060ba" archimateRelationship="id-df30c6262a6b434d9c56c2aeb070cf40">
-            <bendpoint startX="10" startY="-54" endX="-63" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3016cb7761664d9786f4f940dcd0befc" source="id-14d5076f8ed54cf790ef3f0ab42e3e4e" target="id-12c2dd7372854ef4a97198f0350060ba" archimateRelationship="id-df30c6262a6b434d9c56c2aeb070cf40" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6d3a2afdad6343c8a881d2bab733a32e" archimateElement="id-d68a13b8058c464a86d7756463475372">
           <bounds x="1035" y="571" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-95b003cc3e4d48dc87863b242a78317b" source="id-6d3a2afdad6343c8a881d2bab733a32e" target="id-12c2dd7372854ef4a97198f0350060ba" archimateRelationship="id-8cb13973fd464882b98e6e7052ef1ae3">
-            <bendpoint startY="-54" endX="62" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-95b003cc3e4d48dc87863b242a78317b" source="id-6d3a2afdad6343c8a881d2bab733a32e" target="id-12c2dd7372854ef4a97198f0350060ba" archimateRelationship="id-8cb13973fd464882b98e6e7052ef1ae3" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-882d22a9ca684fdaa1bf4a82cb910a40" archimateElement="id-22df3ac6f0ea4f49aab7b97c348271f1">
           <bounds x="900" y="617" width="125" height="38" />
@@ -7640,9 +7594,7 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-30c1886c5eeb472f8ca373190a798614" archimateElement="id-1d24aa509f9048c9914fdf74f03ce7f4">
           <bounds x="1035" y="617" width="125" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-9eac70a8bffa4da08d344b4cd89c9bde" source="id-30c1886c5eeb472f8ca373190a798614" target="id-12c2dd7372854ef4a97198f0350060ba" archimateRelationship="id-64574aed097f4bea8d23286ac8c14254">
-            <bendpoint startY="-100" endX="62" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9eac70a8bffa4da08d344b4cd89c9bde" source="id-30c1886c5eeb472f8ca373190a798614" target="id-12c2dd7372854ef4a97198f0350060ba" archimateRelationship="id-64574aed097f4bea8d23286ac8c14254" />
         </child>
         <documentation>Bron: AI-BOK v1.4, Module 3, sectie 3.6.5a</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 3, sectie 3.6.5a" />
@@ -7850,15 +7802,11 @@ Uitwerking van de 19 hoofdrollen naar gespecialiseerde sub-rollen per kennisgebi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-86eac1f86b0a4691be74bec3ad705361" archimateElement="id-d30f6bf02489409592e5abf629ded3fb">
           <bounds x="260" y="277" width="210" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-a8197000b05a4b9aa88c2fbe6fcd3ff7" source="id-86eac1f86b0a4691be74bec3ad705361" target="id-f5d4d55897db48f0ba4086e0723f935f" archimateRelationship="id-01c33775e28c480697b903cbf1d95322">
-            <bendpoint startY="-100" endX="43" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a8197000b05a4b9aa88c2fbe6fcd3ff7" source="id-86eac1f86b0a4691be74bec3ad705361" target="id-f5d4d55897db48f0ba4086e0723f935f" archimateRelationship="id-01c33775e28c480697b903cbf1d95322" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-22d33d709ab049a8970904cbc8d35afb" archimateElement="id-68a01b33074d4b5a877798b5feaadaee">
           <bounds x="490" y="277" width="210" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-4bbc1733753d44a1af61323385f4cfa3" source="id-22d33d709ab049a8970904cbc8d35afb" target="id-7bd0ff31ff9a43eea5521921341d9685" archimateRelationship="id-957c922fc1614cde92dddc1779e77f82">
-            <bendpoint startY="-100" endX="73" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4bbc1733753d44a1af61323385f4cfa3" source="id-22d33d709ab049a8970904cbc8d35afb" target="id-7bd0ff31ff9a43eea5521921341d9685" archimateRelationship="id-957c922fc1614cde92dddc1779e77f82" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2ce9f1ed7a9c45ec911f47f725b53adb" archimateElement="id-aff2e91e91b9430aac1dfb313752f5c7">
           <bounds x="720" y="277" width="210" height="50" />
@@ -7898,9 +7846,7 @@ Uitwerking van de 19 hoofdrollen naar gespecialiseerde sub-rollen per kennisgebi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1c5a01a178f64f7e811ea0f68e1479bf" archimateElement="id-955efbb3cc7047ee85510cb91eaefb1d">
           <bounds x="950" y="342" width="210" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-571553e99ea643d5a7651b3f632e8a86" source="id-1c5a01a178f64f7e811ea0f68e1479bf" target="id-74a9e2457c8642ff8986624e95dd7b71" archimateRelationship="id-787ebcee55eb4841a93e7eeea745d808">
-            <bendpoint startY="-165" endX="133" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-571553e99ea643d5a7651b3f632e8a86" source="id-1c5a01a178f64f7e811ea0f68e1479bf" target="id-74a9e2457c8642ff8986624e95dd7b71" archimateRelationship="id-787ebcee55eb4841a93e7eeea745d808" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2a32a06e4f96468fb341d21ee30183fc" targetConnections="id-495ceb52d6ba4297bf4b8b2162728618 id-6bf559acb915438187c8c62ad9940acd id-4da37a91383c4359b52307d1567d011e" archimateElement="id-e89a92e2e48d46d691e263ca136e2a08">
           <bounds x="30" y="177" width="185" height="50" />
@@ -8201,15 +8147,11 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cf2aaddeb3d649cdbfd42e2f043f7e88" targetConnections="id-58e88485fe4c4ccd801af9f15f4ce125" archimateElement="id-812876cceaa84ccf8da7058506e6cf9d">
           <bounds x="40" y="248" width="210" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-21f3afc48f894cda9b637cfe302d81c4" source="id-cf2aaddeb3d649cdbfd42e2f043f7e88" target="id-09b0f51fdfe54ecfbbce5d0190ef1cc0" archimateRelationship="id-de145207f47f4637bf44e1fe5501aa91">
-            <bendpoint startY="-64" endX="-20" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-21f3afc48f894cda9b637cfe302d81c4" source="id-cf2aaddeb3d649cdbfd42e2f043f7e88" target="id-09b0f51fdfe54ecfbbce5d0190ef1cc0" archimateRelationship="id-de145207f47f4637bf44e1fe5501aa91" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e064d8953b1e438d87c9f47e75f0bfac" targetConnections="id-77dadabb9d18412d913a0241379908e7" archimateElement="id-1cc57dfddbcf48c29fbb2dbd01238b1c">
           <bounds x="265" y="248" width="210" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-0dd86cd8a6b84f0e9a6ac6a2f4ea2660" source="id-e064d8953b1e438d87c9f47e75f0bfac" target="id-37a2d3449d7f4d62afbdac5f93dac5a9" archimateRelationship="id-d9ba44b8f2c94440b19611125b961c3e">
-            <bendpoint startY="-64" endX="-60" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0dd86cd8a6b84f0e9a6ac6a2f4ea2660" source="id-e064d8953b1e438d87c9f47e75f0bfac" target="id-37a2d3449d7f4d62afbdac5f93dac5a9" archimateRelationship="id-d9ba44b8f2c94440b19611125b961c3e" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2a1a2185f17f4861aef15868b5e6df91" targetConnections="id-a869d3c542304fef97b6071c95c2becc" archimateElement="id-484c7833d5bc461784a8d11024a8a7f3">
           <bounds x="490" y="248" width="210" height="42" />
@@ -8219,15 +8161,11 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3d5c8e4784ba4e71bd9feb8b4517bc77" targetConnections="id-705724327c16457c9e5c73538cbf7606" archimateElement="id-06d3f6c5384a4f1daf2d916afe5e2d7b">
           <bounds x="715" y="248" width="210" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-f71323937c494bac8504a027164e7cc2" source="id-3d5c8e4784ba4e71bd9feb8b4517bc77" target="id-887ba3eb8409481fbfcc54edb0fd2b5c" archimateRelationship="id-9b0eda6b19f9459287ce3873e2d3d460">
-            <bendpoint startY="-64" endX="125" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f71323937c494bac8504a027164e7cc2" source="id-3d5c8e4784ba4e71bd9feb8b4517bc77" target="id-887ba3eb8409481fbfcc54edb0fd2b5c" archimateRelationship="id-9b0eda6b19f9459287ce3873e2d3d460" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6ae4ff95636548dca75de9b9744d0883" targetConnections="id-6ed3e600725e48aabbb09a28287ba7b1" archimateElement="id-bdff1a6601fb4dbe9ba1de743a788d10">
           <bounds x="940" y="248" width="210" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-ff4366aaf58c4591916ad00ae8e8d801" source="id-6ae4ff95636548dca75de9b9744d0883" target="id-3f3d3feca24e4183b0d2ae1b837c3c58" archimateRelationship="id-4534ce7c5d074a50b910d414245a3fae">
-            <bendpoint startY="-64" endX="85" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ff4366aaf58c4591916ad00ae8e8d801" source="id-6ae4ff95636548dca75de9b9744d0883" target="id-3f3d3feca24e4183b0d2ae1b837c3c58" archimateRelationship="id-4534ce7c5d074a50b910d414245a3fae" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-aa63f5a04b184843ad691ed31c853004" archimateElement="id-f80d8308fd3e4bd1ae91714f841a21db">
           <bounds x="30" y="308" width="1450" height="150" />
@@ -8241,9 +8179,7 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-38515541334946a5ac4d7e00e85cf012" targetConnections="id-4a770a8703af44049530257f9d33c8f3 id-665414506bb945eebbb9c6ce0d7b6253" archimateElement="id-adca26631e0c4e00919b012267886473">
           <bounds x="439" y="25" width="195" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-a869d3c542304fef97b6071c95c2becc" source="id-38515541334946a5ac4d7e00e85cf012" target="id-2a1a2185f17f4861aef15868b5e6df91" archimateRelationship="id-18a83cb0cae64a83b94d5465846e7f0a">
-            <bendpoint startY="-89" endX="-29" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a869d3c542304fef97b6071c95c2becc" source="id-38515541334946a5ac4d7e00e85cf012" target="id-2a1a2185f17f4861aef15868b5e6df91" archimateRelationship="id-18a83cb0cae64a83b94d5465846e7f0a" />
           <sourceConnection xsi:type="archimate:Connection" id="id-9d97cca321ad48938babbac0dafed91f" source="id-38515541334946a5ac4d7e00e85cf012" target="id-cf3f5fb7e5da42eea764d96e097c4fce" archimateRelationship="id-df30c6262a6b434d9c56c2aeb070cf40">
             <bendpoint startX="10" startY="-153" endX="-649" />
           </sourceConnection>
@@ -8253,18 +8189,14 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f5581925774545a7aa55f9ac22ae2654" archimateElement="id-b2731dabe6614dce86686ddfc8fb2660">
           <bounds x="853" y="25" width="195" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-705724327c16457c9e5c73538cbf7606" source="id-f5581925774545a7aa55f9ac22ae2654" target="id-3d5c8e4784ba4e71bd9feb8b4517bc77" archimateRelationship="id-1cd86bfe32fc4a13b2c43b4f4935dd0c">
-            <bendpoint startY="-89" endX="160" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-705724327c16457c9e5c73538cbf7606" source="id-f5581925774545a7aa55f9ac22ae2654" target="id-3d5c8e4784ba4e71bd9feb8b4517bc77" archimateRelationship="id-1cd86bfe32fc4a13b2c43b4f4935dd0c" />
           <sourceConnection xsi:type="archimate:Connection" id="id-921ba8e908b54a1aacc02656a03c69b3" source="id-f5581925774545a7aa55f9ac22ae2654" target="id-887ba3eb8409481fbfcc54edb0fd2b5c" archimateRelationship="id-4fcc65b23d414d7db2136458f7cb79db">
             <bendpoint startX="-10" startY="-153" endX="275" />
           </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-24fbdd41985d4f4eb1eb4d11efe9b735" targetConnections="id-7cc986db13814017b9df934b37a643da" archimateElement="id-9019194a47cf498ea84bf3bc857c5d65">
           <bounds x="1060" y="25" width="195" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-6ed3e600725e48aabbb09a28287ba7b1" source="id-24fbdd41985d4f4eb1eb4d11efe9b735" target="id-6ae4ff95636548dca75de9b9744d0883" archimateRelationship="id-6230cd2755ee4af39cb55e8a3d449ffc">
-            <bendpoint startY="-89" endX="142" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6ed3e600725e48aabbb09a28287ba7b1" source="id-24fbdd41985d4f4eb1eb4d11efe9b735" target="id-6ae4ff95636548dca75de9b9744d0883" archimateRelationship="id-6230cd2755ee4af39cb55e8a3d449ffc" />
           <sourceConnection xsi:type="archimate:Connection" id="id-be43a8219a1f455388588219b8dcfe26" source="id-24fbdd41985d4f4eb1eb4d11efe9b735" target="id-09b0f51fdfe54ecfbbce5d0190ef1cc0" archimateRelationship="id-5ac4c9f6beb04082a5d45e6519a5a6d2">
             <bendpoint startX="-10" startY="-153" endX="1012" />
           </sourceConnection>
@@ -8322,15 +8254,11 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-13e13773d282411cbddf46f2ad2f4252" targetConnections="id-1474179626e4417bb4dcf04f220aff2a" archimateElement="id-a78f6e992e984c12a6acfe3a2272f775">
           <bounds x="439" y="25" width="195" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-05fad081f0e24c2da9399c3bae4f58ad" source="id-13e13773d282411cbddf46f2ad2f4252" target="id-73f2a57a97b34ee69ae52277a216ecaf" archimateRelationship="id-fc062527c7c245c7b8b45902e842c188">
-            <bendpoint startY="-94" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-05fad081f0e24c2da9399c3bae4f58ad" source="id-13e13773d282411cbddf46f2ad2f4252" target="id-73f2a57a97b34ee69ae52277a216ecaf" archimateRelationship="id-fc062527c7c245c7b8b45902e842c188" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-10934a605c8e48a7b29c5990b1116b04" archimateElement="id-8d8e7c755bd74fc082a36b564a3874ea">
           <bounds x="853" y="25" width="195" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-0d987821253348dd967de8da3f6d5d14" source="id-10934a605c8e48a7b29c5990b1116b04" target="id-5ada0400afa74248856f68293c0fba98" archimateRelationship="id-f86c861438734b5baea820a765f9eb36">
-            <bendpoint startY="-94" endX="-53" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0d987821253348dd967de8da3f6d5d14" source="id-10934a605c8e48a7b29c5990b1116b04" target="id-5ada0400afa74248856f68293c0fba98" archimateRelationship="id-f86c861438734b5baea820a765f9eb36" />
           <sourceConnection xsi:type="archimate:Connection" id="id-4f76495af07f43d2bac20be9471f646c" source="id-10934a605c8e48a7b29c5990b1116b04" target="id-37a2d3449d7f4d62afbdac5f93dac5a9" archimateRelationship="id-4c251a124e06437a86eeb2b015a66bd4">
             <bendpoint startX="-10" startY="-378" endX="540" />
           </sourceConnection>
@@ -8356,9 +8284,7 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
           <sourceConnection xsi:type="archimate:Connection" id="id-7cc986db13814017b9df934b37a643da" source="id-5ebddaeaf2c34fc991bbde950859a891" target="id-24fbdd41985d4f4eb1eb4d11efe9b735" archimateRelationship="id-298f96b5bdfd43c788d6a85311c1437d">
             <bendpoint startY="-356" endX="-592" />
           </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-1474179626e4417bb4dcf04f220aff2a" source="id-5ebddaeaf2c34fc991bbde950859a891" target="id-13e13773d282411cbddf46f2ad2f4252" archimateRelationship="id-95a5087544bf4a01a70b7f7adf82fb7c">
-            <bendpoint startX="-10" startY="-131" endX="19" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1474179626e4417bb4dcf04f220aff2a" source="id-5ebddaeaf2c34fc991bbde950859a891" target="id-13e13773d282411cbddf46f2ad2f4252" archimateRelationship="id-95a5087544bf4a01a70b7f7adf82fb7c" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-05afda479cfc469bb4db5a8bc25eb6b7" targetConnections="id-9f39a49a233a4635933a3964d835ca4e id-d7ccfa36a7e74746b159f7cb65479fb4" archimateElement="id-1a5e3fec0006402591c1679b60d15b9c">
           <bounds x="715" y="693" width="210" height="42" />
@@ -8390,9 +8316,7 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9150b4c0d53f4140b5b0d6156c21c0c8" archimateElement="id-f4f7373e29df461aa7956faffdafcdcd">
           <bounds x="646" y="25" width="195" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-d7ccfa36a7e74746b159f7cb65479fb4" source="id-9150b4c0d53f4140b5b0d6156c21c0c8" target="id-05afda479cfc469bb4db5a8bc25eb6b7" archimateRelationship="id-4febb34d1b9e4e82a115a0ade63f9e31">
-            <bendpoint startY="-86" endX="-47" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d7ccfa36a7e74746b159f7cb65479fb4" source="id-9150b4c0d53f4140b5b0d6156c21c0c8" target="id-05afda479cfc469bb4db5a8bc25eb6b7" archimateRelationship="id-4febb34d1b9e4e82a115a0ade63f9e31" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1f4a955af70e453cac9ed832ce80d6be" archimateElement="id-1d24aa509f9048c9914fdf74f03ce7f4">
           <bounds x="853" y="25" width="195" height="50" />
@@ -8995,9 +8919,7 @@ Data Plane SBBs: vector databases, knowledge graphs, data platforms, feature sto
           </child>
         <child xsi:type="archimate:DiagramObject" id="id-c1836dfd03284cc69ad9ce40e385baa5" archimateElement="id-4388d58b9fae4d6cb0b0137807fed6f7">
           <bounds x="375" y="74" width="145" height="38" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-cedb8f28adf64d4daf039693ca6ed70e" source="id-c1836dfd03284cc69ad9ce40e385baa5" target="id-e2ead0efc2844adca3dbe780320b9def" archimateRelationship="id-7aa4a9e078ba43f2947ef824e38e1597">
-            <bendpoint startX="-10" startY="374" endX="332" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cedb8f28adf64d4daf039693ca6ed70e" source="id-c1836dfd03284cc69ad9ce40e385baa5" target="id-e2ead0efc2844adca3dbe780320b9def" archimateRelationship="id-7aa4a9e078ba43f2947ef824e38e1597" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a531d933669e489f8177ff4b1dced767" archimateElement="id-c4353c9aadd64b1ebc0fd6b764cba86d">
           <bounds x="220" y="40" width="145" height="28" />
@@ -9137,18 +9059,14 @@ Meta-model van de AI-BOK: de kernentiteiten (AI Systeem, Model, Agent, Dataset, 
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8f0b7750c9674080b395d5ffc83768a1" targetConnections="id-88d68aa3032441dba05ba2a5d61d844b" archimateElement="id-84887667f964449ba5a388e4f30af87f">
           <bounds x="200" y="443" width="210" height="65" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-b71d28c2c29a4073aa266a6a0e7ef46f" source="id-8f0b7750c9674080b395d5ffc83768a1" target="id-04b9d632c1da433e9642e53b52bd82b9" archimateRelationship="id-6ba31ade9a2f43e58f2dc7ed0da764bc">
-            <bendpoint startY="140" endX="150" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b71d28c2c29a4073aa266a6a0e7ef46f" source="id-8f0b7750c9674080b395d5ffc83768a1" target="id-04b9d632c1da433e9642e53b52bd82b9" archimateRelationship="id-6ba31ade9a2f43e58f2dc7ed0da764bc" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f32d3dc95614446b96669419b4bc0d57" targetConnections="id-9822cd8104cb49e0a7b47ccc41a59cc9" archimateElement="id-29b26719a13f4456b9fc2127c3527a2c">
           <bounds x="660" y="443" width="210" height="65" />
           <sourceConnection xsi:type="archimate:Connection" id="id-a4acca69704b4110b3d2f1a1f29e6f63" source="id-f32d3dc95614446b96669419b4bc0d57" target="id-6ba199fd64e64a4bbb37cc661cc46bea" archimateRelationship="id-3a47736413a44b7c9daea3c0f4ed1453">
             <bendpoint startY="140" endX="230" />
           </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-80b99956345a4bc3a8876589a4117757" source="id-f32d3dc95614446b96669419b4bc0d57" target="id-979cf7745be14a47b93783e05ce71c4c" archimateRelationship="id-d3c3c2a139cc4a09a9df4e47607f0546">
-            <bendpoint startX="10" startY="140" endX="-140" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-80b99956345a4bc3a8876589a4117757" source="id-f32d3dc95614446b96669419b4bc0d57" target="id-979cf7745be14a47b93783e05ce71c4c" archimateRelationship="id-d3c3c2a139cc4a09a9df4e47607f0546" />
           <sourceConnection xsi:type="archimate:Connection" id="id-a34e0bf0e8974e518c840df4fc01bdc3" source="id-f32d3dc95614446b96669419b4bc0d57" target="id-e9551c5156164711a0df53c20a6c7450" archimateRelationship="id-158e68a9254c4ca89600e9b3ca60521c">
             <bendpoint startX="-20" startY="280" endX="210" />
           </sourceConnection>
@@ -9184,15 +9102,11 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5e17e9ae689e41d3a45009ad53e4fa11" archimateElement="id-1d24aa509f9048c9914fdf74f03ce7f4">
           <bounds x="40" y="363" width="180" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-e16de6a9fb8a432eb5d328adc66de64d" source="id-5e17e9ae689e41d3a45009ad53e4fa11" target="id-c713438e2d714666bc13b342be8db7b3" archimateRelationship="id-a10e13010c0f44139956316082310317">
-            <bendpoint startY="17" endX="-230" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e16de6a9fb8a432eb5d328adc66de64d" source="id-5e17e9ae689e41d3a45009ad53e4fa11" target="id-c713438e2d714666bc13b342be8db7b3" archimateRelationship="id-a10e13010c0f44139956316082310317" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8c7a34727d794ab6a445c0a1f136117d" archimateElement="id-22df3ac6f0ea4f49aab7b97c348271f1">
           <bounds x="40" y="433" width="180" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-1759bf841dd145cca2d32922c371741d" source="id-8c7a34727d794ab6a445c0a1f136117d" target="id-36852b1695474d7bb8ebac8025abde8d" archimateRelationship="id-844c9a0c5f514938b7ae12ad9a076d0b">
-            <bendpoint startY="17" endX="-230" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1759bf841dd145cca2d32922c371741d" source="id-8c7a34727d794ab6a445c0a1f136117d" target="id-36852b1695474d7bb8ebac8025abde8d" archimateRelationship="id-844c9a0c5f514938b7ae12ad9a076d0b" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-43fad31b4e8b44e4b7e2f9b4e6f98d40" archimateElement="id-d68a13b8058c464a86d7756463475372">
           <bounds x="40" y="503" width="180" height="50" />
@@ -9202,15 +9116,11 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c713438e2d714666bc13b342be8db7b3" targetConnections="id-6e9164f518e44542955ba5a33ff2c43e id-e16de6a9fb8a432eb5d328adc66de64d" archimateElement="id-85ad5f4fe4814973acaa37651457be02">
           <bounds x="260" y="383" width="200" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-0b215876b395454aa07fa7f742db72c9" source="id-c713438e2d714666bc13b342be8db7b3" target="id-bb39f46d2c1a4c199c57e7eb3e8c40ee" archimateRelationship="id-e6d5de00b7d24c16a7c9936e5765f0e6">
-            <bendpoint startY="35" endX="-240" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0b215876b395454aa07fa7f742db72c9" source="id-c713438e2d714666bc13b342be8db7b3" target="id-bb39f46d2c1a4c199c57e7eb3e8c40ee" archimateRelationship="id-e6d5de00b7d24c16a7c9936e5765f0e6" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-36852b1695474d7bb8ebac8025abde8d" targetConnections="id-1759bf841dd145cca2d32922c371741d" archimateElement="id-31a91d300cad4866bd4fe545476438e4">
           <bounds x="260" y="453" width="200" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-231262ce553e4361838f381ad8bf452f" source="id-36852b1695474d7bb8ebac8025abde8d" target="id-bb39f46d2c1a4c199c57e7eb3e8c40ee" archimateRelationship="id-7e9052c4fe1142dbb98b0e2b0bddad8a">
-            <bendpoint startY="-35" endX="-240" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-231262ce553e4361838f381ad8bf452f" source="id-36852b1695474d7bb8ebac8025abde8d" target="id-bb39f46d2c1a4c199c57e7eb3e8c40ee" archimateRelationship="id-7e9052c4fe1142dbb98b0e2b0bddad8a" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-bb39f46d2c1a4c199c57e7eb3e8c40ee" targetConnections="id-0b215876b395454aa07fa7f742db72c9 id-231262ce553e4361838f381ad8bf452f" archimateElement="id-adca26631e0c4e00919b012267886473">
           <bounds x="510" y="413" width="180" height="55" />
@@ -9247,13 +9157,9 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c9f474810d0e4757ae900dbca48bd34f" archimateElement="id-b2731dabe6614dce86686ddfc8fb2660">
           <bounds x="740" y="523" width="180" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-b421228145ee4390a770111247d6cf4a" source="id-c9f474810d0e4757ae900dbca48bd34f" target="id-b33c924f21234ca2bae53abf0514d282" archimateRelationship="id-1cd86bfe32fc4a13b2c43b4f4935dd0c">
-            <bendpoint startY="-23" endX="-240" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b421228145ee4390a770111247d6cf4a" source="id-c9f474810d0e4757ae900dbca48bd34f" target="id-b33c924f21234ca2bae53abf0514d282" archimateRelationship="id-1cd86bfe32fc4a13b2c43b4f4935dd0c" />
           <sourceConnection xsi:type="archimate:Connection" id="id-596eb978e4d045a88b49b354b4f388e9" source="id-c9f474810d0e4757ae900dbca48bd34f" target="id-a058c48affe64d169431d1986626ab9c" archimateRelationship="id-34d234f54f174a9abfb5c87f9ca4188b" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-9713c6cb2ed945218a606e34db8ee3ed" source="id-c9f474810d0e4757ae900dbca48bd34f" target="id-7ea55fda01f44f8d914110369943642c" archimateRelationship="id-4fcc65b23d414d7db2136458f7cb79db">
-            <bendpoint startX="20" startY="-23" endX="-480" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9713c6cb2ed945218a606e34db8ee3ed" source="id-c9f474810d0e4757ae900dbca48bd34f" target="id-7ea55fda01f44f8d914110369943642c" archimateRelationship="id-4fcc65b23d414d7db2136458f7cb79db" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5ae1b7ff2835485c99f1072ccead36f4" targetConnections="id-1eeea7d1fd7d4b3b86dd1a7a6c480bcd" archimateElement="id-812876cceaa84ccf8da7058506e6cf9d">
           <bounds x="970" y="363" width="200" height="45" />
@@ -9318,15 +9224,11 @@ Five RAG architecture variants: Naive, Advanced, Modular, GraphRAG and Agentic R
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3fcd8536512240679ee4d73c79eb0cb6" archimateElement="id-f9064808999f437e88fca4f0566f5789">
           <bounds x="260" y="267" width="210" height="55" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-f8b2c25bcbbd43c6b269b4ee32549af6" source="id-3fcd8536512240679ee4d73c79eb0cb6" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-0a3f7e11cb0a4236a100dacae5297160">
-            <bendpoint startY="-90" endX="-160" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f8b2c25bcbbd43c6b269b4ee32549af6" source="id-3fcd8536512240679ee4d73c79eb0cb6" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-0a3f7e11cb0a4236a100dacae5297160" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-aed129d739ca45d7a70d6a8fb0900632" archimateElement="id-774a7e0ef02b4f70a848daa31058c77c">
           <bounds x="490" y="267" width="210" height="55" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-c795cb0348b64a9c94f0b06e59839113" source="id-aed129d739ca45d7a70d6a8fb0900632" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-1f7fffd584624a038e43d9c801d2a7bf">
-            <bendpoint startY="-90" endX="70" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c795cb0348b64a9c94f0b06e59839113" source="id-aed129d739ca45d7a70d6a8fb0900632" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-1f7fffd584624a038e43d9c801d2a7bf" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-257f01dc583a47eb86e5dedfbd75ae6f" archimateElement="id-75b0913cde9f42ec9817a405930e5181">
           <bounds x="720" y="267" width="210" height="55" />
@@ -9348,15 +9250,11 @@ Five RAG architecture variants: Naive, Advanced, Modular, GraphRAG and Agentic R
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-43099ba5dea94f638920cfc7df4a937b" archimateElement="id-9b3291a28cf94130bc47d4cbb9160cd4">
           <bounds x="260" y="357" width="210" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-075c755684324d55abe1a7d572826efc" source="id-43099ba5dea94f638920cfc7df4a937b" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-96859b8eb24a471eb9ffc3da05e079cb">
-            <bendpoint startY="-175" endX="-160" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-075c755684324d55abe1a7d572826efc" source="id-43099ba5dea94f638920cfc7df4a937b" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-96859b8eb24a471eb9ffc3da05e079cb" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ce5a508540384ffca3f38bdf34122ab5" archimateElement="id-d35fe35309e94ed594983f35ee7131b4">
           <bounds x="490" y="357" width="210" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-ab8281f3a4c846bf818fee9a8e23ed9b" source="id-ce5a508540384ffca3f38bdf34122ab5" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-a9b5fcc0d028471fb315f6784dcbdd05">
-            <bendpoint startY="-175" endX="70" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ab8281f3a4c846bf818fee9a8e23ed9b" source="id-ce5a508540384ffca3f38bdf34122ab5" target="id-89a53e43e76b40928d69716435cece4e" archimateRelationship="id-a9b5fcc0d028471fb315f6784dcbdd05" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6a306317168f4c7587f2b35a115bc466" archimateElement="id-24c73a16dadc480985c965dda3fba9b0">
           <bounds x="720" y="357" width="210" height="45" />
@@ -9744,9 +9642,7 @@ Governance-structuur met besluitvormingslijnen tussen AI Board, committees en he
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-049b0520453845c3b30df391b9bb7d00" archimateElement="id-db610d22dc15423e89c95abd52c88b82">
           <bounds x="310" y="193" width="230" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-4d77fd9afd4a440abafe75a6b5cfc797" source="id-049b0520453845c3b30df391b9bb7d00" target="id-400e1d2d3c694f45a1e4a3cf4e0c3344" archimateRelationship="id-da72ecf6aeb543f884994112d49061b9">
-            <bendpoint startY="282" endX="-20" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4d77fd9afd4a440abafe75a6b5cfc797" source="id-049b0520453845c3b30df391b9bb7d00" target="id-400e1d2d3c694f45a1e4a3cf4e0c3344" archimateRelationship="id-da72ecf6aeb543f884994112d49061b9" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8d55a9c43d0e4ae4bd08bfdf5e67a354" archimateElement="id-a13949669486472a9d3e063908de2b7b">
           <bounds x="570" y="193" width="230" height="50" />
@@ -9759,9 +9655,7 @@ Governance-structuur met besluitvormingslijnen tussen AI Board, committees en he
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b1e4191bcdf540b885898506a0e515ed" archimateElement="id-7aad3bceae134cdbb8d6c7f167f6d554">
           <bounds x="150" y="283" width="300" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-1e09c4b6c3344b509932fc37313b353c" source="id-b1e4191bcdf540b885898506a0e515ed" target="id-4ac6fadd323c4436adfa4a9cc410f461" archimateRelationship="id-ba256315ac544487bf71414d703d5067">
-            <bendpoint startY="192" endX="125" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1e09c4b6c3344b509932fc37313b353c" source="id-b1e4191bcdf540b885898506a0e515ed" target="id-4ac6fadd323c4436adfa4a9cc410f461" archimateRelationship="id-ba256315ac544487bf71414d703d5067" />
           <sourceConnection xsi:type="archimate:Connection" id="id-da06132627ca448e8da18ec9fd5d3ecd" source="id-b1e4191bcdf540b885898506a0e515ed" target="id-ddfd9fae8a104b8ebdadfe692975e0e7" archimateRelationship="id-92d486c87f7c4fc1a8ec204dd9d0f199">
             <bendpoint startX="-10" startY="332" endX="115" />
           </sourceConnection>
@@ -9774,9 +9668,7 @@ Governance-structuur met besluitvormingslijnen tussen AI Board, committees en he
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e3e0cc98a57e403d8f9061b797199a15" targetConnections="id-ef34d10b2f334272a23c6bee3648f285" archimateElement="id-2a1b21f4e72c41359e604f9f85d6c8bb">
           <bounds x="550" y="283" width="300" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-42cad62c3f494a10ab98ac7a252bb6f3" source="id-e3e0cc98a57e403d8f9061b797199a15" target="id-a766af5ea96e4303af1f34766f078cd8" archimateRelationship="id-f89c04d78c2244b59073001be16654d4">
-            <bendpoint startY="332" endX="255" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-42cad62c3f494a10ab98ac7a252bb6f3" source="id-e3e0cc98a57e403d8f9061b797199a15" target="id-a766af5ea96e4303af1f34766f078cd8" archimateRelationship="id-f89c04d78c2244b59073001be16654d4" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-013d1598bcd749e1b0bfdeb1d20fe624" archimateElement="id-b35e9523e9dc46eda04630556070fdec">
           <bounds x="50" y="373" width="320" height="50" />
@@ -9837,9 +9729,7 @@ Stakeholderanalyse: de governance-organen (AI Board, Review Committee, Ethics Co
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-77782e8f64b1433ba3a9bcfac2f3a9b1" archimateElement="id-204021e6bf154345a8e220b715ae085e">
           <bounds x="40" y="193" width="260" height="55" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-cd5bb194601d4df281149ce7ffebc674" source="id-77782e8f64b1433ba3a9bcfac2f3a9b1" target="id-dd10d83088fc4eaa9b4776ee92ef0f70" archimateRelationship="id-8b49cf9c12fd4f25b50aae138deb76ce">
-            <bendpoint startY="227" endX="-135" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-cd5bb194601d4df281149ce7ffebc674" source="id-77782e8f64b1433ba3a9bcfac2f3a9b1" target="id-dd10d83088fc4eaa9b4776ee92ef0f70" archimateRelationship="id-8b49cf9c12fd4f25b50aae138deb76ce" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-547bfffaf88b471f92c53dec02ed1580" archimateElement="id-73e3e738a92e48349fd2c5a2d2c0408e">
           <bounds x="320" y="193" width="260" height="55" />
@@ -9911,9 +9801,7 @@ Stakeholderanalyse: de governance-organen (AI Board, Review Committee, Ethics Co
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-01929e2a50fa47758ca0e1b4b028f48f" targetConnections="id-9b9b4e50e31749c1954cd5d29a225172 id-994757c7bd6242cdbdd77e5a2fba7d9e id-c0fd60c2bddd4a6c9d5b3b66db1ffec9" archimateElement="id-61c365dba01e4192beb1064753134a35">
           <bounds x="400" y="571" width="280" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-caf0d3f3f0924536af9c9f571ab381fe" source="id-01929e2a50fa47758ca0e1b4b028f48f" target="id-dd10d83088fc4eaa9b4776ee92ef0f70" archimateRelationship="id-c35bcf4adebf4cf3a26c58bd4c11275a">
-            <bendpoint startY="-145" endX="235" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-caf0d3f3f0924536af9c9f571ab381fe" source="id-01929e2a50fa47758ca0e1b4b028f48f" target="id-dd10d83088fc4eaa9b4776ee92ef0f70" archimateRelationship="id-c35bcf4adebf4cf3a26c58bd4c11275a" />
         </child>
         <documentation>Bron: AI-BOK v1.4, Module 2, sectie 2.3</documentation>
         <property key="dct:source" value="AI-BOK v1.4, Module 2, sectie 2.3" />
@@ -10895,9 +10783,7 @@ Governance-integratiepatronen: hoe AI-BOK samenwerkt met TOGAF, DAMA DMBOK, COBI
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ca613fb556cc4fb2b7db6046065672d9" archimateElement="id-2b6eecc616e44e53bd017e1d0845359d">
           <bounds x="30" y="193" width="370" height="65" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-68c342c62133482b954bc9c7a1102f2c" source="id-ca613fb556cc4fb2b7db6046065672d9" target="id-af91d9679fce4a85bab2a912015b2494" archimateRelationship="id-8dbf04f8fa6d48a3a6330cbe5125ce48">
-            <bendpoint startY="170" endX="93" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-68c342c62133482b954bc9c7a1102f2c" source="id-ca613fb556cc4fb2b7db6046065672d9" target="id-af91d9679fce4a85bab2a912015b2494" archimateRelationship="id-8dbf04f8fa6d48a3a6330cbe5125ce48" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-fedd860537d44871afabe751a8745212" archimateElement="id-5e9476a399f945cab146d9bba5239a9d">
           <bounds x="430" y="193" width="370" height="65" />
@@ -10916,9 +10802,7 @@ Governance-integratiepatronen: hoe AI-BOK samenwerkt met TOGAF, DAMA DMBOK, COBI
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ebd4da92210c4adb94e54365e76b11be" archimateElement="id-cf3812e801fe467ca12ac590c40b0828">
           <bounds x="430" y="273" width="370" height="65" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-da8e254f66c8480f8f98a661803db30c" source="id-ebd4da92210c4adb94e54365e76b11be" target="id-d470601fe2fd49a884558f898bb06b54" archimateRelationship="id-1dd11881dd1c472ba4330ef22afeed64">
-            <bendpoint startY="90" endX="-107" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-da8e254f66c8480f8f98a661803db30c" source="id-ebd4da92210c4adb94e54365e76b11be" target="id-d470601fe2fd49a884558f898bb06b54" archimateRelationship="id-1dd11881dd1c472ba4330ef22afeed64" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e43341a7730d4b8dac3d6ab17646f2d7" archimateElement="id-6b6e09fc2d7b4d40949acfaa84ebca32">
           <bounds x="830" y="273" width="370" height="65" />
@@ -11163,9 +11047,7 @@ Volledige AI-thesaurus: alle 52 begrippen met hun specialisatierelaties (broader
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7f5ff72fcb8d4e15893e8451d3bab0d8" archimateElement="id-01b3b440c3494eb6a9dabd4a4d85ff3d">
           <bounds x="660" y="193" width="195" height="70" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-79c6b71348664438855bfb898e63b240" source="id-7f5ff72fcb8d4e15893e8451d3bab0d8" target="id-d669629c378c45ff946915f77ecc2319" archimateRelationship="id-928d40bc73644b92914e6fc72dd12b20">
-            <bendpoint startY="102" endX="-68" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-79c6b71348664438855bfb898e63b240" source="id-7f5ff72fcb8d4e15893e8451d3bab0d8" target="id-d669629c378c45ff946915f77ecc2319" archimateRelationship="id-928d40bc73644b92914e6fc72dd12b20" />
           <sourceConnection xsi:type="archimate:Connection" id="id-4be8e185c69d4d2c895a13d49c475e05" source="id-7f5ff72fcb8d4e15893e8451d3bab0d8" target="id-5233279653fc42aaa276bff1590317b9" archimateRelationship="id-d6ad0f02e5f641d6a14f99746f4fa0fc">
             <bendpoint startX="-10" startY="102" endX="222" />
           </sourceConnection>
@@ -11206,9 +11088,7 @@ Het 5×5 volwassenheidsmodel: 5 dimensies op 5 niveaus, gekoppeld aan de impleme
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-bdf57d56cec140bdb7f1f4e2d27f289f" archimateElement="id-ac00f36a89f44cc896e92b977b73c2d2">
           <bounds x="30" y="193" width="220" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-e36224a8fcc5456d86d0d2bbd2c88356" source="id-bdf57d56cec140bdb7f1f4e2d27f289f" target="id-efd32837742d4a31bfa1e2913197cc5a" archimateRelationship="id-d15de2f7e9a344398afda350ccf18a7d">
-            <bendpoint startY="55" endX="-60" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e36224a8fcc5456d86d0d2bbd2c88356" source="id-bdf57d56cec140bdb7f1f4e2d27f289f" target="id-efd32837742d4a31bfa1e2913197cc5a" archimateRelationship="id-d15de2f7e9a344398afda350ccf18a7d" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7d3f206e45ef4d7b8e4892e9bb842924" archimateElement="id-21e338fab8bd448387c5b85589f37ac2">
           <bounds x="30" y="253" width="110" height="40" />
@@ -11259,12 +11139,8 @@ Het 5×5 volwassenheidsmodel: 5 dimensies op 5 niveaus, gekoppeld aan de impleme
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c54fa72255b44287a57be4b17cc301f4" archimateElement="id-33b3f7f382de4f2eb5bce3302c076d5a">
           <bounds x="990" y="193" width="220" height="50" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-40ee33a8e86a457b8c3bc41ef6e8e9df" source="id-c54fa72255b44287a57be4b17cc301f4" target="id-d7b9a90cc91b4ef888a4e35c620e8d08" archimateRelationship="id-786f2fb784624e1ca2c8797115a9b436">
-            <bendpoint startY="55" endX="55" />
-          </sourceConnection>
-          <sourceConnection xsi:type="archimate:Connection" id="id-bf782e6ff3dc422e84b44e3a415d0e83" source="id-c54fa72255b44287a57be4b17cc301f4" target="id-71d91564b96d43d689eb0632f39ffbd6" archimateRelationship="id-7bb94f6858de4503a6f30be0f58f4f64">
-            <bendpoint startX="10" startY="55" endX="-50" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-40ee33a8e86a457b8c3bc41ef6e8e9df" source="id-c54fa72255b44287a57be4b17cc301f4" target="id-d7b9a90cc91b4ef888a4e35c620e8d08" archimateRelationship="id-786f2fb784624e1ca2c8797115a9b436" />
+          <sourceConnection xsi:type="archimate:Connection" id="id-bf782e6ff3dc422e84b44e3a415d0e83" source="id-c54fa72255b44287a57be4b17cc301f4" target="id-71d91564b96d43d689eb0632f39ffbd6" archimateRelationship="id-7bb94f6858de4503a6f30be0f58f4f64" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d7b9a90cc91b4ef888a4e35c620e8d08" targetConnections="id-e5f2e69352c648bcb4a30070a5e43b57 id-40ee33a8e86a457b8c3bc41ef6e8e9df" archimateElement="id-29bb2f7246e44ccbaa3b76d104099f75">
           <bounds x="990" y="253" width="110" height="40" />
@@ -11524,18 +11400,14 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d111acc59a5445ed96dbb8d8a2756a02" archimateElement="id-9dcebe7e7f724a469c4974021f9b8144">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-4b9acd4b708c4679a8e2ea747f1e3dc9" source="id-d111acc59a5445ed96dbb8d8a2756a02" target="id-2f79db6e150c425c91d24ccd1e857978" archimateRelationship="id-da09b70559904d13ab602bcccf65995b">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4b9acd4b708c4679a8e2ea747f1e3dc9" source="id-d111acc59a5445ed96dbb8d8a2756a02" target="id-2f79db6e150c425c91d24ccd1e857978" archimateRelationship="id-da09b70559904d13ab602bcccf65995b" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3fea0a810c9d4264a746ddbbef010061" archimateElement="id-48ad6cdedf9fb0543be788e7fd587a4c">
           <bounds x="510" y="279" width="195" height="45" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-28783c35633644ef8ef2c16fad68c877" archimateElement="id-4fa5a1af3dba4706b47a2ad0689c2126">
           <bounds x="510" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-1359838423574033aa8f9af8048ffb95" source="id-28783c35633644ef8ef2c16fad68c877" target="id-2f79db6e150c425c91d24ccd1e857978" archimateRelationship="id-0f4e4470a10749f1a432badb54bec3ac">
-            <bendpoint startY="-67" endX="187" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1359838423574033aa8f9af8048ffb95" source="id-28783c35633644ef8ef2c16fad68c877" target="id-2f79db6e150c425c91d24ccd1e857978" archimateRelationship="id-0f4e4470a10749f1a432badb54bec3ac" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3481e1448fc14fff9b69eb97a377064a" archimateElement="id-7f146461b81f43bcb716f7e8417b4ee5">
           <bounds x="720" y="279" width="195" height="45" />
@@ -11567,9 +11439,7 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-0af220ce779b448daff40d9cef75aa2a" archimateElement="id-fccf869943c84b96843e3712c91d4595">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-65d9380314d84acaadcee2739d04e843" source="id-0af220ce779b448daff40d9cef75aa2a" target="id-d5d268d3f2b342db918f7e4a862d3d8a" archimateRelationship="id-87420b5676344dc0b2915b75b56b757b">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-65d9380314d84acaadcee2739d04e843" source="id-0af220ce779b448daff40d9cef75aa2a" target="id-d5d268d3f2b342db918f7e4a862d3d8a" archimateRelationship="id-87420b5676344dc0b2915b75b56b757b" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8dbb4bcd06b944d3985dd8636a958785" archimateElement="id-43e0255ead0c400e93f9e3c4d51d2ad8">
           <bounds x="380" y="538" width="330" height="42" />
@@ -11600,18 +11470,14 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a4563a0064324c42b375cb7d0bf914b1" archimateElement="id-45c4fa02c2824f08853f5b0b75a8eaa0">
           <bounds x="30" y="653" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-1f1213a185f34176a1995a9a2acd6724" source="id-a4563a0064324c42b375cb7d0bf914b1" target="id-256b5387221b48be9ea97e24c5e0d167" archimateRelationship="id-309e43ab3f9d41f299726b34328afa5f">
-            <bendpoint startY="-184" endX="-18" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1f1213a185f34176a1995a9a2acd6724" source="id-a4563a0064324c42b375cb7d0bf914b1" target="id-256b5387221b48be9ea97e24c5e0d167" archimateRelationship="id-309e43ab3f9d41f299726b34328afa5f" />
           <sourceConnection xsi:type="archimate:Connection" id="id-e1266a15ece3452fb18114327230be60" source="id-a4563a0064324c42b375cb7d0bf914b1" target="id-147cd97484d24f87a9a72ad4dec79df4" archimateRelationship="id-970458a907e9449ea13c644b409732fe">
             <bendpoint startX="10" startY="-184" endX="-258" />
           </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-9d876e5f9dd040e6a95ea1f56b34893b" archimateElement="id-596bb345e99d4d04a526342157f6f227">
           <bounds x="240" y="653" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-caa064dfc4d2462fb36abc99976c8eb2" source="id-9d876e5f9dd040e6a95ea1f56b34893b" target="id-256b5387221b48be9ea97e24c5e0d167" archimateRelationship="id-11916988e2d746a2a94c713779a527b1">
-            <bendpoint startY="-184" endX="192" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-caa064dfc4d2462fb36abc99976c8eb2" source="id-9d876e5f9dd040e6a95ea1f56b34893b" target="id-256b5387221b48be9ea97e24c5e0d167" archimateRelationship="id-11916988e2d746a2a94c713779a527b1" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-38a383f4dae7449e80c1d33fd872989f" archimateElement="id-a6d83eabb22c4c4eb9d6e2a730f0dda9">
           <bounds x="30" y="718" width="195" height="42" />
@@ -11674,9 +11540,7 @@ Detailview van kennisgebied 2 (AI Strategie &amp; Portfoliomanagement): capabili
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6ee98527cf524de5bf5f04c96ec38d7c" archimateElement="id-9a6a8bf76dae48709f79491d0d6884b5">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-b362b6297225492e97b83b34318ed555" source="id-6ee98527cf524de5bf5f04c96ec38d7c" target="id-15644be08353487aabd892d484fb1168" archimateRelationship="id-a4c69d83afe04444a54ca40c2b332a6a">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b362b6297225492e97b83b34318ed555" source="id-6ee98527cf524de5bf5f04c96ec38d7c" target="id-15644be08353487aabd892d484fb1168" archimateRelationship="id-a4c69d83afe04444a54ca40c2b332a6a" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-0c2053440912492e8d1c0acd4c5b67ca" targetConnections="id-d34a2b2bc4124a4c84a60d0fb518a07d" archimateElement="id-faaa61bc3fe2410cb39fb965a5930e51">
           <bounds x="30" y="349" width="240" height="44" />
@@ -11699,9 +11563,7 @@ Detailview van kennisgebied 2 (AI Strategie &amp; Portfoliomanagement): capabili
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b450d3ae07cc4635a31706dc8df68dae" archimateElement="id-75064108ff03411daa2016cb9a78b6b1">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-17b0e025168c4f06be8c5123c85f77c2" source="id-b450d3ae07cc4635a31706dc8df68dae" target="id-6b2280c4431c4068978fa8cca32703ed" archimateRelationship="id-f515965b880f4548b1ad1bb9daf5aeda">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-17b0e025168c4f06be8c5123c85f77c2" source="id-b450d3ae07cc4635a31706dc8df68dae" target="id-6b2280c4431c4068978fa8cca32703ed" archimateRelationship="id-f515965b880f4548b1ad1bb9daf5aeda" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-5ff073c7c3da4eafa09710ebafc6afde" archimateElement="id-e1fd7cc8ed0c47c18bcc236cd38cd7e6">
           <bounds x="380" y="538" width="330" height="42" />
@@ -11766,9 +11628,7 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b00bc2aa8d344d61b5dd11277c3bb378" archimateElement="id-46145689bfff47bea6579ecfe83c20e2">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-2ea6c6a68d0046a7b52e7cf3cbc8fa12" source="id-b00bc2aa8d344d61b5dd11277c3bb378" target="id-04eaacf2b2d844f09ae035e0dda4df2b" archimateRelationship="id-861e65c4c3ca49c2bf34d3f9402ae588">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2ea6c6a68d0046a7b52e7cf3cbc8fa12" source="id-b00bc2aa8d344d61b5dd11277c3bb378" target="id-04eaacf2b2d844f09ae035e0dda4df2b" archimateRelationship="id-861e65c4c3ca49c2bf34d3f9402ae588" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d05d0f1b928b47eba86fbc1d18aa02c2" targetConnections="id-cd98df697ebd41ff91ab82d7a509a914" archimateElement="id-f97c2232f8d6439d972f20cbaafbbedc">
           <bounds x="30" y="349" width="240" height="44" />
@@ -11794,9 +11654,7 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-69e5d51ef4094b4aaa60d89b1bd5d35f" archimateElement="id-faf8f59bbcd8451da6195274da87468b">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-b5f3fdc84f5f46a2a484091ca273626b" source="id-69e5d51ef4094b4aaa60d89b1bd5d35f" target="id-92598926c17445bfa90221185933c904" archimateRelationship="id-c39f7488582c4280b4c1ed053bd4b22f">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b5f3fdc84f5f46a2a484091ca273626b" source="id-69e5d51ef4094b4aaa60d89b1bd5d35f" target="id-92598926c17445bfa90221185933c904" archimateRelationship="id-c39f7488582c4280b4c1ed053bd4b22f" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e539141720da4f6cb3119cfb00fd5ca2" archimateElement="id-aced1e87e5254f13b8d173c66402dfdc">
           <bounds x="380" y="538" width="330" height="42" />
@@ -11830,21 +11688,15 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-20de071887274ad8a2a6d611b8a4bdf0" archimateElement="id-dd49dd48f31a48788a04afbcb60036dc">
           <bounds x="30" y="703" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-d96d4c454cbf4aa68b5704a7cb151af3" source="id-20de071887274ad8a2a6d611b8a4bdf0" target="id-cfde1a1a4e8e428c84f5426736d3d64c" archimateRelationship="id-4340084754264a53a258aaea7ede8c6a">
-            <bendpoint startY="-234" endX="-18" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d96d4c454cbf4aa68b5704a7cb151af3" source="id-20de071887274ad8a2a6d611b8a4bdf0" target="id-cfde1a1a4e8e428c84f5426736d3d64c" archimateRelationship="id-4340084754264a53a258aaea7ede8c6a" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4a8bf20b36c0478b8f8f8fd6fa94189e" archimateElement="id-d48a87fbd28b495f992d74ebb31ce06f">
           <bounds x="240" y="703" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-e989f327e1a14ad6b9b38f3eb4395d08" source="id-4a8bf20b36c0478b8f8f8fd6fa94189e" target="id-cfde1a1a4e8e428c84f5426736d3d64c" archimateRelationship="id-152c877e597f4463bd7b91838ad80094">
-            <bendpoint startY="-234" endX="192" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e989f327e1a14ad6b9b38f3eb4395d08" source="id-4a8bf20b36c0478b8f8f8fd6fa94189e" target="id-cfde1a1a4e8e428c84f5426736d3d64c" archimateRelationship="id-152c877e597f4463bd7b91838ad80094" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-da62db25b878423baffbde7db852e254" archimateElement="id-510eeb5670434ef8b9992191f6d17f52">
           <bounds x="450" y="703" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-1e3b61de37cd4ded9d814f2f82af46db" source="id-da62db25b878423baffbde7db852e254" target="id-903cc2066b0e4e3a82e5bed9c7aee919" archimateRelationship="id-dc585139b1cd4b6c8ac72bc4e42d7222">
-            <bendpoint startY="-234" endX="152" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1e3b61de37cd4ded9d814f2f82af46db" source="id-da62db25b878423baffbde7db852e254" target="id-903cc2066b0e4e3a82e5bed9c7aee919" archimateRelationship="id-dc585139b1cd4b6c8ac72bc4e42d7222" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4083eecec1d14515971db6db165e3527" archimateElement="id-68a0d44d338d4fa4aa780db2aa7ccda1">
           <bounds x="660" y="703" width="195" height="42" />
@@ -11863,9 +11715,7 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-562022dceb6841f2af38bcd73bdb2539" archimateElement="id-f7ae52a774104d378abf4ca59b5a63b0">
           <bounds x="240" y="768" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-4e8abe0857bb46f1b37bf93ccf938b70" source="id-562022dceb6841f2af38bcd73bdb2539" target="id-903cc2066b0e4e3a82e5bed9c7aee919" archimateRelationship="id-d91f3d79b36f4db5a758ea73dcf84966">
-            <bendpoint startY="-299" endX="-58" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4e8abe0857bb46f1b37bf93ccf938b70" source="id-562022dceb6841f2af38bcd73bdb2539" target="id-903cc2066b0e4e3a82e5bed9c7aee919" archimateRelationship="id-d91f3d79b36f4db5a758ea73dcf84966" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cb397e1030a941c1a89d498337b8e5bd" archimateElement="id-bc6aee71f6ba4714984c23d0c595a5c0">
           <bounds x="450" y="768" width="195" height="42" />
@@ -11906,9 +11756,7 @@ Detailview van kennisgebied 4 (AI Lifecyclebeheer): capability, principes, bedri
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1135a333eadf4e41bf3ff83aa25d33cf" archimateElement="id-3d3273c9fb144eed8a0ab707ffe7dd22">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-e6cf0c21dc3e4afe94e209a6ff3c1095" source="id-1135a333eadf4e41bf3ff83aa25d33cf" target="id-420057d3bb7e4cdf95ed9dab4058f1df" archimateRelationship="id-02cb50017f5a4ba3b46169e9d3d0c5cb">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e6cf0c21dc3e4afe94e209a6ff3c1095" source="id-1135a333eadf4e41bf3ff83aa25d33cf" target="id-420057d3bb7e4cdf95ed9dab4058f1df" archimateRelationship="id-02cb50017f5a4ba3b46169e9d3d0c5cb" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-87cf24f824ca4e928b4e9f904d2f2f1e" archimateElement="id-48ad6cdedf9fb0543be788e7fd587a4c">
           <bounds x="550" y="279" width="195" height="45" />
@@ -11937,9 +11785,7 @@ Detailview van kennisgebied 4 (AI Lifecyclebeheer): capability, principes, bedri
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1045f0f4b08c4677bdbb716218eebcb1" archimateElement="id-ea1300209c3041008d5dd9d233146d2c">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-978eb8ca30f9478293127f789ef4f2ec" source="id-1045f0f4b08c4677bdbb716218eebcb1" target="id-7b99af2cdc8f4dbdb37bfd1fa3ad2675" archimateRelationship="id-78cf453c9d724806a7755a13ab1a3c5f">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-978eb8ca30f9478293127f789ef4f2ec" source="id-1045f0f4b08c4677bdbb716218eebcb1" target="id-7b99af2cdc8f4dbdb37bfd1fa3ad2675" archimateRelationship="id-78cf453c9d724806a7755a13ab1a3c5f" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d69e2f74bbba4b8c9e71ebc4b5b851b9" archimateElement="id-a978794d9a884bd3a558d04927190748">
           <bounds x="380" y="538" width="330" height="42" />
@@ -12010,15 +11856,11 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b56a9cff11bc4fed816839e2d47e1148" archimateElement="id-e89a92e2e48d46d691e263ca136e2a08">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-4dd0ba17cb43419ca8459c6744b8b3d6" source="id-b56a9cff11bc4fed816839e2d47e1148" target="id-935f4250c37340c49fdd167e5994162b" archimateRelationship="id-2943999f2ea54391a658995568e33462">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-4dd0ba17cb43419ca8459c6744b8b3d6" source="id-b56a9cff11bc4fed816839e2d47e1148" target="id-935f4250c37340c49fdd167e5994162b" archimateRelationship="id-2943999f2ea54391a658995568e33462" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b61b4ec9213346e88267f7b797360c26" archimateElement="id-bceffda8211a417f9deca92e451606f4">
           <bounds x="510" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-0bd44528cbac4a578ae7b4277b69f3e6" source="id-b61b4ec9213346e88267f7b797360c26" target="id-935f4250c37340c49fdd167e5994162b" archimateRelationship="id-bdaa425cb82e4aefb224a35c0469e749">
-            <bendpoint startY="-67" endX="187" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0bd44528cbac4a578ae7b4277b69f3e6" source="id-b61b4ec9213346e88267f7b797360c26" target="id-935f4250c37340c49fdd167e5994162b" archimateRelationship="id-bdaa425cb82e4aefb224a35c0469e749" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7e53ad71b2d04adaa431341c6db7ce80" archimateElement="id-bb133a80f731480eacf5329e935ad780">
           <bounds x="720" y="279" width="195" height="45" />
@@ -12037,9 +11879,7 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4d881a0624db4865b278ed97cd19fb36" archimateElement="id-c92e670dde87439a925f0f36556f8b3e">
           <bounds x="30" y="401" width="240" height="44" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-381e490bd90349609de2f8ef0c40284a" source="id-4d881a0624db4865b278ed97cd19fb36" target="id-5a4922c357924b9eb7935cc8ecc6ebed" archimateRelationship="id-16ec1e6b0fd147c79e5c430748a16735">
-            <bendpoint startY="366" endX="-187" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-381e490bd90349609de2f8ef0c40284a" source="id-4d881a0624db4865b278ed97cd19fb36" target="id-5a4922c357924b9eb7935cc8ecc6ebed" archimateRelationship="id-16ec1e6b0fd147c79e5c430748a16735" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-10da6ca5590e4da5b304db39464dffdb" archimateElement="id-1a196e57616f40c98598b95fc8143d78">
           <bounds x="290" y="401" width="240" height="44" />
@@ -12059,9 +11899,7 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d0eab38ae900498db0999e12bf9d5798" archimateElement="id-e9ea78316b7341da941c5774c49aca94">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-f51fc04e35be4a31a813aa4892da461c" source="id-d0eab38ae900498db0999e12bf9d5798" target="id-ad3e4e5e285b4fa0b714c74a8c912a15" archimateRelationship="id-9c17509d27104da69d719966c4f25394">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f51fc04e35be4a31a813aa4892da461c" source="id-d0eab38ae900498db0999e12bf9d5798" target="id-ad3e4e5e285b4fa0b714c74a8c912a15" archimateRelationship="id-9c17509d27104da69d719966c4f25394" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e5e5bf2ab1ed42ce9d9fcffac9d4e0ad" archimateElement="id-4314d8f3f5c64bd586780140e4189411">
           <bounds x="380" y="538" width="330" height="42" />
@@ -12092,15 +11930,11 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1e7e6b8194bb4e4ab029e03a5dd68fe2" archimateElement="id-03485310902245b59fb11edc76c8bb46">
           <bounds x="30" y="653" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-ff844c0503a14a969268bf8c1c422458" source="id-1e7e6b8194bb4e4ab029e03a5dd68fe2" target="id-353a05bac8bf4bae822fcd4570dee686" archimateRelationship="id-92680e4f07454e7e827bda33eb7a813c">
-            <bendpoint startY="-184" endX="-18" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ff844c0503a14a969268bf8c1c422458" source="id-1e7e6b8194bb4e4ab029e03a5dd68fe2" target="id-353a05bac8bf4bae822fcd4570dee686" archimateRelationship="id-92680e4f07454e7e827bda33eb7a813c" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a146dc40b32b4d2e9eb841727ed5f4e1" archimateElement="id-74f0121045fd47c79a4fc6c68e221b1d">
           <bounds x="240" y="653" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-3eeca955932a4ea9a8fbd9ae71ec8905" source="id-a146dc40b32b4d2e9eb841727ed5f4e1" target="id-353a05bac8bf4bae822fcd4570dee686" archimateRelationship="id-fa5cb132b9164636814c17cc09e2a8e4">
-            <bendpoint startY="-184" endX="192" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3eeca955932a4ea9a8fbd9ae71ec8905" source="id-a146dc40b32b4d2e9eb841727ed5f4e1" target="id-353a05bac8bf4bae822fcd4570dee686" archimateRelationship="id-fa5cb132b9164636814c17cc09e2a8e4" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-43f25bb74d3a4520b9f4b7c2b351da34" archimateElement="id-c42daf69913540749235146af3b42ab6">
           <bounds x="450" y="653" width="195" height="42" />
@@ -12125,9 +11959,7 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ea57b8b023eb48c7a47bb7f35e31c602" archimateElement="id-c9cda88937cc4e4e87858a34b6767691">
           <bounds x="450" y="703" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-fd73694ac8ce4aea9e1b614580b0d4d9" source="id-ea57b8b023eb48c7a47bb7f35e31c602" target="id-085a0075a5e3499b8834db3972fe851b" archimateRelationship="id-33206946c7fc46aa8c7c8c8326438109">
-            <bendpoint startY="-234" endX="152" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fd73694ac8ce4aea9e1b614580b0d4d9" source="id-ea57b8b023eb48c7a47bb7f35e31c602" target="id-085a0075a5e3499b8834db3972fe851b" archimateRelationship="id-33206946c7fc46aa8c7c8c8326438109" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-95e913208bb1491ebc6dbafa09f417c3" archimateElement="id-0ae87ea93bd04501ba6778e29258b5a7">
           <bounds x="660" y="703" width="195" height="42" />
@@ -12180,9 +12012,7 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b7d632512c3d4630ab08526c3330ae7a" archimateElement="id-7c8814f3fd63471c83d982987a2eaad8">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-1cd9ccce88064e3b893742c080b2a947" source="id-b7d632512c3d4630ab08526c3330ae7a" target="id-bac753b10b2d4adb8aed0b3dfb4379dc" archimateRelationship="id-dd82d59d5191460c89951f6e5c6c40d5">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1cd9ccce88064e3b893742c080b2a947" source="id-b7d632512c3d4630ab08526c3330ae7a" target="id-bac753b10b2d4adb8aed0b3dfb4379dc" archimateRelationship="id-dd82d59d5191460c89951f6e5c6c40d5" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-823f53e18aa14886bc7369d4bb72e228" targetConnections="id-449a3f07d8bd4ff09cafb677bf44a190" archimateElement="id-31bb7f0569cd432b93282d503219060d">
           <bounds x="30" y="349" width="240" height="44" />
@@ -12208,9 +12038,7 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b87ad130ceaf403e96bbc8b7937619c0" archimateElement="id-b06058eae36c48549a22f7a0cb16127e">
           <bounds x="30" y="486" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-a74d6015ee794149b95bc132c8173c53" source="id-b87ad130ceaf403e96bbc8b7937619c0" target="id-d3d23d5277064f57ad31cabb6c7697c7" archimateRelationship="id-74c245e2296e469d92d442c382076e05">
-            <bendpoint startY="-273" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a74d6015ee794149b95bc132c8173c53" source="id-b87ad130ceaf403e96bbc8b7937619c0" target="id-d3d23d5277064f57ad31cabb6c7697c7" archimateRelationship="id-74c245e2296e469d92d442c382076e05" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f7fa9507d86a4b9b8039c53baad69e66" archimateElement="id-9374fd580fc74958a014b5b2456c6fbd">
           <bounds x="380" y="486" width="330" height="42" />
@@ -12241,9 +12069,7 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cf7eaf6f996e4afe8ac5e0f400bd2a7a" archimateElement="id-8601f1d59a3f4638811f1796b0ea40cb">
           <bounds x="30" y="601" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-73eede8a443a4393a45fa7e1f4d4b870" source="id-cf7eaf6f996e4afe8ac5e0f400bd2a7a" target="id-f84275a84a734e508fd9638e6356b161" archimateRelationship="id-b4e88e518db741cdbb42e41a48f631e1">
-            <bendpoint startY="-184" endX="-18" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-73eede8a443a4393a45fa7e1f4d4b870" source="id-cf7eaf6f996e4afe8ac5e0f400bd2a7a" target="id-f84275a84a734e508fd9638e6356b161" archimateRelationship="id-b4e88e518db741cdbb42e41a48f631e1" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-48a8e7475e1e42d0b46bda46aac2d164" archimateElement="id-7d8e6b00ae504170a7c2f5b4f9141e06">
           <bounds x="240" y="601" width="195" height="42" />
@@ -12256,15 +12082,11 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-315951e3b2ed45e1a1ecd1df8faf808a" archimateElement="id-c086ace9eaea477ca7fe9479fe7c54e7">
           <bounds x="450" y="666" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-ad7d333f13844b47b5d061bf87f9e33f" source="id-315951e3b2ed45e1a1ecd1df8faf808a" target="id-2b686b677a4547d79d3559e9463fdfee" archimateRelationship="id-d007df9a06d7486abde7437b337388fe">
-            <bendpoint startY="-249" endX="152" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ad7d333f13844b47b5d061bf87f9e33f" source="id-315951e3b2ed45e1a1ecd1df8faf808a" target="id-2b686b677a4547d79d3559e9463fdfee" archimateRelationship="id-d007df9a06d7486abde7437b337388fe" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-00b98ad63cd1446da50375d53ae4848d" targetConnections="id-3e83aa6646074bfa9a2082afd5f32840" archimateElement="id-2ed2e072edd24ff994d33b5966fb7895">
           <bounds x="660" y="666" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-5487584373a64c139519aecc8a434b4d" source="id-00b98ad63cd1446da50375d53ae4848d" target="id-b60ce3891080479ba814776acf4478f3" archimateRelationship="id-763faccae4224c3cba1f0e8b0e7f6a14">
-            <bendpoint startY="-249" endX="112" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5487584373a64c139519aecc8a434b4d" source="id-00b98ad63cd1446da50375d53ae4848d" target="id-b60ce3891080479ba814776acf4478f3" archimateRelationship="id-763faccae4224c3cba1f0e8b0e7f6a14" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-848e69657c4e4e3293c11c003e5a40f8" archimateElement="id-36651bdaaa8841e4817151ae6c09584d">
           <bounds x="870" y="666" width="195" height="42" />
@@ -12314,9 +12136,7 @@ Detailview van kennisgebied 7 (AI Interactie &amp; UX): capability, principes, b
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-937397da034b4606b38c4a7869bebc5f" archimateElement="id-0c2ab41cfe1d401aac4e48f39063aa98">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-b1131cdc93ad4b5298a13d3f4411a2bf" source="id-937397da034b4606b38c4a7869bebc5f" target="id-754d415514204d29b2d421efbb14c4da" archimateRelationship="id-c7545501d3e44d20a606f6a671d9965a">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b1131cdc93ad4b5298a13d3f4411a2bf" source="id-937397da034b4606b38c4a7869bebc5f" target="id-754d415514204d29b2d421efbb14c4da" archimateRelationship="id-c7545501d3e44d20a606f6a671d9965a" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1f6083db53e34e4d88d73cb5c1b8bb94" targetConnections="id-428728c91b5f4451ac4bdeb0eaa4a109" archimateElement="id-95cc9c149a7d4749b0bfce04fe6c2a6d">
           <bounds x="30" y="349" width="240" height="44" />
@@ -12342,9 +12162,7 @@ Detailview van kennisgebied 7 (AI Interactie &amp; UX): capability, principes, b
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c0da16c714ca421c8a1ea7ad7c5aae52" archimateElement="id-9e8137548d9c4c5ca94b632e72cdee99">
           <bounds x="30" y="486" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-50c724e261fd4a368cf16ba333736cf6" source="id-c0da16c714ca421c8a1ea7ad7c5aae52" target="id-d124f294185b49c98294a87257dd86c5" archimateRelationship="id-1bc4f80d347845d898875bd8302fff35">
-            <bendpoint startY="-273" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-50c724e261fd4a368cf16ba333736cf6" source="id-c0da16c714ca421c8a1ea7ad7c5aae52" target="id-d124f294185b49c98294a87257dd86c5" archimateRelationship="id-1bc4f80d347845d898875bd8302fff35" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a7f139e8820047cc8480986621bee2a7" archimateElement="id-3200dbfd342443e28719a6376e5de617">
           <bounds x="380" y="486" width="330" height="42" />
@@ -12378,9 +12196,7 @@ Detailview van kennisgebied 7 (AI Interactie &amp; UX): capability, principes, b
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-71b46321616545479e28bc86aae208d5" targetConnections="id-9a67514c7aef4ebba8d81060d2b4be28" archimateElement="id-a4cd1d4bf5e84c1985ff99e78f549fa2">
           <bounds x="30" y="666" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-322193f71fee4afb823ca46fa1924294" source="id-71b46321616545479e28bc86aae208d5" target="id-3cf21d2334ad4b9bb5c8356cb6502775" archimateRelationship="id-17a3c254bb08446b83d98f20c1f1eeba">
-            <bendpoint startY="-249" endX="-18" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-322193f71fee4afb823ca46fa1924294" source="id-71b46321616545479e28bc86aae208d5" target="id-3cf21d2334ad4b9bb5c8356cb6502775" archimateRelationship="id-17a3c254bb08446b83d98f20c1f1eeba" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-161b2aba3f044f3eac1200a3fae91fd3" archimateElement="id-509ecf3973be4f93839381bc4282334e">
           <bounds x="240" y="666" width="195" height="42" />
@@ -12429,15 +12245,11 @@ Detailview van kennisgebied 8 (AI Operations): capability, principes, bedrijfsfu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-76b2c493023f417f9d5452fa5be25db5" archimateElement="id-2f61856506e94445aba2c9c283452abf">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-47209bd687614b07b0102def4f9a96e8" source="id-76b2c493023f417f9d5452fa5be25db5" target="id-2d8cabea87fd4eee9f5bd186ea185980" archimateRelationship="id-f4ff84af41d340cf80816577035a3aba">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-47209bd687614b07b0102def4f9a96e8" source="id-76b2c493023f417f9d5452fa5be25db5" target="id-2d8cabea87fd4eee9f5bd186ea185980" archimateRelationship="id-f4ff84af41d340cf80816577035a3aba" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b5678517ced9429aa2fe2b6eee9a0120" archimateElement="id-1f1130a244104975ac327cf636e1fb33">
           <bounds x="510" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-926551f1623c437281acae6e8fcea661" source="id-b5678517ced9429aa2fe2b6eee9a0120" target="id-2d8cabea87fd4eee9f5bd186ea185980" archimateRelationship="id-4234b1cfd346409a985548ad43fd2482">
-            <bendpoint startY="-67" endX="187" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-926551f1623c437281acae6e8fcea661" source="id-b5678517ced9429aa2fe2b6eee9a0120" target="id-2d8cabea87fd4eee9f5bd186ea185980" archimateRelationship="id-4234b1cfd346409a985548ad43fd2482" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e896462fef644b849622912252ed795a" targetConnections="id-1e330337db5f47b09c3653316e38d9d2" archimateElement="id-afa0b5d60a184cbcad78ee6dc167e58f">
           <bounds x="30" y="349" width="240" height="44" />
@@ -12462,9 +12274,7 @@ Detailview van kennisgebied 8 (AI Operations): capability, principes, bedrijfsfu
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6a9e2b86ade0432982bc83730bf8582b" archimateElement="id-689b1e3d00a34d06b6158c124e6deb85">
           <bounds x="30" y="486" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-fb1f173675894d60a324cb84189cbb6e" source="id-6a9e2b86ade0432982bc83730bf8582b" target="id-58b2e2d52fb94e19a8f9d96b54de5f95" archimateRelationship="id-9cdecb40b4e746eeaceb706458223e99">
-            <bendpoint startY="-273" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fb1f173675894d60a324cb84189cbb6e" source="id-6a9e2b86ade0432982bc83730bf8582b" target="id-58b2e2d52fb94e19a8f9d96b54de5f95" archimateRelationship="id-9cdecb40b4e746eeaceb706458223e99" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ea1c5650ed4c4f51a6ec8c29a05c0119" archimateElement="id-af8062e91b9b4fb89686c04ca941e411">
           <bounds x="380" y="486" width="330" height="42" />
@@ -12538,9 +12348,7 @@ Detailview van kennisgebied 9 (AI Risicobeheer): capability, principes, bedrijfs
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-1596007af17441c9884ec3cebd02f24e" archimateElement="id-2fe7b1ba0a1248a3a8cf95e43584b6d4">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-105e9910a4db41b4a9d7c2c81b4a68ae" source="id-1596007af17441c9884ec3cebd02f24e" target="id-06530789527b4c8780f5dcbd3429f084" archimateRelationship="id-435c006948154fb0948a00ad627d4475">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-105e9910a4db41b4a9d7c2c81b4a68ae" source="id-1596007af17441c9884ec3cebd02f24e" target="id-06530789527b4c8780f5dcbd3429f084" archimateRelationship="id-435c006948154fb0948a00ad627d4475" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2716086a43174da4bd247b95f45cc442" targetConnections="id-b897c193d0c444b6a4163b4506749238" archimateElement="id-93f3cf7a86b0473fac3cab8f47f627b8">
           <bounds x="30" y="349" width="240" height="44" />
@@ -12572,9 +12380,7 @@ Detailview van kennisgebied 9 (AI Risicobeheer): capability, principes, bedrijfs
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2bd1492f1d4e4e57a88c1bf9e303232c" archimateElement="id-0d6d3c784fbe40baab3c2f3d5b93cdb9">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-8399eb6283aa4c04b82f154d8c244ea7" source="id-2bd1492f1d4e4e57a88c1bf9e303232c" target="id-f3ce47a913c347c3b3f3d5e1af12c701" archimateRelationship="id-e66c0ad448e842ca99bf935ff273841f">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8399eb6283aa4c04b82f154d8c244ea7" source="id-2bd1492f1d4e4e57a88c1bf9e303232c" target="id-f3ce47a913c347c3b3f3d5e1af12c701" archimateRelationship="id-e66c0ad448e842ca99bf935ff273841f" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7c7eafa90b4f4b07948e5a3693d995c5" archimateElement="id-2e83450c936b470e94a975ebc816f882">
           <bounds x="380" y="538" width="330" height="42" />
@@ -12617,9 +12423,7 @@ Detailview van kennisgebied 9 (AI Risicobeheer): capability, principes, bedrijfs
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e2ea52c7a09b41c8af8da333f24a240e" archimateElement="id-7d0adf40eca54da58e8d430806ce5998">
           <bounds x="240" y="718" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-7826c07337194a83b424ba1cef6f78a6" source="id-e2ea52c7a09b41c8af8da333f24a240e" target="id-ae08d37cbb5845588e0176561d6e3670" archimateRelationship="id-378324380b0e4f01bb5d8a6d9c6333f3">
-            <bendpoint startY="-249" endX="192" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7826c07337194a83b424ba1cef6f78a6" source="id-e2ea52c7a09b41c8af8da333f24a240e" target="id-ae08d37cbb5845588e0176561d6e3670" archimateRelationship="id-378324380b0e4f01bb5d8a6d9c6333f3" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2673524999414c30bdce22a4fd9c1484" archimateElement="id-cd9e94fabf2f4088a3d98a6fb495066f">
           <bounds x="450" y="718" width="195" height="42" />
@@ -12661,18 +12465,14 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-404c63cf53bd49bea739848579f08f96" archimateElement="id-66e6f0c63eaa44b6800e9e862aaa6bfb">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-29e749e4578d4c4e8b31a52fe64f864d" source="id-404c63cf53bd49bea739848579f08f96" target="id-a92020041be444c8ae2ebb616c905c07" archimateRelationship="id-82dc78c9f08948dfad03750f92acb5fb">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-29e749e4578d4c4e8b31a52fe64f864d" source="id-404c63cf53bd49bea739848579f08f96" target="id-a92020041be444c8ae2ebb616c905c07" archimateRelationship="id-82dc78c9f08948dfad03750f92acb5fb" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-70fee28662df49dda14aabdcad8558c8" archimateElement="id-48ad6cdedf9fb0543be788e7fd587a4c">
           <bounds x="510" y="279" width="195" height="45" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c80223ec642c41eba468000a0ee8e74e" archimateElement="id-58bd81c1306f4b278893b7b714283bea">
           <bounds x="510" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-a2e7adb98c214b5c985001a3378f9a18" source="id-c80223ec642c41eba468000a0ee8e74e" target="id-a92020041be444c8ae2ebb616c905c07" archimateRelationship="id-cb689c1f9e204dcf9d6cbd83d8de52ff">
-            <bendpoint startY="-67" endX="187" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a2e7adb98c214b5c985001a3378f9a18" source="id-c80223ec642c41eba468000a0ee8e74e" target="id-a92020041be444c8ae2ebb616c905c07" archimateRelationship="id-cb689c1f9e204dcf9d6cbd83d8de52ff" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a87a1df489e54a08ba8979d9d068d8fe" targetConnections="id-d7bce4e840a7493cb5866e72588846ae" archimateElement="id-d739a23e484c4b5795deb5ff29bb68c1">
           <bounds x="30" y="349" width="240" height="44" />
@@ -12704,9 +12504,7 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-880a0d723f3747bc8cd65779a2e5bc6c" archimateElement="id-dcb04a023b04453b95937d7a73c86661">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-6c9b1fe71ae24e12b021042f75312d5a" source="id-880a0d723f3747bc8cd65779a2e5bc6c" target="id-f2dc2717e3074981a71101ef69b2b0d8" archimateRelationship="id-f7a7cf6fec624c52b9ae016e67926cbf">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6c9b1fe71ae24e12b021042f75312d5a" source="id-880a0d723f3747bc8cd65779a2e5bc6c" target="id-f2dc2717e3074981a71101ef69b2b0d8" archimateRelationship="id-f7a7cf6fec624c52b9ae016e67926cbf" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4040f96f8da44b7c85087d18902182fd" archimateElement="id-1ce2c453b44945009c74fce81277567a">
           <bounds x="380" y="538" width="330" height="42" />
@@ -12746,9 +12544,7 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7311f197249641c5863d02028cd82ca3" archimateElement="id-c56ae636cb6c48f5ad1e7b77cb1837af">
           <bounds x="240" y="653" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-aa8ce2c826104731918ebefcd33de6ab" source="id-7311f197249641c5863d02028cd82ca3" target="id-6e15907d65ef4071ad847d0073cf4833" archimateRelationship="id-ebd4438b5b0c46dabc56ff57a634ff9d">
-            <bendpoint startY="-184" endX="-58" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-aa8ce2c826104731918ebefcd33de6ab" source="id-7311f197249641c5863d02028cd82ca3" target="id-6e15907d65ef4071ad847d0073cf4833" archimateRelationship="id-ebd4438b5b0c46dabc56ff57a634ff9d" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-49fc7b9a122b4c91a68174d171e7b108" archimateElement="id-729cb7f00cec4184827c59b1c14e6e3d">
           <bounds x="30" y="718" width="195" height="42" />
@@ -12758,9 +12554,7 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-04391d0aea37443d87036507f8db754f" archimateElement="id-1169d9229a2d4a0db7ef8bdfdaf9caf4">
           <bounds x="240" y="718" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-515d010c59e541c1ae287df58437752d" source="id-04391d0aea37443d87036507f8db754f" target="id-e60cb438e4574f11a4c84fd93c512b93" archimateRelationship="id-b6e840e70816486a83edfaf51cbc0ecc">
-            <bendpoint startY="-249" endX="192" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-515d010c59e541c1ae287df58437752d" source="id-04391d0aea37443d87036507f8db754f" target="id-e60cb438e4574f11a4c84fd93c512b93" archimateRelationship="id-b6e840e70816486a83edfaf51cbc0ecc" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-04e4cf0665534b1289c7f4d0a73b4670" targetConnections="id-c3de2755a8b442cd98cbc4b2eb602e95" archimateElement="id-47dc6d57f67e416cbd8f6a1afccd4814">
           <bounds x="450" y="718" width="195" height="42" />
@@ -12801,9 +12595,7 @@ Detailview van kennisgebied 11 (AI Ethiek): capability, principes, bedrijfsfunct
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cd6160965db0496e8fe1445beb740898" archimateElement="id-d16a27e06a5e4695951c78516c5ddb94">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-61fc7e7c9dc044a88034a8bc2bc53cc4" source="id-cd6160965db0496e8fe1445beb740898" target="id-4fd5e9149fd84ed8aa429f35887d01d2" archimateRelationship="id-069f05917f1a4a8ca92b0a2bb7e2f290">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-61fc7e7c9dc044a88034a8bc2bc53cc4" source="id-cd6160965db0496e8fe1445beb740898" target="id-4fd5e9149fd84ed8aa429f35887d01d2" archimateRelationship="id-069f05917f1a4a8ca92b0a2bb7e2f290" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e0db5bd553794a9a8a8fff0ac55bdc71" archimateElement="id-81be54ef798447158afa7a316bfd1732">
           <bounds x="30" y="349" width="240" height="44" />
@@ -12834,9 +12626,7 @@ Detailview van kennisgebied 11 (AI Ethiek): capability, principes, bedrijfsfunct
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8c480f899dbf43168bb436cabd1cb493" archimateElement="id-f104754077b845da8234f47febf73869">
           <bounds x="30" y="538" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-93bf027fcec3496fb7c0021a2583612a" source="id-8c480f899dbf43168bb436cabd1cb493" target="id-cf702f558ece48a6a544e07e6fd2eca3" archimateRelationship="id-74c75a04751246188833db0c0e0375f3">
-            <bendpoint startY="-325" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-93bf027fcec3496fb7c0021a2583612a" source="id-8c480f899dbf43168bb436cabd1cb493" target="id-cf702f558ece48a6a544e07e6fd2eca3" archimateRelationship="id-74c75a04751246188833db0c0e0375f3" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4eb57009539f4de4aba9deb9c72efd0a" archimateElement="id-f1bf4df8b2c14ca0a921ad6f5851e667">
           <bounds x="380" y="538" width="330" height="42" />
@@ -12873,9 +12663,7 @@ Detailview van kennisgebied 11 (AI Ethiek): capability, principes, bedrijfsfunct
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cd226fafc73c44038193d139af356c7e" targetConnections="id-92b253ce48e6457e824cc4876caf043a" archimateElement="id-f740eba62a5e4a9bb4bb55e6fc4be518">
           <bounds x="30" y="718" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-1d04497990f24cdcb76da0c12a4ba352" source="id-cd226fafc73c44038193d139af356c7e" target="id-a3bd6b3fef7a4b1db3304c0c058da7cf" archimateRelationship="id-a59b801c63ea4b00a00ecb25c18971c9">
-            <bendpoint startY="-249" endX="-18" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1d04497990f24cdcb76da0c12a4ba352" source="id-cd226fafc73c44038193d139af356c7e" target="id-a3bd6b3fef7a4b1db3304c0c058da7cf" archimateRelationship="id-a59b801c63ea4b00a00ecb25c18971c9" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-dab2d399276147dab3aaec5f2dca9c55" archimateElement="id-7d0adf40eca54da58e8d430806ce5998">
           <bounds x="240" y="718" width="195" height="42" />
@@ -12912,9 +12700,7 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d25595d3180745169f6125e08633bdc8" archimateElement="id-e89a92e2e48d46d691e263ca136e2a08">
           <bounds x="300" y="279" width="195" height="45" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-817e35e1379447de9826865d016803c6" source="id-d25595d3180745169f6125e08633bdc8" target="id-21ad98f401934a22b5471ade595075a1" archimateRelationship="id-01d4ed304e9048c2b81e60f1d58f66ae">
-            <bendpoint startY="-67" endX="-23" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-817e35e1379447de9826865d016803c6" source="id-d25595d3180745169f6125e08633bdc8" target="id-21ad98f401934a22b5471ade595075a1" archimateRelationship="id-01d4ed304e9048c2b81e60f1d58f66ae" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-263557b9d577466594f0f3acc3a76009" archimateElement="id-48ad6cdedf9fb0543be788e7fd587a4c">
           <bounds x="510" y="279" width="195" height="45" />
@@ -12955,9 +12741,7 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-79c9bac405bb4b2cba2261c64f6a8a48" archimateElement="id-74efb33f422a439ea7f02e5ddb26dc55">
           <bounds x="30" y="486" width="330" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-28a04f29bd2542e197e447a46a61d9c0" source="id-79c9bac405bb4b2cba2261c64f6a8a48" target="id-d8fb9a98f787440cabd6008a46f9fd4b" archimateRelationship="id-02489ce238a84ce9bfa3392c0164ac4f">
-            <bendpoint startY="-273" endX="45" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-28a04f29bd2542e197e447a46a61d9c0" source="id-79c9bac405bb4b2cba2261c64f6a8a48" target="id-d8fb9a98f787440cabd6008a46f9fd4b" archimateRelationship="id-02489ce238a84ce9bfa3392c0164ac4f" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6bebfe3c3bba468589c90032a60e2f01" archimateElement="id-c6c8fe0bf75744eab160d32cf36ddc3b">
           <bounds x="380" y="486" width="330" height="42" />
@@ -13000,15 +12784,11 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-0b9fabf6705a4e70a6f287ceb412e06d" archimateElement="id-7ae66d05c85d4d96915a2224055fa651">
           <bounds x="450" y="601" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-6a2521b761b049aca19d0db05da60c90" source="id-0b9fabf6705a4e70a6f287ceb412e06d" target="id-386713d4d2ee4313ad2db9fc9315f7c7" archimateRelationship="id-4a8b2be037174b50bf7478bef5e204ff">
-            <bendpoint startY="-184" endX="-98" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6a2521b761b049aca19d0db05da60c90" source="id-0b9fabf6705a4e70a6f287ceb412e06d" target="id-386713d4d2ee4313ad2db9fc9315f7c7" archimateRelationship="id-4a8b2be037174b50bf7478bef5e204ff" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-2ed1b5c59af048c0a424512cfc795dae" archimateElement="id-8491d832651d4533b0edae76289be438">
           <bounds x="660" y="601" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-59b1a14097024bb6a8331c4316ae8140" source="id-2ed1b5c59af048c0a424512cfc795dae" target="id-386713d4d2ee4313ad2db9fc9315f7c7" archimateRelationship="id-4a96d213a223492997c05f1aad9ba762">
-            <bendpoint startY="-184" endX="112" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-59b1a14097024bb6a8331c4316ae8140" source="id-2ed1b5c59af048c0a424512cfc795dae" target="id-386713d4d2ee4313ad2db9fc9315f7c7" archimateRelationship="id-4a96d213a223492997c05f1aad9ba762" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d425f24b1f6f49cba7269100a42f8f78" archimateElement="id-4eaff2f068404b2a86aadc30b5d5b393">
           <bounds x="870" y="601" width="195" height="42" />
@@ -13024,9 +12804,7 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ed760bf518584fc6af41d4b8b2b2933a" archimateElement="id-1ad220954fd5488ea7ff8f289ff9eb5a">
           <bounds x="30" y="716" width="195" height="42" />
-          <sourceConnection xsi:type="archimate:Connection" id="id-f65abe33adb9451cac1351c4e27a4a6d" source="id-ed760bf518584fc6af41d4b8b2b2933a" target="id-c8e8851600f74a50a620d70e9b539033" archimateRelationship="id-6224a19d70134f1a936e3984b4ca4af1">
-            <bendpoint startY="-299" endX="-18" />
-          </sourceConnection>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f65abe33adb9451cac1351c4e27a4a6d" source="id-ed760bf518584fc6af41d4b8b2b2933a" target="id-c8e8851600f74a50a620d70e9b539033" archimateRelationship="id-6224a19d70134f1a936e3984b4ca4af1" />
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-956e24271ae94c38b21e01ec2f046aaf" archimateElement="id-7d0adf40eca54da58e8d430806ce5998">
           <bounds x="240" y="716" width="195" height="42" />

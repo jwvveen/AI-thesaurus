@@ -15188,7 +15188,6 @@ Gelaagde weergave van alle architectuurlagen: motivatie (drivers, doelen, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="355" y="541" />
         </connection>
         <connection identifier="id-3fbfc05bac67458f8e49758a7fec4cf3" relationshipRef="id-498dafe854fe4e0f8dcd0785a3e9bc4d" xsi:type="Relationship" source="id-03f819b4e99144cb8f551d19f015135d" target="id-6f0f7d37e88146f183ead06cf0741968">
           <style>
@@ -15197,7 +15196,6 @@ Gelaagde weergave van alle architectuurlagen: motivatie (drivers, doelen, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="365" y="541" />
         </connection>
         <connection identifier="id-4f4372c0e6e24e4d863ecf122f13e3cf" relationshipRef="id-5c3812c82668485e8a2f183df0f3f4b7" xsi:type="Relationship" source="id-9ed90ec75f03444bb9d184d02d694a19" target="id-ceccdf9b1ca44043afa401b7e430cb81">
           <style>
@@ -16052,7 +16050,6 @@ De 22 AI-BOK rollen met hun onderlinge rapportagelijnen en koppeling aan kennisg
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="855" y="220" />
         </connection>
       </view>
       <view identifier="id-1a0df1fc3e844fe0890ab891440b48a0" xsi:type="Diagram">
@@ -16308,7 +16305,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1079" y="713" />
         </connection>
         <connection identifier="id-99ec571c136945839a4b271eb4a96025" relationshipRef="id-41b6a1476bbc43aab3c58abb74c02726" xsi:type="Relationship" source="id-5bd982008a374371a7030c6a3e42af80" target="id-654eae26644c45a28bbb9768421b4ba4">
           <style>
@@ -16317,7 +16313,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1205" y="1017" />
         </connection>
         <connection identifier="id-19f3233b8a5e4f72af8489601ab7f0bb" relationshipRef="id-826db7df023440a1af884cf235c3e943" xsi:type="Relationship" source="id-654eae26644c45a28bbb9768421b4ba4" target="id-530394d404d041fe991f435f2bfd517c">
           <style>
@@ -16361,7 +16356,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="471" y="713" />
         </connection>
         <connection identifier="id-150c3516f4644236b5240bc79671d0c3" relationshipRef="id-9bd8f53f14254cad833d00f5718da004" xsi:type="Relationship" source="id-2337a449dca943d09502d1c7652686ff" target="id-752fcd4e8ae24210a1248bdeb4369af1">
           <style>
@@ -16370,7 +16364,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="345" y="409" />
         </connection>
         <connection identifier="id-486363bd31c84e46ae7ce90854bd6d19" relationshipRef="id-99799d403f11482da5ac7b366e4b465a" xsi:type="Relationship" source="id-2337a449dca943d09502d1c7652686ff" target="id-654eae26644c45a28bbb9768421b4ba4">
           <style>
@@ -16422,7 +16415,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1255" y="409" />
         </connection>
         <connection identifier="id-4cd9bb267c9d48689f45557039eea7e7" relationshipRef="id-56e04f2e0bea41c2b4671c0ff4634909" xsi:type="Relationship" source="id-11a2656e883d4b9182873697681438ee" target="id-5bd982008a374371a7030c6a3e42af80">
           <style>
@@ -16439,7 +16431,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1255" y="1017" />
         </connection>
         <connection identifier="id-481c2f508d9b4dbe92c9187ea0169a3a" relationshipRef="id-c1769fa2d0714bf095e28907eee5a468" xsi:type="Relationship" source="id-ec05af1231f240d89f65136401969712" target="id-530394d404d041fe991f435f2bfd517c">
           <style>
@@ -16456,7 +16447,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="295" y="1017" />
         </connection>
         <connection identifier="id-985eedcb4dcd411ba637317c79de712f" relationshipRef="id-d91beed4dd9b44d6928d457d0208d239" xsi:type="Relationship" source="id-b6f4a5639f1947d58abc063082532aca" target="id-2337a449dca943d09502d1c7652686ff">
           <style>
@@ -16473,7 +16463,6 @@ De 8 levenscyclusfasen van een AI-initiatief in TOGAF ADM-stijl met feedback loo
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="295" y="409" />
         </connection>
       </view>
       <view identifier="id-5d3643070f7e4bfea5997474cd5c424a" xsi:type="Diagram">
@@ -17092,7 +17081,6 @@ Gedetailleerd procesmodel met quality gates als formele beslismomenten tussen de
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1130" y="715" />
         </connection>
         <connection identifier="id-18019a0b7682437faeb4f87f53992318" relationshipRef="id-4f3e5d93f8bf4e458f364bf0dcefadfd" xsi:type="Relationship" source="id-37f8deab4400457385a45e321c40e7bb" target="id-7de383b0c8924296aba5935216e4a857">
           <style>
@@ -21648,7 +21636,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="807" y="218" />
         </connection>
         <connection identifier="id-7a3a8c2402a145629409420bc981f67e" relationshipRef="id-fe265a63aea34ddcadd79d0471f97381" xsi:type="Relationship" source="id-d7f10723b9cb4287bf1f0d7d4a860780" target="id-4dc05c99d4154b25962e9e03f0cb752b">
           <style>
@@ -21657,7 +21644,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="227" y="354" />
         </connection>
         <connection identifier="id-db68c68b90f84819960b7478675d0987" relationshipRef="id-156ce6141bb8457eaed9064bb4a03a22" xsi:type="Relationship" source="id-bfe28c26be734f97b969846156270e80" target="id-8fec6d20813f42bd96dc2a3b783323ba">
           <style>
@@ -21666,7 +21652,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="382" y="218" />
         </connection>
         <connection identifier="id-80c2dc5976d14f19b9d183c4e279d51d" relationshipRef="id-498dafe854fe4e0f8dcd0785a3e9bc4d" xsi:type="Relationship" source="id-bfe28c26be734f97b969846156270e80" target="id-e8690f35e54246dea2a41f86bcb02c5e">
           <style>
@@ -21693,7 +21678,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="412" y="354" />
         </connection>
         <connection identifier="id-7296dc289afe4af597c4b2fee48a0a5b" relationshipRef="id-684b5c2f4e8e4706bbcb8800df1ffa4a" xsi:type="Relationship" source="id-9f8e647d2dc641e3930b6c9351ac8a51" target="id-53ac455ad1cc4c578515480ae0de1f7e">
           <style>
@@ -21702,7 +21686,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="382" y="354" />
         </connection>
         <connection identifier="id-3ede9c5626c84d3aa3ecf581c702aea9" relationshipRef="id-20a5310003cb49038c5cd425fb96414a" xsi:type="Relationship" source="id-ff71810def7d444593ed4ef134889f41" target="id-d69d72ebb87d4ef9bb09b1be75688a82">
           <style>
@@ -21711,7 +21694,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="672" y="354" />
         </connection>
         <connection identifier="id-091c7a65fff54e6e9e29dffb5a6c1a47" relationshipRef="id-4c251a124e06437a86eeb2b015a66bd4" xsi:type="Relationship" source="id-7179999ee7924c339118170f43da1062" target="id-34bde28daffe44e1b73015f4cc464924">
           <style>
@@ -21720,7 +21702,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1097" y="354" />
         </connection>
         <connection identifier="id-c5077e8374194b78afab10c41ed67423" relationshipRef="id-34d234f54f174a9abfb5c87f9ca4188b" xsi:type="Relationship" source="id-92b938c34fa040979529f43f20213a3d" target="id-9f8e647d2dc641e3930b6c9351ac8a51">
           <style>
@@ -21765,7 +21746,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="392" y="536" />
         </connection>
         <connection identifier="id-bacbb7f46d0b4f029b0ca71ba7f9bea8" relationshipRef="id-109e93ece2ab44b6bd7d964ffc8a695f" xsi:type="Relationship" source="id-6b8feca3989f43ed9e48c12413ddbdec" target="id-a2f291e14a514b8389851098ff214bec">
           <style>
@@ -21783,7 +21763,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="507" y="536" />
         </connection>
         <connection identifier="id-0510e6db1d114f5a923bbb9f00c0f022" relationshipRef="id-5ac4c9f6beb04082a5d45e6519a5a6d2" xsi:type="Relationship" source="id-0265dc76b31c41e4be0987ae8f7ebb94" target="id-53ac455ad1cc4c578515480ae0de1f7e">
           <style>
@@ -21828,7 +21807,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="972" y="536" />
         </connection>
         <connection identifier="id-95b003cc3e4d48dc87863b242a78317b" relationshipRef="id-8cb13973fd464882b98e6e7052ef1ae3" xsi:type="Relationship" source="id-6d3a2afdad6343c8a881d2bab733a32e" target="id-12c2dd7372854ef4a97198f0350060ba">
           <style>
@@ -21837,7 +21815,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1097" y="536" />
         </connection>
         <connection identifier="id-05aeeec8602049999ea0c24e8c5a8027" relationshipRef="id-5c3812c82668485e8a2f183df0f3f4b7" xsi:type="Relationship" source="id-882d22a9ca684fdaa1bf4a82cb910a40" target="id-4dc05c99d4154b25962e9e03f0cb752b">
           <style>
@@ -21864,7 +21841,6 @@ Bedrijfsfuncties gekoppeld aan de applicatiebouwblokken (ABBs) die hen ondersteu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1097" y="536" />
         </connection>
       </view>
       <view identifier="id-311044b4496047649acc7c92e8f13cf1" xsi:type="Diagram">
@@ -22638,7 +22614,6 @@ Uitwerking van de 19 hoofdrollen naar gespecialiseerde sub-rollen per kennisgebi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="365" y="202" />
         </connection>
         <connection identifier="id-4bbc1733753d44a1af61323385f4cfa3" relationshipRef="id-957c922fc1614cde92dddc1779e77f82" xsi:type="Relationship" source="id-22d33d709ab049a8970904cbc8d35afb" target="id-7bd0ff31ff9a43eea5521921341d9685">
           <style>
@@ -22647,7 +22622,6 @@ Uitwerking van de 19 hoofdrollen naar gespecialiseerde sub-rollen per kennisgebi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="595" y="202" />
         </connection>
         <connection identifier="id-012f5191a02640b1900f0f50d3ef6038" relationshipRef="id-0579aa7aeef0456e976178396ed2474c" xsi:type="Relationship" source="id-2ce9f1ed7a9c45ec911f47f725b53adb" target="id-7bd0ff31ff9a43eea5521921341d9685">
           <style>
@@ -22710,7 +22684,6 @@ Uitwerking van de 19 hoofdrollen naar gespecialiseerde sub-rollen per kennisgebi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1055" y="202" />
         </connection>
       </view>
       <view identifier="id-c91976dc590b4d2186a9717ed25e7f6b" xsi:type="Diagram">
@@ -24117,7 +24090,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="145" y="205" />
         </connection>
         <connection identifier="id-0dd86cd8a6b84f0e9a6ac6a2f4ea2660" relationshipRef="id-d9ba44b8f2c94440b19611125b961c3e" xsi:type="Relationship" source="id-e064d8953b1e438d87c9f47e75f0bfac" target="id-37a2d3449d7f4d62afbdac5f93dac5a9">
           <style>
@@ -24126,7 +24098,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="370" y="205" />
         </connection>
         <connection identifier="id-8fd3cd8d65fd47149ed77a66c4805c59" relationshipRef="id-0988ca4847a540af8bc0ff177e2c0f59" xsi:type="Relationship" source="id-2a1a2185f17f4861aef15868b5e6df91" target="id-cf3f5fb7e5da42eea764d96e097c4fce">
           <style>
@@ -24144,7 +24115,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="820" y="205" />
         </connection>
         <connection identifier="id-ff4366aaf58c4591916ad00ae8e8d801" relationshipRef="id-4534ce7c5d074a50b910d414245a3fae" xsi:type="Relationship" source="id-6ae4ff95636548dca75de9b9744d0883" target="id-3f3d3feca24e4183b0d2ae1b837c3c58">
           <style>
@@ -24153,7 +24123,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1045" y="205" />
         </connection>
         <connection identifier="id-58e88485fe4c4ccd801af9f15f4ce125" relationshipRef="id-da1ac6c547634d46bdc12a677ec83b46" xsi:type="Relationship" source="id-edbc8b8df87a44eea7ca4d28687dc6a8" target="id-cf2aaddeb3d649cdbfd42e2f043f7e88">
           <style>
@@ -24178,7 +24147,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="566" y="269" />
         </connection>
         <connection identifier="id-9d97cca321ad48938babbac0dafed91f" relationshipRef="id-df30c6262a6b434d9c56c2aeb070cf40" xsi:type="Relationship" source="id-38515541334946a5ac4d7e00e85cf012" target="id-cf3f5fb7e5da42eea764d96e097c4fce">
           <style>
@@ -24196,7 +24164,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="980" y="269" />
         </connection>
         <connection identifier="id-921ba8e908b54a1aacc02656a03c69b3" relationshipRef="id-4fcc65b23d414d7db2136458f7cb79db" xsi:type="Relationship" source="id-f5581925774545a7aa55f9ac22ae2654" target="id-887ba3eb8409481fbfcc54edb0fd2b5c">
           <style>
@@ -24214,7 +24181,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1187" y="269" />
         </connection>
         <connection identifier="id-be43a8219a1f455388588219b8dcfe26" relationshipRef="id-5ac4c9f6beb04082a5d45e6519a5a6d2" xsi:type="Relationship" source="id-24fbdd41985d4f4eb1eb4d11efe9b735" target="id-09b0f51fdfe54ecfbbce5d0190ef1cc0">
           <style>
@@ -24301,7 +24267,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="566" y="489" />
         </connection>
         <connection identifier="id-0d987821253348dd967de8da3f6d5d14" relationshipRef="id-f86c861438734b5baea820a765f9eb36" xsi:type="Relationship" source="id-10934a605c8e48a7b29c5990b1116b04" target="id-5ada0400afa74248856f68293c0fba98">
           <style>
@@ -24310,7 +24275,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="980" y="489" />
         </connection>
         <connection identifier="id-4f76495af07f43d2bac20be9471f646c" relationshipRef="id-4c251a124e06437a86eeb2b015a66bd4" xsi:type="Relationship" source="id-10934a605c8e48a7b29c5990b1116b04" target="id-37a2d3449d7f4d62afbdac5f93dac5a9">
           <style>
@@ -24363,7 +24327,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="585" y="583" />
         </connection>
         <connection identifier="id-96be2caae8154622a44f86353df2cdfc" relationshipRef="id-921e609ad7ab451b97aa079ca4231c12" xsi:type="Relationship" source="id-05afda479cfc469bb4db5a8bc25eb6b7" target="id-edbc8b8df87a44eea7ca4d28687dc6a8">
           <style>
@@ -24424,7 +24387,6 @@ Management plane en het vier-planes-overzicht conform het EA4AI-paper: zie view 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="773" y="714" />
         </connection>
         <connection identifier="id-099ef878242e402eba25d52c81260edb" relationshipRef="id-a10e13010c0f44139956316082310317" xsi:type="Relationship" source="id-1f4a955af70e453cac9ed832ce80d6be" target="id-b755d42bd8184f8d8177d7d8f17d9c18">
           <style>
@@ -26489,7 +26451,6 @@ Data Plane SBBs: vector databases, knowledge graphs, data platforms, feature sto
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="548" y="750" />
         </connection>
       </view>
       <view identifier="id-d68d640f40dc46cb99bcd44c124709c0" xsi:type="Diagram">
@@ -26647,7 +26608,6 @@ Meta-model van de AI-BOK: de kernentiteiten (AI Systeem, Model, Agent, Dataset, 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="305" y="615" />
         </connection>
         <connection identifier="id-a4acca69704b4110b3d2f1a1f29e6f63" relationshipRef="id-3a47736413a44b7c9daea3c0f4ed1453" xsi:type="Relationship" source="id-f32d3dc95614446b96669419b4bc0d57" target="id-6ba199fd64e64a4bbb37cc661cc46bea">
           <style>
@@ -26665,7 +26625,6 @@ Meta-model van de AI-BOK: de kernentiteiten (AI Systeem, Model, Agent, Dataset, 
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="775" y="615" />
         </connection>
         <connection identifier="id-a34e0bf0e8974e518c840df4fc01bdc3" relationshipRef="id-158e68a9254c4ca89600e9b3ca60521c" xsi:type="Relationship" source="id-f32d3dc95614446b96669419b4bc0d57" target="id-e9551c5156164711a0df53c20a6c7450">
           <style>
@@ -26929,7 +26888,6 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="130" y="405" />
         </connection>
         <connection identifier="id-1759bf841dd145cca2d32922c371741d" relationshipRef="id-844c9a0c5f514938b7ae12ad9a076d0b" xsi:type="Relationship" source="id-8c7a34727d794ab6a445c0a1f136117d" target="id-36852b1695474d7bb8ebac8025abde8d">
           <style>
@@ -26938,7 +26896,6 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="130" y="475" />
         </connection>
         <connection identifier="id-6e9164f518e44542955ba5a33ff2c43e" relationshipRef="id-b2d0ff10c7be4b59b70618020a2d3946" xsi:type="Relationship" source="id-43fad31b4e8b44e4b7e2f9b4e6f98d40" target="id-c713438e2d714666bc13b342be8db7b3">
           <style>
@@ -26956,7 +26913,6 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="360" y="440" />
         </connection>
         <connection identifier="id-231262ce553e4361838f381ad8bf452f" relationshipRef="id-7e9052c4fe1142dbb98b0e2b0bddad8a" xsi:type="Relationship" source="id-36852b1695474d7bb8ebac8025abde8d" target="id-bb39f46d2c1a4c199c57e7eb3e8c40ee">
           <style>
@@ -26965,7 +26921,6 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="360" y="440" />
         </connection>
         <connection identifier="id-0efbb0a5827c45f183588aabc15d31ed" relationshipRef="id-6ee04692a21145d796d6804219bafb7c" xsi:type="Relationship" source="id-bb39f46d2c1a4c199c57e7eb3e8c40ee" target="id-a058c48affe64d169431d1986626ab9c">
           <style>
@@ -27040,7 +26995,6 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="830" y="525" />
         </connection>
         <connection identifier="id-596eb978e4d045a88b49b354b4f388e9" relationshipRef="id-34d234f54f174a9abfb5c87f9ca4188b" xsi:type="Relationship" source="id-c9f474810d0e4757ae900dbca48bd34f" target="id-a058c48affe64d169431d1986626ab9c">
           <style>
@@ -27057,7 +27011,6 @@ Datastromen en samenwerkingsrelaties tussen applicatiebouwblokken over de vier p
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="850" y="525" />
         </connection>
         <connection identifier="id-8253fd1088e043d3afa27de4a78be65a" relationshipRef="id-de145207f47f4637bf44e1fe5501aa91" xsi:type="Relationship" source="id-5ae1b7ff2835485c99f1072ccead36f4" target="id-9cd0b1d31004494e9763a1118974e0e8">
           <style>
@@ -27247,7 +27200,6 @@ Five RAG architecture variants: Naive, Advanced, Modular, GraphRAG and Agentic R
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="365" y="204" />
         </connection>
         <connection identifier="id-c795cb0348b64a9c94f0b06e59839113" relationshipRef="id-1f7fffd584624a038e43d9c801d2a7bf" xsi:type="Relationship" source="id-aed129d739ca45d7a70d6a8fb0900632" target="id-89a53e43e76b40928d69716435cece4e">
           <style>
@@ -27256,7 +27208,6 @@ Five RAG architecture variants: Naive, Advanced, Modular, GraphRAG and Agentic R
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="595" y="204" />
         </connection>
         <connection identifier="id-bfa39c14892f45f6bc932593956eab1c" relationshipRef="id-562e4e7073854503a1483fc9193d66b1" xsi:type="Relationship" source="id-257f01dc583a47eb86e5dedfbd75ae6f" target="id-89a53e43e76b40928d69716435cece4e">
           <style>
@@ -27292,7 +27243,6 @@ Five RAG architecture variants: Naive, Advanced, Modular, GraphRAG and Agentic R
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="365" y="204" />
         </connection>
         <connection identifier="id-ab8281f3a4c846bf818fee9a8e23ed9b" relationshipRef="id-a9b5fcc0d028471fb315f6784dcbdd05" xsi:type="Relationship" source="id-ce5a508540384ffca3f38bdf34122ab5" target="id-89a53e43e76b40928d69716435cece4e">
           <style>
@@ -27301,7 +27251,6 @@ Five RAG architecture variants: Naive, Advanced, Modular, GraphRAG and Agentic R
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="595" y="204" />
         </connection>
         <connection identifier="id-a38cc845f8c8492dbb68865f57609f36" relationshipRef="id-571ad8f57e8d427097bbec86ef79f225" xsi:type="Relationship" source="id-6a306317168f4c7587f2b35a115bc466" target="id-89a53e43e76b40928d69716435cece4e">
           <style>
@@ -28584,7 +28533,6 @@ Governance-structuur met besluitvormingslijnen tussen AI Board, committees en he
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="425" y="500" />
         </connection>
         <connection identifier="id-353b1acf37024bea9d2c54d18c16ec06" relationshipRef="id-1fa1e394317643e5b20739818ca279f9" xsi:type="Relationship" source="id-d4a2f0a8c1e247bb870102068d5c3c32" target="id-4ac6fadd323c4436adfa4a9cc410f461">
           <style>
@@ -28602,7 +28550,6 @@ Governance-structuur met besluitvormingslijnen tussen AI Board, committees en he
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="300" y="500" />
         </connection>
         <connection identifier="id-da06132627ca448e8da18ec9fd5d3ecd" relationshipRef="id-92d486c87f7c4fc1a8ec204dd9d0f199" xsi:type="Relationship" source="id-b1e4191bcdf540b885898506a0e515ed" target="id-ddfd9fae8a104b8ebdadfe692975e0e7">
           <style>
@@ -28638,7 +28585,6 @@ Governance-structuur met besluitvormingslijnen tussen AI Board, committees en he
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="700" y="640" />
         </connection>
       </view>
       <view identifier="id-45dfa4e992824581a9c2afeabcb0b0c6" xsi:type="Diagram">
@@ -28823,7 +28769,6 @@ Stakeholderanalyse: de governance-organen (AI Board, Review Committee, Ethics Co
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="170" y="447" />
         </connection>
         <connection identifier="id-465ac337e6c74ccdb0815a9acafcbec1" relationshipRef="id-697271dfed034a3a87273cf1b597d015" xsi:type="Relationship" source="id-547bfffaf88b471f92c53dec02ed1580" target="id-0558c5b6ad4244448b3bdc5affa900bf">
           <style>
@@ -28911,7 +28856,6 @@ Stakeholderanalyse: de governance-organen (AI Board, Review Committee, Ethics Co
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="540" y="447" />
         </connection>
       </view>
       <view identifier="id-bb3d90dbb343414282306c3333d4483f" xsi:type="Diagram">
@@ -32111,7 +32055,6 @@ Governance-integratiepatronen: hoe AI-BOK samenwerkt met TOGAF, DAMA DMBOK, COBI
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="215" y="395" />
         </connection>
         <connection identifier="id-ce7d42a5c8c340f1b87f0a66a9cd10c1" relationshipRef="id-5e4a60c214c54e99818c52eaf255ca4c" xsi:type="Relationship" source="id-fedd860537d44871afabe751a8745212" target="id-c98aafcf80c44593a6c98d027726b7a9">
           <style>
@@ -32138,7 +32081,6 @@ Governance-integratiepatronen: hoe AI-BOK samenwerkt met TOGAF, DAMA DMBOK, COBI
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="615" y="395" />
         </connection>
       </view>
       <view identifier="id-48678a5a67d84a008d189b93848867e4" xsi:type="Diagram">
@@ -32888,7 +32830,6 @@ Volledige AI-thesaurus: alle 52 begrippen met hun specialisatierelaties (broader
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="757" y="330" />
         </connection>
         <connection identifier="id-4be8e185c69d4d2c895a13d49c475e05" relationshipRef="id-d6ad0f02e5f641d6a14f99746f4fa0fc" xsi:type="Relationship" source="id-7f5ff72fcb8d4e15893e8451d3bab0d8" target="id-5233279653fc42aaa276bff1590317b9">
           <style>
@@ -33297,7 +33238,6 @@ Het 5×5 volwassenheidsmodel: 5 dimensies op 5 niveaus, gekoppeld aan de impleme
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="140" y="273" />
         </connection>
         <connection identifier="id-e73bae2c5f594a019b2d740862b6458e" relationshipRef="id-7a3bab9a83304a2d89d133bdca8d4c8a" xsi:type="Relationship" source="id-7d3f206e45ef4d7b8e4892e9bb842924" target="id-6918646e5170435495f9b757d33e952b">
           <style>
@@ -33388,7 +33328,6 @@ Het 5×5 volwassenheidsmodel: 5 dimensies op 5 niveaus, gekoppeld aan de impleme
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1100" y="273" />
         </connection>
         <connection identifier="id-bf782e6ff3dc422e84b44e3a415d0e83" relationshipRef="id-7bb94f6858de4503a6f30be0f58f4f64" xsi:type="Relationship" source="id-c54fa72255b44287a57be4b17cc301f4" target="id-71d91564b96d43d689eb0632f39ffbd6">
           <style>
@@ -33397,7 +33336,6 @@ Het 5×5 volwassenheidsmodel: 5 dimensies op 5 niveaus, gekoppeld aan de impleme
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="1110" y="273" />
         </connection>
         <connection identifier="id-c7bc4733fde14a6e89f2073cca0efd62" relationshipRef="id-392c66702d744a0190cb34f8199bb8ed" xsi:type="Relationship" source="id-d7b9a90cc91b4ef888a4e35c620e8d08" target="id-d78c26fbb4c744d3a8641e2382f07b5a">
           <style>
@@ -34289,7 +34227,6 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-1359838423574033aa8f9af8048ffb95" relationshipRef="id-0f4e4470a10749f1a432badb54bec3ac" xsi:type="Relationship" source="id-28783c35633644ef8ef2c16fad68c877" target="id-2f79db6e150c425c91d24ccd1e857978">
           <style>
@@ -34298,7 +34235,6 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="607" y="234" />
         </connection>
         <connection identifier="id-a68df0c16759458da9129c8861a40449" relationshipRef="id-a46e8ca06e7940248459f79a4542899e" xsi:type="Relationship" source="id-3481e1448fc14fff9b69eb97a377064a" target="id-2f79db6e150c425c91d24ccd1e857978">
           <style>
@@ -34333,7 +34269,6 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-06efc82adafd4f51a84b2550a6007734" relationshipRef="id-9404a1dfa7164b668a21d71c43dc0d38" xsi:type="Relationship" source="id-8dbb4bcd06b944d3985dd8636a958785" target="id-d5d268d3f2b342db918f7e4a862d3d8a">
           <style>
@@ -34378,7 +34313,6 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="127" y="490" />
         </connection>
         <connection identifier="id-e1266a15ece3452fb18114327230be60" relationshipRef="id-970458a907e9449ea13c644b409732fe" xsi:type="Relationship" source="id-a4563a0064324c42b375cb7d0bf914b1" target="id-147cd97484d24f87a9a72ad4dec79df4">
           <style>
@@ -34396,7 +34330,6 @@ Detailview van kennisgebied 1 (AI Governance): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="337" y="490" />
         </connection>
         <connection identifier="id-adca2f7eba984c6f9a0603886fa2e8fd" relationshipRef="id-0efce42228a54e7a8a8fcd4e226c76ac" xsi:type="Relationship" source="id-38a383f4dae7449e80c1d33fd872989f" target="id-67a2330825bc4ff7b380dc66489aa443">
           <style>
@@ -34660,7 +34593,6 @@ Detailview van kennisgebied 2 (AI Strategie &amp; Portfoliomanagement): capabili
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-b7174df73498411cafacc198b200ae71" relationshipRef="id-156ce6141bb8457eaed9064bb4a03a22" xsi:type="Relationship" source="id-60ea7e3a378c446e9bf72dc40947c0d3" target="id-76df2965e9454946b389fe6c750bb491">
           <style>
@@ -34677,7 +34609,6 @@ Detailview van kennisgebied 2 (AI Strategie &amp; Portfoliomanagement): capabili
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-e4613a0a4876438582dd7845167992b0" relationshipRef="id-df9680b0f4ca44909effff2b3816be6d" xsi:type="Relationship" source="id-5ff073c7c3da4eafa09710ebafc6afde" target="id-6b2280c4431c4068978fa8cca32703ed">
           <style>
@@ -35005,7 +34936,6 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-b2b7e79818b8420f8ef44ec74b396209" relationshipRef="id-498dafe854fe4e0f8dcd0785a3e9bc4d" xsi:type="Relationship" source="id-cfde1a1a4e8e428c84f5426736d3d64c" target="id-73113f09854544cc92007dcf249cf652">
           <style>
@@ -35031,7 +34961,6 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-24a8f9831c3d42348ad965db91f0611c" relationshipRef="id-d56637ddf01648678623f4260d65e8f8" xsi:type="Relationship" source="id-e539141720da4f6cb3119cfb00fd5ca2" target="id-92598926c17445bfa90221185933c904">
           <style>
@@ -35076,7 +35005,6 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="127" y="490" />
         </connection>
         <connection identifier="id-e989f327e1a14ad6b9b38f3eb4395d08" relationshipRef="id-152c877e597f4463bd7b91838ad80094" xsi:type="Relationship" source="id-4a8bf20b36c0478b8f8f8fd6fa94189e" target="id-cfde1a1a4e8e428c84f5426736d3d64c">
           <style>
@@ -35085,7 +35013,6 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="337" y="490" />
         </connection>
         <connection identifier="id-1e3b61de37cd4ded9d814f2f82af46db" relationshipRef="id-dc585139b1cd4b6c8ac72bc4e42d7222" xsi:type="Relationship" source="id-da62db25b878423baffbde7db852e254" target="id-903cc2066b0e4e3a82e5bed9c7aee919">
           <style>
@@ -35094,7 +35021,6 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="547" y="490" />
         </connection>
         <connection identifier="id-61bc4b89690b4829a7cb2107f1a8725f" relationshipRef="id-f2585961f6134b21a30aed264e521b4e" xsi:type="Relationship" source="id-4083eecec1d14515971db6db165e3527" target="id-903cc2066b0e4e3a82e5bed9c7aee919">
           <style>
@@ -35121,7 +35047,6 @@ Detailview van kennisgebied 3 (AI Architectuur): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="337" y="490" />
         </connection>
       </view>
       <view identifier="id-2873756d434b4cfe8dea9fbe4f99b143" xsi:type="Diagram">
@@ -35386,7 +35311,6 @@ Detailview van kennisgebied 4 (AI Lifecyclebeheer): capability, principes, bedri
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-5ad0a8fa32134827afe27db519f53ae8" relationshipRef="id-ee3ed41f697a430b8595e1fbe2ecf3b8" xsi:type="Relationship" source="id-7b152935bc5c4ebb8f3b94cdf0a1cdde" target="id-a1662ab4ac674b43bf0ab0ec74e5f5c4">
           <style>
@@ -35403,7 +35327,6 @@ Detailview van kennisgebied 4 (AI Lifecyclebeheer): capability, principes, bedri
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-fb2db5bc1d2a4650996954510f1d0e72" relationshipRef="id-e96b9972eef24cb6aebebade75d00eb8" xsi:type="Relationship" source="id-d69e2f74bbba4b8c9e71ebc4b5b851b9" target="id-7b99af2cdc8f4dbdb37bfd1fa3ad2675">
           <style>
@@ -35803,7 +35726,6 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-0bd44528cbac4a578ae7b4277b69f3e6" relationshipRef="id-bdaa425cb82e4aefb224a35c0469e749" xsi:type="Relationship" source="id-b61b4ec9213346e88267f7b797360c26" target="id-935f4250c37340c49fdd167e5994162b">
           <style>
@@ -35812,7 +35734,6 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="607" y="234" />
         </connection>
         <connection identifier="id-9785fbae16fe45519d30ad3e163afe15" relationshipRef="id-b998a5ffe2ed44d69116fba4fb38c6ff" xsi:type="Relationship" source="id-7e53ad71b2d04adaa431341c6db7ce80" target="id-935f4250c37340c49fdd167e5994162b">
           <style>
@@ -35830,7 +35751,6 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="150" y="789" />
         </connection>
         <connection identifier="id-9f4c6423ee214b71a97334ae0ece3ba9" relationshipRef="id-5c3812c82668485e8a2f183df0f3f4b7" xsi:type="Relationship" source="id-353a05bac8bf4bae822fcd4570dee686" target="id-ceedda22dde345bb85d3ffc67b9bcc1b">
           <style>
@@ -35856,7 +35776,6 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-d2e17d3b60194f799b4d2e7a6347ffbc" relationshipRef="id-bb9c5932ff3e4f358f8f9c7336d1c446" xsi:type="Relationship" source="id-e5e5bf2ab1ed42ce9d9fcffac9d4e0ad" target="id-ad3e4e5e285b4fa0b714c74a8c912a15">
           <style>
@@ -35901,7 +35820,6 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="127" y="490" />
         </connection>
         <connection identifier="id-3eeca955932a4ea9a8fbd9ae71ec8905" relationshipRef="id-fa5cb132b9164636814c17cc09e2a8e4" xsi:type="Relationship" source="id-a146dc40b32b4d2e9eb841727ed5f4e1" target="id-353a05bac8bf4bae822fcd4570dee686">
           <style>
@@ -35910,7 +35828,6 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="337" y="490" />
         </connection>
         <connection identifier="id-1eae2e95d2b74194b55bb27e471a38aa" relationshipRef="id-e7afdfae37f64d7e8e783acf76201ee4" xsi:type="Relationship" source="id-43f25bb74d3a4520b9f4b7c2b351da34" target="id-353a05bac8bf4bae822fcd4570dee686">
           <style>
@@ -35937,7 +35854,6 @@ Detailview van kennisgebied 5 (Data &amp; Semantiek voor AI): capability, princi
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="547" y="490" />
         </connection>
         <connection identifier="id-e68f4f86aa854dd1bc34b0ae6dd1843e" relationshipRef="id-40e5e556ea6349318b943c2ac6af54ae" xsi:type="Relationship" source="id-95e913208bb1491ebc6dbafa09f417c3" target="id-085a0075a5e3499b8834db3972fe851b">
           <style>
@@ -36220,7 +36136,6 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-b5f9c97cb79b45e38b8e5cb640cc3cc6" relationshipRef="id-720e16d387f14aa99ef77260d8037f1c" xsi:type="Relationship" source="id-f84275a84a734e508fd9638e6356b161" target="id-cfd83a0d9cd1454b9100ea02e09ffa44">
           <style>
@@ -36255,7 +36170,6 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-515f118d09c14ceaad0fce61490c8184" relationshipRef="id-c7b4b80a3fce48e290936a6974db30a8" xsi:type="Relationship" source="id-f7fa9507d86a4b9b8039c53baad69e66" target="id-d3d23d5277064f57ad31cabb6c7697c7">
           <style>
@@ -36300,7 +36214,6 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="127" y="438" />
         </connection>
         <connection identifier="id-ad7d333f13844b47b5d061bf87f9e33f" relationshipRef="id-d007df9a06d7486abde7437b337388fe" xsi:type="Relationship" source="id-315951e3b2ed45e1a1ecd1df8faf808a" target="id-2b686b677a4547d79d3559e9463fdfee">
           <style>
@@ -36309,7 +36222,6 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="547" y="438" />
         </connection>
         <connection identifier="id-5487584373a64c139519aecc8a434b4d" relationshipRef="id-763faccae4224c3cba1f0e8b0e7f6a14" xsi:type="Relationship" source="id-00b98ad63cd1446da50375d53ae4848d" target="id-b60ce3891080479ba814776acf4478f3">
           <style>
@@ -36318,7 +36230,6 @@ Detailview van kennisgebied 6 (Model Management): capability, principes, bedrijf
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="757" y="438" />
         </connection>
         <connection identifier="id-d932d5d958d24abfaeaa6b3414d893aa" relationshipRef="id-478b3f68ad1b449d9412a28c61eaa29b" xsi:type="Relationship" source="id-848e69657c4e4e3293c11c003e5a40f8" target="id-b60ce3891080479ba814776acf4478f3">
           <style>
@@ -36592,7 +36503,6 @@ Detailview van kennisgebied 7 (AI Interactie &amp; UX): capability, principes, b
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-9a67514c7aef4ebba8d81060d2b4be28" relationshipRef="id-dabced6ffa874501951bb5f2606c4fb6" xsi:type="Relationship" source="id-13cad396571347f0b1c7840c9e7ea6aa" target="id-71b46321616545479e28bc86aae208d5">
           <style>
@@ -36627,7 +36537,6 @@ Detailview van kennisgebied 7 (AI Interactie &amp; UX): capability, principes, b
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-24caaeb630a1451d9916c6a69bfed1f9" relationshipRef="id-b5279f467a1044d0b466b0568b89b56c" xsi:type="Relationship" source="id-a7f139e8820047cc8480986621bee2a7" target="id-d124f294185b49c98294a87257dd86c5">
           <style>
@@ -36672,7 +36581,6 @@ Detailview van kennisgebied 7 (AI Interactie &amp; UX): capability, principes, b
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="127" y="438" />
         </connection>
         <connection identifier="id-ecd7d70785e143368d04a98c740e859d" relationshipRef="id-01f5fef02b3a4c8b926ff7737739cc02" xsi:type="Relationship" source="id-161b2aba3f044f3eac1200a3fae91fd3" target="id-22ea574390134f73afd9e0d7eabcc684">
           <style>
@@ -36953,7 +36861,6 @@ Detailview van kennisgebied 8 (AI Operations): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-926551f1623c437281acae6e8fcea661" relationshipRef="id-4234b1cfd346409a985548ad43fd2482" xsi:type="Relationship" source="id-b5678517ced9429aa2fe2b6eee9a0120" target="id-2d8cabea87fd4eee9f5bd186ea185980">
           <style>
@@ -36962,7 +36869,6 @@ Detailview van kennisgebied 8 (AI Operations): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="607" y="234" />
         </connection>
         <connection identifier="id-cc3d29f9817846aa99b2754aa0150a9a" relationshipRef="id-4c251a124e06437a86eeb2b015a66bd4" xsi:type="Relationship" source="id-5245bcf947b14d0b905c536fb6c1ae0c" target="id-612edb1be488422b8e8edc13ba192e49">
           <style>
@@ -36980,7 +36886,6 @@ Detailview van kennisgebied 8 (AI Operations): capability, principes, bedrijfsfu
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-a0d1cc9d56bd4492963684a264fc8e12" relationshipRef="id-e31e03363bdc4355b46542b362698a87" xsi:type="Relationship" source="id-ea1c5650ed4c4f51a6ec8c29a05c0119" target="id-58b2e2d52fb94e19a8f9d96b54de5f95">
           <style>
@@ -37299,7 +37204,6 @@ Detailview van kennisgebied 9 (AI Risicobeheer): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-66c049126ba04fdd8985f382bd1829c1" relationshipRef="id-4fcc65b23d414d7db2136458f7cb79db" xsi:type="Relationship" source="id-ae08d37cbb5845588e0176561d6e3670" target="id-94f62bb976714f5f960596f340229fba">
           <style>
@@ -37325,7 +37229,6 @@ Detailview van kennisgebied 9 (AI Risicobeheer): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-8c044c938d494536aad0336261e7e6e9" relationshipRef="id-f41a2cba28ee426e9696b9637a7d985a" xsi:type="Relationship" source="id-7c7eafa90b4f4b07948e5a3693d995c5" target="id-f3ce47a913c347c3b3f3d5e1af12c701">
           <style>
@@ -37379,7 +37282,6 @@ Detailview van kennisgebied 9 (AI Risicobeheer): capability, principes, bedrijfs
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="337" y="490" />
         </connection>
         <connection identifier="id-35f76039083a4b4dbf392f70a8ca08fd" relationshipRef="id-aa4de0a742d44925aadbef8e12d2c55e" xsi:type="Relationship" source="id-2673524999414c30bdce22a4fd9c1484" target="id-852e73ae73824ada8b05c853f1389055">
           <style>
@@ -37661,7 +37563,6 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-a2e7adb98c214b5c985001a3378f9a18" relationshipRef="id-cb689c1f9e204dcf9d6cbd83d8de52ff" xsi:type="Relationship" source="id-c80223ec642c41eba468000a0ee8e74e" target="id-a92020041be444c8ae2ebb616c905c07">
           <style>
@@ -37670,7 +37571,6 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="607" y="234" />
         </connection>
         <connection identifier="id-c3de2755a8b442cd98cbc4b2eb602e95" relationshipRef="id-b8f2b6aacd454bbf806e3f06a49d7af8" xsi:type="Relationship" source="id-a87a1df489e54a08ba8979d9d068d8fe" target="id-04e4cf0665534b1289c7f4d0a73b4670">
           <style>
@@ -37705,7 +37605,6 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-29880bb161e84e62b77bf58f2e2bffa9" relationshipRef="id-c3e92e2e9a804880aa9944e6d4a831ed" xsi:type="Relationship" source="id-4040f96f8da44b7c85087d18902182fd" target="id-f2dc2717e3074981a71101ef69b2b0d8">
           <style>
@@ -37768,7 +37667,6 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="337" y="490" />
         </connection>
         <connection identifier="id-d4eef71291904dac975375ab4d0481be" relationshipRef="id-969f823aa6a3469e9dac9dd83cd30a08" xsi:type="Relationship" source="id-49fc7b9a122b4c91a68174d171e7b108" target="id-6e15907d65ef4071ad847d0073cf4833">
           <style>
@@ -37786,7 +37684,6 @@ Detailview van kennisgebied 10 (AI-compliance &amp; Audit): capability, principe
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="337" y="490" />
         </connection>
         <connection identifier="id-8e6a35020aa24d49be77787d09bdb534" relationshipRef="id-a3a82512fdae44bcb07ce36c6c973352" xsi:type="Relationship" source="id-04e4cf0665534b1289c7f4d0a73b4670" target="id-e60cb438e4574f11a4c84fd93c512b93">
           <style>
@@ -38069,7 +37966,6 @@ Detailview van kennisgebied 11 (AI Ethiek): capability, principes, bedrijfsfunct
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-92b253ce48e6457e824cc4876caf043a" relationshipRef="id-ad162814ac3346cca067cbce00a5e41a" xsi:type="Relationship" source="id-5ece63e72d26468498680e70af57f8d3" target="id-cd226fafc73c44038193d139af356c7e">
           <style>
@@ -38096,7 +37992,6 @@ Detailview van kennisgebied 11 (AI Ethiek): capability, principes, bedrijfsfunct
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-95bedf5baa6e4042aa994868eee85614" relationshipRef="id-996ebf82179f42b89abf3645e3581aac" xsi:type="Relationship" source="id-4eb57009539f4de4aba9deb9c72efd0a" target="id-cf702f558ece48a6a544e07e6fd2eca3">
           <style>
@@ -38141,7 +38036,6 @@ Detailview van kennisgebied 11 (AI Ethiek): capability, principes, bedrijfsfunct
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="127" y="490" />
         </connection>
       </view>
       <view identifier="id-6d2f53f0cf8642bb9922fa1cf1009252" xsi:type="Diagram">
@@ -38452,7 +38346,6 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="397" y="234" />
         </connection>
         <connection identifier="id-e265d0d0d205476d868f43c645ecfd27" relationshipRef="id-df30c6262a6b434d9c56c2aeb070cf40" xsi:type="Relationship" source="id-c8e8851600f74a50a620d70e9b539033" target="id-eb963bc5ca68415e85e8b1d5d3199646">
           <style>
@@ -38496,7 +38389,6 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="195" y="234" />
         </connection>
         <connection identifier="id-04a6ddf8efbd4073b1a1c7e9288409b0" relationshipRef="id-43f53453d08840ca8e39b7585dcb297e" xsi:type="Relationship" source="id-6bebfe3c3bba468589c90032a60e2f01" target="id-d8fb9a98f787440cabd6008a46f9fd4b">
           <style>
@@ -38559,7 +38451,6 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="547" y="438" />
         </connection>
         <connection identifier="id-59b1a14097024bb6a8331c4316ae8140" relationshipRef="id-4a96d213a223492997c05f1aad9ba762" xsi:type="Relationship" source="id-2ed1b5c59af048c0a424512cfc795dae" target="id-386713d4d2ee4313ad2db9fc9315f7c7">
           <style>
@@ -38568,7 +38459,6 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="757" y="438" />
         </connection>
         <connection identifier="id-419a757d367b4ee0a95c806221f925c6" relationshipRef="id-5cf114892d73482a9163148ca4b4228d" xsi:type="Relationship" source="id-10d66a86009445c5a04f691051e50857" target="id-2603c0c0f0804cc1aa1c91630acd3bc7">
           <style>
@@ -38586,7 +38476,6 @@ Detailview van kennisgebied 12 (AI Kennis- &amp; Contextmanagement): capability,
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <bendpoint x="127" y="438" />
         </connection>
       </view>
       <view identifier="id-5efa32511b3482842497ee6bd4764163" xsi:type="Diagram">
