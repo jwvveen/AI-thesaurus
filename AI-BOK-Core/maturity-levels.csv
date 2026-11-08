@@ -1,0 +1,6 @@
+urn,code,pack_id,name_en,name_nl,description
+urn:aibok:L1,L1,AIB-ML-001,Initial (ad hoc),Initieel (ad hoc),Practices exist but unrecorded; success depends on individuals.
+urn:aibok:L2,L2,AIB-ML-002,Repeatable (basic governance),Herhaalbaar (basis governance),Repeatable practices in some KAs; documented but not yet standard.
+urn:aibok:L3,L3,AIB-ML-003,Defined (standardised),Gedefinieerd (gestandaardiseerd),"Standardised practices across all KAs; documented, trained, applied."
+urn:aibok:L4,L4,AIB-ML-004,Managed (measured and steered),Beheerst (gemeten en gestuurd),Metrics and logs across KAs; quantitative steering on outcomes.
+urn:aibok:L5,L5,AIB-ML-005,Optimised (continuously improving),Geoptimaliseerd (continu verbeterend),Improvement loops embedded; cross-KA learning institutionalised.

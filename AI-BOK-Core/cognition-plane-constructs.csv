@@ -1,0 +1,8 @@
+urn,code,pack_id,name_en,name_nl,description,carries_failure_modes
+urn:aibok:Mandate,Mandate,AIB-CP-001,Mandate,Mandaat,"First-class scope-of-action specification per NHI; revocable, signed, time-bounded.",FM01;FM02;FM04;FM05;FM07;FM09;FM14;FM15;FM17;FM19;FM20;FM21;FM25;FM27
+urn:aibok:AuthorityRegister,AuthorityRegister,AIB-CP-002,Authority Register,Agentbevoegdheidsregister,"Single source of truth listing all NHIs, their mandates, allowed tools, mandate parents.",FM01;FM03;FM04;FM05;FM08;FM12;FM13;FM14;FM15;FM18;FM21;FM23;FM24
+urn:aibok:NHILifecycle,NHILifecycle,AIB-CP-003,NHI Lifecycle,NHI-lifecycle,"Issue, rotate, attest, revoke for non-human identities.",FM04;FM11;FM12;FM18;FM23
+urn:aibok:PolicyAsCode,PolicyAsCode,AIB-CP-004,Policy-as-code,Policy-as-code,Executable policy enforcing mandates per action; OPA-style.,FM01;FM02;FM03;FM05;FM06;FM07;FM08;FM09;FM13;FM15;FM16;FM17;FM18;FM19;FM20;FM21;FM22;FM23;FM24;FM25;FM27
+urn:aibok:Escalation,Escalation,AIB-CP-005,Escalation threshold,Escalatiedrempel,Threshold-based handover from agent to human-in-the-loop.,FM01;FM02;FM03;FM04;FM07;FM09;FM11;FM13;FM14;FM16;FM17;FM18;FM19;FM21;FM22;FM24;FM25;FM26;FM27
+urn:aibok:KnowledgeSourceProvenance,KnowledgeSourceProvenance,AIB-CP-006,Knowledge-source provenance,Kennisbron-provenance,Trust grade + provenance metadata required on every Knowledge Source.,FM02;FM06;FM10;FM17;FM22;FM26
+urn:aibok:LiteracyHook,LiteracyHook,AIB-CP-007,Literacy hook (KA13 attachment point),Geletterdheidshaak,Explicit attachment point per role × system for KA13 evidence and drill triggers.,FM01;FM02;FM07;FM10;FM11;FM16;FM17;FM18;FM19;FM20;FM21;FM22;FM26

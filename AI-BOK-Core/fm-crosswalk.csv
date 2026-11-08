@@ -1,0 +1,28 @@
+failure_mode_urn,owasp,mast
+urn:aibok:FM01,ASI01; LLM01:2026,
+urn:aibok:FM02,ASI01; LLM01:2026,
+urn:aibok:FM03,"ASI02; LLM03:2026, LLM10:2026",
+urn:aibok:FM04,"ASI03, ASI07",MAST 1.2 Disobey role specification (yes)
+urn:aibok:FM05,,MAST 2.4 Information withholding (partial); MAST 2.5 Ignored other agent's input (partial)
+urn:aibok:FM06,ASI06; AML.T0080,
+urn:aibok:FM07,,MAST 1.4 Loss of conversation history (yes); MAST 2.1 Conversation reset (partial)
+urn:aibok:FM08,"ASI02, ASI05",
+urn:aibok:FM09,"ASI01, ASI10",MAST 1.1 Disobey task specification (partial); MAST 2.3 Task derailment (yes)
+urn:aibok:FM10,ASI09 (partly),MAST 2.2 Fail to ask for clarification (partial)
+urn:aibok:FM11,ASI06; AML.T0080,
+urn:aibok:FM12,"ASI03; AML.T0082, AML.T0083",
+urn:aibok:FM13,"ASI05, ASI10",
+urn:aibok:FM14,"ASI03, ASI10; LLM03:2026",MAST 1.1 Disobey task specification (partial); MAST 1.2 Disobey role specification (yes)
+urn:aibok:FM15,ASI02,
+urn:aibok:FM16,ASI09 (partly),MAST 2.6 Reasoning-action mismatch (partial)
+urn:aibok:FM17,,
+urn:aibok:FM18,,
+urn:aibok:FM19,,
+urn:aibok:FM20,,
+urn:aibok:FM21,,
+urn:aibok:FM22,,
+urn:aibok:FM23,"ASI04; AML.T0081, AML.T0084",
+urn:aibok:FM24,ASI02 (partly); AML.T0086,
+urn:aibok:FM25,ASI08,MAST 3.2 No or incomplete verification (partial); MAST 3.3 Incorrect verification (partial)
+urn:aibok:FM26,ASI09,MAST 2.6 Reasoning-action mismatch (partial); MAST 3.3 Incorrect verification (partial)
+urn:aibok:FM27,,MAST 1.3 Step repetition (yes); MAST 1.5 Unaware of termination conditions (yes); MAST 3.1 Premature termination (yes); MAST 3.2 No or incomplete verification (partial)

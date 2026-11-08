@@ -14,3 +14,10 @@ Om deze begrippen vanuit Archi te publiceren als NL-SBB-compliant Turtle (TTL)-b
 Het resultaat kan dan weer ingeladen worden in een begrippenviewer zoals BegrippenXL : https://www.begrippenxl.nl/ai/nl/
 
 
+
+## AI Body of Knowledge
+
+Deze repository bevat ook de open referentiearchitectuur van de AI Body of Knowledge (https://www.ai-bok.nl/architecture):
+
+* `AI-BOK-Referentiearchitectuur-v1.5.archimate` en `AI-BOK-Reference-Architecture-EN-v1.5.archimate` (Archi), met de Open Exchange-exports `*-v1.5.xml`.
+* `AI-BOK-Core/`: open data van het kader (kennisgebieden, rollen, faalmodi, RACI-raster, MVG) met vaste codes `urn:aibok:<code>`, als CSV en SKOS JSON-LD. Licentie CC BY 4.0, zie `AI-BOK-Core/LICENSE`.

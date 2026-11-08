@@ -1,0 +1,8 @@
+urn,code,pack_id,name_en,name_nl,description,anchored_in_kas
+urn:aibok:MVG1,MVG1,AIB-MVG-001,AI Governance Charter,AI Governance Charter,"Single document naming responsible body, risk classification approach, lifecycle gates, escalation principle.",KA1
+urn:aibok:MVG2,MVG2,AIB-MVG-002,AI Inventory,AI-inventaris,"Register of systems in use or in pilot, with purpose and risk band.",KA1;KA9
+urn:aibok:MVG3,MVG3,AIB-MVG-003,Risk classification + impact assessment,Risicoclassificatie + impactassessment,"Per registered system, using IAMA / EU AI Act risk bands.",KA9;KA10;KA11
+urn:aibok:MVG4,MVG4,AIB-MVG-004,Lifecycle gates,Lifecycle-gates,Go/no-go criteria; allowed? deployable? operating safely?,KA4;KA8
+urn:aibok:MVG5,MVG5,AIB-MVG-005,AI literacy (Article 4 evidence),AI-geletterdheid (Artikel 4-bewijs),Role-specific literacy; Article 4 evidence file.,KA13
+urn:aibok:MVG6,MVG6,AIB-MVG-006,Compliance traceability,Compliance-traceerbaarheid,Per-system pointer to applicable regulatory obligations using regulatory matrix.,KA10
+urn:aibok:MVG7,MVG7,AIB-MVG-007,Incident pipeline,Incident-pipeline,"Minimal capability to detect, log and respond to AI incidents.",KA8;KA9

@@ -1,0 +1,5 @@
+urn,code,pack_id,name_en,name_nl,description,member_roles
+urn:aibok:AIBoard,AIBoard,AIB-GB-001,AI Board,AI Board,"Approves AI strategy, AI Governance Charter, portfolio prioritisation, escalations from AI Review Committee.",R1;R2
+urn:aibok:AIReviewCommittee,AIReviewCommittee,AIB-GB-002,AI Review Committee,AI Review Committee,Reviews system-level go/no-go at lifecycle gates; signs off risk and compliance.,R5;R14;R15;R19
+urn:aibok:AIEthicsCommittee,AIEthicsCommittee,AIB-GB-003,AI Ethics Committee,AI Ethics Committee,Independent ethics review; harms assessment; value-alignment advisories.,R3
+urn:aibok:AIRiskCommittee,AIRiskCommittee,AIB-GB-004,AI Risk Committee,AI Risk Committee,Risk appetite; risk-register maintenance; incident-classification; red-team programme oversight.,R14

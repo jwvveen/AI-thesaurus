@@ -1,0 +1,5916 @@
+{
+ "@context": {
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "dct": "http://purl.org/dc/terms/",
+  "aibok": "https://www.ai-bok.nl/ns#"
+ },
+ "@graph": [
+  {
+   "@id": "urn:aibok:scheme",
+   "@type": "skos:ConceptScheme",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Body of Knowledge 1.5",
+     "@language": "en"
+    }
+   ],
+   "dct:hasVersion": "1.5",
+   "dct:license": "https://creativecommons.org/licenses/by/4.0/",
+   "dct:publisher": "AI-BOK (www.ai-bok.nl)"
+  },
+  {
+   "@id": "urn:aibok:KA1",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA1",
+   "dct:identifier": "AIB-KA-001",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Governance",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Governance",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Strategic frameworks, board mandate, governance bodies, lifecycle gates, escalation principle.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R1"
+    },
+    {
+     "@id": "urn:aibok:R2"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P1"
+    },
+    {
+     "@id": "urn:aibok:P2"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA2",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA2",
+   "dct:identifier": "AIB-KA-002",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Strategy & Portfolio Management",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Strategie & Portfoliomanagement",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Strategy, portfolio governance, prioritisation, business case management.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R1"
+    },
+    {
+     "@id": "urn:aibok:R2"
+    },
+    {
+     "@id": "urn:aibok:R4"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P1"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA3",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA3",
+   "dct:identifier": "AIB-KA-003",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Architecture",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Architectuur",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Reference architecture, cognition-plane placement, integration patterns, ADRs.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R5"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P2"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA4",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA4",
+   "dct:identifier": "AIB-KA-004",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Lifecycle Management",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Lifecycle Management",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Lifecycle phases, gates, go/no-go, decommissioning.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R4"
+    },
+    {
+     "@id": "urn:aibok:R6"
+    },
+    {
+     "@id": "urn:aibok:R7"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P1"
+    },
+    {
+     "@id": "urn:aibok:P2"
+    },
+    {
+     "@id": "urn:aibok:P3"
+    },
+    {
+     "@id": "urn:aibok:P4"
+    },
+    {
+     "@id": "urn:aibok:P5"
+    },
+    {
+     "@id": "urn:aibok:P6"
+    },
+    {
+     "@id": "urn:aibok:P7"
+    },
+    {
+     "@id": "urn:aibok:P8"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA5",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA5",
+   "dct:identifier": "AIB-KA-005",
+   "skos:prefLabel": [
+    {
+     "@value": "Data & Semantics for AI",
+     "@language": "en"
+    },
+    {
+     "@value": "Data & Semantiek voor AI",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Datasets, vocabularies, ontologies, conceptual frameworks, data-source provenance.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R8"
+    },
+    {
+     "@id": "urn:aibok:R9"
+    },
+    {
+     "@id": "urn:aibok:R16"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P3"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA6",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA6",
+   "dct:identifier": "AIB-KA-006",
+   "skos:prefLabel": [
+    {
+     "@value": "Model Management",
+     "@language": "en"
+    },
+    {
+     "@value": "Modelmanagement",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Model cards, evaluation, model versioning, drift telemetry.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R6"
+    },
+    {
+     "@id": "urn:aibok:R7"
+    },
+    {
+     "@id": "urn:aibok:R10"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P4"
+    },
+    {
+     "@id": "urn:aibok:P5"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA7",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA7",
+   "dct:identifier": "AIB-KA-007",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Interaction & UX",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Interactie & Gebruikerservaring",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Human-AI interface design, UX disclosure, calibrated uncertainty surfaces.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R11"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P2"
+    },
+    {
+     "@id": "urn:aibok:P6"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA8",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA8",
+   "dct:identifier": "AIB-KA-008",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Operations",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Operations (AIOps/MLOps/LLMOps)",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Deployment, monitoring, logging, runbooks, drift detection, incident response.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R12"
+    },
+    {
+     "@id": "urn:aibok:R13"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P6"
+    },
+    {
+     "@id": "urn:aibok:P7"
+    },
+    {
+     "@id": "urn:aibok:P8"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA9",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA9",
+   "dct:identifier": "AIB-KA-009",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Risk Management & Safety",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Risicomanagement & Veiligheid",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Risk register, IAMA, hazard analysis, FM catalogue, red-team coordination.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R14"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P1"
+    },
+    {
+     "@id": "urn:aibok:P2"
+    },
+    {
+     "@id": "urn:aibok:P5"
+    },
+    {
+     "@id": "urn:aibok:P7"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA10",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA10",
+   "dct:identifier": "AIB-KA-010",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Compliance & Audit",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Compliance & Audit",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Regulatory traceability, audit evidence, Article 4 evidence file, compliance inventory.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R15"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P5"
+    },
+    {
+     "@id": "urn:aibok:P7"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA11",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA11",
+   "dct:identifier": "AIB-KA-011",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Ethics & Responsible AI",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Ethiek & Verantwoord AI",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Ethical frameworks, ethics committee, value alignment, harms assessment.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R3"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P1"
+    },
+    {
+     "@id": "urn:aibok:P2"
+    },
+    {
+     "@id": "urn:aibok:P5"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA12",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA12",
+   "dct:identifier": "AIB-KA-012",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Knowledge & Context Management",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Kennis- & Contextmanagement",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Knowledge-source register, RAG pipelines, context grounding, trust grade.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R8"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P3"
+    },
+    {
+     "@id": "urn:aibok:P7"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KA13",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KA13",
+   "dct:identifier": "AIB-KA-013",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Literacy & Capability Development",
+     "@language": "en"
+    },
+    {
+     "@value": "AI-Geletterdheid & Capability Development",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Role-specific literacy, competency profiles, Article 4 evidence, drill scenarios, capability roadmap.",
+    "@language": "en"
+   },
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R20"
+    }
+   ],
+   "aibok:primaryPhase": [
+    {
+     "@id": "urn:aibok:P1"
+    },
+    {
+     "@id": "urn:aibok:P2"
+    },
+    {
+     "@id": "urn:aibok:P5"
+    },
+    {
+     "@id": "urn:aibok:P6"
+    },
+    {
+     "@id": "urn:aibok:P7"
+    },
+    {
+     "@id": "urn:aibok:P8"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/knowledge-areas",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Knowledge areas",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA2"
+    },
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:R1",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R1",
+   "dct:identifier": "AIB-RO-001",
+   "skos:prefLabel": [
+    {
+     "@value": "Chief AI Officer (CAIO)",
+     "@language": "en"
+    },
+    {
+     "@value": "Chief AI Officer (CAIO)",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA2"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:informedOn": [
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R2",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R2",
+   "dct:identifier": "AIB-RO-002",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Portfolio Manager",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Portfoliomanager",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R3",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R3",
+   "dct:identifier": "AIB-RO-003",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Ethics Advisor",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Ethiek-adviseur",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA11"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R4",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R4",
+   "dct:identifier": "AIB-RO-004",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Product Owner",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Product Owner",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA2"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R5",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R5",
+   "dct:identifier": "AIB-RO-005",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Architect",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Architect",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R6",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R6",
+   "dct:identifier": "AIB-RO-006",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Risk Manager",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Risicomanager",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R7",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R7",
+   "dct:identifier": "AIB-RO-007",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Governance Lead",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Governance Lead",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R8",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R8",
+   "dct:identifier": "AIB-RO-008",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Knowledge Manager",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Kennismanager",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA6"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R9",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R9",
+   "dct:identifier": "AIB-RO-009",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Engineer",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Engineer",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA6"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    }
+   ],
+   "aibok:informedOn": [
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R10",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R10",
+   "dct:identifier": "AIB-RO-010",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Interaction Designer",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Interactieontwerper",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R11",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R11",
+   "dct:identifier": "AIB-RO-011",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Operations Engineer",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Operations Engineer",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA8"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA6"
+    }
+   ],
+   "aibok:informedOn": [
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R12",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R12",
+   "dct:identifier": "AIB-RO-012",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Quality Analyst",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Kwaliteitsanalist",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    }
+   ],
+   "aibok:informedOn": [
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R13",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R13",
+   "dct:identifier": "AIB-RO-013",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Auditor",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Auditor",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA10"
+    }
+   ],
+   "aibok:informedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA2"
+    },
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R14",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R14",
+   "dct:identifier": "AIB-RO-014",
+   "skos:prefLabel": [
+    {
+     "@value": "AI System Administrator",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Systeembeheerder",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA4"
+    }
+   ],
+   "aibok:informedOn": [
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R15",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R15",
+   "dct:identifier": "AIB-RO-015",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Trainer/Annotator",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Trainer/Annotator",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R16",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R16",
+   "dct:identifier": "AIB-RO-016",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Domain Expert",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Domeinexpert",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R17",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R17",
+   "dct:identifier": "AIB-RO-017",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Change Manager",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Changemanager",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA2"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R18",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R18",
+   "dct:identifier": "AIB-RO-018",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Agent Governor",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Agent-gouverneur",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R19",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R19",
+   "dct:identifier": "AIB-RO-019",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Compliance Officer",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Compliance Officer",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA10"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R20",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R20",
+   "dct:identifier": "AIB-RO-020",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Literacy Officer",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Geletterdheidsfunctionaris",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA2"
+    },
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R21",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R21",
+   "dct:identifier": "AIB-RO-021",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Ambassador",
+     "@language": "en"
+    },
+    {
+     "@value": "AI-Ambassadeur",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:informedOn": [
+    {
+     "@id": "urn:aibok:KA1"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:R22",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "R22",
+   "dct:identifier": "AIB-RO-022",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Prompting & Agents Specialist",
+     "@language": "en"
+    },
+    {
+     "@value": "AI-Specialist Prompting en Agents",
+     "@language": "nl"
+    }
+   ],
+   "aibok:consultedOn": [
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/roles",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Roles",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:R1"
+    },
+    {
+     "@id": "urn:aibok:R2"
+    },
+    {
+     "@id": "urn:aibok:R3"
+    },
+    {
+     "@id": "urn:aibok:R4"
+    },
+    {
+     "@id": "urn:aibok:R5"
+    },
+    {
+     "@id": "urn:aibok:R6"
+    },
+    {
+     "@id": "urn:aibok:R7"
+    },
+    {
+     "@id": "urn:aibok:R8"
+    },
+    {
+     "@id": "urn:aibok:R9"
+    },
+    {
+     "@id": "urn:aibok:R10"
+    },
+    {
+     "@id": "urn:aibok:R11"
+    },
+    {
+     "@id": "urn:aibok:R12"
+    },
+    {
+     "@id": "urn:aibok:R13"
+    },
+    {
+     "@id": "urn:aibok:R14"
+    },
+    {
+     "@id": "urn:aibok:R15"
+    },
+    {
+     "@id": "urn:aibok:R16"
+    },
+    {
+     "@id": "urn:aibok:R17"
+    },
+    {
+     "@id": "urn:aibok:R18"
+    },
+    {
+     "@id": "urn:aibok:R19"
+    },
+    {
+     "@id": "urn:aibok:R20"
+    },
+    {
+     "@id": "urn:aibok:R21"
+    },
+    {
+     "@id": "urn:aibok:R22"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:AIBoard",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "AIBoard",
+   "dct:identifier": "AIB-GB-001",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Board",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Board",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Approves AI strategy, AI Governance Charter, portfolio prioritisation, escalations from AI Review Committee.",
+    "@language": "en"
+   },
+   "aibok:memberRole": [
+    {
+     "@id": "urn:aibok:R1"
+    },
+    {
+     "@id": "urn:aibok:R2"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:AIReviewCommittee",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "AIReviewCommittee",
+   "dct:identifier": "AIB-GB-002",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Review Committee",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Review Committee",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Reviews system-level go/no-go at lifecycle gates; signs off risk and compliance.",
+    "@language": "en"
+   },
+   "aibok:memberRole": [
+    {
+     "@id": "urn:aibok:R5"
+    },
+    {
+     "@id": "urn:aibok:R14"
+    },
+    {
+     "@id": "urn:aibok:R15"
+    },
+    {
+     "@id": "urn:aibok:R19"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:AIEthicsCommittee",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "AIEthicsCommittee",
+   "dct:identifier": "AIB-GB-003",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Ethics Committee",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Ethics Committee",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Independent ethics review; harms assessment; value-alignment advisories.",
+    "@language": "en"
+   },
+   "aibok:memberRole": [
+    {
+     "@id": "urn:aibok:R3"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:AIRiskCommittee",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "AIRiskCommittee",
+   "dct:identifier": "AIB-GB-004",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Risk Committee",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Risk Committee",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Risk appetite; risk-register maintenance; incident-classification; red-team programme oversight.",
+    "@language": "en"
+   },
+   "aibok:memberRole": [
+    {
+     "@id": "urn:aibok:R14"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/governance-bodies",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Governance bodies",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:AIBoard"
+    },
+    {
+     "@id": "urn:aibok:AIReviewCommittee"
+    },
+    {
+     "@id": "urn:aibok:AIEthicsCommittee"
+    },
+    {
+     "@id": "urn:aibok:AIRiskCommittee"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:P1",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P1",
+   "dct:identifier": "AIB-PH-001",
+   "skos:prefLabel": [
+    {
+     "@value": "Ideation & Exploration",
+     "@language": "en"
+    },
+    {
+     "@value": "Ideatie & Verkenning",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA2"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R1"
+    },
+    {
+     "@id": "urn:aibok:R2"
+    },
+    {
+     "@id": "urn:aibok:R4"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:P2",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P2",
+   "dct:identifier": "AIB-PH-002",
+   "skos:prefLabel": [
+    {
+     "@value": "Design & Architecture",
+     "@language": "en"
+    },
+    {
+     "@value": "Ontwerp & Architectuur",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R5"
+    },
+    {
+     "@id": "urn:aibok:R11"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:P3",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P3",
+   "dct:identifier": "AIB-PH-003",
+   "skos:prefLabel": [
+    {
+     "@value": "Data Acquisition & Preparation",
+     "@language": "en"
+    },
+    {
+     "@value": "Data-acquisitie & -voorbereiding",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R8"
+    },
+    {
+     "@id": "urn:aibok:R9"
+    },
+    {
+     "@id": "urn:aibok:R16"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:P4",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P4",
+   "dct:identifier": "AIB-PH-004",
+   "skos:prefLabel": [
+    {
+     "@value": "Model Development & Training",
+     "@language": "en"
+    },
+    {
+     "@value": "Modelontwikkeling & Training",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R6"
+    },
+    {
+     "@id": "urn:aibok:R7"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:P5",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P5",
+   "dct:identifier": "AIB-PH-005",
+   "skos:prefLabel": [
+    {
+     "@value": "Evaluation & Validation",
+     "@language": "en"
+    },
+    {
+     "@value": "Evaluatie & Validatie",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R7"
+    },
+    {
+     "@id": "urn:aibok:R10"
+    },
+    {
+     "@id": "urn:aibok:R14"
+    },
+    {
+     "@id": "urn:aibok:R15"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:P6",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P6",
+   "dct:identifier": "AIB-PH-006",
+   "skos:prefLabel": [
+    {
+     "@value": "Deployment & Integration",
+     "@language": "en"
+    },
+    {
+     "@value": "Deployment & Integratie",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R12"
+    },
+    {
+     "@id": "urn:aibok:R13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:P7",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P7",
+   "dct:identifier": "AIB-PH-007",
+   "skos:prefLabel": [
+    {
+     "@value": "Monitoring & Operation",
+     "@language": "en"
+    },
+    {
+     "@value": "Monitoring & Operatie",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R12"
+    },
+    {
+     "@id": "urn:aibok:R13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:P8",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "P8",
+   "dct:identifier": "AIB-PH-008",
+   "skos:prefLabel": [
+    {
+     "@value": "Evolution & Decommissioning",
+     "@language": "en"
+    },
+    {
+     "@value": "Evolutie & Decommissioning",
+     "@language": "nl"
+    }
+   ],
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:primaryRole": [
+    {
+     "@id": "urn:aibok:R6"
+    },
+    {
+     "@id": "urn:aibok:R12"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/lifecycle-phases",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Lifecycle phases",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:P1"
+    },
+    {
+     "@id": "urn:aibok:P2"
+    },
+    {
+     "@id": "urn:aibok:P3"
+    },
+    {
+     "@id": "urn:aibok:P4"
+    },
+    {
+     "@id": "urn:aibok:P5"
+    },
+    {
+     "@id": "urn:aibok:P6"
+    },
+    {
+     "@id": "urn:aibok:P7"
+    },
+    {
+     "@id": "urn:aibok:P8"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:L1",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "L1",
+   "dct:identifier": "AIB-ML-001",
+   "skos:prefLabel": [
+    {
+     "@value": "Initial (ad hoc)",
+     "@language": "en"
+    },
+    {
+     "@value": "Initieel (ad hoc)",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Practices exist but unrecorded; success depends on individuals.",
+    "@language": "en"
+   },
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:L2",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "L2",
+   "dct:identifier": "AIB-ML-002",
+   "skos:prefLabel": [
+    {
+     "@value": "Repeatable (basic governance)",
+     "@language": "en"
+    },
+    {
+     "@value": "Herhaalbaar (basis governance)",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Repeatable practices in some KAs; documented but not yet standard.",
+    "@language": "en"
+   },
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:L3",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "L3",
+   "dct:identifier": "AIB-ML-003",
+   "skos:prefLabel": [
+    {
+     "@value": "Defined (standardised)",
+     "@language": "en"
+    },
+    {
+     "@value": "Gedefinieerd (gestandaardiseerd)",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Standardised practices across all KAs; documented, trained, applied.",
+    "@language": "en"
+   },
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:L4",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "L4",
+   "dct:identifier": "AIB-ML-004",
+   "skos:prefLabel": [
+    {
+     "@value": "Managed (measured and steered)",
+     "@language": "en"
+    },
+    {
+     "@value": "Beheerst (gemeten en gestuurd)",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Metrics and logs across KAs; quantitative steering on outcomes.",
+    "@language": "en"
+   },
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:L5",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "L5",
+   "dct:identifier": "AIB-ML-005",
+   "skos:prefLabel": [
+    {
+     "@value": "Optimised (continuously improving)",
+     "@language": "en"
+    },
+    {
+     "@value": "Geoptimaliseerd (continu verbeterend)",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Improvement loops embedded; cross-KA learning institutionalised.",
+    "@language": "en"
+   },
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/maturity-levels",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Maturity levels",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:L1"
+    },
+    {
+     "@id": "urn:aibok:L2"
+    },
+    {
+     "@id": "urn:aibok:L3"
+    },
+    {
+     "@id": "urn:aibok:L4"
+    },
+    {
+     "@id": "urn:aibok:L5"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:MVG1",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "MVG1",
+   "dct:identifier": "AIB-MVG-001",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Governance Charter",
+     "@language": "en"
+    },
+    {
+     "@value": "AI Governance Charter",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Single document naming responsible body, risk classification approach, lifecycle gates, escalation principle.",
+    "@language": "en"
+   },
+   "aibok:anchoredIn": [
+    {
+     "@id": "urn:aibok:KA1"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:MVG2",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "MVG2",
+   "dct:identifier": "AIB-MVG-002",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Inventory",
+     "@language": "en"
+    },
+    {
+     "@value": "AI-inventaris",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Register of systems in use or in pilot, with purpose and risk band.",
+    "@language": "en"
+   },
+   "aibok:anchoredIn": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:MVG3",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "MVG3",
+   "dct:identifier": "AIB-MVG-003",
+   "skos:prefLabel": [
+    {
+     "@value": "Risk classification + impact assessment",
+     "@language": "en"
+    },
+    {
+     "@value": "Risicoclassificatie + impactassessment",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Per registered system, using IAMA / EU AI Act risk bands.",
+    "@language": "en"
+   },
+   "aibok:anchoredIn": [
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA11"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:MVG4",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "MVG4",
+   "dct:identifier": "AIB-MVG-004",
+   "skos:prefLabel": [
+    {
+     "@value": "Lifecycle gates",
+     "@language": "en"
+    },
+    {
+     "@value": "Lifecycle-gates",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Go/no-go criteria; allowed? deployable? operating safely?",
+    "@language": "en"
+   },
+   "aibok:anchoredIn": [
+    {
+     "@id": "urn:aibok:KA4"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:MVG5",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "MVG5",
+   "dct:identifier": "AIB-MVG-005",
+   "skos:prefLabel": [
+    {
+     "@value": "AI literacy (Article 4 evidence)",
+     "@language": "en"
+    },
+    {
+     "@value": "AI-geletterdheid (Artikel 4-bewijs)",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Role-specific literacy; Article 4 evidence file.",
+    "@language": "en"
+   },
+   "aibok:anchoredIn": [
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:MVG6",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "MVG6",
+   "dct:identifier": "AIB-MVG-006",
+   "skos:prefLabel": [
+    {
+     "@value": "Compliance traceability",
+     "@language": "en"
+    },
+    {
+     "@value": "Compliance-traceerbaarheid",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Per-system pointer to applicable regulatory obligations using regulatory matrix.",
+    "@language": "en"
+   },
+   "aibok:anchoredIn": [
+    {
+     "@id": "urn:aibok:KA10"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:MVG7",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "MVG7",
+   "dct:identifier": "AIB-MVG-007",
+   "skos:prefLabel": [
+    {
+     "@value": "Incident pipeline",
+     "@language": "en"
+    },
+    {
+     "@value": "Incident-pipeline",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Minimal capability to detect, log and respond to AI incidents.",
+    "@language": "en"
+   },
+   "aibok:anchoredIn": [
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/mvg",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Minimum viable governance (MVG-7)",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:MVG1"
+    },
+    {
+     "@id": "urn:aibok:MVG2"
+    },
+    {
+     "@id": "urn:aibok:MVG3"
+    },
+    {
+     "@id": "urn:aibok:MVG4"
+    },
+    {
+     "@id": "urn:aibok:MVG5"
+    },
+    {
+     "@id": "urn:aibok:MVG6"
+    },
+    {
+     "@id": "urn:aibok:MVG7"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:FM01",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM01",
+   "dct:identifier": "AIB-FM-001",
+   "skos:prefLabel": [
+    {
+     "@value": "Prompt injection (direct)",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Adversary instructions in user input override system prompt.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:owaspMapping": "ASI01; LLM01:2026",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM02",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM02",
+   "dct:identifier": "AIB-FM-002",
+   "skos:prefLabel": [
+    {
+     "@value": "Indirect prompt injection (data-borne)",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Hidden instructions in retrieved content treated as instruction.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:KnowledgeSourceProvenance"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:owaspMapping": "ASI01; LLM01:2026",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM03",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM03",
+   "dct:identifier": "AIB-FM-003",
+   "skos:prefLabel": [
+    {
+     "@value": "Tool misuse",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Legitimate tool called with harmful parameters.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:owaspMapping": "ASI02; LLM03:2026, LLM10:2026",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM04",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM04",
+   "dct:identifier": "AIB-FM-004",
+   "skos:prefLabel": [
+    {
+     "@value": "Unauthorised delegation",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Sub-agent inherits or escalates privileges without mandate transfer.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:NHILifecycle"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:owaspMapping": "ASI03, ASI07",
+   "aibok:mastMapping": [
+    "MAST 1.2 Disobey role specification (yes)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM05",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM05",
+   "dct:identifier": "AIB-FM-005",
+   "skos:prefLabel": [
+    {
+     "@value": "Multi-agent coordination conflict",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Overlapping mandates produce inconsistent state.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    }
+   ],
+   "aibok:mastMapping": [
+    "MAST 2.4 Information withholding (partial)",
+    "MAST 2.5 Ignored other agent's input (partial)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM06",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM06",
+   "dct:identifier": "AIB-FM-006",
+   "skos:prefLabel": [
+    {
+     "@value": "Memory poisoning",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Adversarial content in persistent memory treated as ground truth.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:KnowledgeSourceProvenance"
+    }
+   ],
+   "aibok:owaspMapping": "ASI06; AML.T0080",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM07",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM07",
+   "dct:identifier": "AIB-FM-007",
+   "skos:prefLabel": [
+    {
+     "@value": "Context-window saturation",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Context filled with hostile content; guardrails fall out of effective attention.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:mastMapping": [
+    "MAST 1.4 Loss of conversation history (yes)",
+    "MAST 2.1 Conversation reset (partial)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM08",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM08",
+   "dct:identifier": "AIB-FM-008",
+   "skos:prefLabel": [
+    {
+     "@value": "Function-call abuse",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Malformed or malicious arguments to structured functions.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    }
+   ],
+   "aibok:owaspMapping": "ASI02, ASI05",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM09",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM09",
+   "dct:identifier": "AIB-FM-009",
+   "skos:prefLabel": [
+    {
+     "@value": "Goal drift",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Current behaviour diverges from declared goal.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:owaspMapping": "ASI01, ASI10",
+   "aibok:mastMapping": [
+    "MAST 1.1 Disobey task specification (partial)",
+    "MAST 2.3 Task derailment (yes)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM10",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM10",
+   "dct:identifier": "AIB-FM-010",
+   "skos:prefLabel": [
+    {
+     "@value": "Sycophancy",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Agent flatters user; objective accuracy degrades.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:KnowledgeSourceProvenance"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:owaspMapping": "ASI09 (partly)",
+   "aibok:mastMapping": [
+    "MAST 2.2 Fail to ask for clarification (partial)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM11",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM11",
+   "dct:identifier": "AIB-FM-011",
+   "skos:prefLabel": [
+    {
+     "@value": "Jailbreak persistence",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Jailbreak survives sessions via persistent memory.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:NHILifecycle"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:owaspMapping": "ASI06; AML.T0080",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM12",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM12",
+   "dct:identifier": "AIB-FM-012",
+   "skos:prefLabel": [
+    {
+     "@value": "NHI credential leak",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Non-human-identity credential leaked; adversary impersonates agent.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:NHILifecycle"
+    }
+   ],
+   "aibok:owaspMapping": "ASI03; AML.T0082, AML.T0083",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM13",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM13",
+   "dct:identifier": "AIB-FM-013",
+   "skos:prefLabel": [
+    {
+     "@value": "Sandbox escape",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Agent escapes tool-execution sandbox.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:owaspMapping": "ASI05, ASI10",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM14",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM14",
+   "dct:identifier": "AIB-FM-014",
+   "skos:prefLabel": [
+    {
+     "@value": "Autonomy creep",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Agent gradually acts outside mandate scope.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:owaspMapping": "ASI03, ASI10; LLM03:2026",
+   "aibok:mastMapping": [
+    "MAST 1.1 Disobey task specification (partial)",
+    "MAST 1.2 Disobey role specification (yes)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM15",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM15",
+   "dct:identifier": "AIB-FM-015",
+   "skos:prefLabel": [
+    {
+     "@value": "Capability inheritance",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Composite effect emerges from individually allowed tool sequence.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    }
+   ],
+   "aibok:owaspMapping": "ASI02",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM16",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM16",
+   "dct:identifier": "AIB-FM-016",
+   "skos:prefLabel": [
+    {
+     "@value": "Hallucinated authority",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Agent claims 'approved/checked' without consultation.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:owaspMapping": "ASI09 (partly)",
+   "aibok:mastMapping": [
+    "MAST 2.6 Reasoning-action mismatch (partial)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM17",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM17",
+   "dct:identifier": "AIB-FM-017",
+   "skos:prefLabel": [
+    {
+     "@value": "Sensor spoofing",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Fabricated sensor values accepted as ground truth.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:KnowledgeSourceProvenance"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM18",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM18",
+   "dct:identifier": "AIB-FM-018",
+   "skos:prefLabel": [
+    {
+     "@value": "Actuator hijack",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Control-plane intrusion drives actuator; cognition plane unaware.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA10"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:NHILifecycle"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM19",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM19",
+   "dct:identifier": "AIB-FM-019",
+   "skos:prefLabel": [
+    {
+     "@value": "Closed-loop drift",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Model + physical system co-drift over long horizon.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM20",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM20",
+   "dct:identifier": "AIB-FM-020",
+   "skos:prefLabel": [
+    {
+     "@value": "Sample-rate mismatch",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Model deployed at sample rate other than training rate.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM21",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM21",
+   "dct:identifier": "AIB-FM-021",
+   "skos:prefLabel": [
+    {
+     "@value": "Connectivity-induced policy bypass",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Edge agent operates on cached, no-longer-valid mandate.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA1"
+    },
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM22",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM22",
+   "dct:identifier": "AIB-FM-022",
+   "skos:prefLabel": [
+    {
+     "@value": "Hardware degradation",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Sensor/accelerator degradation silently shifts inputs.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:KnowledgeSourceProvenance"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM23",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM23",
+   "dct:identifier": "AIB-FM-023",
+   "skos:prefLabel": [
+    {
+     "@value": "Agentic supply-chain compromise",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "A tool, MCP server, skill or agent package is malicious or changes after approval (rug pull, tool poisoning).",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:NHILifecycle"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    }
+   ],
+   "aibok:owaspMapping": "ASI04; AML.T0081, AML.T0084",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM24",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM24",
+   "dct:identifier": "AIB-FM-024",
+   "skos:prefLabel": [
+    {
+     "@value": "Data exfiltration via tool or egress channel",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Non-public data leaves through a permitted outbound channel (mail, HTTP call, rendered URL, commit, ticket).",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA5"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    },
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:owaspMapping": "ASI02 (partly); AML.T0086",
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM25",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM25",
+   "dct:identifier": "AIB-FM-025",
+   "skos:prefLabel": [
+    {
+     "@value": "Cascading error propagation",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "One agent's faulty or manipulated output is accepted by the next agent without its own check and grows into action.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:owaspMapping": "ASI08",
+   "aibok:mastMapping": [
+    "MAST 3.2 No or incomplete verification (partial)",
+    "MAST 3.3 Incorrect verification (partial)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM26",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM26",
+   "dct:identifier": "AIB-FM-026",
+   "skos:prefLabel": [
+    {
+     "@value": "Oversight degradation",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Human oversight becomes nominal: rubber-stamp approvals, agents misreporting outcomes, or agents reaching the oversight or kill-switch configuration.",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA7"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    },
+    {
+     "@id": "urn:aibok:KA13"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:KnowledgeSourceProvenance"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ],
+   "aibok:owaspMapping": "ASI09",
+   "aibok:mastMapping": [
+    "MAST 2.6 Reasoning-action mismatch (partial)",
+    "MAST 3.3 Incorrect verification (partial)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:FM27",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "FM27",
+   "dct:identifier": "AIB-FM-027",
+   "skos:prefLabel": [
+    {
+     "@value": "Task completion failure",
+     "@language": "en"
+    }
+   ],
+   "skos:definition": {
+    "@value": "An agent or agent chain does not complete a task properly: repeated steps, unrecognised termination condition, premature stop, or a final check that tests the wrong thing (MAST 1.3, 1.5, 3.1, 3.2).",
+    "@language": "en"
+   },
+   "aibok:primaryKnowledgeArea": [
+    {
+     "@id": "urn:aibok:KA3"
+    },
+    {
+     "@id": "urn:aibok:KA6"
+    },
+    {
+     "@id": "urn:aibok:KA8"
+    }
+   ],
+   "aibok:boundBy": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    }
+   ],
+   "aibok:mastMapping": [
+    "MAST 1.3 Step repetition (yes)",
+    "MAST 1.5 Unaware of termination conditions (yes)",
+    "MAST 3.1 Premature termination (yes)",
+    "MAST 3.2 No or incomplete verification (partial)"
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/failure-modes",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Agentic failure modes",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:FM01"
+    },
+    {
+     "@id": "urn:aibok:FM02"
+    },
+    {
+     "@id": "urn:aibok:FM03"
+    },
+    {
+     "@id": "urn:aibok:FM04"
+    },
+    {
+     "@id": "urn:aibok:FM05"
+    },
+    {
+     "@id": "urn:aibok:FM06"
+    },
+    {
+     "@id": "urn:aibok:FM07"
+    },
+    {
+     "@id": "urn:aibok:FM08"
+    },
+    {
+     "@id": "urn:aibok:FM09"
+    },
+    {
+     "@id": "urn:aibok:FM10"
+    },
+    {
+     "@id": "urn:aibok:FM11"
+    },
+    {
+     "@id": "urn:aibok:FM12"
+    },
+    {
+     "@id": "urn:aibok:FM13"
+    },
+    {
+     "@id": "urn:aibok:FM14"
+    },
+    {
+     "@id": "urn:aibok:FM15"
+    },
+    {
+     "@id": "urn:aibok:FM16"
+    },
+    {
+     "@id": "urn:aibok:FM17"
+    },
+    {
+     "@id": "urn:aibok:FM18"
+    },
+    {
+     "@id": "urn:aibok:FM19"
+    },
+    {
+     "@id": "urn:aibok:FM20"
+    },
+    {
+     "@id": "urn:aibok:FM21"
+    },
+    {
+     "@id": "urn:aibok:FM22"
+    },
+    {
+     "@id": "urn:aibok:FM23"
+    },
+    {
+     "@id": "urn:aibok:FM24"
+    },
+    {
+     "@id": "urn:aibok:FM25"
+    },
+    {
+     "@id": "urn:aibok:FM26"
+    },
+    {
+     "@id": "urn:aibok:FM27"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:Mandate",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "Mandate",
+   "dct:identifier": "AIB-CP-001",
+   "skos:prefLabel": [
+    {
+     "@value": "Mandate",
+     "@language": "en"
+    },
+    {
+     "@value": "Mandaat",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "First-class scope-of-action specification per NHI; revocable, signed, time-bounded.",
+    "@language": "en"
+   },
+   "aibok:carriesFailureMode": [
+    {
+     "@id": "urn:aibok:FM01"
+    },
+    {
+     "@id": "urn:aibok:FM02"
+    },
+    {
+     "@id": "urn:aibok:FM04"
+    },
+    {
+     "@id": "urn:aibok:FM05"
+    },
+    {
+     "@id": "urn:aibok:FM07"
+    },
+    {
+     "@id": "urn:aibok:FM09"
+    },
+    {
+     "@id": "urn:aibok:FM14"
+    },
+    {
+     "@id": "urn:aibok:FM15"
+    },
+    {
+     "@id": "urn:aibok:FM17"
+    },
+    {
+     "@id": "urn:aibok:FM19"
+    },
+    {
+     "@id": "urn:aibok:FM20"
+    },
+    {
+     "@id": "urn:aibok:FM21"
+    },
+    {
+     "@id": "urn:aibok:FM25"
+    },
+    {
+     "@id": "urn:aibok:FM27"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:AuthorityRegister",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "AuthorityRegister",
+   "dct:identifier": "AIB-CP-002",
+   "skos:prefLabel": [
+    {
+     "@value": "Authority Register",
+     "@language": "en"
+    },
+    {
+     "@value": "Agentbevoegdheidsregister",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Single source of truth listing all NHIs, their mandates, allowed tools, mandate parents.",
+    "@language": "en"
+   },
+   "aibok:carriesFailureMode": [
+    {
+     "@id": "urn:aibok:FM01"
+    },
+    {
+     "@id": "urn:aibok:FM03"
+    },
+    {
+     "@id": "urn:aibok:FM04"
+    },
+    {
+     "@id": "urn:aibok:FM05"
+    },
+    {
+     "@id": "urn:aibok:FM08"
+    },
+    {
+     "@id": "urn:aibok:FM12"
+    },
+    {
+     "@id": "urn:aibok:FM13"
+    },
+    {
+     "@id": "urn:aibok:FM14"
+    },
+    {
+     "@id": "urn:aibok:FM15"
+    },
+    {
+     "@id": "urn:aibok:FM18"
+    },
+    {
+     "@id": "urn:aibok:FM21"
+    },
+    {
+     "@id": "urn:aibok:FM23"
+    },
+    {
+     "@id": "urn:aibok:FM24"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:NHILifecycle",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "NHILifecycle",
+   "dct:identifier": "AIB-CP-003",
+   "skos:prefLabel": [
+    {
+     "@value": "NHI Lifecycle",
+     "@language": "en"
+    },
+    {
+     "@value": "NHI-lifecycle",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Issue, rotate, attest, revoke for non-human identities.",
+    "@language": "en"
+   },
+   "aibok:carriesFailureMode": [
+    {
+     "@id": "urn:aibok:FM04"
+    },
+    {
+     "@id": "urn:aibok:FM11"
+    },
+    {
+     "@id": "urn:aibok:FM12"
+    },
+    {
+     "@id": "urn:aibok:FM18"
+    },
+    {
+     "@id": "urn:aibok:FM23"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:PolicyAsCode",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "PolicyAsCode",
+   "dct:identifier": "AIB-CP-004",
+   "skos:prefLabel": [
+    {
+     "@value": "Policy-as-code",
+     "@language": "en"
+    },
+    {
+     "@value": "Policy-as-code",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Executable policy enforcing mandates per action; OPA-style.",
+    "@language": "en"
+   },
+   "aibok:carriesFailureMode": [
+    {
+     "@id": "urn:aibok:FM01"
+    },
+    {
+     "@id": "urn:aibok:FM02"
+    },
+    {
+     "@id": "urn:aibok:FM03"
+    },
+    {
+     "@id": "urn:aibok:FM05"
+    },
+    {
+     "@id": "urn:aibok:FM06"
+    },
+    {
+     "@id": "urn:aibok:FM07"
+    },
+    {
+     "@id": "urn:aibok:FM08"
+    },
+    {
+     "@id": "urn:aibok:FM09"
+    },
+    {
+     "@id": "urn:aibok:FM13"
+    },
+    {
+     "@id": "urn:aibok:FM15"
+    },
+    {
+     "@id": "urn:aibok:FM16"
+    },
+    {
+     "@id": "urn:aibok:FM17"
+    },
+    {
+     "@id": "urn:aibok:FM18"
+    },
+    {
+     "@id": "urn:aibok:FM19"
+    },
+    {
+     "@id": "urn:aibok:FM20"
+    },
+    {
+     "@id": "urn:aibok:FM21"
+    },
+    {
+     "@id": "urn:aibok:FM22"
+    },
+    {
+     "@id": "urn:aibok:FM23"
+    },
+    {
+     "@id": "urn:aibok:FM24"
+    },
+    {
+     "@id": "urn:aibok:FM25"
+    },
+    {
+     "@id": "urn:aibok:FM27"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:Escalation",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "Escalation",
+   "dct:identifier": "AIB-CP-005",
+   "skos:prefLabel": [
+    {
+     "@value": "Escalation threshold",
+     "@language": "en"
+    },
+    {
+     "@value": "Escalatiedrempel",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Threshold-based handover from agent to human-in-the-loop.",
+    "@language": "en"
+   },
+   "aibok:carriesFailureMode": [
+    {
+     "@id": "urn:aibok:FM01"
+    },
+    {
+     "@id": "urn:aibok:FM02"
+    },
+    {
+     "@id": "urn:aibok:FM03"
+    },
+    {
+     "@id": "urn:aibok:FM04"
+    },
+    {
+     "@id": "urn:aibok:FM07"
+    },
+    {
+     "@id": "urn:aibok:FM09"
+    },
+    {
+     "@id": "urn:aibok:FM11"
+    },
+    {
+     "@id": "urn:aibok:FM13"
+    },
+    {
+     "@id": "urn:aibok:FM14"
+    },
+    {
+     "@id": "urn:aibok:FM16"
+    },
+    {
+     "@id": "urn:aibok:FM17"
+    },
+    {
+     "@id": "urn:aibok:FM18"
+    },
+    {
+     "@id": "urn:aibok:FM19"
+    },
+    {
+     "@id": "urn:aibok:FM21"
+    },
+    {
+     "@id": "urn:aibok:FM22"
+    },
+    {
+     "@id": "urn:aibok:FM24"
+    },
+    {
+     "@id": "urn:aibok:FM25"
+    },
+    {
+     "@id": "urn:aibok:FM26"
+    },
+    {
+     "@id": "urn:aibok:FM27"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KnowledgeSourceProvenance",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KnowledgeSourceProvenance",
+   "dct:identifier": "AIB-CP-006",
+   "skos:prefLabel": [
+    {
+     "@value": "Knowledge-source provenance",
+     "@language": "en"
+    },
+    {
+     "@value": "Kennisbron-provenance",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Trust grade + provenance metadata required on every Knowledge Source.",
+    "@language": "en"
+   },
+   "aibok:carriesFailureMode": [
+    {
+     "@id": "urn:aibok:FM02"
+    },
+    {
+     "@id": "urn:aibok:FM06"
+    },
+    {
+     "@id": "urn:aibok:FM10"
+    },
+    {
+     "@id": "urn:aibok:FM17"
+    },
+    {
+     "@id": "urn:aibok:FM22"
+    },
+    {
+     "@id": "urn:aibok:FM26"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:LiteracyHook",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "LiteracyHook",
+   "dct:identifier": "AIB-CP-007",
+   "skos:prefLabel": [
+    {
+     "@value": "Literacy hook (KA13 attachment point)",
+     "@language": "en"
+    },
+    {
+     "@value": "Geletterdheidshaak",
+     "@language": "nl"
+    }
+   ],
+   "skos:definition": {
+    "@value": "Explicit attachment point per role × system for KA13 evidence and drill triggers.",
+    "@language": "en"
+   },
+   "aibok:carriesFailureMode": [
+    {
+     "@id": "urn:aibok:FM01"
+    },
+    {
+     "@id": "urn:aibok:FM02"
+    },
+    {
+     "@id": "urn:aibok:FM07"
+    },
+    {
+     "@id": "urn:aibok:FM10"
+    },
+    {
+     "@id": "urn:aibok:FM11"
+    },
+    {
+     "@id": "urn:aibok:FM16"
+    },
+    {
+     "@id": "urn:aibok:FM17"
+    },
+    {
+     "@id": "urn:aibok:FM18"
+    },
+    {
+     "@id": "urn:aibok:FM19"
+    },
+    {
+     "@id": "urn:aibok:FM20"
+    },
+    {
+     "@id": "urn:aibok:FM21"
+    },
+    {
+     "@id": "urn:aibok:FM22"
+    },
+    {
+     "@id": "urn:aibok:FM26"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/cognition-plane-constructs",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Cognition-plane constructs",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:Mandate"
+    },
+    {
+     "@id": "urn:aibok:AuthorityRegister"
+    },
+    {
+     "@id": "urn:aibok:NHILifecycle"
+    },
+    {
+     "@id": "urn:aibok:PolicyAsCode"
+    },
+    {
+     "@id": "urn:aibok:Escalation"
+    },
+    {
+     "@id": "urn:aibok:KnowledgeSourceProvenance"
+    },
+    {
+     "@id": "urn:aibok:LiteracyHook"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:AISystem",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "AISystem",
+   "dct:identifier": "AIB-ME-001",
+   "skos:prefLabel": [
+    {
+     "@value": "AI System",
+     "@language": "en"
+    },
+    {
+     "@value": "AI-systeem",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA1"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R4"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:AIModel",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "AIModel",
+   "dct:identifier": "AIB-ME-002",
+   "skos:prefLabel": [
+    {
+     "@value": "AI Model",
+     "@language": "en"
+    },
+    {
+     "@value": "AI-model",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA6"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R7"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:Dataset",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "Dataset",
+   "dct:identifier": "AIB-ME-003",
+   "skos:prefLabel": [
+    {
+     "@value": "Dataset",
+     "@language": "en"
+    },
+    {
+     "@value": "Dataset",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA5"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R8"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:Prompt",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "Prompt",
+   "dct:identifier": "AIB-ME-004",
+   "skos:prefLabel": [
+    {
+     "@value": "Prompt / Instruction",
+     "@language": "en"
+    },
+    {
+     "@value": "Prompt / Instructie",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA6"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R9"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:Interaction",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "Interaction",
+   "dct:identifier": "AIB-ME-005",
+   "skos:prefLabel": [
+    {
+     "@value": "Interaction",
+     "@language": "en"
+    },
+    {
+     "@value": "Interactie",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA7"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R11"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:Decision",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "Decision",
+   "dct:identifier": "AIB-ME-006",
+   "skos:prefLabel": [
+    {
+     "@value": "Decision",
+     "@language": "en"
+    },
+    {
+     "@value": "Beslissing",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R14"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:KnowledgeSource",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "KnowledgeSource",
+   "dct:identifier": "AIB-ME-007",
+   "skos:prefLabel": [
+    {
+     "@value": "Knowledge Source",
+     "@language": "en"
+    },
+    {
+     "@value": "Kennisbron",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA12"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R8"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:Agent",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "Agent",
+   "dct:identifier": "AIB-ME-008",
+   "skos:prefLabel": [
+    {
+     "@value": "Agent",
+     "@language": "en"
+    },
+    {
+     "@value": "Agent",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA3"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R18"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:GovernanceFramework",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "GovernanceFramework",
+   "dct:identifier": "AIB-ME-009",
+   "skos:prefLabel": [
+    {
+     "@value": "Governance Framework",
+     "@language": "en"
+    },
+    {
+     "@value": "Governance-kader",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA1"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R1"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:RiskProfile",
+   "@type": "skos:Concept",
+   "skos:inScheme": {
+    "@id": "urn:aibok:scheme"
+   },
+   "skos:notation": "RiskProfile",
+   "dct:identifier": "AIB-ME-010",
+   "skos:prefLabel": [
+    {
+     "@value": "Risk Profile",
+     "@language": "en"
+    },
+    {
+     "@value": "Risicoprofiel",
+     "@language": "nl"
+    }
+   ],
+   "aibok:governedBy": [
+    {
+     "@id": "urn:aibok:KA9"
+    }
+   ],
+   "aibok:ownedBy": [
+    {
+     "@id": "urn:aibok:R6"
+    }
+   ],
+   "aibok:status": "active"
+  },
+  {
+   "@id": "urn:aibok:collection/metamodel-entities",
+   "@type": "skos:Collection",
+   "skos:prefLabel": "Metamodel entities",
+   "skos:member": [
+    {
+     "@id": "urn:aibok:AISystem"
+    },
+    {
+     "@id": "urn:aibok:AIModel"
+    },
+    {
+     "@id": "urn:aibok:Dataset"
+    },
+    {
+     "@id": "urn:aibok:Prompt"
+    },
+    {
+     "@id": "urn:aibok:Interaction"
+    },
+    {
+     "@id": "urn:aibok:Decision"
+    },
+    {
+     "@id": "urn:aibok:KnowledgeSource"
+    },
+    {
+     "@id": "urn:aibok:Agent"
+    },
+    {
+     "@id": "urn:aibok:GovernanceFramework"
+    },
+    {
+     "@id": "urn:aibok:RiskProfile"
+    }
+   ]
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "A"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA2",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA2"
+   },
+   "aibok:assignment": "A"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA3",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA3"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA5",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA5"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA8",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA8"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R1-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R1"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R2-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R2"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R2-KA2",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R2"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA2"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R2-KA3",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R2"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA3"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R2-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R2"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R2-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R2"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R3-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R3"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R3-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R3"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R3-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R3"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R3-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R3"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R3-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R3"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R4-KA2",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R4"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA2"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R4-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R4"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "A"
+  },
+  {
+   "@id": "urn:aibok:raci/R4-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R4"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R4-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R4"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R4-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R4"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R5-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R5"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R5-KA3",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R5"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA3"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R5-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R5"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R5-KA5",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R5"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA5"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R5-KA8",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R5"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA8"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R5-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R5"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R6-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R6"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R6-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R6"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R6-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R6"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R6-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R6"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R6-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R6"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R7-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R7"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R7-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R7"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R7-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R7"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R7-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R7"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R7-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R7"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R8-KA5",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R8"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA5"
+   },
+   "aibok:assignment": "A"
+  },
+  {
+   "@id": "urn:aibok:raci/R8-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R8"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R8-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R8"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R8-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R8"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R9-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R9"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R9-KA5",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R9"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA5"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R9-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R9"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R9-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R9"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R9-KA8",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R9"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA8"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R9-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R9"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R10-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R10"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R10-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R10"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R10-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R10"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R10-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R10"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R11-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R11"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R11-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R11"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R11-KA8",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R11"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA8"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R11-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R11"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R12-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R12"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R12-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R12"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R12-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R12"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R12-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R12"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R12-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R12"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R12-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R12"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA2",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA2"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA3",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA3"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA5",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA5"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA8",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA8"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R13-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R13"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R14-KA4",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R14"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA4"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R14-KA8",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R14"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA8"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R14-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R14"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R15-KA5",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R15"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA5"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R15-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R15"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R15-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R15"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R16-KA5",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R16"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA5"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R16-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R16"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R16-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R16"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R16-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R16"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R16-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R16"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R17-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R17"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R17-KA2",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R17"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA2"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R17-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R17"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R18-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R18"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R18-KA3",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R18"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA3"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R18-KA8",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R18"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA8"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R18-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R18"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R18-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R18"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R19-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R19"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R19-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R19"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R19-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R19"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "A/R"
+  },
+  {
+   "@id": "urn:aibok:raci/R19-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R19"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R19-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R19"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA2",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA2"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA3",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA3"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA10",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA10"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA11",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA11"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R20-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R20"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "A"
+  },
+  {
+   "@id": "urn:aibok:raci/R21-KA1",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R21"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA1"
+   },
+   "aibok:assignment": "I"
+  },
+  {
+   "@id": "urn:aibok:raci/R21-KA2",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R21"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA2"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R21-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R21"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R21-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R21"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R21-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R21"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R22-KA3",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R22"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA3"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R22-KA6",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R22"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA6"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R22-KA7",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R22"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA7"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R22-KA9",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R22"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA9"
+   },
+   "aibok:assignment": "C"
+  },
+  {
+   "@id": "urn:aibok:raci/R22-KA12",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R22"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA12"
+   },
+   "aibok:assignment": "R"
+  },
+  {
+   "@id": "urn:aibok:raci/R22-KA13",
+   "@type": "aibok:RaciAssignment",
+   "aibok:role": {
+    "@id": "urn:aibok:R22"
+   },
+   "aibok:knowledgeArea": {
+    "@id": "urn:aibok:KA13"
+   },
+   "aibok:assignment": "C"
+  }
+ ]
+}

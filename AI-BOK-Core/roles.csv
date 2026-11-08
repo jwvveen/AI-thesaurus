@@ -1,0 +1,23 @@
+urn,code,pack_id,name_en,name_nl,description,primary_kas,consulted_on,informed_on
+urn:aibok:R1,R1,AIB-RO-001,Chief AI Officer (CAIO),Chief AI Officer (CAIO),,KA1;KA2,KA3;KA4;KA5;KA6;KA7;KA8;KA9;KA10;KA11;KA12,KA13
+urn:aibok:R2,R2,AIB-RO-002,AI Portfolio Manager,AI Portfoliomanager,,,KA1;KA3;KA4;KA13,
+urn:aibok:R3,R3,AIB-RO-003,AI Ethics Advisor,AI Ethiek-adviseur,,KA11,KA1;KA9;KA10;KA13,
+urn:aibok:R4,R4,AIB-RO-004,AI Product Owner,AI Product Owner,,KA4;KA7,KA2;KA6;KA13,
+urn:aibok:R5,R5,AIB-RO-005,AI Architect,AI Architect,,KA3,KA1;KA4;KA5;KA8;KA13,
+urn:aibok:R6,R6,AIB-RO-006,AI Risk Manager,AI Risicomanager,,KA9,KA1;KA10;KA11;KA13,
+urn:aibok:R7,R7,AIB-RO-007,AI Governance Lead,AI Governance Lead,,,KA9;KA11;KA13,
+urn:aibok:R8,R8,AIB-RO-008,AI Knowledge Manager,AI Kennismanager,,KA5;KA12,KA6,
+urn:aibok:R9,R9,AIB-RO-009,AI Engineer,AI Engineer,,KA6,KA5;KA7;KA8,KA13
+urn:aibok:R10,R10,AIB-RO-010,AI Interaction Designer,AI Interactieontwerper,,,KA6;KA12;KA13,
+urn:aibok:R11,R11,AIB-RO-011,AI Operations Engineer,AI Operations Engineer,,KA8,KA6,KA13
+urn:aibok:R12,R12,AIB-RO-012,AI Quality Analyst,AI Kwaliteitsanalist,,,KA6;KA7;KA10;KA11,KA13
+urn:aibok:R13,R13,AIB-RO-013,AI Auditor,AI Auditor,,,KA10,KA1;KA2;KA3;KA4;KA5;KA6;KA7;KA8;KA9;KA11;KA12;KA13
+urn:aibok:R14,R14,AIB-RO-014,AI System Administrator,AI Systeembeheerder,,,KA4,KA13
+urn:aibok:R15,R15,AIB-RO-015,AI Trainer/Annotator,AI Trainer/Annotator,,,KA6;KA13,
+urn:aibok:R16,R16,AIB-RO-016,AI Domain Expert,AI Domeinexpert,,,KA5;KA6;KA7;KA12;KA13,
+urn:aibok:R17,R17,AIB-RO-017,AI Change Manager,AI Changemanager,,,KA1;KA2,
+urn:aibok:R18,R18,AIB-RO-018,AI Agent Governor,AI Agent-gouverneur,,,KA3;KA13,
+urn:aibok:R19,R19,AIB-RO-019,AI Compliance Officer,AI Compliance Officer,,KA10,KA1;KA9;KA11;KA13,
+urn:aibok:R20,R20,AIB-RO-020,AI Literacy Officer,AI Geletterdheidsfunctionaris,,KA13,KA1;KA2;KA3;KA9;KA10;KA11;KA12,
+urn:aibok:R21,R21,AIB-RO-021,AI Ambassador,AI-Ambassadeur,,,KA12,KA1
+urn:aibok:R22,R22,AIB-RO-022,AI Prompting & Agents Specialist,AI-Specialist Prompting en Agents,,,KA9;KA13,

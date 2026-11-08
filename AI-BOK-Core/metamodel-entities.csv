@@ -1,0 +1,11 @@
+urn,code,pack_id,name_en,name_nl,description,governed_by_ka,owned_by_role
+urn:aibok:AISystem,AISystem,AIB-ME-001,AI System,AI-systeem,,KA1,R4
+urn:aibok:AIModel,AIModel,AIB-ME-002,AI Model,AI-model,,KA6,R7
+urn:aibok:Dataset,Dataset,AIB-ME-003,Dataset,Dataset,,KA5,R8
+urn:aibok:Prompt,Prompt,AIB-ME-004,Prompt / Instruction,Prompt / Instructie,,KA6,R9
+urn:aibok:Interaction,Interaction,AIB-ME-005,Interaction,Interactie,,KA7,R11
+urn:aibok:Decision,Decision,AIB-ME-006,Decision,Beslissing,,KA9,R14
+urn:aibok:KnowledgeSource,KnowledgeSource,AIB-ME-007,Knowledge Source,Kennisbron,,KA12,R8
+urn:aibok:Agent,Agent,AIB-ME-008,Agent,Agent,,KA3,R18
+urn:aibok:GovernanceFramework,GovernanceFramework,AIB-ME-009,Governance Framework,Governance-kader,,KA1,R1
+urn:aibok:RiskProfile,RiskProfile,AIB-ME-010,Risk Profile,Risicoprofiel,,KA9,R6

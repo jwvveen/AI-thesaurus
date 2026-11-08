@@ -1,0 +1,28 @@
+urn,code,pack_id,name_en,name_nl,description,primary_kas,cognition_plane_binding
+urn:aibok:FM01,FM01,AIB-FM-001,Prompt injection (direct),,Adversary instructions in user input override system prompt.,KA3;KA9;KA13,Mandate;AuthorityRegister;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM02,FM02,AIB-FM-002,Indirect prompt injection (data-borne),,Hidden instructions in retrieved content treated as instruction.,KA3;KA9;KA12;KA13,Mandate;KnowledgeSourceProvenance;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM03,FM03,AIB-FM-003,Tool misuse,,Legitimate tool called with harmful parameters.,KA3;KA8;KA9,AuthorityRegister;PolicyAsCode;Escalation
+urn:aibok:FM04,FM04,AIB-FM-004,Unauthorised delegation,,Sub-agent inherits or escalates privileges without mandate transfer.,KA1;KA3;KA10,Mandate;AuthorityRegister;NHILifecycle;Escalation
+urn:aibok:FM05,FM05,AIB-FM-005,Multi-agent coordination conflict,,Overlapping mandates produce inconsistent state.,KA3;KA8,Mandate;AuthorityRegister;PolicyAsCode
+urn:aibok:FM06,FM06,AIB-FM-006,Memory poisoning,,Adversarial content in persistent memory treated as ground truth.,KA3;KA9;KA12,PolicyAsCode;KnowledgeSourceProvenance
+urn:aibok:FM07,FM07,AIB-FM-007,Context-window saturation,,Context filled with hostile content; guardrails fall out of effective attention.,KA3;KA9;KA13,Mandate;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM08,FM08,AIB-FM-008,Function-call abuse,,Malformed or malicious arguments to structured functions.,KA3;KA8;KA9,AuthorityRegister;PolicyAsCode
+urn:aibok:FM09,FM09,AIB-FM-009,Goal drift,,Current behaviour diverges from declared goal.,KA3;KA9,Mandate;PolicyAsCode;Escalation
+urn:aibok:FM10,FM10,AIB-FM-010,Sycophancy,,Agent flatters user; objective accuracy degrades.,KA7;KA12;KA13,KnowledgeSourceProvenance;LiteracyHook
+urn:aibok:FM11,FM11,AIB-FM-011,Jailbreak persistence,,Jailbreak survives sessions via persistent memory.,KA3;KA9;KA12;KA13,NHILifecycle;Escalation;LiteracyHook
+urn:aibok:FM12,FM12,AIB-FM-012,NHI credential leak,,Non-human-identity credential leaked; adversary impersonates agent.,KA3;KA9,AuthorityRegister;NHILifecycle
+urn:aibok:FM13,FM13,AIB-FM-013,Sandbox escape,,Agent escapes tool-execution sandbox.,KA3;KA9,AuthorityRegister;PolicyAsCode;Escalation
+urn:aibok:FM14,FM14,AIB-FM-014,Autonomy creep,,Agent gradually acts outside mandate scope.,KA1;KA3;KA10,Mandate;AuthorityRegister;Escalation
+urn:aibok:FM15,FM15,AIB-FM-015,Capability inheritance,,Composite effect emerges from individually allowed tool sequence.,KA3;KA9,Mandate;AuthorityRegister;PolicyAsCode
+urn:aibok:FM16,FM16,AIB-FM-016,Hallucinated authority,,Agent claims 'approved/checked' without consultation.,KA3;KA10;KA13,PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM17,FM17,AIB-FM-017,Sensor spoofing,,Fabricated sensor values accepted as ground truth.,KA3;KA5;KA9;KA13,Mandate;KnowledgeSourceProvenance;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM18,FM18,AIB-FM-018,Actuator hijack,,Control-plane intrusion drives actuator; cognition plane unaware.,KA3;KA9;KA10;KA13,AuthorityRegister;NHILifecycle;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM19,FM19,AIB-FM-019,Closed-loop drift,,Model + physical system co-drift over long horizon.,KA3;KA6;KA8;KA9,Mandate;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM20,FM20,AIB-FM-020,Sample-rate mismatch,,Model deployed at sample rate other than training rate.,KA3;KA6;KA8,Mandate;PolicyAsCode;LiteracyHook
+urn:aibok:FM21,FM21,AIB-FM-021,Connectivity-induced policy bypass,,"Edge agent operates on cached, no-longer-valid mandate.",KA1;KA3;KA9,Mandate;AuthorityRegister;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM22,FM22,AIB-FM-022,Hardware degradation,,Sensor/accelerator degradation silently shifts inputs.,KA3;KA8;KA9;KA13,KnowledgeSourceProvenance;PolicyAsCode;Escalation;LiteracyHook
+urn:aibok:FM23,FM23,AIB-FM-023,Agentic supply-chain compromise,,"A tool, MCP server, skill or agent package is malicious or changes after approval (rug pull, tool poisoning).",KA3;KA8;KA9,AuthorityRegister;NHILifecycle;PolicyAsCode
+urn:aibok:FM24,FM24,AIB-FM-024,Data exfiltration via tool or egress channel,,"Non-public data leaves through a permitted outbound channel (mail, HTTP call, rendered URL, commit, ticket).",KA3;KA5;KA9;KA12,AuthorityRegister;PolicyAsCode;Escalation
+urn:aibok:FM25,FM25,AIB-FM-025,Cascading error propagation,,One agent's faulty or manipulated output is accepted by the next agent without its own check and grows into action.,KA3;KA8;KA9,Mandate;PolicyAsCode;Escalation
+urn:aibok:FM26,FM26,AIB-FM-026,Oversight degradation,,"Human oversight becomes nominal: rubber-stamp approvals, agents misreporting outcomes, or agents reaching the oversight or kill-switch configuration.",KA7;KA8;KA13,Escalation;KnowledgeSourceProvenance;LiteracyHook
+urn:aibok:FM27,FM27,AIB-FM-027,Task completion failure,,"An agent or agent chain does not complete a task properly: repeated steps, unrecognised termination condition, premature stop, or a final check that tests the wrong thing (MAST 1.3, 1.5, 3.1, 3.2).",KA3;KA6;KA8,Mandate;PolicyAsCode;Escalation

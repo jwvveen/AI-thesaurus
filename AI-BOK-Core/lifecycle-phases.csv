@@ -1,0 +1,9 @@
+urn,code,pack_id,name_en,name_nl,description,primary_kas,primary_roles
+urn:aibok:P1,P1,AIB-PH-001,Ideation & Exploration,Ideatie & Verkenning,,KA1;KA2;KA9;KA11;KA13,R1;R2;R4
+urn:aibok:P2,P2,AIB-PH-002,Design & Architecture,Ontwerp & Architectuur,,KA3;KA5;KA7;KA11;KA13,R5;R11
+urn:aibok:P3,P3,AIB-PH-003,Data Acquisition & Preparation,Data-acquisitie & -voorbereiding,,KA5;KA12,R8;R9;R16
+urn:aibok:P4,P4,AIB-PH-004,Model Development & Training,Modelontwikkeling & Training,,KA4;KA6,R6;R7
+urn:aibok:P5,P5,AIB-PH-005,Evaluation & Validation,Evaluatie & Validatie,,KA6;KA9;KA10;KA11;KA13,R7;R10;R14;R15
+urn:aibok:P6,P6,AIB-PH-006,Deployment & Integration,Deployment & Integratie,,KA7;KA8;KA13,R12;R13
+urn:aibok:P7,P7,AIB-PH-007,Monitoring & Operation,Monitoring & Operatie,,KA8;KA9;KA12;KA13,R12;R13
+urn:aibok:P8,P8,AIB-PH-008,Evolution & Decommissioning,Evolutie & Decommissioning,,KA4;KA8;KA13,R6;R12

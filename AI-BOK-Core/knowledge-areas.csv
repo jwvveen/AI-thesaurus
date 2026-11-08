@@ -1,0 +1,14 @@
+urn,code,pack_id,name_en,name_nl,description,primary_roles,primary_phases
+urn:aibok:KA1,KA1,AIB-KA-001,AI Governance,AI Governance,"Strategic frameworks, board mandate, governance bodies, lifecycle gates, escalation principle.",R1;R2,P1;P2
+urn:aibok:KA2,KA2,AIB-KA-002,AI Strategy & Portfolio Management,AI Strategie & Portfoliomanagement,"Strategy, portfolio governance, prioritisation, business case management.",R1;R2;R4,P1
+urn:aibok:KA3,KA3,AIB-KA-003,AI Architecture,AI Architectuur,"Reference architecture, cognition-plane placement, integration patterns, ADRs.",R5,P2
+urn:aibok:KA4,KA4,AIB-KA-004,AI Lifecycle Management,AI Lifecycle Management,"Lifecycle phases, gates, go/no-go, decommissioning.",R4;R6;R7,P1;P2;P3;P4;P5;P6;P7;P8
+urn:aibok:KA5,KA5,AIB-KA-005,Data & Semantics for AI,Data & Semantiek voor AI,"Datasets, vocabularies, ontologies, conceptual frameworks, data-source provenance.",R8;R9;R16,P3
+urn:aibok:KA6,KA6,AIB-KA-006,Model Management,Modelmanagement,"Model cards, evaluation, model versioning, drift telemetry.",R6;R7;R10,P4;P5
+urn:aibok:KA7,KA7,AIB-KA-007,AI Interaction & UX,AI Interactie & Gebruikerservaring,"Human-AI interface design, UX disclosure, calibrated uncertainty surfaces.",R11,P2;P6
+urn:aibok:KA8,KA8,AIB-KA-008,AI Operations,AI Operations (AIOps/MLOps/LLMOps),"Deployment, monitoring, logging, runbooks, drift detection, incident response.",R12;R13,P6;P7;P8
+urn:aibok:KA9,KA9,AIB-KA-009,AI Risk Management & Safety,AI Risicomanagement & Veiligheid,"Risk register, IAMA, hazard analysis, FM catalogue, red-team coordination.",R14,P1;P2;P5;P7
+urn:aibok:KA10,KA10,AIB-KA-010,AI Compliance & Audit,AI Compliance & Audit,"Regulatory traceability, audit evidence, Article 4 evidence file, compliance inventory.",R15,P5;P7
+urn:aibok:KA11,KA11,AIB-KA-011,AI Ethics & Responsible AI,AI Ethiek & Verantwoord AI,"Ethical frameworks, ethics committee, value alignment, harms assessment.",R3,P1;P2;P5
+urn:aibok:KA12,KA12,AIB-KA-012,AI Knowledge & Context Management,AI Kennis- & Contextmanagement,"Knowledge-source register, RAG pipelines, context grounding, trust grade.",R8,P3;P7
+urn:aibok:KA13,KA13,AIB-KA-013,AI Literacy & Capability Development,AI-Geletterdheid & Capability Development,"Role-specific literacy, competency profiles, Article 4 evidence, drill scenarios, capability roadmap.",R20,P1;P2;P5;P6;P7;P8
